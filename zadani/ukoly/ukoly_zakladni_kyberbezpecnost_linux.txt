@@ -1,0 +1,31 @@
+# Základní úkoly pro Linuxovou kyberbezpečnost
+
+1. Změna hesla uživatele
+   - Změň své heslo pomocí příkazu `passwd`.
+
+2. Kontrola a nastavení práv souborů
+   - Zjisti, kdo má přístup k souboru `tajny.txt` a nastav, aby jej mohl číst pouze vlastník.
+
+3. Audit přihlášení uživatelů
+   - Zjisti, kdo a kdy se naposledy přihlásil do systému (`last`, `who`).
+
+4. Základní firewall
+   - Povolit pouze SSH přístup pomocí `ufw` nebo `firewalld`.
+
+5. Detekce podezřelých procesů
+   - Najdi běžící procesy, které nepatří žádnému uživateli nebo běží s root právy (`ps aux`, `top`).
+
+6. Kontrola integrity systému
+   - Zkontroluj, zda nebyly změněny důležité systémové soubory pomocí `aide` nebo `sha256sum`.
+
+7. Nastavení sudo bez možnosti přihlášení jako root
+   - Uprav `/etc/ssh/sshd_config` a zakaž přihlášení pro uživatele root.
+
+8. Základní práce s logy
+   - Najdi posledních 20 řádků v `/var/log/auth.log` a zjisti, zda někdo zkoušel neúspěšně přihlásit.
+
+9. Zjištění otevřených portů
+   - Zjisti, které porty jsou otevřené na serveru pomocí `ss -tuln` nebo `netstat -tuln`.
+
+10. Základní šifrování souboru
+    - Zašifruj a dešifruj soubor pomocí `gpg` nebo `openssl`.

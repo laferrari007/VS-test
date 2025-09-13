@@ -1,0 +1,55 @@
+# Extrémně těžké úkoly pro Linux
+
+1. Vytvoř vlastní init systém (minimalistický náhradník za systemd/sysvinit)
+   - Úkol: Navrhni a implementuj jednoduchý init démon v shellu nebo C, který po startu systému spustí zadané služby (např. webserver, databázi), bude je monitorovat, automaticky restartovat při pádu a logovat jejich výstup do souboru. Systém by měl podporovat základní správu procesů (start, stop, restart) a umožnit přidání nové služby bez úpravy kódu.
+   - Cíl: Pochopit principy boot procesu, správu procesů a základní architekturu init systémů v Linuxu.
+   - Výzva: Zajistit robustnost, správné zacházení se signály, daemonizaci a bezpečné logování.
+
+2. Napiš kernel modul, který vytvoří vlastní zařízení v /dev
+   - Úkol: Vytvoř loadovatelný kernel modul v C, který po zavedení vytvoří znakové zařízení (např. /dev/mydev). Umožni uživatelským programům číst a zapisovat data do tohoto zařízení (např. echo "ahoj" > /dev/mydev). Modul by měl správně ošetřit otevření, čtení, zápis a uzavření zařízení.
+   - Cíl: Získat zkušenost s vývojem kernel modulů, správou zařízení a komunikací mezi user a kernel space.
+   - Výzva: Správné ošetření paměti, synchronizace a bezpečnost.
+
+3. Implementuj vlastní síťový stack v userspace
+   - Úkol: Pomocí tun/tap rozhraní vytvoř userspace program, který bude přijímat a odesílat IP pakety. Přesměruj provoz z vybraného procesu přes tento stack (např. pomocí iptables/nftables a tun0). Umožni základní směrování, filtrování a logování paketů.
+   - Cíl: Pochopit principy síťových rozhraní, tunelování a směrování v Linuxu.
+   - Výzva: Efektivní zpracování paketů, výkon a bezpečnost.
+
+4. Vytvoř plně automatizovaný deployment clusteru (Kubernetes/Nomad) pouze pomocí Ansible/Terraform
+   - Úkol: Navrhni a implementuj infrastrukturu, která pomocí Ansible nebo Terraformu automaticky vytvoří a nakonfiguruje cluster (např. Kubernetes) na více serverech (virtuálních nebo fyzických). Zajisti dynamické škálování, self-healing a monitoring. Vše musí být opakovatelné a plně automatizované.
+   - Cíl: Získat zkušenost s Infrastructure as Code, automatizací a provozem distribuovaných systémů.
+   - Výzva: Správné řešení závislostí, bezpečnost, škálovatelnost a monitoring.
+
+5. Forenzní analýza běžícího systému
+   - Úkol: Na zadaném systému najdi a analyzuj přítomnost rootkitu nebo malwaru. Proveď dump paměti, obnov smazané soubory, analyzuj síťový provoz a logy. Vytvoř report s popisem postupu, nálezů a doporučeními pro zabezpečení.
+   - Cíl: Procvičit forenzní analýzu, práci s pamětí, souborovými systémy a síťovou bezpečností.
+   - Výzva: Práce s nástroji jako volatility, sleuthkit, tcpdump, auditd, analýza neznámého prostředí.
+
+6. Napiš vlastní implementaci LSM (Linux Security Module)
+   - Úkol: Vytvoř jednoduchý LSM modul, který bude omezovat vybrané systémové volání (např. zápis do /etc, spouštění binárek v /tmp) podle vlastních pravidel. Modul musí být loadovatelný a konfigurovatelný za běhu.
+   - Cíl: Pochopit bezpečnostní architekturu Linuxu, hookování syscalls a tvorbu bezpečnostních politik.
+   - Výzva: Kernel programming, bezpečnost, testování a ladění.
+
+7. Vytvoř vlastní distribuci Linuxu (Linux From Scratch)
+   - Úkol: Sestav od nuly vlastní Linux distribuci podle projektu Linux From Scratch. Přidej vlastní balíčkovací systém, init skripty a základní dokumentaci. Výsledný systém by měl být bootovatelný a použitelný v QEMU/VM.
+   - Cíl: Získat hluboké porozumění stavbě Linuxu, kompilaci jádra, knihoven a základních utilit.
+   - Výzva: Řešení závislostí, skriptování, troubleshooting a dokumentace.
+
+8. Implementuj vlastní filesystém (FUSE modul) se vzdáleným šifrovaným úložištěm
+   - Úkol: Napiš FUSE modul, který bude mountovat virtuální filesystém a ukládat data šifrovaně do vzdáleného úložiště (např. S3, WebDAV). Umožni transparentní čtení, zápis a správu souborů.
+   - Cíl: Procvičit práci s FUSE, šifrováním a API vzdálených služeb.
+   - Výzva: Výkon, bezpečnost, správné řešení chyb a synchronizace.
+
+9. Napiš daemon pro monitoring systémových volání (ptrace, eBPF)
+   - Úkol: Vytvoř démon, který bude v reálném čase sledovat a logovat vybraná systémová volání (např. otevření souboru, síťová spojení) pomocí ptrace nebo eBPF. Umožni blokování podezřelých akcí podle pravidel.
+   - Cíl: Pochopit tracing, monitoring a bezpečnostní mechanismy v Linuxu.
+   - Výzva: Efektivita, minimální overhead, správné zacházení se signály a bezpečnost.
+
+10. Live migrace běžícího procesu mezi dvěma servery (CRIU)
+   - Úkol: Pomocí CRIU (Checkpoint/Restore In Userspace) proveď migraci běžícího procesu (např. webserveru) z jednoho serveru na druhý bez přerušení služby. Zajisti zachování stavu, otevřených spojení a minimalizuj výpadek.
+   - Cíl: Procvičit pokročilou správu procesů, checkpointing a vysokou dostupnost.
+   - Výzva: Kompatibilita kernelu, síťová transparentnost, troubleshooting a automatizace.
+
+---
+
+Každý úkol vyžaduje hluboké znalosti kernelu, systémového programování, bezpečnosti a automatizace. Jsou vhodné pro diplomové práce, soutěže nebo expertní školení.

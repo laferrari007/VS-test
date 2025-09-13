@@ -1,0 +1,46 @@
+# Řešení základních úkolů pro Linuxovou kyberbezpečnost
+
+1. Změna hesla uživatele
+   - Spusť příkaz: `passwd`
+   - Zadej aktuální a nové heslo podle instrukcí.
+
+2. Kontrola a nastavení práv souborů
+   - Zjisti práva: `ls -l tajny.txt`
+   - Nastav pouze pro vlastníka: `chmod 600 tajny.txt`
+
+3. Audit přihlášení uživatelů
+   - Výpis posledních přihlášení: `last`
+   - Aktuálně přihlášení: `who`
+
+4. Základní firewall
+   - Aktivuj firewall: `sudo ufw enable`
+   - Povolit pouze SSH: `sudo ufw allow ssh` a `sudo ufw default deny incoming`
+   - Stav: `sudo ufw status`
+
+5. Detekce podezřelých procesů
+   - Výpis procesů: `ps aux | grep root`
+   - Zkontroluj procesy bez uživatele: `ps -eo user,pid,cmd | awk '$1=="?"'`
+
+6. Kontrola integrity systému
+   - Instalace aide: `sudo apt install aide`
+   - Inicializace: `sudo aideinit`
+   - Kontrola: `sudo aide --check`
+   - Alternativně: `sha256sum /bin/ls`
+
+7. Nastavení sudo bez možnosti přihlášení jako root
+   - Edituj `/etc/ssh/sshd_config` a nastav: `PermitRootLogin no`
+   - Restartuj SSH: `sudo systemctl restart sshd`
+
+8. Základní práce s logy
+   - Výpis posledních 20 řádků: `tail -n 20 /var/log/auth.log`
+   - Hledání neúspěšných pokusů: `grep "Failed password" /var/log/auth.log`
+
+9. Zjištění otevřených portů
+   - `ss -tuln` nebo `netstat -tuln`
+   - Alternativně: `sudo lsof -i -P -n`
+
+10. Základní šifrování souboru
+    - Zašifrování: `gpg -c soubor.txt`
+    - Dešifrování: `gpg soubor.txt.gpg`
+    - Alternativně: `openssl enc -aes-256-cbc -in soubor.txt -out soubor.txt.enc`
+    - Dešifrování: `openssl enc -d -aes-256-cbc -in soubor.txt.enc -out soubor.txt`

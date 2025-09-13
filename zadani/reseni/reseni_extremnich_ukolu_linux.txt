@@ -1,0 +1,105 @@
+# Extrémně těžké úkoly pro Linux
+
+1. Vytvoř vlastní init systém (minimalistický náhradník za systemd/sysvinit)
+   - Shell init démon (ukázka):
+     ```bash
+     #!/bin/bash
+     for svc in /etc/myinit.d/*; do
+       bash "$svc" &
+     done
+     wait
+     ```
+   - Každý skript v `/etc/myinit.d/` spouští službu (např. webserver).
+   - Monitorování a restart: použij `while true; do ...; done` a kontrolu procesu (`pgrep`, `kill`, `trap`).
+   - Logování: přesměruj výstup do souboru (`exec > /var/log/myinit.log 2>&1`).
+   - Robustní řešení: doporučeno v C (fork, setsid, signal handling, execve).
+   - Dokumentace: man 2 fork, man 2 execve, man 7 signal.
+
+2. Napiš kernel modul, který vytvoří vlastní zařízení v /dev
+   - Ukázkový modul (C):
+     - Vytvoř znakové zařízení pomocí `register_chrdev`.
+     - Implementuj funkce `open`, `read`, `write`, `release`.
+     - Vytvoř `/dev/mydev` pomocí `mknod` nebo `udev`.
+     - Kompilace: `make`, zavedení: `insmod mydev.ko`, odstranění: `rmmod mydev`.
+     - Test: `echo "ahoj" > /dev/mydev; cat /dev/mydev`
+   - Dokumentace: Linux Device Drivers (LDD3), man 9 register_chrdev.
+
+3. Implementuj vlastní síťový stack v userspace
+   - Vytvoř TUN/TAP rozhraní: `ip tuntap add dev tun0 mode tun`.
+   - Otevři `/dev/net/tun` v C nebo Pythonu (modul pytun, pyroute2).
+   - Přesměruj provoz: `iptables -t nat -A PREROUTING ... -j DNAT --to-destination tun0`.
+   - Zpracuj pakety: čti/zapisuj do tun0, implementuj IP stack (např. pomocí Scapy).
+   - Logování: ukládej pakety do souboru, filtruj podle pravidel.
+   - Dokumentace: man 4 tun, man iptables, https://www.kernel.org/doc/Documentation/networking/tuntap.txt
+
+4. Vytvoř plně automatizovaný deployment clusteru (Kubernetes/Nomad) pouze pomocí Ansible/Terraform
+   - Terraform: vytvoř VM v cloudu (viz předchozí řešení).
+   - Ansible playbook pro instalaci Kubernetes (kubeadm, kubelet, kubectl).
+   - Ukázka:
+     ```yaml
+     - hosts: all
+       become: yes
+       tasks:
+         - name: Instalace Dockeru
+           apt:
+             name: docker.io
+             state: present
+         - name: Instalace kubeadm, kubelet, kubectl
+           apt:
+             name: [kubeadm, kubelet, kubectl]
+             state: present
+         - name: Inicializace clusteru
+           shell: kubeadm init
+           when: inventory_hostname == groups['masters'][0]
+     ```
+   - Dynamické škálování: použij Cluster Autoscaler.
+   - Monitoring: Prometheus, Grafana.
+   - Dokumentace: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/
+
+5. Forenzní analýza běžícího systému
+   - Dump paměti: `sudo gcore PID` nebo `volatility -f memory.img ...`
+   - Obnova smazaných souborů: `extundelete`, `testdisk`, `photorec`.
+   - Analýza síťového provozu: `tcpdump -i eth0 -w dump.pcap`, analýza v `wireshark`.
+   - Analýza logů: `grep`, `less`, `auditd`, `ausearch`.
+   - Report: dokumentuj každý krok, uveď nálezy a doporučení.
+   - Dokumentace: https://www.volatilityfoundation.org/, man auditd, man tcpdump.
+
+6. Napiš vlastní implementaci LSM (Linux Security Module)
+   - Vytvoř kernel modul s hookem (např. `security_inode_permission`).
+   - Omez zápis do /etc nebo spouštění v /tmp podle pravidel.
+   - Modul musí být loadovatelný (`insmod`), konfigurovatelný (např. přes sysfs).
+   - Testování: pokus o zápis/spuštění, sleduj logy (`dmesg`).
+   - Dokumentace: https://www.kernel.org/doc/html/latest/security/lsm.html
+
+7. Vytvoř vlastní distribuci Linuxu (Linux From Scratch)
+   - Postupuj podle https://www.linuxfromscratch.org/.
+   - Stáhni a zkompiluj binutils, gcc, glibc, kernel.
+   - Vytvoř vlastní init skripty, balíčkovací systém (např. tar+skripty).
+   - Testuj v QEMU: `qemu-system-x86_64 -hda lfs.img`
+   - Dokumentace: LFS Book, BLFS Book.
+
+8. Implementuj vlastní filesystém (FUSE modul) se vzdáleným šifrovaným úložištěm
+   - Instalace FUSE: `sudo apt install libfuse-dev`
+   - Ukázkový Python FUSE skeleton: https://github.com/libfuse/python-fuse-example
+   - Šifrování: použij `cryptography` nebo `openssl` v C.
+   - Ukládání do S3: použij boto3 (Python) nebo s3fs.
+   - Mount: `./myfs.py /mnt/myfs`
+   - Dokumentace: https://libfuse.github.io/.
+
+9. Napiš daemon pro monitoring systémových volání (ptrace, eBPF)
+   - Ptrace: použij `ptrace(PTRACE_SYSCALL, ...)` v C, sleduj syscalls (`man 2 ptrace`).
+   - eBPF: napiš BPF program (např. v bcc nebo bpftrace), připoj na syscall (`kprobe:sys_open`).
+   - Logování: ukládej do souboru, blokuj podezřelé akce podle pravidel.
+   - Dokumentace: https://github.com/iovisor/bcc, https://bpftrace.org/
+
+10. Live migrace běžícího procesu mezi dvěma servery (CRIU)
+   - Instalace: `sudo apt install criu`
+   - Checkpoint: `criu dump -t <PID> -D /tmp/checkpoint --shell-job`
+   - Přenos: zkopíruj checkpoint na druhý server (`scp -r /tmp/checkpoint user@server:/tmp/`)
+   - Restore: `criu restore -D /tmp/checkpoint --shell-job`
+   - Zachování spojení: použij `--tcp-established` a nastav správné routování.
+   - Dokumentace: https://criu.org/, man criu.
+
+---
+
+Každý úkol vyžaduje hluboké znalosti kernelu, systémového programování, bezpečnosti a automatizace. Jsou vhodné pro diplomové práce, soutěže nebo expertní školení.

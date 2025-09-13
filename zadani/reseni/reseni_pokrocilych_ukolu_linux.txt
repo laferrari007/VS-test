@@ -1,0 +1,200 @@
+# Pokročilé úkoly pro Linux a DevOps
+
+1. Automatizace infrastruktury s Ansible
+   - Instalace: `sudo apt install ansible`
+   - Ukázkový playbook (webserver):
+     ```yaml
+     - hosts: web
+       become: yes
+       tasks:
+         - name: Instalace Apache
+           apt:
+             name: apache2
+             state: present
+         - name: Start služby
+           service:
+             name: apache2
+             state: started
+     ```
+   - Inventář (hosts):
+     ```ini
+     [web]
+     server1 ansible_host=192.168.1.10
+     server2 ansible_host=192.168.1.11
+     ```
+   - Spuštění: `ansible-playbook -i hosts playbook.yml`
+
+2. Správa kontejnerů s Docker Compose
+   - Instalace: `sudo apt install docker-compose`
+   - Ukázkový docker-compose.yml:
+     ```yaml
+     version: '3'
+     services:
+       web:
+         image: nginx
+         ports:
+           - "8080:80"
+         volumes:
+           - ./data:/usr/share/nginx/html
+       db:
+         image: postgres
+         environment:
+           POSTGRES_PASSWORD: example
+         volumes:
+           - dbdata:/var/lib/postgresql/data
+     volumes:
+       dbdata:
+     ```
+   - Spuštění: `docker-compose up -d`
+
+3. Orchestrace s Kubernetes
+   - Instalace Minikube: `curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 && sudo install minikube-linux-amd64 /usr/local/bin/minikube`
+   - Start: `minikube start`
+   - Deployment:
+     ```yaml
+     apiVersion: apps/v1
+     kind: Deployment
+     metadata:
+       name: web-deployment
+     spec:
+       replicas: 2
+       selector:
+         matchLabels:
+           app: web
+       template:
+         metadata:
+           labels:
+             app: web
+         spec:
+           containers:
+           - name: web
+             image: nginx
+     ```
+   - Service:
+     ```yaml
+     apiVersion: v1
+     kind: Service
+     metadata:
+       name: web-service
+     spec:
+       type: NodePort
+       selector:
+         app: web
+       ports:
+         - port: 80
+           targetPort: 80
+     ```
+   - Aplikace: `kubectl apply -f deployment.yaml && kubectl apply -f service.yaml`
+
+4. CI/CD pipeline s GitHub Actions
+   - Vytvoř `.github/workflows/ci.yml`:
+     ```yaml
+     name: CI
+     on: [push]
+     jobs:
+       build:
+         runs-on: ubuntu-latest
+         strategy:
+           matrix:
+             python-version: [3.8, 3.9]
+         steps:
+           - uses: actions/checkout@v2
+           - name: Set up Python
+             uses: actions/setup-python@v2
+             with:
+               python-version: ${{ matrix.python-version }}
+           - name: Install dependencies
+             run: pip install -r requirements.txt
+           - name: Run tests
+             run: pytest
+     ```
+   - Secrets nastavíš v repo Settings > Secrets.
+
+5. Monitoring a alerting (Prometheus, Grafana)
+   - Docker Compose:
+     ```yaml
+     version: '3'
+     services:
+       prometheus:
+         image: prom/prometheus
+         ports:
+           - "9090:9090"
+         volumes:
+           - ./prometheus.yml:/etc/prometheus/prometheus.yml
+       grafana:
+         image: grafana/grafana
+         ports:
+           - "3000:3000"
+     ```
+   - Spuštění: `docker-compose up -d`
+   - Přidání metrik: úprava `prometheus.yml`, přidání endpointů.
+   - Alert: v Grafaně nastav Alerting > New Alert.
+
+6. Bezpečnost: SELinux/AppArmor a audit
+   - SELinux: `sudo setenforce 1`, konfigurace v `/etc/selinux/config`
+   - AppArmor: `sudo aa-status`, profily v `/etc/apparmor.d/`
+   - Audit logů: `sudo ausearch -m avc -ts today`
+   - Analýza: `sudo sealert -a /var/log/audit/audit.log`
+
+7. Správa tajemství (Vault, GnuPG)
+   - Vault: `docker run -d --name vault -p 8200:8200 vault`
+   - Uložení tajemství:
+     ```bash
+     export VAULT_ADDR='http://127.0.0.1:8200'
+     vault kv put secret/heslo value=mojetajneheslo
+     vault kv get secret/heslo
+     ```
+   - GnuPG: `gpg --gen-key`, `gpg -c soubor`, `gpg -d soubor.gpg`
+
+8. Práce s API a integrace
+   - Ukázkový Python skript:
+     ```python
+     import requests
+     r = requests.get('https://api.github.com/users/octocat')
+     print(r.json())
+     ```
+   - Automatizace: použij cron nebo systemd timer pro periodické spouštění.
+
+9. Infrastructure as Code s Terraform
+   - Instalace: `sudo apt install terraform`
+   - Ukázkový main.tf:
+     ```hcl
+     provider "aws" {
+       region = "eu-central-1"
+     }
+     resource "aws_instance" "example" {
+       ami           = "ami-0c55b159cbfafe1f0"
+       instance_type = "t2.micro"
+     }
+     ```
+   - Inicializace: `terraform init`
+   - Plán: `terraform plan`
+   - Aplikace: `terraform apply`
+
+10. Pokročilá správa logů (ELK stack)
+    - Docker Compose:
+      ```yaml
+      version: '3'
+      services:
+        elasticsearch:
+          image: docker.elastic.co/elasticsearch/elasticsearch:7.17.0
+          environment:
+            - discovery.type=single-node
+          ports:
+            - "9200:9200"
+        logstash:
+          image: docker.elastic.co/logstash/logstash:7.17.0
+          ports:
+            - "5000:5000"
+          volumes:
+            - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf
+        kibana:
+          image: docker.elastic.co/kibana/kibana:7.17.0
+          ports:
+            - "5601:5601"
+      ```
+    - Spuštění: `docker-compose up -d`
+    - Logy z více serverů: posílej přes Filebeat nebo Logstash.
+    - Vizualizace: v Kibana > Discover.
+
+Každý úkol lze dále rozšířit o konkrétní scénáře, integrace a best practices.

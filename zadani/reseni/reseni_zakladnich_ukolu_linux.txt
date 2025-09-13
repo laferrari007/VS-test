@@ -1,0 +1,147 @@
+# Souhrn vysokoškolských úkolů pro Linux
+
+1. Práce s uživateli a skupinami (useradd, usermod, passwd, groups) [3 body]
+   - Vytvoření uživatele: `sudo useradd -m uzivatel`
+   - Nastavení hesla: `sudo passwd uzivatel`
+   - Přidání do skupiny: `sudo usermod -aG skupina uzivatel`
+   - Změna domovského adresáře: `sudo usermod -d /novy/domov uzivatel`
+   - Změna shellu: `sudo usermod -s /bin/bash uzivatel`
+   - Ověření členství: `groups uzivatel`
+   - Náročnost: základní, cca 30 min
+
+2. Nastavení práv a přístupů (chmod, chown, umask) [4 body]
+   - Změna práv: `chmod 755 soubor`
+   - Změna vlastníka: `sudo chown uzivatel:skupina soubor`
+   - Nastavení umask: `umask 022`
+   - Vysvětlení: Práva určují přístup pro vlastníka, skupinu a ostatní (rwx).
+   - Náročnost: mírně pokročilá, cca 40 min
+
+3. Práce se soubory a adresáři (cp, mv, rm, find, grep, tar, zip) [4 body]
+   - Kopírování: `cp zdroj cíl`
+   - Přesun: `mv zdroj cíl`
+   - Mazání: `rm soubor`
+   - Hledání souborů: `find /cesta -name "*.txt"`
+   - Vyhledání v obsahu: `grep "text" soubor`
+   - Archivace: `tar czvf archiv.tar.gz adresar/`
+   - Rozbalení: `tar xzvf archiv.tar.gz`
+   - Komprese: `zip archiv.zip soubor`
+   - Rozbalení zipu: `unzip archiv.zip`
+   - Náročnost: mírně pokročilá, cca 40 min
+
+4. Automatizace úloh (cron, at) [4 body]
+   - Editace crontabu: `crontab -e`
+   - Ukázka zápisu: `0 5 * * * /home/uzivatel/skript.sh`
+   - Jednorázový úkol: `echo 'příkaz' | at 12:00`
+   - Logy cronu: `cat /var/log/syslog | grep CRON`
+   - Náročnost: mírně pokročilá, cca 40 min
+
+5. Správa procesů (ps, top, htop, kill, nice) [3 body]
+   - Výpis procesů: `ps aux`
+   - Interaktivní sledování: `top` nebo `htop`
+   - Ukončení procesu: `kill PID`
+   - Změna priority: `nice -n 10 příkaz`
+   - Náročnost: základní, cca 30 min
+
+6. Síťová konfigurace a diagnostika (ifconfig, ip, ping, netstat, ss, traceroute) [4 body]
+   - Zobrazení rozhraní: `ip a` nebo `ifconfig`
+   - Ping: `ping adresa`
+   - Otevřené porty: `ss -tuln` nebo `netstat -tuln`
+   - Traceroute: `traceroute adresa`
+   - Náročnost: mírně pokročilá, cca 40 min
+
+7. Zálohování a obnova dat (rsync, tar, dd) [5 bodů]
+   - Záloha: `rsync -av adresar/ /cesta/zaloha/`
+   - Obnova: `rsync -av /cesta/zaloha/ adresar/`
+   - Klonování disku: `sudo dd if=/dev/sdX of=/dev/sdY bs=4M`
+   - Náročnost: pokročilá, cca 60 min
+
+8. Práce s textovými editory (vim, nano, emacs) [3 body]
+   - Otevření ve vim: `vim soubor`
+   - Otevření v nano: `nano soubor`
+   - Otevření v emacs: `emacs soubor`
+   - Nastavení vim: `:set number` (číslování řádků)
+   - Náročnost: základní, cca 30 min
+
+9. Základy shell skriptování (bash, sh) [6 bodů]
+    - Ukázkový skript:
+      ```bash
+      #!/bin/bash
+      for i in {1..5}; do
+        echo "Číslo: $i"
+      done
+      ```
+    - Spuštění: `bash skript.sh`
+    - Ošetření chyb: `set -e` na začátek skriptu
+    - Náročnost: pokročilá, cca 90 min
+
+10. Monitorování systému (df, du, free, uptime, journalctl) [3 body]
+    - Disk: `df -h`, `du -sh *`
+    - Paměť: `free -h`
+    - Uptime: `uptime`
+    - Logy: `journalctl -xe`
+    - Náročnost: základní, cca 30 min
+
+11. Správa služeb (systemctl, service) [4 body]
+    - Spuštění: `sudo systemctl start služba`
+    - Zastavení: `sudo systemctl stop služba`
+    - Restart: `sudo systemctl restart služba`
+    - Stav: `sudo systemctl status služba`
+    - Povolení po startu: `sudo systemctl enable služba`
+    - Náročnost: mírně pokročilá, cca 40 min
+
+12. Práce s logy (logrotate, tail, less, grep) [3 body]
+    - Výpis logu: `tail -f /var/log/syslog`
+    - Rotace logů: `sudo logrotate /etc/logrotate.conf --debug`
+    - Hledání v logu: `grep "chyba" /var/log/syslog`
+    - Prohlížení: `less /var/log/syslog`
+    - Náročnost: základní, cca 30 min
+
+13. Zabezpečení systému (firewall, fail2ban, sudoers) [6 bodů]
+    - Firewall: `sudo ufw enable`, `sudo ufw allow 22`
+    - Fail2ban: `sudo systemctl enable --now fail2ban`
+    - Úprava sudoers: `sudo visudo`
+    - Náročnost: pokročilá, cca 90 min
+
+14. Instalace a správa Dockeru a kontejnerů [5 bodů]
+    - Instalace: `sudo apt install docker.io`
+    - Test: `sudo docker run hello-world`
+    - Vlastní image: `docker build -t mujimage .`
+    - Seznam kontejnerů: `docker ps -a`
+    - Náročnost: pokročilá, cca 60 min
+
+15. Práce s verzovacími systémy (git) [4 body]
+    - Inicializace: `git init`
+    - Commit: `git add . && git commit -m "zpráva"`
+    - Push: `git push origin main`
+    - Větev: `git branch novavetev && git checkout novavetev`
+    - Merge: `git merge novavetev`
+    - Řešení konfliktů: při merge, úprava a `git add`, `git commit`
+    - Náročnost: mírně pokročilá, cca 40 min
+
+16. Nastavení SSH a vzdáleného přístupu [4 body]
+    - Generování klíče: `ssh-keygen -t ed25519`
+    - Kopírování klíče: `ssh-copy-id user@server`
+    - Připojení: `ssh user@server`
+    - Zabezpečení: úprava `/etc/ssh/sshd_config` (např. PermitRootLogin no)
+    - Náročnost: mírně pokročilá, cca 40 min
+
+17. Základy práce s virtualizací (KVM, VirtualBox) [5 bodů]
+    - Vytvoření VM (KVM): `virt-install ...`
+    - VirtualBox: `VBoxManage createvm ...`
+    - Snapshot: `virsh snapshot-create-as ...`
+    - Náročnost: pokročilá, cca 60 min
+
+18. Automatizace instalace (kickstart, preseed) [6 bodů]
+    - Kickstart: vytvoř soubor ks.cfg a použij při instalaci
+    - Preseed: připrav preseed.cfg a použij s instalátorem
+    - Testování ve VM
+    - Náročnost: pokročilá, cca 90 min
+
+19. Základy práce s cloudem (AWS CLI, Azure CLI) [5 bodů]
+    - Instalace AWS CLI: `pip install awscli`
+    - Konfigurace: `aws configure`
+    - Vytvoření instance: `aws ec2 run-instances ...`
+    - Porovnání: prostuduj dokumentaci Azure CLI, GCP CLI
+    - Náročnost: pokročilá, cca 60 min
+
+Tento seznam lze dále rozšířit podle konkrétních požadavků nebo zaměření studia.
