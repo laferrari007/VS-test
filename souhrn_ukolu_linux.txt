@@ -1,120 +1,114 @@
 # Souhrn vysokoškolských úkolů pro Linux
 
-1. Instalace a správa balíčků (apt, yum, dnf, snap) [3 body]
-   - Nauč se instalovat, aktualizovat a odstraňovat software pomocí různých správců balíčků.
-   - Porovnej výhody a nevýhody jednotlivých systémů.
-   - Vyzkoušej instalaci balíčku z repozitáře i ručně staženého .deb/.rpm souboru.
-   - Náročnost: základní, cca 30 min
-
-2. Práce s uživateli a skupinami (useradd, usermod, passwd, groups) [3 body]
+1. Práce s uživateli a skupinami (useradd, usermod, passwd, groups) [3 body]
    - Vytvoř nového uživatele a nastav mu heslo.
    - Přidej uživatele do skupiny a ověř jeho členství.
    - Změň vlastnosti uživatele (např. domovský adresář, shell).
    - Náročnost: základní, cca 30 min
 
-3. Nastavení práv a přístupů (chmod, chown, umask) [4 body]
+2. Nastavení práv a přístupů (chmod, chown, umask) [4 body]
    - Ověř a upravuj přístupová práva k souborům a adresářům.
    - Vysvětli rozdíl mezi právy pro uživatele, skupinu a ostatní.
    - Vyzkoušej změnu vlastníka a skupiny souboru.
    - Náročnost: mírně pokročilá, cca 40 min
 
-4. Práce se soubory a adresáři (cp, mv, rm, find, grep, tar, zip) [4 body]
+3. Práce se soubory a adresáři (cp, mv, rm, find, grep, tar, zip) [4 body]
    - Procvič kopírování, přesouvání a mazání souborů.
    - Najdi soubory podle různých kritérií (název, obsah, velikost).
    - Zabal a rozbal adresář pomocí tar a zip.
    - Náročnost: mírně pokročilá, cca 40 min
 
-5. Automatizace úloh (cron, at) [4 body]
+4. Automatizace úloh (cron, at) [4 body]
    - Naplánuj pravidelné spouštění skriptu pomocí crontabu.
    - Nastav jednorázový úkol pomocí příkazu at.
    - Ověř logy a výstupy naplánovaných úloh.
    - Náročnost: mírně pokročilá, cca 40 min
 
-6. Správa procesů (ps, top, htop, kill, nice) [3 body]
+5. Správa procesů (ps, top, htop, kill, nice) [3 body]
    - Zobraz běžící procesy a zjisti jejich vlastnosti.
    - Ukonči nebo restartuj proces podle PID.
    - Nastav prioritu procesu a sleduj její vliv.
    - Náročnost: základní, cca 30 min
 
-7. Síťová konfigurace a diagnostika (ifconfig, ip, ping, netstat, ss, traceroute) [4 body]
+6. Síťová konfigurace a diagnostika (ifconfig, ip, ping, netstat, ss, traceroute) [4 body]
    - Zobraz aktuální síťové rozhraní a jeho nastavení.
    - Otestuj konektivitu pomocí ping a traceroute.
    - Zjisti otevřené porty a aktivní spojení.
    - Náročnost: mírně pokročilá, cca 40 min
 
-8. Zálohování a obnova dat (rsync, tar, dd) [5 bodů]
+7. Zálohování a obnova dat (rsync, tar, dd) [5 bodů]
    - Vytvoř zálohu adresáře na jiné místo nebo disk.
    - Obnov data ze zálohy.
    - Vyzkoušej klonování disku pomocí dd.
    - Náročnost: pokročilá, cca 60 min
 
-9. Práce s textovými editory (vim, nano, emacs) [3 body]
+8. Práce s textovými editory (vim, nano, emacs) [3 body]
    - Otevři, uprav a ulož soubor v různých editorech.
    - Nastav základní konfiguraci editoru.
    - Porovnej výhody jednotlivých editorů.
    - Náročnost: základní, cca 30 min
 
-10. Základy shell skriptování (bash, sh) [6 bodů]
+9. Základy shell skriptování (bash, sh) [6 bodů]
     - Napiš jednoduchý shell skript s podmínkami a cykly.
     - Použij proměnné, vstup a výstup.
     - Spusť skript a ošetři chyby.
     - Náročnost: pokročilá, cca 90 min
 
-11. Monitorování systému (df, du, free, uptime, journalctl) [3 body]
+10. Monitorování systému (df, du, free, uptime, journalctl) [3 body]
     - Sleduj využití disku, paměti a dobu běhu systému.
     - Prohlédni si systémové logy.
     - Identifikuj možné problémy podle výstupů.
     - Náročnost: základní, cca 30 min
 
-12. Správa služeb (systemctl, service) [4 body]
+11. Správa služeb (systemctl, service) [4 body]
     - Spusť, zastav a restartuj službu.
     - Nastav automatické spouštění služby po startu systému.
     - Ověř stav a logy služby.
     - Náročnost: mírně pokročilá, cca 40 min
 
-13. Práce s logy (logrotate, tail, less, grep) [3 body]
+12. Práce s logy (logrotate, tail, less, grep) [3 body]
     - Prohlédni si aktuální logy systému a aplikací.
     - Nastav rotaci logů pomocí logrotate.
     - Najdi konkrétní záznamy v logu pomocí grep.
     - Náročnost: základní, cca 30 min
 
-14. Zabezpečení systému (firewall, fail2ban, sudoers) [6 bodů]
+13. Zabezpečení systému (firewall, fail2ban, sudoers) [6 bodů]
     - Nastav základní firewall (ufw, firewalld).
     - Omez přístup k systému pomocí fail2ban.
     - Uprav práva v souboru sudoers.
     - Náročnost: pokročilá, cca 90 min
 
-15. Instalace a správa Dockeru a kontejnerů [5 bodů]
+14. Instalace a správa Dockeru a kontejnerů [5 bodů]
     - Nainstaluj Docker a spusť testovací kontejner.
     - Vytvoř vlastní Dockerfile a postav image.
     - Spravuj běžící kontejnery a sítě.
     - Náročnost: pokročilá, cca 60 min
 
-16. Práce s verzovacími systémy (git) [4 body]
+15. Práce s verzovacími systémy (git) [4 body]
     - Inicializuj repozitář, proveď commit a push.
     - Vytvoř větev a proveď merge.
     - Řeš konflikty a sleduj historii změn.
     - Náročnost: mírně pokročilá, cca 40 min
 
-17. Nastavení SSH a vzdáleného přístupu [4 body]
+16. Nastavení SSH a vzdáleného přístupu [4 body]
     - Vygeneruj SSH klíč a nastav přístup na server.
     - Připoj se na vzdálený server pomocí SSH.
     - Nastav bezpečnostní opatření pro SSH.
     - Náročnost: mírně pokročilá, cca 40 min
 
-18. Základy práce s virtualizací (KVM, VirtualBox) [5 bodů]
+17. Základy práce s virtualizací (KVM, VirtualBox) [5 bodů]
     - Vytvoř a nakonfiguruj virtuální stroj.
     - Nainstaluj operační systém do VM.
     - Spravuj snapshoty a síťová rozhraní VM.
     - Náročnost: pokročilá, cca 60 min
 
-19. Automatizace instalace (kickstart, preseed) [6 bodů]
+18. Automatizace instalace (kickstart, preseed) [6 bodů]
     - Připrav automatizační soubor pro instalaci systému.
     - Otestuj bezobslužnou instalaci ve VM.
     - Uprav skripty podle požadavků.
     - Náročnost: pokročilá, cca 90 min
 
-20. Základy práce s cloudem (AWS CLI, Azure CLI) [5 bodů]
+19. Základy práce s cloudem (AWS CLI, Azure CLI) [5 bodů]
     - Nainstaluj a nakonfiguruj CLI nástroje pro cloud.
     - Vytvoř a spravuj cloudové zdroje z příkazové řádky.
     - Porovnej možnosti různých cloudových platforem.
