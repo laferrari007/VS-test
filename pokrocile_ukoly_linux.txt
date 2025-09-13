@@ -1,0 +1,43 @@
+# Pokročilé úkoly pro Linux a DevOps
+
+1. Automatizace infrastruktury s Ansible
+   - Napiš playbook, který nainstaluje a nakonfiguruje webserver na více serverech.
+   - Propoj s inventářem a proměnnými.
+
+2. Správa kontejnerů s Docker Compose
+   - Vytvoř docker-compose.yml pro více služeb (např. web + databáze).
+   - Nastav persistentní data a síťování.
+
+3. Orchestrace s Kubernetes
+   - Nasaď jednoduchou aplikaci do Minikube nebo na cloudový cluster.
+   - Vytvoř deployment, service a configmap.
+
+4. CI/CD pipeline s GitHub Actions
+   - Nastav workflow pro automatické testování a nasazení aplikace.
+   - Použij secrets a matrix build.
+
+5. Monitoring a alerting (Prometheus, Grafana)
+   - Nainstaluj Prometheus a Grafanu pomocí Dockeru.
+   - Přidej vlastní metriky a nastav alert.
+
+6. Bezpečnost: SELinux/AppArmor a audit
+   - Aktivuj a nakonfiguruj SELinux nebo AppArmor pro konkrétní službu.
+   - Proveď audit logů a analyzuj incident.
+
+7. Správa tajemství (Vault, GnuPG)
+   - Ulož a načti tajný klíč pomocí HashiCorp Vault nebo GnuPG.
+   - Nastav přístupová práva a rotaci klíčů.
+
+8. Práce s API a integrace
+   - Napiš skript, který získá data z REST API (např. GitHub, AWS) a uloží je do databáze.
+   - Automatizuj periodické volání API.
+
+9. Infrastructure as Code s Terraform
+   - Vytvoř Terraform konfiguraci pro nasazení VM v cloudu (AWS, Azure, GCP).
+   - Propoj s modulem a proměnnými.
+
+10. Pokročilá správa logů (ELK stack)
+    - Nainstaluj a nakonfiguruj Elasticsearch, Logstash a Kibanu.
+    - Zpracuj a vizualizuj logy z více serverů.
+
+Každý úkol lze dále rozšířit o konkrétní scénáře, integrace a best practices.

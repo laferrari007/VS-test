@@ -1,0 +1,118 @@
+# Řešení vysokoškolských úkolů pro Linux
+
+1. Instalace a správa balíčků
+- Instalace balíčku: `sudo apt install <balíček>`
+- Odinstalace: `sudo apt remove <balíček>`
+- Aktualizace systému: `sudo apt update && sudo apt upgrade`
+- Instalace .deb: `sudo dpkg -i balicek.deb`
+
+2. Práce s uživateli a skupinami
+- Vytvoření uživatele: `sudo useradd -m uzivatel`
+- Nastavení hesla: `sudo passwd uzivatel`
+- Přidání do skupiny: `sudo usermod -aG skupina uzivatel`
+
+3. Nastavení práv a přístupů
+- Změna práv: `chmod 755 soubor`
+- Změna vlastníka: `sudo chown uzivatel:skupina soubor`
+- Nastavení umask: `umask 022`
+
+4. Práce se soubory a adresáři
+- Kopírování: `cp zdroj cíl`
+- Přesun: `mv zdroj cíl`
+- Mazání: `rm soubor`
+- Hledání: `find /cesta -name "*.txt"`
+- Vyhledání v obsahu: `grep "text" soubor`
+- Archivace: `tar czvf archiv.tar.gz adresar/`
+- Rozbalení: `tar xzvf archiv.tar.gz`
+
+5. Automatizace úloh
+- Editace crontabu: `crontab -e`
+- Jednorázový úkol: `echo 'příkaz' | at 12:00`
+
+6. Správa procesů
+- Výpis procesů: `ps aux`
+- Interaktivní sledování: `top` nebo `htop`
+- Ukončení procesu: `kill PID`
+- Změna priority: `nice -n 10 příkaz`
+
+7. Síťová konfigurace a diagnostika
+- Zobrazení rozhraní: `ip a` nebo `ifconfig`
+- Ping: `ping adresa`
+- Otevřené porty: `ss -tuln` nebo `netstat -tuln`
+- Traceroute: `traceroute adresa`
+
+8. Zálohování a obnova dat
+- Záloha: `rsync -av adresar/ /cesta/zaloha/`
+- Obnova: `rsync -av /cesta/zaloha/ adresar/`
+- Klonování disku: `sudo dd if=/dev/sdX of=/dev/sdY bs=4M`
+
+9. Práce s textovými editory
+- Otevření ve vim: `vim soubor`
+- Otevření v nano: `nano soubor`
+- Otevření v emacs: `emacs soubor`
+
+10. Základy shell skriptování
+- Ukázkový skript:
+```bash
+#!/bin/bash
+for i in {1..5}; do
+  echo "Číslo: $i"
+done
+```
+- Spuštění: `bash skript.sh`
+
+11. Monitorování systému
+- Disk: `df -h`, `du -sh *`
+- Paměť: `free -h`
+- Uptime: `uptime`
+- Logy: `journalctl -xe`
+
+12. Správa služeb
+- Spuštění: `sudo systemctl start služba`
+- Zastavení: `sudo systemctl stop služba`
+- Restart: `sudo systemctl restart služba`
+- Stav: `sudo systemctl status služba`
+
+13. Práce s logy
+- Výpis logu: `tail -f /var/log/syslog`
+- Rotace logů: `sudo logrotate /etc/logrotate.conf --debug`
+- Hledání v logu: `grep "chyba" /var/log/syslog`
+
+14. Zabezpečení systému
+- Firewall: `sudo ufw enable`, `sudo ufw allow 22`
+- Fail2ban: `sudo systemctl enable --now fail2ban`
+- Úprava sudoers: `sudo visudo`
+
+15. Docker a kontejnery
+- Instalace: `sudo apt install docker.io`
+- Test: `sudo docker run hello-world`
+- Vlastní image: `docker build -t mujimage .`
+- Seznam kontejnerů: `docker ps -a`
+
+16. Git
+- Inicializace: `git init`
+- Commit: `git add . && git commit -m "zpráva"`
+- Push: `git push origin main`
+- Větev: `git branch novavetev && git checkout novavetev`
+- Merge: `git merge novavetev`
+
+17. SSH a vzdálený přístup
+- Generování klíče: `ssh-keygen -t ed25519`
+- Kopírování klíče: `ssh-copy-id user@server`
+- Připojení: `ssh user@server`
+
+18. Virtualizace
+- Vytvoření VM (KVM): `virt-install ...`
+- VirtualBox: `VBoxManage createvm ...`
+- Snapshot: `virsh snapshot-create-as ...`
+
+19. Automatizace instalace
+- Kickstart: vytvoř soubor ks.cfg a použij při instalaci
+- Preseed: připrav preseed.cfg a použij s instalátorem
+
+20. Cloud CLI
+- Instalace AWS CLI: `pip install awscli`
+- Konfigurace: `aws configure`
+- Vytvoření instance: `aws ec2 run-instances ...`
+
+Tento soubor obsahuje stručná řešení a příklady příkazů ke všem úkolům.
