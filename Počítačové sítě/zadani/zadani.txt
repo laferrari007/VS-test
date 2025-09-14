@@ -1,0 +1,22 @@
+# AI Generované zadání úkolů pro předmět: Počítačové sítě
+# Vytvořeno pomocí Groq API
+
+Úkol 1: Proveďte analýzu směrovací tabulky (Routing Table) protokolu OSPF (Open Shortest Path First) a vysvětlete, jak se používá k určení nejlepší cesty mezi dvěma uzly v síti.
+
+Úkol 2: Popište principy a mechanismy provozu protokolu DHCP (Dynamic Host Configuration Protocol) a vysvětlete, jak klienti získávají IP adresy a další konfigurační informace od serverů DHCP.
+
+Úkol 3: Nastavte a konfigurujte virtuální síť (Virtual Private Network, VPN) pomocí protokolu OpenVPN a vysvětlete, jak zajistíte šifrování a autentizace pro uživatele.
+
+Úkol 4: Proveďte analýzu a optimizaci konfigurace routeru (Cisco 3850) pro zvýšení výkonu a zlepšení stability přenosu dat v síti.
+
+Úkol 5: Popište rozdíl mezi statickou a dynamickou směrovací tabulkou (Routing Table) v síti a vysvětlete, jak se používají v praxi.
+
+Úkol 6: Nastavte a konfigurujte síťové prvky (switch, router, firewall) pro zajištění bezpečnosti a ochrany před útoky typu DoS (Denial of Service) a DDoS (Distributed Denial of Service).
+
+Úkol 7: Proveďte návrh a implementaci optimalizace přenosu dat v síti pomocí technologie Quality of Service (QoS).
+
+Úkol 8: Popište proces konfigurace a správy síťového prvku (Cisco ASA) pro zajištění bezpečnosti a ochrany před útoky malware a ransomware.
+
+Úkol 9: Proveďte analýzu a identifikaci problémů v síti (síť WAN) pomocí nástroje Wireshark a vysvětlete, jak se používají k identifikaci a odstraňování potíží.
+
+Úkol 10: Nastavte a konfigurujte síťový prvek (Cisco Nexus) pro zajištění vysoké dostupnosti a spolehlivosti přenosu dat v síti a vysvětlete, jak se používají v praxi.
