@@ -1,0 +1,86 @@
+# AI Generované řešení úkolů pro předmět: Přírodověda
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:47:28
+
+Řešení 1: Vyřešení problému s rozdílem mezi látkami a kapalinami
+
+Problém: Rovnováha mezi látkou a kapalinou v uzavřené nádobě se zahřátí na teplotu 25°C. Předtím bylo v nádobě 50 gramů vody (vazkost 1 g/cm³) a 20 gramů sádry (vazkost 1,6 g/cm³).
+
+Krok 1: Vypočtěte objem vody (Vw) a sádry (Vs) pomocí vzorce V = m / ρ, kde ρ je hustota látky.
+
+Vw = m / ρ = 50 g / 1 g/cm³ = 50 cm³
+Vs = m / ρ = 20 g / 1,6 g/cm³ = 12,5 cm³
+
+Krok 2: Zjistěte současný objem látky (Vs) a kapaliny (Vw) v nádobě.
+
+Vs + Vw = 12,5 cm³ + 50 cm³ = 62,5 cm³
+
+Krok 3: Ujistěte se, že se rovnováha mezi látkou a kapalinou udrží, i když se teplota nádobě změní.
+
+Krok 4: Pokud se teplota nádobě změní, bude se objem vody změnit podle vzorce ΔV = β \* V \* ΔT, kde β je koeficient tepelné roztažnosti, V je objem kapaliny a ΔT je změna teploty.
+
+Řešení 2: Vypočtení tlaku plynového trychtýře
+
+Problém: Plynový trychtýř má délku 5 metrů a vnitřní průměr 0,05 metrů. Vnitřní tlak je 1,5 bar a teplota je 20°C.
+
+Krok 1: Vypočtěte vnitřní objem plynového trychtýře (V) pomocí vzorce V = π \* r² \* h, kde r je poloměr a h je délka.
+
+V = π \* (0,025 m)² \* 5 m = 0,0196 m³
+
+Krok 2: Zjistěte vnitřní objem plynového trychtýře v metrech krychlových.
+
+Krok 3: Použijte ideální plynový zákon (PV = nRT) k vypočítání vnitřního tlaku (P) ve výšce 5 metrů.
+
+Krok 4: Použijte ideální plynový zákon k vypočítání tlaku (P) ve výšce 5 metrů.
+
+Řešení 3: Vypočtení roztoku
+
+Problém: Máme 100 gramů rozpuštěného cukru (C6H12O6) a 100 gramů vody (H2O) v roztoku.
+
+Krok 1: Vypočtěte koncentraci rozpuštěného cukru (C6H12O6) v roztoku.
+
+Krok 2: Použijte Raoultův zákon (P = x \* P°) k vypočítání tlaku páry nad roztokem.
+
+Krok 3: Použijte ideální plynový zákon (PV = nRT) k vypočítání četnosti molekul (n) v roztoku.
+
+Řešení 4: Vypočtení tepelné kapacity
+
+Problém: Máme 500 gramů oceli a 500 gramů vodíku. Tepelná kapacita oceli je 0,5 J/g°C a tepelná kapacita vodíku je 4,2 J/g°C.
+
+Krok 1: Vypočtěte tepelnou kapacitu oceli (C) a vodíku (Cv) v J/°C.
+
+C = m \* c = 500 g \* 0,5 J/g°C = 250 J/°C
+Cv = m \* c = 500 g \* 4,2 J/g°C = 2100 J/°C
+
+Krok 2: Použijte zákon o tepelném toku (Q = C \* ΔT) k vypočítání tepelného toku (Q) při změně teploty ΔT.
+
+Krok 3: Použijte zákon o tepelném toku k vypočítání tepelného toku (Q) při změně teploty ΔT.
+
+Řešení 5: Vypočtení elektrického odporu
+
+Problém: Máme 5 ohmů rezistoru. Chceme změřit elektrický odpor (R) součtu rezistorů.
+
+Krok 1: Použijte zákon o součtu rezistorů (R = R1 + R2 + ... + Rn) k vypočítání elektrického odporu (R).
+
+R = 5 Ω + 5 Ω + 5 Ω + 5 Ω + 5 Ω = 25 Ω
+
+Krok 2: Použijte zákon o součtu rezistorů k vypočítání elektrického odporu (R).
+
+Řešení 6: Vypočtení energie kinetické
+
+Problém: Máme 100 gramů oceli s rychlostí 10 m/s. Chceme změřit kinetickou energii (E) oceli.
+
+Krok 1: Vypočtěte kinetickou energii (E) oceli pomocí vzorce E = ½ \* m \* v², kde m je hmotnost a v je rychlost.
+
+E = ½ \* 100 g \* (10 m/s)² = 5000 J
+
+Krok 2: Použijte zákon o kinetické energii k vypočítání kinetické energie (E).
+
+Řešení 7: Vypočtení rovnováhy mezi látkou a kapalinou
+
+Problém: Máme 50 gramů vody (vazkost 1 g/cm³) a 20 gramů sádry (vazkost 1,6 g/cm³) v uzavřené nádobě. Předtím bylo v nádobě 50 gramů vody a 20 gramů sádry.
+
+Krok 1: Vypočtěte objem vody (Vw) a sádry (Vs) pomocí vzorce V = m / ρ, kde ρ je hustota látky.
+
+Vw = m / ρ = 50 g / 1 g/cm³ = 50 cm³
+Vs = m / ρ = 20

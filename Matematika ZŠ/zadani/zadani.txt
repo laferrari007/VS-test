@@ -1,0 +1,25 @@
+# AI Generované zadání úkolů pro předmět: Matematika ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:47:09
+
+Zde jsou 10 univerzitních úkolů pro předmět "Matematika ZŠ":
+
+Úkol 1: Vypočtěte délku úsečky, jejíž délka je o 5 cm kratší než délka úsečky dlouhé 15 cm.
+
+Úkol 2: Pokud máte 12 koulí o průměru 10 cm, jak velký je jejich celkový povrch?
+
+Úkol 3: Pokud máte 5 souběžných prutů o délce 2 m, jak velký je jejich celkový obvod?
+
+Úkol 4: Vypočtěte obsah trojúhelníku s základnou 6 cm a výškou 8 cm.
+
+Úkol 5: Pokud máte 18 čtverečků o straně 4 cm, jak velký je jejich celkový obsah?
+
+Úkol 6: Vypočtěte délku strany čtverce o rozměru 9 cm.
+
+Úkol 7: Pokud máte 6 čtverců o straně 5 cm, jak velký je jejich celkový obvod?
+
+Úkol 8: Vypočtěte délku úsečky, jejíž délka je o 2x více než délka úsečky dlouhé 18 cm.
+
+Úkol 9: Pokud máte 12 kol o průměru 8 cm, jak velký je jejich celkový objem?
+
+Úkol 10: Vypočtěte obsah hranolu o rozměru 8 cm a výšce 12 cm.

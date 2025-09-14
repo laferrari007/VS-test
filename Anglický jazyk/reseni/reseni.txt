@@ -1,0 +1,79 @@
+# AI Generované řešení úkolů pro předmět: Anglický jazyk
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:47:22
+
+Řešení 1: Analýza textu „The Great Gatsby“
+
+Úkol: Vyberte text „The Great Gatsby“ od F. Scotta Fitzgeralda a rozeberte jeho strukturu. Zobrazte tři hlavní prvky textu a vysvětlete, jak přispívají k celkovému významu díla.
+
+Krok 1: Vyberte text „The Great Gatsby“ a rozdělte jej na tři hlavní části: úvod, hlavní děj a závěr.
+
+Krok 2: Analyzujte úvodní kapitolu „The Great Gatsby“. Popište jeho atmosféru a hlavní témata, která jsou zde vystavena.
+
+Krok 3: Vyberte hlavní postavu Gatsbyma a rozeberte jeho charakter. Popište jeho vztahy s ostatními postavami a vysvětlete, jak se to odráží v celkovém ději.
+
+Krok 4: Vyberte tři klíčové motivy z textu: snaha po snaze, iluze a realita. Popište, jak se tyto motivy objevují v různých částech textu a vysvětlete, jak se odráží v celkovém významu díla.
+
+Krok 5: Závěrem shrňte své závěry a diskutujte o tom, jak struktura textu přispívá k celkovému významu díla.
+
+Řešení 2: Překlady slov
+
+Úkol: Vyberte pět slov z anglického jazyka a přeložte je do češtiny. Zobrazte jejich původní význam a vysvětlete, jak se překladatelé snažili zachovat jejich význam v překladu.
+
+Krok 1: Vyberte pět slov: love, dream, hope, fear a joy.
+
+Krok 2: Popište původní význam slov a jejich významové rozložení.
+
+Krok 3: Přeložte slova do češtiny a vysvětlete, jak se překladatelé snažili zachovat jejich význam v překladu.
+
+Krok 4: Diskutujte o problémech překladu a vysvětlete, jak se překladatelé snažili zachovat význam slov v překladu.
+
+Krok 5: Závěrem shrňte své závěry a diskutujte o tom, jak je překlad slovní zásobě důležité pro rozvoj jazyka.
+
+Řešení 3: Stylizace textu
+
+Úkol: Vyberte text „The Great Gatsby“ od F. Scotta Fitzgeralda a rozeberte jeho stylizaci. Zobrazte tři hlavní prvky stylizace a vysvětlete, jak přispívají k celkovému významu díla.
+
+Krok 1: Vyberte text „The Great Gatsby“ a rozdělte jej na tři hlavní části: úvod, hlavní děj a závěr.
+
+Krok 2: Analyzujte úvodní kapitolu „The Great Gatsby“. Popište jeho stylizaci a hlavní prvky, které jsou zde vystaveny.
+
+Krok 3: Vyberte tři klíčové prvky stylizace: metafora, personifikace a ironie. Popište, jak se tyto prvky objevují v různých částech textu a vysvětlete, jak se odráží v celkovém významu díla.
+
+Krok 4: Diskutujte o tom, jak stylizace textu ovlivňuje čtenáře a vysvětlete, jak se stylizace odráží v celkovém významu díla.
+
+Krok 5: Závěrem shrňte své závěry a diskutujte o tom, jak stylizace textu přispívá k celkovému významu díla.
+
+Řešení 4: Analýza figurálního jazyka
+
+Úkol: Vyberte text „The Great Gatsby“ od F. Scotta Fitzgeralda a rozeberte jeho figurální jazyk. Zobrazte tři hlavní prvky figurálního jazyka a vysvětlete, jak přispívají k celkovému významu díla.
+
+Krok 1: Vyberte text „The Great Gatsby“ a rozdělte jej na tři hlavní části: úvod, hlavní děj a závěr.
+
+Krok 2: Analyzujte úvodní kapitolu „The Great Gatsby“. Popište jeho figurální jazyk a hlavní prvky, které jsou zde vystaveny.
+
+Krok 3: Vyberte tři klíčové prvky figurálního jazyka: metafora, personifikace a ironie. Popište, jak se tyto prvky objevují v různých částech textu a vysvětlete, jak se odráží v celkovém významu díla.
+
+Krok 4: Diskutujte o tom, jak figurální jazyk ovlivňuje čtenáře a vysvětlete, jak se figurální jazyk odráží v celkovém významu díla.
+
+Krok 5: Závěrem shrňte své závěry a diskutujte o tom, jak figurální jazyk přispívá k celkovému významu díla.
+
+Řešení 5: Analýza tematické struktury
+
+Úkol: Vyberte text „The Great Gatsby“ od F. Scotta Fitzgeralda a rozeberte jeho tematickou strukturu. Zobrazte tři hlavní prvky tematické struktury a vysvětlete, jak přispívají k celkovému významu díla.
+
+Krok 1: Vyberte text „The Great Gatsby“ a rozdělte jej na tři hlavní části: úvod, hlavní děj a závěr.
+
+Krok 2: Analyzujte úvodní kapitolu „The Great Gatsby“. Popište jeho tematickou strukturu a hlavní prvky, které jsou zde vystaveny.
+
+Krok 3: Vyberte tři klíčové prvky tematické struktury: snaha po snaze, iluze a realita. Popište, jak se tyto prvky objevují v různých částech textu a vysvětlete, jak se odráží v celkovém významu díla.
+
+Krok 4: Diskutujte o tom, jak tematická struktura ovlivňuje čtenáře a vysvětlete, jak se tematická struktura odráží v celkovém významu díla.
+
+Krok 5: Závěrem shrňte své závěry a diskutujte o tom, jak tematická struktura přispívá k celkovému významu díla.
+
+Řešení 6: Překlady básní
+
+Úkol: Vyberte pět básní z anglického jazyka a přeložte je do češtiny. Zobrazte jejich původní význam a vysvětlete, jak se překladatelé snažili zachovat jejich význam v překladu.
+
+Krok 1: Vyberte pět básní: „The Road Not Taken“ od Robert

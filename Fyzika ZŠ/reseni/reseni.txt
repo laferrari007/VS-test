@@ -1,0 +1,67 @@
+# AI Generované řešení úkolů pro předmět: Fyzika ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:48:37
+
+Řešení 1: Fyzika ZŠ - Tlak a tlak vzduchu
+
+Úkol: Jaký tlak vzduchu vyvine 10 kg váhy na rovnou plochu o rozloze 0,1 m²?
+
+Krok 1: První, co potřebujeme udělat, je zjistit, jaký je poměr váhy k ploše. Použijeme vzorec: tlak = váha / plocha.
+
+Krok 2: Předpokládejme, že váha je rovnoměrně rozložena na celou plochu. Protože máme váhu 10 kg a plochu 0,1 m², můžeme tyto hodnoty použít.
+
+Krok 3: Použijeme známou hodnotu tíhové konstanty (g = 9,81 m/s²) a výpočet vypadá takto: tlak = 10 kg / 0,1 m² = 100 N/m².
+
+Řešení 2: Fyzika ZŠ - Mechanika pevných těles
+
+Úkol: Pokud je váleček s hmotností 20 kg a průměrem 0,1 m, jakou sílu musí vyvinout, aby se pohyboval po rovném povrchu s rychlostí 2 m/s?
+
+Krok 1: Použijeme princip energie, konkrétně kinetickou energii. Vzorec vypadá takto: energie = 0,5 * hmotnost * rychlost².
+
+Krok 2: Předpokládejme, že váleček je v klidu zpočátku a poté se pohybuje s konstantní rychlostí. Použijeme tedy vzorec s 0 jako zpočáteční rychlost.
+
+Krok 3: Použijeme známou hodnotu tíhové konstanty (g = 9,81 m/s²) a výpočet vypadá takto: energie = 0,5 * 20 kg * 2 m/s² = 20 J.
+
+Krok 4: Prostorová síla, kterou váleček vyvíjí, je roven kinetické energii. Protože energie = 20 J, můžeme konstatovat, že síla je 20 N.
+
+Řešení 3: Fyzika ZŠ - Průchod světla skrze sklo
+
+Úkol: Jaká je průchodnost světla skrze sklo o tloušťce 0,1 m? Předpokládejme, že sklo má index lomu 1,5 a světlo se pohybuje vzduchem o indexu lomu 1.
+
+Krok 1: Použijeme Snellův zákon pro úhly příchozí a odchozí světla. Vzorec vypadá takto: n1 * sin(α) = n2 * sin(β), kde n1 a n2 jsou indexy lomu pro vzduch a sklo a α a β jsou úhly příchozí a odchozí světla.
+
+Krok 2: Předpokládejme, že světlo vstupuje do skla pod úhlem 45°. Použijeme známé hodnoty indexů lomu a výpočet vypadá takto: 1 * sin(45°) = 1,5 * sin(β).
+
+Krok 3: Protože sin(45°) = 0,707, můžeme pomocí Snellova zákona vyřešit úhel odchozího světla: sin(β) = 0,707 / 1,5 = 0,471.
+
+Krok 4: Protože sklo má tloušťku 0,1 m, můžeme použít Fresnelův integrál pro výpočet koeficientu absorpce světla. Po výpočtu lze konstatovat, že průchodnost světla skrze sklo je přibližně 92%.
+
+Řešení 4: Fyzika ZŠ - Mechanika tekutin
+
+Úkol: Pokud je nádoba s vodou o objemu 0,1 m³ umístěna na rovném povrchu, jakou sílu vyvine, aby se nádoba pohybovala s rychlostí 1 m/s?
+
+Krok 1: Použijeme princip energie, konkrétně kinetickou energii. Vzorec vypadá takto: energie = 0,5 * hmotnost * rychlost².
+
+Krok 2: Předpokládejme, že nádoba je v klidu zpočátku a poté se pohybuje s konstantní rychlostí. Použijeme tedy vzorec s 0 jako zpočáteční rychlost.
+
+Krok 3: Použijeme známou hodnotu tíhové konstanty (g = 9,81 m/s²) a výpočet hmotnosti nádoby vypadá takto: hmotnost = objem * hustota. Předpokládejme, že hustota vody je 1000 kg/m³.
+
+Krok 4: Použijeme známou hodnotu tíhové konstanty (g = 9,81 m/s²) a výpočet hmotnosti nádoby vypadá takto: hmotnost = 0,1 m³ * 1000 kg/m³ = 100 kg.
+
+Krok 5: Použijeme známou hodnotu tíhové konstanty (g = 9,81 m/s²) a výpočet energie vypadá takto: energie = 0,5 * 100 kg * 1 m/s² = 50 J.
+
+Krok 6: Prostorová síla, kterou nádoba vyvíjí, je roven kinetické energii. Protože energie = 50 J, můžeme konstatovat, že síla je 50 N.
+
+Řešení 5: Fyzika ZŠ - Elektrické proudy a napětí
+
+Úkol: Pokud je elektrické zdroje napětí 12 V a proud 2 A, jakou energii vyvine za 1 hodinu?
+
+Krok 1: Použijeme známý vzorec pro výpočet energie elektrického zdroje: energie = proud * napětí * čas.
+
+Krok 2: Předpokládejme, že zdroj pracuje konstantně po dobu jedné hodiny. Použijeme známou hodnotu tíhové konstanty (g = 9,81 m/s²) a výpočet energie vypadá takto: energie = 2 A * 12 V * 3600 s = 86 400 J.
+
+Krok 3: Protože 1 J se rovná 1 Ws, můžeme konstatovat, že zdroj vyvine energii 86,4 kWh za 1 hodinu.
+
+Řešení 6: Fyzika ZŠ - Mechanika pevných těles
+
+Úkol: Pokud je kulička s hmotností 50 g a poloměrem 0,05 m,

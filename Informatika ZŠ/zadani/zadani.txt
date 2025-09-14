@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Informatika ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:49:15
+
+Úkol 1: Základní úkol z předmětu Informatika ZŠ - úroveň 1
+
+Úkol 2: Základní úkol z předmětu Informatika ZŠ - úroveň 2
+
+Úkol 3: Základní úkol z předmětu Informatika ZŠ - úroveň 3
+
+Úkol 4: Základní úkol z předmětu Informatika ZŠ - úroveň 4
+
+Úkol 5: Základní úkol z předmětu Informatika ZŠ - úroveň 5
+
+Úkol 6: Základní úkol z předmětu Informatika ZŠ - úroveň 6
+
+Úkol 7: Základní úkol z předmětu Informatika ZŠ - úroveň 7
+
+Úkol 8: Základní úkol z předmětu Informatika ZŠ - úroveň 8
+
+Úkol 9: Základní úkol z předmětu Informatika ZŠ - úroveň 9
+
+Úkol 10: Základní úkol z předmětu Informatika ZŠ - úroveň 10

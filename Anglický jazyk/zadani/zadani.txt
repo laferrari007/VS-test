@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Anglický jazyk
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:47:22
+
+Úkol 1: Napsat krátkou osobnostní anketu studenta, kde použijete přídavná jména a příslovce, které popíší jeho zájmy a vlastnosti.
+
+Úkol 2: Přeložit do angličtiny text o víkendovém volno, kde použijete překlady běžných českých slov a frází.
+
+Úkol 3: Napsat krátkou povídku o přátelství, kde použijete anglické synonyma pro české slová jako "přítel", "kamarád", "společník".
+
+Úkol 4: Přeložit do angličtiny text o různých typech počasí a jejich vlivu na lidské nálady.
+
+Úkol 5: Napsat rozhovor mezi dvěma studenty o jejich plánu do budoucnosti, kde použijete fráze a fólie jako "Co se dá očekávat...", "Mám plány...".
+
+Úkol 6: Přeložit do angličtiny text o významu a roli učitelů a studentů ve školním procesu.
+
+Úkol 7: Napsat krátkou analýzu textu o důležitosti vzdělání v moderní společnosti, kde použijete anglické synonyma pro české slová jako "vzdělání", "škola", "učitel".
+
+Úkol 8: Přeložit do angličtiny text o různých typech umění a jejich vlivu na lidskou psychologii.
+
+Úkol 9: Napsat krátkou hru "20 otázek" o anglickém jazyce, kde použijete fráze a fólie jako "Kolik slov...?", "Co to znamená...".
+
+Úkol 10: Přeložit do angličtiny dlouhou úvodní zprávu o aktuálním problému ve světě, kde použijete anglické synonyma pro české slová jako "problém", "současný svět", "aktuální událost".

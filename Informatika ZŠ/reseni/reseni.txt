@@ -1,0 +1,68 @@
+# AI Generované řešení úkolů pro předmět: Informatika ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:49:15
+
+Řešení 1: Vypočtěte velikost největšího celého čísla, který lze uložit v 8bítovém registru.
+
+Krok 1: Rozumíme, že 8bítový registr může uchovat hodnoty od 0 do 2^8 - 1.
+Krok 2: Pomocí vzorce 2^n - 1 vypočítáme velikost největšího celého čísla, které lze uložit v 8bítovém registru: 2^8 - 1 = 255
+Krok 3: Protože je to největší celý počet, který lze uložit v 8bítovém registru, je naše odpověď 255.
+
+Řešení 2: Uložte binární kód počtu 18 do 4bítového registru.
+
+Krok 1: Rozumíme, že 4bítový registrov může uchovat hodnoty od 0 do 2^4 - 1.
+Krok 2: Přepočítejte číslo 18 do binárního kódu: 18 = 2^4 + 2^3 + 2^1 = 10010
+Krok 3: Protože je to binární kód počtu 18 a máme 4bítový registr, musíme kód zkrátit na 4 bitů: 1001
+Krok 4: Protože je to binární kód čísla 18 a máme 4bítový registr, je naše odpověď 1001.
+
+Řešení 3: Vypočtěte hodnotu 2^12 + 3 \* 2^8 + 5 \* 2^4 + 7.
+
+Krok 1: Rozumíme, že 2^12 = (2^4)^3 = 16^3 = 4096
+Krok 2: Vypočtěte hodnotu 3 \* 2^8 = 3 \* 256 = 768
+Krok 3: Vypočtěte hodnotu 5 \* 2^4 = 5 \* 16 = 80
+Krok 4: Vypočtěte hodnotu 7
+Krok 5: Pomocí aritmetiky přičtěte hodnoty: 4096 + 768 + 80 + 7 = 4951
+
+Řešení 4: Uložte binární kód čísla 123 do 8bítového registru.
+
+Krok 1: Rozumíme, že 8bítový registrov může uchovat hodnoty od 0 do 2^8 - 1.
+Krok 2: Přepočítejte číslo 123 do binárního kódu: 123 = 2^7 + 2^6 + 2^5 + 2^4 + 2^2 = 01111011
+Krok 3: Protože je to binární kód čísla 123 a máme 8bítový registr, je naše odpověď 01111011.
+
+Řešení 5: Vypočtěte hodnotu (2^4 \* 3)^2.
+
+Krok 1: Rozumíme, že 2^4 = 16
+Krok 2: Pomocí aritmetiky vypočtěte hodnotu 2^4 \* 3 = 48
+Krok 3: Pomocí aritmetiky vypočtěte hodnotu (2^4 \* 3)^2 = 48^2 = 2304
+
+Řešení 6: Uložte decimální číslo 56 do binárního kódu.
+
+Krok 1: Rozumíme, že 56 je čísla, které lze uložit v 6bítovém registru.
+Krok 2: Přepočítejte číslo 56 do binárního kódu: 56 = 2^5 + 2^4 + 2^2 = 111100
+Krok 3: Protože je to binární kód čísla 56 a máme 6bítový registr, je naše odpověď 111100.
+
+Řešení 7: Vypočtěte hodnotu 2^10 \* 3 + 5 \* 2^5.
+
+Krok 1: Rozumíme, že 2^10 = (2^5)^2 = 1024
+Krok 2: Vypočtěte hodnotu 2^10 \* 3 = 3072
+Krok 3: Rozumíme, že 2^5 = 32
+Krok 4: Vypočtěte hodnotu 5 \* 2^5 = 160
+Krok 5: Pomocí aritmetiky přičtěte hodnoty: 3072 + 160 = 3232
+
+Řešení 8: Uložte binární kód čísla 31 do 5bítového registru.
+
+Krok 1: Rozumíme, že 5bítový registrov může uchovat hodnoty od 0 do 2^5 - 1.
+Krok 2: Přepočítejte číslo 31 do binárního kódu: 31 = 2^4 + 2^3 + 2^2 + 2^1 = 11111
+Krok 3: Protože je to binární kód čísla 31 a máme 5bítový registr, je naše odpověď 11111.
+
+Řešení 9: Vypočtěte hodnotu (2^3 \* 4)^2.
+
+Krok 1: Rozumíme, že 2^3 = 8
+Krok 2: Pomocí aritmetiky vypočtěte hodnotu 2^3 \* 4 = 32
+Krok 3: Pomocí aritmetiky vypočtěte hodnotu (2^3 \* 4)^2 = 32^2 = 1024
+
+Řešení 10: Uložte decimální číslo 99 do binárního kódu.
+
+Krok 1: Rozumíme, že 99 je čísla, které lze uložit v 7bítovém registru.
+Krok 2: Přepočítejte číslo 99 do binárního kódu: 99 = 2^6 + 2^5 + 2^4 + 2^3 + 2^1 = 1100011
+Krok 3: Protože je to binární kód čísla 99 a máme 7bítový registr, je naše odpověď 1100011.

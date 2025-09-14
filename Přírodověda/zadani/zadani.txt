@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Přírodověda
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:47:28
+
+Úkol 1: Rozdělte organismy do tříd podle jejich biologických charakteristik (typ buněk, přítomnost organů apod.).
+
+Úkol 2: Popište fyziologický proces fotosyntézy a jejich význam pro vývoj života na Zemi.
+
+Úkol 3: Porovnejte a srovnajte vývojové stádia lidského embryo v různých obdobích jeho vývoje.
+
+Úkol 4: Seznamte se s pojmem homeostáza a popište, jak ji organismy udržují, aby zajistily stabilitu vnitřního prostřední.
+
+Úkol 5: Vyberte rostlinu a popište její fyziologické adaptace k životu v prostředí s nízkou vlhkostí a vysokými teplotami.
+
+Úkol 6: Rozhodněte, zda je více pravděpodobné, že určitý organismus je endosymbiont nebo symbiont. Důvodem by měla být analýza jeho fyziologie a biologie.
+
+Úkol 7: Vyberte dva příklady evolučních adaptací a vysvětlete, jak tyto adaptace organismům umožňují přežít v jejich životním prostředí.
+
+Úkol 8: Popište, jak se organismy vypořádávají s stresem, a rozložte, jak jsou různé druhy organismů citlivé na různé typy stresů.
+
+Úkol 9: Popište a analyzujte proces evoluce v kontextu genetiky, fylogenetiky a fyziologie organismů.
+
+Úkol 10: Popište hlavní typy ekologických vztahů mezi organismy (symbiózy, predace, parazitismus, komensalismus), a rozložte příklady pro každý typ vztahu.

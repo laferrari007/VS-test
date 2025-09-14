@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Fyzika ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:48:37
+
+Úkol 1: Základní úkol z předmětu Fyzika ZŠ - úroveň 1
+
+Úkol 2: Základní úkol z předmětu Fyzika ZŠ - úroveň 2
+
+Úkol 3: Základní úkol z předmětu Fyzika ZŠ - úroveň 3
+
+Úkol 4: Základní úkol z předmětu Fyzika ZŠ - úroveň 4
+
+Úkol 5: Základní úkol z předmětu Fyzika ZŠ - úroveň 5
+
+Úkol 6: Základní úkol z předmětu Fyzika ZŠ - úroveň 6
+
+Úkol 7: Základní úkol z předmětu Fyzika ZŠ - úroveň 7
+
+Úkol 8: Základní úkol z předmětu Fyzika ZŠ - úroveň 8
+
+Úkol 9: Základní úkol z předmětu Fyzika ZŠ - úroveň 9
+
+Úkol 10: Základní úkol z předmětu Fyzika ZŠ - úroveň 10

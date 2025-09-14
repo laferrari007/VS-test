@@ -1,0 +1,13 @@
+# AI Generované zadání úkolů pro předmět: Strojové učení
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:44:47
+
+Úkol 1: Implementujte jednoduchou klasifikaci dat pomocí lineárního rozložení, která rozděluje datové body do dvou tříd. Použijte pro tuto úlohu dataset Iris a vyhodnocujte úspěšnost klasifikace pomocí accuracy měření.
+
+Úkol 2: Trénujte a vyhodnocujte model neuronové sítě pro předpovídání ceny nemovitostí na základě charakteristik nemovitostí (počet pokojů, plocha, počet podlaží apod.). Použijte dataset s hodnotami cen nemovitostí a vyhodnocujte úspěšnost modelu pomocí mean squared error.
+
+Úkol 3: Implementujte a trénujte model gradientního zvrácení (gradient boosting) pro předpovídání výsledku voleb na základě sociodemografických dat (věk, pohlaví, vzdělání apod.). Použijte dataset s výsledky voleb a vyhodnocujte úspěšnost modelu pomocí F1 skóre.
+
+Úkol 4: Vyberte dataset ze světa biomedicíny a implementujte a trénujte model hluboké neuronové sítě (CNN) pro klasifikaci obrazů biologických vzorků (např. zobrazování magnetickou rezonancí). Použijte dataset s obrazními daty a vyhodnocujte úspěšnost modelu pomocí accuracy měření.
+
+Úkol 5: Implementujte a trénujte model založený na reprezentacích slov (word embeddings) pro předpovídání sentimentu recenzí na základě textu recenze a hodnocení. Použijte dataset s recenzemi a hodnoceními a vyhodnocujte úspěšnost modelu pomocí F1 skóre.

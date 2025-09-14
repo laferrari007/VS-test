@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Český jazyk a literatura
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:47:17
+
+Úkol 1: Popište a porovnejte charakteristické rysy osobnosti hlavních hrdinů v povídkách Karel Čapek - "Povídky z jedné bašty". Použijte konkrétní pasáže ze textu a zdůrazněte jejich rozdíly.
+
+Úkol 2: Analyzujte vystoupení hlavního hrdiny v románovém příběhu "Pražský román" od Aleny Šeredová. Pouvažujte nad jeho motivy, jednání a jeho vztahy s ostatními postavami.
+
+Úkol 3: Porovnejte syntaxe dvou různých vět v češtině. Zvolte dvě jednoduché věty, které obsahují rozdílné typy podmětů a přísudku. Použijte teoretické znalosti o gramatice a zdůrazněte jejich rozdíly.
+
+Úkol 4: Vyberte tři klasické české básně a analyzujte jejich strukturu, obsah a jazykový styl. Použijte konkrétní pasáže a zdůrazněte jejich specifické prvky.
+
+Úkol 5: Napsat krátký komparativní úvod ke knize "Povídky o víle" od Aleny Šeredové. Zahrňte stručný popis autorky a jejího díla, jeho žánrové a tematické rysy.
+
+Úkol 6: Zpracujte krátký esej na téma "Symbolismus v českých povídkách 19. století". Použijte konkrétní příklady ze souvisejících textů a zdůrazněte jejich specifické prvky.
+
+Úkol 7: Analyzujte a porovnejte jazykové prvky v rozhovorech v románu "Pražský román" od Aleny Šeredové. Pouvažujte nad jejich funkcí a vlivem na celkovou atmosféru textu.
+
+Úkol 8: Vyberte dva české básníky (např. Karel Hynek Mácha a Svatopluk Čech) a napište o jejich životě a tvorbě stručný referát. Zahrňte jejich nejznámější díla a jejich tematické rysy.
+
+Úkol 9: Napište krátký teoretický článek o rozvoji českého jazyka v 19. století. Použijte konkrétní příklady ze související literatury a zdůrazněte jeho specifické prvky.
+
+Úkol 10: Zpracujte komplexní esej na téma "Postmodernismus v českých povídkách 20. století". Použijte konkrétní příklady ze související literatury a zdůrazněte jejich specifické prvky.

@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Biologie ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:49:00
+
+Úkol 1: Popiš vlastnosti rostlin, které jim umožňují přežívat v různých prostředích.
+
+Úkol 2: Porovnej životní cykly roztočů a savců. Jaké jsou hlavní rozdíly?
+
+Úkol 3: Seznamte se s typy půdy a popište jejich vlastnosti.
+
+Úkol 4: Vytvořte diagram života vodních rostlin (například rákousek). Jaké jsou hlavní fáze jejich života?
+
+Úkol 5: Popište proces fotosyntézy. Jaké jsou důležité reakce a produkty této procesu?
+
+Úkol 6: Seznamte se s typy obratlovců a popište jejich fyziologické charakteristiky.
+
+Úkol 7: Porovnejme životní cykly hmyzu a savců. Jaké jsou hlavní rozdíly mezi nimi?
+
+Úkol 8: Vytvořte schéma vnitřního rozlišování rostlin (například stromu). Jaké jsou hlavní části tohoto systému?
+
+Úkol 9: Popište proces rozkladu látek v přírodě. Jaké jsou role bakterií a hub v tomto procesu?
+
+Úkol 10: Seznamte se s typy ekosystémů a popište jejich charakteristiky. Jaké jsou hlavní faktory, které ovlivňují stabilitu ekosystémů?

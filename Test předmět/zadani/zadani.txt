@@ -1,0 +1,9 @@
+# AI Generované zadání úkolů pro předmět: Test předmět
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:56:00
+
+Úkol 1: Vyhledejte a vyhodnoťte typy testů, které lze použít v oblasti softwarového inženýrství. Seznamte se s jejich charakteristikami a přednostmi. (cca 1-2 str.)
+
+Úkol 2: Navrhněte a popište experimentální návrh, který by sledoval vliv různých faktorů na spolehlivost systému. Použijte principy statistického rozdělení a vyberte vhodný vzor experimentu. Zajistěte, aby váš návrh byl dostatečně detailní, aby jej bylo možné realizovat. (cca 3-5 str.)
+
+Úkol 3: Vyberte a stručně popište jeden ze známých softwarových balíčků pro testování (např. JUnit, PyUnit, TestNG). Navrhněte a implementujte jednoduchý test pro jeden z kandidátů na softwarový produkt. Použijte vybrané testovací frameworky a popište výsledky testů. (cca 5-7 str.)

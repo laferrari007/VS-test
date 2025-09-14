@@ -1,0 +1,9 @@
+# AI Generované zadání úkolů pro předmět: Kvantová chemie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:45:34
+
+Úkol 1: Vypočítejte energii vazby v molekule H2+ pomocí metody Hartree-Focka a vypočítejte její hodnotu pro různé vzdálenosti nukleonů.
+
+Úkol 2: Porovnejte výsledky výpočtu chemických vlastností methanu (CH4) pomocí aproximací Hartree-Focka a post-Hartree-Focka (např. MP2). Jaké jsou hlavní rozdíly mezi těmito aproximacemi a jaké jsou jejich výhody a nevýhody?
+
+Úkol 3: Vyrobte a vizualizujte molekulový orbitální diagram ethanu (C2H6) pomocí metod computačních chemických metod (např. DFT, MP2). Analyzujte jeho chemické vlastnosti a porovnejte je s experimentálními údaji.

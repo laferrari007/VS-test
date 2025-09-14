@@ -1,0 +1,146 @@
+# AI Generované řešení úkolů pro předmět: Matematika ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-14 03:47:09
+
+Řešení 1: Rozdělit číslo na desetinnou a celkovou část
+
+Úkol: Rozdělit číslo 432 na desetinnou a celkovou část.
+
+Krok 1: Najděme desetinnou část čísla. K tomu nás naučili metoda dělení desetinné části.
+
+432 ÷ 10 = 43 (celá část)
+0,0432 (desetinná část)
+
+Krok 2: Převést desetinnou část čísla na celkovou část.
+
+432 = 430 (celá část) + 2 (desetinná část)
+
+Krok 3: Přidat desetinnou část k celkové části.
+
+432 = 430 + 2,0432
+
+Řešení 2: Najít průměr trojúhelníku
+
+Úkol: Najít délku strany x, která je průměrem trojúhelníku ABC, kde délky stran a a b jsou 5 cm a 7 cm.
+
+Krok 1: Použít tvarovací větu:
+
+(1/2) * (a + b) * x = 10 (tvarná věta trojúhelníku)
+
+Krok 2: Zaměnit známé hodnoty do tvarovací věty.
+
+(1/2) * (5 + 7) * x = 10
+
+Krok 3: Simplifikovat a vyřešit pro x.
+
+(1/2) * 12 * x = 10
+6 * x = 10
+x = 10/6
+x = 5/3
+x = 1,67 cm
+
+Řešení 3: Najít rozdíly mezi dvěma číselnými řadami
+
+Úkol: Najít rozdíl mezi dvěma číselnými řadami: 2 + 5 + 8 + 11 + 14 a 3 + 6 + 9 + 12 + 15
+
+Krok 1: Rozdělit číselné řady do dvou samostatných řad:
+
+řada 1: 2, 5, 8, 11, 14
+řada 2: 3, 6, 9, 12, 15
+
+Krok 2: Rozdílet každé číslo z první řady od odpovídajícího čísla z druhé řady.
+
+(2 - 3) + (5 - 6) + (8 - 9) + (11 - 12) + (14 - 15)
+= -1 + (-1) + (-1) + (-1) + (-1)
+= -5
+
+Řešení 4: Rozdělit číslo na desetinnou a celkovou část
+
+Úkol: Rozdělit číslo 945,678 na desetinnou a celkovou část.
+
+Krok 1: Najděme desetinnou část čísla. K tomu nás naučili metoda dělení desetinné části.
+
+9456,78 ÷ 10 = 9456,78 (celá část)
+0,078 (desetinná část)
+
+Krok 2: Převést desetinnou část čísla na celkovou část.
+
+9456,78 = 9456 (celá část) + 0,78 (desetinná část)
+
+Krok 3: Přidat desetinnou část k celkové části.
+
+9456,78 = 9456 + 0,078
+
+Řešení 5: Najít průměr čtverečku
+
+Úkol: Najít délku strany x, která je průměrem čtverečku ABCD, kde délky stran a a b jsou 8 cm a 10 cm.
+
+Krok 1: Použít tvarovací větu:
+
+(1/2) * (a + b) * x = 20 (tvarná věta čtverečku)
+
+Krok 2: Zaměnit známé hodnoty do tvarovací věty.
+
+(1/2) * (8 + 10) * x = 20
+
+Krok 3: Simplifikovat a vyřešit pro x.
+
+(1/2) * 18 * x = 20
+9 * x = 20
+x = 20/9
+x = 2,22 cm
+
+Řešení 6: Najít rozdíl mezi dvěma číselnými řadami
+
+Úkol: Najít rozdíl mezi dvěma číselnými řadami: 3 + 6 + 9 + 12 + 15 a 2 + 5 + 8 + 11 + 14
+
+Krok 1: Rozdělit číselné řady do dvou samostatných řad:
+
+řada 1: 3, 6, 9, 12, 15
+řada 2: 2, 5, 8, 11, 14
+
+Krok 2: Rozdílet každé číslo z první řady od odpovídajícího čísla z druhé řady.
+
+(3 - 2) + (6 - 5) + (9 - 8) + (12 - 11) + (15 - 14)
+= 1 + 1 + 1 + 1 + 1
+= 5
+
+Řešení 7: Najít průměr rovnoběžníku
+
+Úkol: Najít délku strany x, která je průměrem rovnoběžníku ABC, kde délky stran a a b jsou 6 cm a 8 cm.
+
+Krok 1: Použít tvarovací větu:
+
+(1/2) * (a + b) * x = 14 (tvarná věta rovnoběžníku)
+
+Krok 2: Zaměnit známé hodnoty do tvarovací věty.
+
+(1/2) * (6 + 8) * x = 14
+
+Krok 3: Simplifikovat a vyřešit pro x.
+
+(1/2) * 14 * x = 14
+7 * x = 14
+x = 14/7
+x = 2 cm
+
+Řešení 8: Rozdělit číslo na desetinnou a celkovou část
+
+Úkol: Rozdělit číslo 6789,123 na desetinnou a celkovou část.
+
+Krok 1: Najděme desetinnou část čísla. K tomu nás naučili metoda dělení desetinné části.
+
+6789,123 ÷ 10 = 6789,123 (celá část)
+0,123 (desetinná část)
+
+Krok 2: Převést desetinnou část čísla na celkovou část.
+
+6789,123 = 6789 (celá část) + 0,123 (desetinná část)
+
+Krok 3: Přidat desetinnou část k celkové části.
+
+6789,123 = 6789 + 0,123
+
+Řešení 9: Najít průměr čtverečku
+
+Úkol: Najít délku strany x
