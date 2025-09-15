@@ -2,22 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:23:44
 
-Úkol 1: Vyjmenujte a vysvětlíte tři hlavní pojmy, které charakterizují kvantovou chemii: schránkovou teorii, molekulární orbitaly a Pauliho princip.
+Úkol 1: Vypočítejte energetické hladiny orbitalů 1s, 2s a 2p elektronů v atomu vodíku pomocí vzorce Hartree-Focka pro jednoduchý atom.
 
-Úkol 2: Vysvětlte rozdíl mezi orbitaly a molekulárními orbitalami a uveďte příklady jejich použití v kvantové chemii.
+Úkol 2: Porovnejte výsledky výpočtu orbitálu 1s vodíku pomocí Hartree-Fockovy metody s experimentální hodnotou energie tohoto orbitalu.
 
-Úkol 3: Použijte Hartreeho-Fockovu metodu, aby se určilo elektronová hustota a elektronová hustotová mapa pro vodík.
+Úkol 3: Odvodte vzorec pro energetickou hladinu orbitalu 2p vodíku pomocí Hartree-Fockovy metody a porovnejte ho s experimentální hodnotou.
 
-Úkol 4: Porovnejte a srovnejte výsledky získané pomocí Hartreeho-Fockovy metody a Density Functional Theory (DFT) pro vodík.
+Úkol 4: Zpracujte příklad výpočtu vlastností molekuly H2 using Hartree-Fockovy metody, včetně vypočtení energie a geometrie molekuly.
 
-Úkol 5: Uveďte příklad aplikace kalcita, který obsahuje kovy a sloučeniny, a vysvětlte, jak se v něm projevuje efekt kovového iontu.
+Úkol 5: Odvodte a aplikujte vzorec pro výpočet hustotového pole v Hartree-Fockovy metodě pro jednoduchý atom.
 
-Úkol 6: Použijte metodu kalcita, aby se určilo elektronové spektrum a chemické vlastnosti kyanidu sodného.
+Úkol 6: Porovnejte výsledky výpočtu rozložení elektronové hustoty v molekule H2 pomocí Hartree-Fockovy metody s experimentální hodnotou.
 
-Úkol 7: Navrhněte a vysvětlte experimentální návrh, aby se studovaly interakce mezi molekulami vodíku a deuteria v kvantovém stavu.
+Úkol 7: Zpracujte příklad výpočtu vlastností systému mnoha elektronů (např. vodíkového molekulu) pomocí Hartree-Fockovy metody, včetně vypočtení energie a geometrie systému.
 
-Úkol 8: Vyjmenujte a porovnejte různé postupy, které jsou používány pro kvantování chemických procesů, a vysvětlete jejich výhody a nevýhody.
+Úkol 8: Odvodte a aplikujte vzorec pro výpočet dynamické polarizovatelnosti v Hartree-Fockovy metodě pro jednoduchý atom.
 
-Úkol 9: Použijte kvantový popis, aby se studovaly vlastnosti a chování molekul v kondenzovaných fázích.
+Úkol 9: Porovnejte výsledky výpočtu vlastností molekuly H2 using Hartree-Fockovy metody s výsledky získanými pomocí dalších aproximací kvantové chemie (např. Kvantová mechanika molekuly).
 
-Úkol 10: Navrhněte a vysvětlte kvantitativní model, který by popsal chování a vlastnosti komplexních molekul s více elektronovými konfiguracemi.
+Úkol 10: Zpracujte příklad výpočtu vlastností komplexní molekuly (např. H2O) pomocí metody MOLCAS (Multiconfiguration self-consistent field) a porovnejte výsledky s výsledky získanými pomocí jiných aproximací kvantové chemie.
