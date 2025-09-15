@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Filozofie vědy
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:56:53
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:57:04
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Filozofie vědy
+Úkol 1: Zde je krátký text o filozofii vědy. Rozděl ho na tři hlavní části: empirismus, racionalismus a instrumentalismus. Zabývá se souvislostmi mezi jednotlivými filozofickými směry a jejich vlivem na vývoj vědecké metody.
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Filozofie vědy
+Úkol 2: Vyberte jeden vědecký paradigma (například Kopernikovo, Darwiniho nebo Einsteina) a analyzujte, jak se vyvinulo v reakci na předchozí paradigma. Jaké filozofické přístupy vedly k jeho přijetí?
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Filozofie vědy
+Úkol 3: Porovnejte filozofické přístupy dvou různých vědců (například Galilea a Descarta). Jaké rozdíly a shody lze pozorovat v jejich přístupu k vědě? Jaké jsou důsledky jejich prací pro naše pochopení světa?
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Filozofie vědy
+Úkol 4: Zabýváte se pojmem vědecké objektivnosti. Jak se definuje a jak je dosahováno? Jaké jsou argumenty pro a proti vědecké objektivnosti? Uveďte příklady, kde se objektivnost v praxi uplatňuje a kde naopak selhává.
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Filozofie vědy
+Úkol 5: Diskutujte o vztahu mezi vědou a etikou. Jak se objevují etické otázky v různých disciplínách (biologie, fyzika, chemie)? Jak by se měla věda rozhodovat v situacích, kde je etika v konfliktu s vědeckými zisky?
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Filozofie vědy
+Úkol 6: Vyberte jednu z filozofických teorií o vědě (například Popperova falsifikace, Lakatosova metodologie nebo Kuhnova paradigmatika) a analyzujte, jak se aplikuje v praxi. Uveďte příklady, kde byla teorie úspěšně použita a kde selhala.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Filozofie vědy
+Úkol 7: Zabýváte se pojmem vědeckého pokroku. Jak se měří a hodnotí? Jaké jsou kritérium pro vědecký pokrok a jak se uplatňují v různých disciplínách? Uveďte příklady, kde došlo k výraznému pokroku a kde selhala vědecká komunita.
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Filozofie vědy
+Úkol 8: Diskutujte o vztahu mezi vědou a politikou. Jak se objevují politické otázky v různých disciplínách (biologie, fyzika, chemie)? Jak by se měla věda rozhodovat v situacích, kde je politika v konfliktu s vědeckými zisky?
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu Filozofie vědy
+Úkol 9: Vyberte jednu z filozofických otázek o vědě (například "Je věda objektivní?" nebo "Může věda zaručit pravdu?") a rozepsanou ji na různých úrovních abstrakce. Uveďte příklady, kde se otázka objevila v historii vědy a jak se řešila.
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Filozofie vědy
+Úkol 10: Zabýváte se pojmem vědecké revoluce. Jak se definuje a jak je charakterizováno? Jaké jsou příklady úspěšných vědeckých revolucí a jak se uplatňují v praxi? Uveďte příklady, kde došlo k výraznému pokroku a kde selhala vědecká komunita.
