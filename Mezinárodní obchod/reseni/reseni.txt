@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Mezinárodní obchod
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:43:49
+# Datum: 2025-09-15 23:43:50
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 

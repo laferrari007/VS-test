@@ -1,33 +1,23 @@
 # Zadání úkolů pro předmět: Mezinárodní obchod
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:43:49
+# Datum: 2025-09-15 23:43:50
 
-Úkol 1: 
-Popište hlavní faktory, které ovlivňují míru konkurenceschopnosti firem v mezinárodním obchodu. Použijte příklady z reálného světa, aby vaše odpověď byla více přesvědčivá.
+Úkol 1: Vyberte významný mezinárodní obchodní model (například FTA, CETA, NAFTA) a popište jeho klíčové prvky a účely.
 
-Úkol 2: 
-Vymezte hlavní rozdíly mezi mezinárodním obchodním modelem a globálním obchodním modelem. Uveďte příklady firem, které tyto modely úspěšně používají.
+Úkol 2: Porovnejte obchodní politiku Evropské unie a Spojených států amerických. Jak se liší v oblasti celových sazeb, regulací a ochraně práv duševního vlastnictví?
 
-Úkol 3: 
-Analyzujte vliv mezinárodních obchodních dohled na ekonomické a politické prostředí jednotlivých zemí. Použijte jako příklad například NAFTA nebo EU.
+Úkol 3: Představte si, že jste poradce pro mezinárodní obchod v české firmě. Předložte návrh strategie pro rozvoj mezinárodního obchodu s vybranou zemí (například Čína, Německo, USA).
 
-Úkol 4: 
-Popište procesy a postupy, které firmy používají při vstupu na mezinárodní trh. Uveďte příklady firem, které tyto procesy úspěšně implementovaly.
+Úkol 4: Analyzujte dopady Brexitu na mezinárodní obchod a ekonomiku Evropy. Jaký je současný stav a jak se očekává další vývoj?
 
-Úkol 5: 
-Vymezte hlavní rozdíly mezi strategiemi importu a exportu firmy v mezinárodním obchodě. Uveďte příklady firem, které úspěšně implementují tyto strategie.
+Úkol 5: Vyberte dva významné podniky, které aktivně podnikají v mezinárodním obchodu (například Siemens, Unilever). Analyzujte jejich obchodní strategie a zjištění, které si udělali o mezinárodním trhu.
 
-Úkol 6: 
-Analyzujte vliv globálních ekonomických trendů na mezinárodní obchod. Použijte jako příklad například globalizaci nebo změny v světovém trhu.
+Úkol 6: Popište procesy a nástroje, které mezinárodní obchodní organizace (například Světová obchodní organizace, WTO) používají k řešení sporů a zajišťování spravedlnosti v mezinárodním obchodu.
 
-Úkol 7: 
-Popište hlavní faktory, které ovlivňují rozhodování firem o místní nebo globální výrobě. Použijte příklady reálných firem, aby vaše odpověď byla více přesvědčivá.
+Úkol 7: Představte si, že jste vedoucím oddělení mezinárodního obchodu ve velké české firmě. Zpracujte strategii pro zavádění nových mezinárodních projektů a implementaci změn v existujících projektech.
 
-Úkol 8: 
-Vymezte hlavní rozdíly mezi obchodními strategiemi firem v rozvíjejících se a rozvinutých zemích. Uveďte příklady firem, které úspěšně implementují tyto strategie.
+Úkol 8: Vyberte dva významné mezinárodní obchodní akordy (například CETA, TPP) a porovnejte jejich klíčové prvky, jako jsou obchodní oblasti, dohody o regulaci a mechanismy pro řešení sporů.
 
-Úkol 9: 
-Analyzujte vliv mezinárodních obchodních dohod na konkurenceschopnost firem v různých odvětvích. Použijte jako příklad například dohod o volném obchodu.
+Úkol 9: Analyzujte dopady mezinárodních sankcí na mezinárodní obchod a ekonomiku zemí, které jsou cílem sankcí (například Rusko, Írán). Jaký je současný stav a jak se očekává další vývoj?
 
-Úkol 10: 
-Popište procesy a postupy, které firmy používají při řízení mezinárodního obchodu. Uveďte příklady firem, které úspěšně implementují tyto procesy v rámci své organizace.
+Úkol 10: Představte si, že jste členem vyjednávacího týmu pro mezinárodní obchod. Zpracujte návrh strategie pro vyjednávání nové mezinárodní obchodní dohody mezi českou republikou a vybranou zemí (například Německem, USA).
