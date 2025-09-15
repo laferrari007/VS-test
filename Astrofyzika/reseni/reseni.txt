@@ -1,24 +1,104 @@
-# AI Generované řešení úkolů pro předmět: Astrofyzika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:07:32
+# Řešení úkolů pro předmět: Astrofyzika
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:21:07
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Astrofyzika
+Řešení 1: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Astrofyzika
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Astrofyzika
+Řešení 2: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Astrofyzika
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Astrofyzika
+Řešení 3: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Astrofyzika
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Astrofyzika
+Řešení 4: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Astrofyzika
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Astrofyzika
+Řešení 5: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Astrofyzika
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
+
+Řešení 6: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
+
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
+
+Řešení 7: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
+
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
+
+Řešení 8: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
+
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
+
+Řešení 9: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
+
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.
+
+Řešení 10: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Astrofyzika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
+
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Astrofyzika.

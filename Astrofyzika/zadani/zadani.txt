@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Astrofyzika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:07:32
+# Zadání úkolů pro předmět: Astrofyzika
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:21:07
 
-Úkol 1: Základní úkol z předmětu Astrofyzika - úroveň 1
+Úkol 1: Vypočítejte rychlost tělesa souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 2: Základní úkol z předmětu Astrofyzika - úroveň 2
+Úkol 2: Určete sílu působící na těleso souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 3: Základní úkol z předmětu Astrofyzika - úroveň 3
+Úkol 3: Vypočítejte energii systému souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 4: Základní úkol z předmětu Astrofyzika - úroveň 4
+Úkol 4: Řešte pohybovou rovnici souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 5: Základní úkol z předmětu Astrofyzika - úroveň 5
+Úkol 5: Určete elektrický proud souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 6: Základní úkol z předmětu Astrofyzika - úroveň 6
+Úkol 6: Vypočítejte odpor obvodu souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 7: Základní úkol z předmětu Astrofyzika - úroveň 7
+Úkol 7: Řešte úkol z termodynamiky souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 8: Základní úkol z předmětu Astrofyzika - úroveň 8
+Úkol 8: Určete vlnovou délku souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 9: Základní úkol z předmětu Astrofyzika - úroveň 9
+Úkol 9: Vypočítejte moment síly souvisejí s tématem z předmětu Astrofyzika
 
-Úkol 10: Základní úkol z předmětu Astrofyzika - úroveň 10
+Úkol 10: Řešte úkol z optiky souvisejí s tématem z předmětu Astrofyzika
