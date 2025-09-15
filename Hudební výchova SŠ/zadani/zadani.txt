@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Hudební výchova SŠ
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:56:02
+# Zadání úkolů pro předmět: Hudební výchova SŠ
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:00:35
 
-Úkol 1: Navrhněte hudbu pro krátký filmový klip, který zobrazuje scénu z knihy "Pán prstenů" od J.R.R. Tolkiena. Uveďte název skladby, tempo a hlavní nástroj.
+Úkol 1: Zpívejte populární píseň v harmonickém doprovodu kytary. Zapisujte notový záznam a popište postup harmonizace písně.
 
-Úkol 2: Analyzujte hudební skladbu "Stříbrný klíč" od Antonína Dvořáka. Uveďte hlavní rysy skladby, popisujte hlavní téma a vysvětlujte význam názvu skladby.
+Úkol 2: Analyzujte strukturu skladby v oblasti Hudební výchovy. Rozdělte skladbu do jednotlivých částí (intro, refrén, bridge) a popsme jejich funkce v rámci celkového děje skladby.
 
-Úkol 3: Hudebně vizualizujte jeden z příběhů ze staré řecké mytologie (např. Orfeus a Euridiké). Uveďte název skladby, popisujte hudební motivy a vysvětlíte jejich význam.
+Úkol 3: Skvěle. Napište krátký esej o historickém rozvoji hudebních žánrů. Vyberte dva žánry a porovnejte jejich vývoj přes několik století.
 
-Úkol 4: Porovnejte dvě skladby od stejného autora (např. Beethoven - Piano Sonata č. 8 a Chopin - Nocturno op. 9). Uveďte podobnosti a rozdíly mezi nimi.
+Úkol 4: Vytvořte a nahrajte vlastnoručně komponovaný krátký útvar pro hudební skupinu (např. trio, kvarteto). Popište inspiraci a estetické cíle vaší kompozice.
 
-Úkol 5: Naplánujte hudební vystoupení na škole, kde budete hrát skladbu "Jazz Suite" od G. Gershwinova. Uveďte název skladby, popisujte hudební motivy a vysvětlíte způsob provedení.
+Úkol 5: Zpracujte hudební analýzu vybrané skladby. Vyberte a rozčleněte instrumentální partie, analyzujte harmonický postup a popsme dramatickou strukturu skladby.
 
-Úkol 6: Analyzujte hudební skladbu "Má vlast" od Bedřicha Smetany. Uveďte hlavní rysy skladby, popisujte hlavní téma a vysvětlujte význam názvu skladby.
+Úkol 6: Vytvořte skupinu a vytvořte krátký kytarový doprovod k písním. Diskutujte o různých hudebních stylů a zpracujte konkrétní vzory.
 
-Úkol 7: Vytvořte hudbu pro taneční scénu z filmu "West Side Story". Uveďte název skladby, popisujte hudební motivy a vysvětlíte význam choreografie.
+Úkol 7: Vyberte a zpracujte téma "Muzikoterapie u dětí". Napište esej o možnostech využití hudby v terapeutickém prostředí a zpracujte případový výbor.
 
-Úkol 8: Porovnejte hudební styly dvou různých autorů (např. Mozart a Bach). Uveďte podobnosti a rozdíly mezi nimi a vysvětlíte jejich význam.
+Úkol 8: Vyberte si populární píseň a zpracujte hudební analýzu. Analyzujte melodii, harmonii, rytmus a strukturu skladby a popsme její estetický význam.
 
-Úkol 9: Navrhněte hudbu pro hudební projekt, který kombinuje různé hudební styly (např. jazz, rock, klasika). Uveďte název skladby, popisujte hudební motivy a vysvětlíte způsob provedení.
+Úkol 9: Vytvořte a uvedete jednoduchý orchestrální kompoziční návrh s použitím notového záznamu. Popsme hudební prvky a estetické cíle vaší kompozice.
 
-Úkol 10: Analyzujte hudební skladbu "Symfonie č. 9" od Ludwig van Beethovena. Uveďte hlavní rysy skladby, popisujte hlavní téma a vysvětlujte význam názvu skladby a její význam v rámci hudební historie.
+Úkol 10: Vybere si a analyzuje hudební skladbu v oblasti jazzové hudby. Zpracujte hudební analýzu, včetně rozčlenění instrumentálních partí a popisu harmonického postupu.

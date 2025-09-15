@@ -1,56 +1,105 @@
-# AI Generované řešení úkolů pro předmět: Hudební výchova SŠ
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:56:02
+# Řešení úkolů pro předmět: Hudební výchova SŠ
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:00:35
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Navrhněte hudbu pro krátký filmový klip, který zobrazuje scénu z knihy "Pán prstenů" od J.R.R. Tolkiena. Uveďte název skladby, tempo a hlavní nástroj.
+Řešení 1: Zpívejte populární píseň v harmonickém doprovodu kytary. Zapisujte notový záznam a popište postup harmonizace písně.
 
-Pro krátký filmový klip z knihy "Pán prstenů" bych navrhl název skladby "Pohyb do Temnoty". Tempo skladby by bylo pomalé a melancholické, asi 60-80 BPM. Hlavním nástrojem by byla viola, která by vytvářela dramatické a emotivní atmosféru.
+Pro tento úkol si vybereme populární píseň "Stitches" od švédské skupiny Five Seconds of Summer. Harmonizace písně bude probíhat tak, že přidáme doprovodnou kytaru, která bude hrát harmonické akordy.
 
-Skladba by začala s intro, kde by viola hrála krátký, melancholický motiv. Poté by se přidaly další nástroje, jako je klavír a housle, které by vytvářely bohatou a dramatickou atmosféru. V hlavní části skladby by se objevily motivy, které připomínají scénu z knihy, jako je únik hrdinů z Morie.
+**Notový záznam:**
 
-Tempo skladby by se během průběhu měnilo, aby se dostalo na vrchol v závěru, kdy by se objevily motivy, které připomínají scénu z knihy. Hlavní motiv by byl viola, která by vytvářela dramatickou a emotivní atmosféru.
+[Intro]
+G - G7 - C - C7
 
-Řešení 2: Analyzujte hudební skladbu "Stříbrný klíč" od Antonína Dvořáka. Uveďte hlavní rysy skladby, popisujte hlavní téma a vysvětlíte význam názvu skladby.
+[Refrén]
+Em - D - G - G7
+Em - D - G - G7
 
-"Stříbrný klíč" je symfonická báseň od Antonína Dvořáka, která byla napsána v roce 1896. Hlavní rysy skladby jsou:
+[Most]
+C - C7 - G - G7
+C - C7 - G - G7
 
-- Tempo: Pomalé a melancholické, asi 60-80 BPM
-- Hlavní téma: Hlavní téma skladby je motiv, který se objevuje v první části a je hrán na housle. Motiv je velmi emotivní a dramatický a vytváří bohatou a melancholickou atmosféru.
-- Struktura: Skladba je rozdělena do několika částí, které jsou spojeny motivy a tématy. První část je intro, kde se objevuje hlavní téma, druhá část je rozvoje témat a třetí část je závěrečná část, kde se objevují motivy a téma znovu.
+**Postup harmonizace:**
 
-Značka "Stříbrný klíč" je symbolická a odkazuje na skutečnost, že skladba je napsána jako "klíč" k pochopení lidské duše. Dvořák chtěl prostřednictvím skladby prokázat, že lidská duše je plná emocí a citů a že je důležité pochopení a uznání těchto emocí.
+1. Nejprve si vybereme základní akordy písně, které jsou G, Em a D.
+2. Přidáme doprovodnou kytaru a nastavíme ji na harmonické akordy. V tomto případě přidáme akordy G7 a C7.
+3. Harmonické akordy budou hrát na pozadí hlavních akordů a přidají harmonickou hloubku písně.
+4. Prostřednictvím harmonických akordů také zvýšíme citlivost písně a dodáme jí více emocí.
 
-Řešení 3: Hudebně vizualizujte jeden z příběhů ze staré řecké mytologie (např. Orfeus a Euridiké). Uveďte název skladby, popisujte hudební motivy a vysvětlíte jejich význam.
+**Postupy harmonizace:**
 
-Pro příběh Orfea a Euridiky bych navrhl název skladby "Ztráta lásky". Skladba by byla komponována v pomalém a melancholickém tempu, asi 60-80 BPM.
+* Přidání harmonických akordů: G7, C7
+* Nastavení doprovodné kytary na harmonické akordy
+* Hraní harmonických akordů na pozadí hlavních akordů
 
-Hlavní motivy skladby by byly:
+**Harmonické akordy:**
 
-- Motiv Orfea: Motiv by byl hrán na klavír a představoval by Orfea, který hledá svou ztracenou lásku Euridiku. Motiv by byl melancholický a emotivní a vytvářel by bohatou a dramatickou atmosféru.
-- Motiv Euridiky: Motiv by byl hrán na housle a představoval by Euridiku, která je ztracenou láskou Orfea. Motiv by byl emotivní a dramatický a vytvářel by bohatou a melancholickou atmosféru.
-- Motiv lásky: Motiv by byl hrán na violu a představoval by lásku mezi Orfea a Euridikou. Motiv by byl emotivní a dramatický a vytvářel by bohatou a melancholickou atmosféru.
+* G7: 1 - 3 - 5 - b7 (G - B - D - F#)
+* C7: 1 - 3 - 5 - b7 (C - E - G - Bb)
 
-Skladba by začala s intro, kde by se objevily motivy Orfea a Euridiky. Poté by se přidaly další motivy, jako je motiv lásky, který by vytvářel bohatou a dramatickou atmosféru. V hlavní části skladby by se objevily motivy, které připomínaly scénu z příběhu, jako je útěk Orfea a Euridiky z podsvětí.
+**Vysvětlení:**
 
-Tempo skladby by se během průběhu měnilo, aby se dostalo na vrchol v závěru, kdy by se objevily motivy, které připomínaly scénu z příběhu. Hlavní motiv by byl viola, která by vytvářela dramatickou a emotivní atmosféru.
+* b7 (nižší sedmá) je tón, který vytváří harmonickou dissonanci a dodává písně více emocí.
+* Harmonické akordy jsou důležité pro přidání harmonické hloubky písně a pro zvýšení citlivosti.
 
-Řešení 4: Porovnejte dvě skladby od stejného autora (např. Beethoven - Piano Sonata č. 8 a Chopin - Nocturno op. 9). Uveďte podobnosti a rozdíly mezi nimi.
+Řešení 2: Analyzujte strukturu skladby v oblasti Hudební výchovy. Rozdělte skladbu do jednotlivých částí (intro, refrén, bridge) a popsme jejich funkce v rámci celkového děje skladby.
 
-Beethovenova Piano Sonata č. 8 a Chopinovo Nocturno op. 9 jsou dvě skladby, které jsou komponovány v různých stylech a mají různé rysy.
+Skladbou, kterou budeme analyzovat, je "Bohemian Rhapsody" od Queen. Skladba je známá svou komplexní strukturou a několika částmi, které vytvářejí dramatický vývoj.
 
-Podobnosti:
+**Rozdělení skladby do jednotlivých částí:**
 
-- Obě skladby jsou komponovány pro klavír a mají podobný počet stránek (Beethovenova sonata má 5 stránek, zatímco Chopinovo nocturno má 5 stránek).
-- Obě skladby mají podobný tempo (pomalé a melancholické, asi 60-80 BPM).
-- Obě skladby mají podobné motivy a téma.
+1. **Intro**: Skladba začíná intro, který je tvořen akordy A, D, E a G. Intro vytváří atmosféru a připravuje posluchače na dramatický vývoj skladby.
+2. **Refrén**: První refrén začíná akordy A, D, E a G a přechází do akordů F, G a C. Refrén představuje hlavní téma skladby a vytváří silný emocionální efekt.
+3. **Most**: Most je tvořen akordy A, D, E a G a přechází do akordů F, G a C. Most vytváří dramatický efekt a připravuje posluchače na následující část skladby.
+4. **Bridge**: Bridge je tvořen akordy A, D, E a G a přechází do akordů F, G a C. Bridge vytváří dramatický efekt a uzavírá skladbu.
 
-Rozdíly:
+**Funkce jednotlivých částí:**
 
-- Hlavní rysy: Beethovenova sonata je komponována v klasickém stylu, zatímco Chopinovo nocturno je komponováno v romantickém stylu.
-- Struktura: Beethovenova sonata je komponována v klasické struktuře, zatímco Chopinovo nocturno je komponováno v romantické struktuře.
-- Hlavní téma: Beethovenova sonata má hlavní téma, které je hráno na klavír, zatímco Chopinovo nocturno má hlavní téma, které je hráno na housle.
+1. **Intro**: Vytváří atmosféru a připravuje posluchače na dramatický vývoj skladby.
+2. **Refrén**: Představuje hlavní téma skladby a vytváří silný emocionální efekt.
+3. **Most**: Vytváří dramatický efekt a připravuje posluchače na následující část skladby.
+4. **Bridge**: Vytváří dramatický efekt a uzavírá skladbu.
 
-Beethovenova Piano Sonata č. 8 je skladba, která je komponována v klasickém stylu a má podobné rysy jako ostatní Beethovenovy sonáty. Chopinovo Nocturno op. 9 je skladba, která je komponována v romantickém stylu a má podobné rysy jako ostatní Chopinovy skladby.
+**Podrobnější analýza:**
 
-Řešení 5: Naplánujte hudební vystoupení na škole, kde
+* Skladba začíná intro, který vytváří atmosféru a připravuje posluchače na dramatický vývoj skladby.
+* První refrén představuje hlavní téma skladby a vytváří silný emocionální efekt.
+* Most vytváří dramatický efekt a připravuje posluchače na následující část skladby.
+* Bridge uzavírá skladbu a vytváří dramatický efekt.
+
+Řešení 3: Skvěle. Napište krátký esej o historickém rozvoji hudebních žánrů. Vyberte dva žánry a porovnejte jejich vývoj přes několik století.
+
+V tomto esejím se zaměříme na historický vývoj dvou hudebních žánrů: klasické hudby a jazzu. Porovnáme jejich vývoj přes několik století a vysvětlíme jejich významné okamžiky.
+
+**Klasická hudba:**
+
+* Historie klasické hudby sahá od starověku až po současnost.
+* Klasická hudba se vyvinula z duchovní hudby a postupně se rozdělila na několik druhů, jako jsou symfonie, opery a koncerty.
+* Významnými momenty v historii klasické hudby jsou:
+ + Vznik symfonií v 18. století
+ + Vznik oper v 17. století
+ + Vývoj koncertů v 18. století
+* Klasická hudba je známá svou komplexitou a hlubokou emocionalitou.
+
+**Jazz:**
+
+* Historie jazzu sahá od 19. století do současnosti.
+* Jazz se vyvinul z afrických a evropských hudobných tradic.
+* Významnými momenty v historii jazzu jsou:
+ + Vznik jazzu v New Orleans v 19. století
+ + Vývoj swingu v 30. letech 20. století
+ + Vznik bebopu v 40. letech 20. století
+* Jazz je známý svou improvizací a komplexností.
+
+**Porovnání:**
+
+* Klasická hudba se vyvinula z duchovní hudby a postupně se rozdělila na několik druhů.
+* Jazz se vyvinul z afrických a evropských hudobných tradic.
+* Klasická hudba je známá svou komplexitou a hlubokou emocionalitou.
+* Jazz je známý svou improvizací a komplexností.
+
+**Závěr:**
+
+* Klasická hudba a jazz jsou dva výrazně odlišné hudební žánry, které se vyvinuly v různých obdobích a jsou známé svou komplexitou a hlubokou emocionalitou.
+* Porovnání jejich historického rozvoje nám nabízí hluboký vhled do jejich význam
