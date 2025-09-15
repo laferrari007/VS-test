@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Audit
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:44:49
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:44:58
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Audit
+Úkol 1: Popište základní principy auditu a vysvětlujte rozdíl mezi auditem a kontrolou. Uveďte příklady situací, kdy se audit a kontrola liší.
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Audit
+Úkol 2: Vyložte proces auditu a identifikujte hlavní fáze, které jsou nezbytné pro provedení auditu. Jak se liší jednotlivé fáze a jak je mezi nimi propojeno.
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Audit
+Úkol 3: Vypracujte rozpočet auditních nákladů pro malý podnik, který má roční obrat 5 milionů Kč. Předpokládejte, že audit bude proveden jednou ročně a bude zahrnovat audit účetní závěrky, audit interních kontrol a audit rizik.
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Audit
+Úkol 4: Porovnejte auditní standardy IASB a US GAAP. Uveďte hlavní rozdíly mezi nimi a vysvětlujte, jak se tyto rozdíly odráží v auditním procesu.
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Audit
+Úkol 5: Představte si, že jste zaměstnanec auditingové firmy, která provedla audit účetní závěrky pro malý podnik. Vyjasněte, jak byste řešili případnou odchylku od účetních standardů a jak byste ji dokumentovali.
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Audit
+Úkol 6: Vyložte proces auditu rizik a identifikujte hlavní fáze, které jsou nezbytné pro jeho provedení. Jak se liší jednotlivé fáze a jak je mezi nimi propojeno.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Audit
+Úkol 7: Vypracujte auditní plán pro velký podnik, který má roční obrat 50 milionů Kč. Předpokládejte, že audit bude prováděn jednou ročně a bude zahrnovat audit účetní závěrky, audit interních kontrol, audit rizik a audit IT.
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Audit
+Úkol 8: Porovnejte auditní standardy pro malé a velké podniky. Uveďte hlavní rozdíly mezi nimi a vysvětlujte, jak se tyto rozdíly odráží v auditním procesu.
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu Audit
+Úkol 9: Představte si, že jste auditorem, který je pověřen provedením auditu účetní závěrky pro veřejnou společnost. Vyjasněte, jak byste řešili případnou odchylku od účetních standardů a jak byste ji dokumentovali.
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Audit
+Úkol 10: Vyložte proces auditu externích zdrojů a identifikujte hlavní fáze, které jsou nezbytné pro jeho provedení. Jak se liší jednotlivé fáze a jak je mezi nimi propojeno.
