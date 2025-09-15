@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Filosofie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:54:11
+# Datum: 2025-09-15 22:58:25
 
-Úkol 1: Použijte filozofický koncept "existenciálního skepticismu" a popište, jak by se mohl vžít do role Sokrata, aby diskutoval s Platónem o otázkách existence a pravdy.
+Úkol 1: Analyzujte filozofické koncepci "skepse" a její význam pro vývoj moderního myšlení. Kriticky zkuste definovat, v čem spočívá skepsa a jak se projevuje v různých oblastech lidského poznání.
 
-Úkol 2: Analyzujte myšlenku "absolutního hodnotného objektivního realismu" podle Immanuela Kanta a popište, jak by se mohl vztahovat na současné etické diskuse.
+Úkol 2: Porovnejte a srovnávejte filozofické koncepce "materialismu" a "dualismu" v oblasti duše a těla. Zkuste identifikovat výhody a nevýhody obou koncepcí a diskutujte o jejich dopad na lidskou zkušenost.
 
-Úkol 3: Vyberte dva významné filozofické systémy (například Platón a Aristotelés) a porovnejte jejich pohledy na lidskou podstatu a její cíle.
+Úkol 3: Analyzujte filozofický pojem "účelnost" a jeho vztah k etice. Jaké jsou hlavní argumenty pro a proti účelnosti? Zkuste definovat, co znamená "účelnost" v kontextu lidského chování.
 
-Úkol 4: Zanalyzujte pojmy "svoboda vůle" a "svoboda volby" v kontextu filozofie Immanuela Kanta a podrobte je kritickému zkoumání.
+Úkol 4: Diskutujte o filozofické koncepci "existencialismu" a její vztah k lidské volbě. Zkuste definovat, co znamená "existencialismus" a jak se projevuje v lidském životě.
 
-Úkol 5: Diskutujte o problému "subjektivního rozporu" ve filozofii a popište, jak by se mohl vžít do role Reného Descarta, aby se zabýval otázkami existence a poznání.
+Úkol 5: Porovnejte a srovnávejte filozofické koncepce "utilitarismu" a "deontologie" v oblasti etiky. Zkuste identifikovat výhody a nevýhody obou koncepcí a diskutujte o jejich dopad na lidské chování.
 
-Úkol 6: Vyhledejte dva filozofické přístupy (například pragmatismus a existencialismus) a porovnejte jejich pohledy na lidskou existenci a její smysl.
+Úkol 6: Analyzujte filozofický pojem "pravdivost" a jeho vztah k jazyku. Jaké jsou hlavní argumenty pro a proti pravdivosti? Zkuste definovat, co znamená "pravdivost" v kontextu lidského poznání.
 
-Úkol 7: Použijte filozofický koncept "metafyzického skepticismu" a popište, jak by se mohl vžít do role David Hume, aby diskutoval o problémech metafyziky a jejího pojetí reality.
+Úkol 7: Diskutujte o filozofické koncepci "kritické teorie" a její vztah k sociálním vztahům. Zkuste definovat, co znamená "kritická teorie" a jak se projevuje v lidském prostředí.
 
-Úkol 8: Analyzujte myšlenku "postmoderní filozofie" a podrobte ji kritickému zkoumání, včetně jejího vztahu k filozofii a jejího vlivu na současné myšlení.
+Úkol 8: Porovnejte a srovnávejte filozofické koncepce "pragmatismu" a "realismu" v oblasti epistemologie. Zkuste identifikovat výhody a nevýhody obou koncepcí a diskutujte o jejich dopad na lidské poznání.
 
-Úkol 9: Vyberte tři významné filozofické systémy (například Aristotelés, Kant a Nietzsche) a porovnejte jejich pohledy na lidskou podstatu a její cíle v kontextu etiky.
+Úkol 9: Analyzujte filozofický pojem "úcta" a jeho vztah k etice. Jaké jsou hlavní argumenty pro a proti úctě? Zkuste definovat, co znamená "úcta" v kontextu lidského chování.
 
-Úkol 10: Diskutujte o problému "znalostní a pravdivostní jistoty" ve filozofii a popište, jak by se mohl vžít do role Georga Wilhelma Friedrich Hegela, aby se zabýval otázkami existence a absolutní pravdy.
+Úkol 10: Diskutujte o filozofické koncepci "postmodernismu" a její vztah k lidské zkušenosti. Zkuste definovat, co znamená "postmodernismus" a jak se projevuje v lidském životě.
