@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Algoritmy a datové struktury
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:29:13
+
+Úkol 1: Implementujte lineární vyhledávání v poli pomocí rekurentního průchodu. Porovnejte efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.
+
+Úkol 2: Vytvořte funkci, která vrátí index prvku v seznamu, pokud je tento prvek v seznamu. Použijte binární vyhledávání.
+
+Úkol 3: Implementujte dynamické zklidňování seznamu, aby se zmenšil jeho velikost, když jsou některé prvky odstraněny.
+
+Úkol 4: Použijte algoritmus Merge Sort, aby se řadilo pole. Porovnejte jeho efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.
+
+Úkol 5: Implementujte data strukturu Set, která obsahuje pouze unikátní prvky. Použijte binární vyhledávání.
+
+Úkol 6: Implementujte data strukturu Stack nebo Queue pomocí dynamické zdrojové paměti. Použijte algoritmus Insert, Delete, Peek.
+
+Úkol 7: Použijte algoritmus Depth-First Search (DFS) nebo Breadth-First Search (BFS) na graf, který je uložen v poli navazů. Porovnejte jejich efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.
+
+Úkol 8: Implementujte data strukturu Heap, která umožňuje efektivně přidávat prvky a odečítat největší prvek. Použijte algoritmus Insert, Delete.
+
+Úkol 9: Použijte algoritmus K-D Tree, aby se rychle vyhledávaly entity v prostoru. Porovnejte jeho efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.
+
+Úkol 10: Implementujte data strukturu Trie, která umožňuje efektivně vyhledávat řetězce. Použijte algoritmus Insert, Search.

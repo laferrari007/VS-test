@@ -1,0 +1,140 @@
+# Řešení úkolů pro předmět: Algoritmy a datové struktury
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:29:13
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Rozpoznáváme, že máte před sebou dlouhé a náročné úkoly, abychom je dokončili, postupujte tímto způsobem:
+
+**Řešení 1: Implementujte lineární vyhledávání v poli pomocí rekurentního průchodu. Porovnejte efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.**
+
+Lineární vyhledávání je algoritmus, který prochází po sobě následující prvky v seznamu, dokud nenajde požadovaný prvek nebo dosáhne konce seznamu. Rekurentní implementace znamená, že algoritmus bude volat sám sebe, dokud nebude splněna nějaká podmínka.
+
+```python
+def linearni_vyhledavani_rekurentni(pole, hledany_prvek, index=0):
+    # Pokud jsme dosáhli konce seznamu, hledaný prvek nebyl nalezen
+    if index == len(pole):
+        return -1
+    
+    # Porovnání aktuální hodnoty s hledaným prvkem
+    if pole[index] == hledany_prvek:
+        return index
+    
+    # Rekurentní volání pro další prvek
+    return linearni_vyhledavani_rekurentni(pole, hledany_prvek, index + 1)
+
+# Neefektivní verze
+def linearni_vyhledavani_neefektivni(pole, hledany_prvek):
+    for i in range(len(pole)):
+        if pole[i] == hledany_prvek:
+            return i
+    return -1
+```
+
+Výpočetní čas efektivní verze je O(n), kde n je délka seznamu. Neefektivní verze má stejný výpočetní čas O(n).
+
+**Řešení 2: Vytvořte funkci, která vrátí index prvku v seznamu, pokud je tento prvek v seznamu. Použijte binární vyhledávání.**
+
+Binární vyhledávání je algoritmus, který rozdělí seznam na dvě poloviny a vybere, která polovina může obsahovat hledaný prvek. Tento proces se opakuje, dokud se nenajde hledaný prvek nebo se nedosáhne konce seznamu.
+
+```python
+def binarni_vyhledavani(pole, hledany_prvek, dolni_pouziti=0, horni_pouziti=len(pole) - 1):
+    # Pokud jsme dosáhli konce seznamu, hledaný prvek nebyl nalezen
+    if dolni_pouziti > horni_pouziti:
+        return -1
+    
+    # Vypočítání indexu střední hodnoty
+    stredni_index = (dolni_pouziti + horni_pouziti) // 2
+    
+    # Porovnání střední hodnoty s hledaným prvkem
+    if pole[stredni_index] == hledany_prvek:
+        return stredni_index
+    
+    # Rozdělení seznamu na dvě poloviny
+    elif pole[stredni_index] < hledany_prvek:
+        return binarni_vyhledavani(pole, hledany_prvek, stredni_index + 1, horni_pouziti)
+    else:
+        return binarni_vyhledavani(pole, hledany_prvek, dolni_pouziti, stredni_index - 1)
+```
+
+Výpočetní čas binárního vyhledávání je O(log n), kde n je délka seznamu.
+
+**Řešení 3: Implementujte dynamické zklidňování seznamu, aby se zmenšil jeho velikost, když jsou některé prvky odstraněny.**
+
+Dynamické zklidňování seznamu je algoritmus, který snižuje velikost seznamu po odstranění některých prvků.
+
+```python
+class Seznam:
+    def __init__(self):
+        self.pole = []
+
+    def pridej(self, prvek):
+        self.pole.append(prvek)
+
+    def odejmi(self, prvek):
+        if prvek in self.pole:
+            self.pole.remove(prvek)
+
+    def zmensi_velikost(self):
+        self.pole = [prvek for prvek in self.pole if prvek != None]
+
+    def vrat_pole(self):
+        return self.pole
+```
+
+Výpočetní čas dynamického zklidňování seznamu je O(n), kde n je délka seznamu.
+
+**Řešení 4: Použijte algoritmus Merge Sort, aby se řadilo pole. Porovnejte jeho efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.**
+
+Algoritmus Merge Sort je efektivním způsobem, jak seřadit pole. Vyhodnocuje jednotlivé prvky pole a spojuje je do seřazených podpolí.
+
+```python
+def merge_sort(pole):
+    # Pokud je pole menší než 2 prvky, je již seřazené
+    if len(pole) < 2:
+        return pole
+    
+    # Rozdělení pole na dvě poloviny
+    stredni_index = len(pole) // 2
+    levá polovina = pole[:stredni_index]
+    pravá polovina = pole[stredni_index:]
+    
+    # Seřazení obou polovin
+    levá polovina = merge_sort(levá polovina)
+    pravá polovina = merge_sort pravá polovina)
+    
+    # Spojování seřazených polovin
+    return merge(levá polovina, pravá polovina)
+
+def merge(levá polovina, pravá polovina):
+    výsledný seznam = []
+    while levá polovina and pravá polovina:
+        if levá polovina[0] <= pravá polovina[0]:
+            výsledný seznam.append(levá polovina.pop(0))
+        else:
+            výsledný seznam.append(pravá polovina.pop(0))
+    výsledný seznam += levá polovina
+    výsledný seznam += pravá polovina
+    return výsledný seznam
+```
+
+Výpočetní čas Merge Sortu je O(n log n), kde n je délka seznamu. Neefektivní verze má stejný výpočetní čas O(n^2).
+
+**Řešení 5: Implementujte data strukturu Set, která obsahuje pouze unikátní prvky. Použijte binární vyhledávání.**
+
+Data struktura Set obsahuje pouze unikátní prvky a umožňuje jejich rychlé vyhledávání.
+
+```python
+class Set:
+    def __init__(self):
+        self.pole = []
+
+    def pridej(self, prvek):
+        if prvek not in self.pole:
+            self.pole.append(prvek)
+
+    def odejmi(self, prvek):
+        if prvek in self.pole:
+            self.pole.remove(prvek)
+
+    def obsahuje(self, prvek):
+        return prvek in self
