@@ -2,22 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:30:56
 
-Úkol 1: Vyberte vhodnou metriku pro hodnocení kvality kódu a zdůvodněte proč jste ji zvolili.
+Úkol 1: Navrhněte algoritmus pro vyhledávání binárního hledání v posloupnosti čísel. Dokumentujte kód a vysvětlete jeho funkci.
 
-Úkol 2: Zkuste implementovat krok překladače, který konvertuje kód z jednoho programovacího jazyka do jiného (například z Pythonu do Java).
+Úkol 2: Implementujte kód pro správu seznamu úkolů, který umožní přidávat, odstraňovat a upravovat úkoly. Použijte objektově orientovaný přístup a zajistěte, aby seznam úkolů byl přístupný a bezpečný.
 
-Úkol 3: Použijte principy designu UML (Unified Modeling Language) k navrhování a dokumentování softwarového systému.
+Úkol 3: Navrhněte a implementujte typizovanou třídu pro práci s daty o zaměstnancích. Zajistěte, aby třída obsahovala atributy jako jméno, příjmení, pozice a kontakt. Implementujte metod pro přidávání, odstraňování a úpravu záznamů.
 
-Úkol 4: Implementujte algoritmus pro vyhledávání binárních stromů a analyzujte jeho časovou a prostorovou složitost.
+Úkol 4: Použijte návrhový vzor Factory Method, aby vytvořila třídy pro práci s daty o produktech. Implementujte třídu Produkt, která bude obsahovat atributy jako název, popis a cena. Použijte návrhový vzor, aby se třída Produkt mohla použít pro různé typy produktů.
 
-Úkol 5: Vyberte vhodnou metodu pro testování softwarového systému (například unit testing, integration testing) a zdůvodněte proč jste ji zvolili.
+Úkol 5: Navrhněte a implementujte návrhový vzor Observer, aby zajišťoval aktualizaci dat o produktu při změně ceny. Použijte návrhový vzor, aby třída Produkt mohla informovat pozorovatele o změně ceny.
 
-Úkol 6: Použijte návrhový vzor Singleton k implementaci jediného instance třídy, která uchovává data o uživateli.
+Úkol 6: Použijte návrhový vzor Singleton, aby zajistila bezpečnou a přístupnou implementaci třídy pro práci s daty o uživatelích. Implementujte třídu Uživatelská data, která bude obsahovat atributy jako jméno, příjmení a přihlašovací údaje.
 
-Úkol 7: Implementujte algoritmus pro vyhledávání v řetězci pomocí prefixů a analyzujte jeho efektivní implementaci.
+Úkol 7: Navrhněte a implementujte návrhový vzor Command, aby umožnila provádění různých operací s úkoly v systému. Použijte návrhový vzor, aby třída Úkol mohla obsahovat seznam příkazů k provedení.
 
-Úkol 8: Použijte návrhový vzor Factory metod k implementaci třídy, která vrací různé instance objektů na základě vstupních parametrů.
+Úkol 8: Použijte návrhový vzor Adapter, aby umožnila práci s daty z různých zdrojů. Implementujte třídu Databáze, která bude obsahovat atributy jako název, typ a konfigurace. Použijte návrhový vzor, aby třída Databáze mohla být použita pro různé typy databází.
 
-Úkol 9: Implementujte algoritmus pro vyhledávání v grafu pomocí DFS (Deep-First Search) a BFS (Breadth-First Search), a porovnejte jejich časovou složitost.
+Úkol 9: Navrhněte a implementujte návrhový vzor Composite, aby umožnila práci s komplexními daty o produktu. Implementujte třídu Produkt, která bude obsahovat atributy jako název, popis a cena. Použijte návrhový vzor, aby třída Produkt mohla obsahovat seznam podproduktů.
 
-Úkol 10: Použijte návrhový vzor Observer k implementaci třídy, která umožňuje pozorovat změny stavu objektů a reagovat na ně adekvátně.
+Úkol 10: Použijte návrhový vzor Interpreter, aby umožnila vyhodnocení komplexních příkazů v systému. Implementujte třídu Příkaz, která bude obsahovat atributy jako název, popis a parametry. Použijte návrhový vzor, aby třída Příkaz mohla být použita pro různé typy příkazů.
