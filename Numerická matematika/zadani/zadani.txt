@@ -1,23 +1,25 @@
-# AI Generované zadání úkolů pro předmět: Numerická matematika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:04:43
+# Zadání úkolů pro předmět: Numerická matematika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:17:48
 
-Úkol 1: Základní úkol z předmětu Numerická matematika - úroveň 1
+Sem Vám poskytnu 10 univerzitních úkolů pro předmět "Numerická matematika":
 
-Úkol 2: Základní úkol z předmětu Numerická matematika - úroveň 2
+Úkol 1: Implementujte algoritmus pro aproximaci funkce pomocí Newtonovy metody pro řešení úloh s jedním neznámým, přičemž jako vstupní funkce použijte funkční předpis x^2 - 2.
 
-Úkol 3: Základní úkol z předmětu Numerická matematika - úroveň 3
+Úkol 2: Použijte metodu konečných prvků k aproximaci řešení úlohy pocházející z diferenciálního rovnice 2*y' + y = 0 na intervalu [0, 1] s počátečním podmínce y(0) = 1.
 
-Úkol 4: Základní úkol z předmětu Numerická matematika - úroveň 4
+Úkol 3: Implementujte algoritmus pro numerickou integraci funkce pomocí kvadratury Simpsonovy pro funkci f(x) = sin(x) na intervalu [0, π] s přesností 0,001.
 
-Úkol 5: Základní úkol z předmětu Numerická matematika - úroveň 5
+Úkol 4: Použijte metodu konečných prvků k aproximaci řešení úlohy pocházející z parciální diferenciální rovnice ∂u/∂t = k * (∂²u/∂x²) s počáteční podmínkou u(0, x) = sin(x) a hranicemi u(0, t) = u(1, t) = 0 pro t > 0 za k = 0,1.
 
-Úkol 6: Základní úkol z předmětu Numerická matematika - úroveň 6
+Úkol 5: Implementujte algoritmus pro numerickou aproximaci řešení úlohy s více neznámými pomocí metody mocnin a řešte systém lineárních rovnic x + 2*y = 4 a 3*x + y = 5.
 
-Úkol 7: Základní úkol z předmětu Numerická matematika - úroveň 7
+Úkol 6: Použijte implicitní Eulerovu metodu k aproximaci řešení úlohy ∂u/∂t = f(u, x, t) s počáteční podmínkou u(0, x) = sin(x) a hranicemi u(0, t) = u(1, t) = 0 pro t > 0.
 
-Úkol 8: Základní úkol z předmětu Numerická matematika - úroveň 8
+Úkol 7: Implementujte algoritmus pro numerickou integraci funkce pomocí metody Trapeziových tvarů pro funkci f(x) = e^(-x) na intervalu [0, 2] s přesností 0,0001.
 
-Úkol 9: Základní úkol z předmětu Numerická matematika - úroveň 9
+Úkol 8: Použijte metodu konečných prvků k aproximaci řešení úlohy pocházející z parciální diferenciální rovnice ∂²u/∂x² + ∂²u/∂y² = 0 s počáteční podmínkou u(x, 0) = sin(x) a hranicemi u(0, y) = u(π, y) = 0 pro y > 0.
 
-Úkol 10: Základní úkol z předmětu Numerická matematika - úroveň 10
+Úkol 9: Implementujte algoritmus pro numerickou aproximaci řešení úlohy s více neznámými pomocí metody mocnin a řešte systém lineárních rovnic 2*x + 3*y = 7 a x - 2*y = -3.
+
+Úkol 10: Použijte metodu konečných prvků k aproximaci řešení úlohy pocházející z diferenciálního rovnice y' = f(x, y) s počátečním podmínačem y(0) = 1 a hranicí y(x) = 0 pro x > 0.
