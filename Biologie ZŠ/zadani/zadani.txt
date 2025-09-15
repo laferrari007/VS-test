@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Biologie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:23:00
+# Datum: 2025-09-15 21:47:58
 
-Úkol 1: Popiš funkci fotosyntézy a udělej schéma, jakým způsobem probíhá přeměna světelné energie na chemickou energii.
+Úkol 1: Základní úkol z předmětu Biologie ZŠ - úroveň 1
 
-Úkol 2: Vymaluj diagram pokroku v rozvoji biologické klasifikace od Aristotela po současnost.
+Úkol 2: Základní úkol z předmětu Biologie ZŠ - úroveň 2
 
-Úkol 3: Uveď 5 příkladů zvířat, která se vyvinula z vodního prostředí na suchozemské prostředí, a vysvětlěj proces této evoluční adaptace.
+Úkol 3: Základní úkol z předmětu Biologie ZŠ - úroveň 3
 
-Úkol 4: Popiš rozdíl mezi fyziologickým a anatomickým stavem organismu a udělej příklady, jak se tyto pojmy liší.
+Úkol 4: Základní úkol z předmětu Biologie ZŠ - úroveň 4
 
-Úkol 5: Vysvětlěj rozdíl mezi monofyletickými a polyfyletickými skupinami organismů a udělej příklad na podporu svých slov.
+Úkol 5: Základní úkol z předmětu Biologie ZŠ - úroveň 5
 
-Úkol 6: Vymaluj diagram, jakým způsobem probíhá přemena jednoduchých cukrů na komplexní bílkoviny v buňce.
+Úkol 6: Základní úkol z předmětu Biologie ZŠ - úroveň 6
 
-Úkol 7: Popiš roli mitochondrií v procesu buněčné respirace a udělej schéma, jakým způsobem probíhá přenos elektronů v řetězci elektronového transportu.
+Úkol 7: Základní úkol z předmětu Biologie ZŠ - úroveň 7
 
-Úkol 8: Udělej přehled a srovnání mezi hlavními typy fotosyntetických rostlinných buněk (chloroplasty, chromoplasty, leukoplasty) a jejich funkcemi.
+Úkol 8: Základní úkol z předmětu Biologie ZŠ - úroveň 8
 
-Úkol 9: Vysvětlěj principy a mechanismy buněčného cyklu a udělej schéma, jakým způsobem probíhá proces fáze G1, S a G2.
+Úkol 9: Základní úkol z předmětu Biologie ZŠ - úroveň 9
 
-Úkol 10: Popiš rozdíl mezi genetickou a epigenetickou regulací a udělej příklady, jak se tyto pojmy liší v různých organizmy.
+Úkol 10: Základní úkol z předmětu Biologie ZŠ - úroveň 10

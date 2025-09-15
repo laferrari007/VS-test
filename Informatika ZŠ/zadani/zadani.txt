@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Informatika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:23:09
+# Datum: 2025-09-15 21:48:14
 
-Úkol 1: Napište program, který zobrazí vaši jméno a roční stupeň na obrazovce.
+Úkol 1: Napište stručné popisek funkce `vypisTabulku` v programu vybrané programovacího jazyka (např. Python). Funkce by měla vypsat tabulku s názvy dní v týdnu.
 
-Úkol 2: Použijte algoritmus, který vypíše všechny čísla od 1 do 100, které jsou dělitelné jak 3, tak 5.
+Úkol 2: Vytvořte program, který zobrazí počet dní v měsíci. Program by měl mít možnost zadat název měsíce a vrátit počet dní v měsíci. Použijte programovací jazyk Python.
 
-Úkol 3: Stvořte program, který spočítá a vypíše součet všech čísel od 1 do 100.
+Úkol 3: Napište program, který získá vstupní údaje o jménu a věku uživatele a poté vypíše jeho jméno a věk. Použijte programovací jazyk Python.
 
-Úkol 4: Použijte cykly a podmínky, aby program na obrazovce vypsal všechny prvočísla od 1 do 20.
+Úkol 4: Vytvořte program, který na základě vstupních údajů o ročním příjmu uživatele určí jeho daňový základ. Použijte programovací jazyk Python a předpokládejte, že daňový základ je 15% ročního příjmu.
 
-Úkol 5: Napište program, který bude ptát uživatele na své jméno a poté ho přivítá a požádá o zadání věku. Pokud je uživatel mladší 18 let, vypíše program informaci, že uživatel je dítě.
+Úkol 5: Napište program, který bude řešit úlohu "Kamenný most". Uživatel zadá délku kamenného mostu a rychlost auta, které jej překonává. Program by měl vypsat, zda auto projde mostem a kolikrát se bude muset zbrzdit.
 
-Úkol 6: Použijte podmínky a cykly, aby program na obrazovce vypsal všechny měsíce roku, v nichž je 31 dní.
+Úkol 6: Vytvořte program, který generuje náhodné čísla od 1 do 100 a následně je seřazení v abecedním rázu. Použijte programovací jazyk Python.
 
-Úkol 7: Stvořte program, který spočítá a vypíše průměrnou hodnotu čísel od 1 do 100.
+Úkol 7: Napište program, který bude řešit úlohu "Hodiny". Uživatel zadá počet hodin, minut a sekund. Program by měl vypsat čas v hodinách, minutách a sekundách.
 
-Úkol 8: Použijte cykly a podmínky, aby program na obrazovce vypsal všechny čísla od 1 do 100, které jsou větší než 50.
+Úkol 8: Vytvořte program, který simuluje hru "Kamenné kruhy". Uživatel zadá počet hráčů a počáteční množství peněz. Program by měl simulovat hru a vypsat, kdo vyhrál.
 
-Úkol 9: Napište program, který bude ptát uživatele na jejich oblíbenou barvu a poté ho pozdraví a požádá o zadání čísla. Pokud je číslo kladné, vypíše program informaci, že číslo je kladné.
+Úkol 9: Napište program, který bude řešit úlohu "Cesta do školy". Uživatel zadá vzdálenost od domu do školy a rychlost kola. Program by měl vypsat, jak dlouho bude trvat dojít do školy.
 
-Úkol 10: Použijte podmínky a cykly, aby program na obrazovce vypsal všechny dny v týdnu, v nichž je pondělí.
+Úkol 10: Vytvořte program, který bude řešit úlohu "Hledání prázdného místa". Uživatel zadá délku řetězce a program by měl nalezení prvního prázdného místa (bez znaku). Použijte programovací jazyk Python.

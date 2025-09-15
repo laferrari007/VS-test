@@ -1,70 +1,24 @@
 # AI Generované řešení úkolů pro předmět: Fyzika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:22:36
+# Datum: 2025-09-15 21:47:30
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Definice pojmu "síla" ve fyzice
+Řešení 1: Základní řešení úkolu 1 z předmětu Fyzika ZŠ
 
-Síla je fyzikální veličina, která popisuje působení na objekt nebo hmotu, které změní jeho pohybové charakteristiky, jako je rychlost, pozice nebo křivá rychlost. Síla je obvykle označována symbolem F a má jednotku newtonů (N). Síla je často měřena podle jejího účinku na hmotu, tj. podle změny její rychlosti nebo pozice.
+Řešení 2: Základní řešení úkolu 2 z předmětu Fyzika ZŠ
 
-Řešení 2: Vypočítání hmotnosti objektu o velikosti 2 x 2 cm a výšce 5 cm, pokud má objem 20 cm³
+Řešení 3: Základní řešení úkolu 3 z předmětu Fyzika ZŠ
 
-Ke vypočítání hmotnosti objektu potřebujeme znát jeho objem a hustotu. Hustota je definována jako hmotnost objemu za jednotku objemu. Obvyklá hustota některých materiálů je následující:
+Řešení 4: Základní řešení úkolu 4 z předmětu Fyzika ZŠ
 
-- Hmotnost dřeva: 500-800 kg/m³
-- Hmotnost olova: 11 300 kg/m³
-- Hmotnost zlata: 19 300 kg/m³
+Řešení 5: Základní řešení úkolu 5 z předmětu Fyzika ZŠ
 
-Zadáno, že objem objektu je 20 cm³, tj. 20 x 10⁻⁶ m³ (převod z cm³ na m³), a výška je 5 cm, tj. 0,05 m, a délka je 2 cm, tj. 0,02 m a šířka je 2 cm, tj. 0,02 m.
+Řešení 6: Základní řešení úkolu 6 z předmětu Fyzika ZŠ
 
-Objem = délka × šířka × výška = 0,02 m × 0,02 m × 0,05 m = 20 x 10⁻⁶ m³
+Řešení 7: Základní řešení úkolu 7 z předmětu Fyzika ZŠ
 
-Pokud použijeme hustotu dřeva, tj. 600 kg/m³ (přibližná hodnota mezi 500-800 kg/m³), můžeme vypočítat hmotnost objektu:
+Řešení 8: Základní řešení úkolu 8 z předmětu Fyzika ZŠ
 
-hmotnost = objem × hustota = 20 x 10⁻⁶ m³ × 600 kg/m³ = 0,012 kg
+Řešení 9: Základní řešení úkolu 9 z předmětu Fyzika ZŠ
 
-Protože hmotnost objektu je velice malá, můžeme ji přibližně zaokrouhlit na 0,012 kg nebo 12 g.
-
-Řešení 3: Rozdíl mezi mechanickým a termodynamickým pojetím pohybu
-
-Mechanické pojetí pohybu se zabývá pohybem objektů v prostoru a jejich změnou pozice v čase. To se týká zejména pohybu objekty za vznáším, tj. pohybu pod vlivem sil, jako je gravitace, elektromagnetismus nebo plynulost. Mechanické pojetí pohybu popisuje pohyb objektů na mikro a makro úrovni.
-
-Termodynamické pojetí pohybu se zabývá pohybem tepelných energií v systému a jeho změnou vnitřní energie. To se týká zejména pohybu tepla, tj. přenosu tepelné energie z jednoho místa na jiné. Termodynamické pojetí pohybu popisuje pohyb systémů na mikro a makro úrovni.
-
-Rozdíl mezi mechanickým a termodynamickým pojetím pohybu spočívá v tom, že mechanické pojetí pohybu se zabývá pohybem objektů v prostoru a jejich změnou pozice v čase, zatímco termodynamické pojetí pohybu se zabývá pohybem tepelných energií v systému a jeho změnou vnitřní energie.
-
-Řešení 4: Vypočítání rychlosti objektu, který se pohybuje po kruhu o poloměru 10 m za 15 sekund
-
-Ke vypočítání rychlosti objektu potřebujeme znát poloměr kruhu a čas, během kterého objekt urazí určitou vzdálenost. Rychlost je definována jako změnu vzdálenosti za jednotku času.
-
-Rychlost = vzdálenost / čas
-
-Poloměr kruhu je dán znakem R a vzdálenost, kterou objekt urazí za 15 sekund, je rovna poloměru kruhu. Protože rychlost je konstantní, můžeme ji vypočítat:
-
-rychlost = vzdálenost / čas = R / (15 s) = 10 m / 15 s = 0,667 m/s
-
-Protože rychlost je vektorová veličina, můžeme ji také zapsat jako:
-
-rychlost = R / T (kde T je čas)
-
-Řešení 5: Rozdíl mezi gravitační silou a gravitační zatahovací silou
-
-Gravitační síla je síla, která působí mezi dvěma objekty, které mají hmotnost. Gravitační síla je definována jako:
-
-Fg = (G × m1 × m2) / r² (kde G je gravitační konstanta, m1 a m2 jsou hmotnosti objektů a r je vzdálenost mezi nimi)
-
-Gravitační zatahovací síla je síla, která působí na objekt, který je v poli gravitační síly. Gravitační zatahovací síla je definována jako:
-
-Fzt = (G × m1 × m2) / r² (kde G je gravitační konstanta, m1 a m2 jsou hmotnosti objektů a r je vzdálenost mezi nimi)
-
-Rozdíl mezi gravitační silou a gravitační zatahovací silou spočívá v tom, že gravitační síla popisuje sílu, která působí mezi dvěma objekty, zatímco gravitační zatahovací síla popisuje sílu, která působí na objekt v poli gravitační síly.
-
-Řešení 6: Vypočítání silových sil, které působí na vozidlo o hmotnosti 1500 kg, pokud je umístěno na svištivce a brzdi se po skále o úhlu 30°
-
-Ke vypočítání silových sil, které působí na vozidlo, potřebujeme znát hmotnost vozidla, úhel skály a hmotnost svištivce. Silové síly, které působí na vozidlo, jsou součtem sil, které působí na vozidlo vzhledem k hmotnosti svištivce a hmotnosti vozidla.
-
-F = m × g × sin(α) (kde m je hmotnost vozidla, g je gravitační zrychlení a α je úhel skály)
-
-F = 1500 kg × 9,81 m/s² × sin(30°) = 1500 kg × 9,81 m/s² × 0,5 = 7350 N
-
-Protože silové síly, které působí na vozidlo, jsou souč
+Řešení 10: Základní řešení úkolu 10 z předmětu Fyzika ZŠ

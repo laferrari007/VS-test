@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Zeměpis
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:22:30
+# Datum: 2025-09-15 21:47:17
 
-Úkol 1: Vypořádejte se s mapovou legendou dané Evropy. Zvýrazněte hlavní zeměpisné prvky (pohoří, řeky, pobřeží apod.) a vysvětlete jejich význam.
+Úkol 1: Seznamte se s konceptem geografické informace a popsali, jakým způsobem je používáno v moderní geografii.
 
-Úkol 2: Porovnejte klimatické podmínky v tropických a mírných zeměpisných pásmech. Jaké jsou hlavní rozdíly a podobnosti mezi těmito pásmy?
+Úkol 2: Porovnejte a srovnajte dva různé typy klimatických zón (například tropický a kontinentální) a diskutujte, jak se liší v rámci geografických podmínek.
 
-Úkol 3: Použitím geografických informací ovahejte, zda je Evropa nebo Afrika geograficky zajímavější kontinent. Zkuste doložit svůj názor několika příklady.
+Úkol 3: Zpracujte mapu a identifikujte a definujte hlavní geografické prvky v daném regionu (například řeky, hory, moře).
 
-Úkol 4: Mapou zachyťte hlavní charakteristiky vnitrozemské Francie. Vyjasněte, proč je Francie považována za geograficky zajímavý kontinent.
+Úkol 4: Analyzujte a interpretujte data vztahující se ke změnám klimatu na Zemi, a diskutujte o dopadům na lidské společnosti.
 
-Úkol 5: Vypořádejte se s pojmem globální znečišťování ovzduší a jeho příčiny. Zkuste vyčíslit míru účinnosti různých metod ochrany ovzduší.
+Úkol 5: Zpracujte geografický portrét daného státu (například ekonomické, demografické, politické) a hodnotíte jeho integraci do mezinárodního systému.
 
-Úkol 6: Porovnejte přírodní zdroje a možnosti jejich využití v Asii a Africe. Zkuste doložit svůj názor několika příklady.
+Úkol 6: Zpracujte projekt týkající se geografického výzkumu daného regionu (například studium rozvoje měst, vlivu lidského faktoru na přírodní prostředí).
 
-Úkol 7: Použitím geografických informací ovahejte, zda je moře nebo voda důležitější pro lidský život. Zkuste doložit svůj názor několika příklady.
+Úkol 7: Analyzujte a porovnejte ekonomické regiony na základě jejich geografických charakteristik (například přírodní zdroje, obchod, cestovní ruch).
 
-Úkol 8: Mapou a dalšími zdroji vyhledejte a analyzujte hlavní příčiny a následky sucha v Africe. Jaké jsou hlavní dopady sucha na lidské komunity v Africe?
+Úkol 8: Vypracujte studijní případ o vlivu geografických faktorů na ekonomický rozvoj daného státu nebo regionu.
 
-Úkol 9: Vypořádejte se s pojmem globální oteplování a jeho příčiny. Zkuste vyčíslit míru účinnosti různých metod boje proti globálnímu oteplování.
+Úkol 9: Zpracujte geografickou studii dopadů přírodních katastrof (například zemětřesení, povodně, hurikány) na lidskou společnost (ekonomické, sociální, politické dopady).
 
-Úkol 10: Použitím geografických informací a dalších zdrojů vybudujte argumentaci pro či proti tomu, zda je lepší život na moři nebo na zemi. Zkuste doložit svůj názor několika příklady.
+Úkol 10: Vypracujte komplexní analýzu vztahu mezi geografickými faktory a lidským životem (ekonomické, politické, sociální) v daném regionu, s důrazem na mezinárodní souvislosti.

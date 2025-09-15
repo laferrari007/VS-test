@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Vlastivěda
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:21:56
+# Datum: 2025-09-15 21:46:34
 
-Úkol 1: Nápisy na památnících v ČR. Seznamte se s některými z nich a popište jejich význam a historický kontext.
+Úkol 1: Základní úkol z předmětu Vlastivěda - úroveň 1
 
-Úkol 2: Porovnejte dvě historické mapy ČR z různých období (např. 1. světová válka a 2. světová válka). Pro které události a změny v geografii ČR byly mapy pozměněny?
+Úkol 2: Základní úkol z předmětu Vlastivěda - úroveň 2
 
-Úkol 3: Seznamte se s jedním z významných historických osobností ČR (např. Jan Žižka, Albrecht z Valdštejna nebo Karel IV.). Popište jejich hlavní životní události a jejich vliv na vývoj ČR.
+Úkol 3: Základní úkol z předmětu Vlastivěda - úroveň 3
 
-Úkol 4: Analyzujte roli křesťanství v českých dějinách. Jaké byly jeho počátky a jak se šířil po celém území? Můžete zmínit nějaký významný křesťanský řád v ČR?
+Úkol 4: Základní úkol z předmětu Vlastivěda - úroveň 4
 
-Úkol 5: Rozhodněte se o tom, zda je pravda, že česká kultura má blíže k německé nebo k rakouské kultuře. Zbývá vám vybrat tři významné kulturní instituce v ČR (například Národní divadlo, Galerie umění nebo Knihovna v Praze) a vysvětlit, proč máte svůj názor.
+Úkol 5: Základní úkol z předmětu Vlastivěda - úroveň 5
 
-Úkol 6: Vysvětlujte roli českých králů na začátku 13. století. Jaké byly jejich cíle a jak se snažili ovládnout území ČR?
+Úkol 6: Základní úkol z předmětu Vlastivěda - úroveň 6
 
-Úkol 7: Seznamte se s některými z nejvýznamnějších historických souborů umění v ČR (například gotické klenby, renesanční architektura nebo barokní sochařství). Popište jejich charakteristické rysy a historický kontext.
+Úkol 7: Základní úkol z předmětu Vlastivěda - úroveň 7
 
-Úkol 8: Porovnejte dvě historické události v ČR, které měly podobný dopad na společnost (například Velká morová epidemie a Velká hospodářská krize). Jak se liší jejich příčiny a následky?
+Úkol 8: Základní úkol z předmětu Vlastivěda - úroveň 8
 
-Úkol 9: Seznamte se s některými z nejdůležitějších historických právních dokumentů v ČR (například Magna Charta nebo Velká deklarace práv). Popište jejich význam a vliv na vývoj práva v ČR.
+Úkol 9: Základní úkol z předmětu Vlastivěda - úroveň 9
 
-Úkol 10: Analyzujte roli českých dějin v kontextu evropských dějin. Jak se ČR vyrovnala s vlivem dalších evropských zemí a jak se od nich odlišila?
+Úkol 10: Základní úkol z předmětu Vlastivěda - úroveň 10

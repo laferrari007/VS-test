@@ -1,25 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Matematika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:21:21
+# Datum: 2025-09-15 21:45:36
 
-zde jsou 10 univerzitních úkolů pro předmět "Matematika ZŠ":
+Úkol 1: Rozpočítáme si 12 koláčů mezi 4 kamarády tak, aby každý dostal stejný počet koláčů. Kolik koláčů dostanou na každého?
 
-Úkol 1: Vypočítej počet koulí, které je možné umístit do krabičky o rozměrech 5 cm x 5 cm x 5 cm, pokud je průměr každé koule 2 cm.
+Úkol 2: Vybavte si, že máte 15 štítků, a chcete je rozdělit do tří skupin. Kolik štítků dostanou do každé skupiny?
 
-Úkol 2: Najdi délku strany čtverce, jehož obsah je 16 cm².
+Úkol 3: Můžeme mít 18 kuliček do hracího kostky, které jsou rozděleny do tří barev. Počet kuliček ve všech třech barevách je stejný. Kolika kuliček bude ve každé barevné skupině?
 
-Úkol 3: Vypočítej počet čtverců o straně 4 cm, které se vejí do čtahu čtverců o straně 6 cm.
+Úkol 4: Chcete rozdělit 24 šálky mezi čtyři kolegy tak, aby každý dostal stejný počet šálek. Kolik šálek dostanou do každého šálku?
 
-Úkol 4: Najdi délku diagonálu čtverce o straně 5 cm.
+Úkol 5: Do tří skřínek chcete uložit 27 kuliček do hracího kostky. Počet kuliček ve všech třech skříňkách je stejný. Kolik kuliček bude ve každé skříňce?
 
-Úkol 5: Vypočítej objem koule o průměru 4 cm.
+Úkol 6: 36 balíčků cukrovinek chcete rozdělit do čtyř skupin tak, aby každá skupina dostala stejný počet balíčků. Kolik balíčků dostanou do každé skupiny?
 
-Úkol 6: Najdi obsah trojúhelníka s bokem 5 cm a výškou 6 cm.
+Úkol 7: Máme 48 kuliček do hracího kostky, které chcete rozdělit do tří barev. Počet kuliček ve všech třech barevách je stejný. Kolik kuliček bude ve každé barevné skupině?
 
-Úkol 7: Vypočítej délku strany čtverce, jehož obsah je 36 cm² a jehož stranou je také délka strany dalšího čtverce.
+Úkol 8: Chcete rozdělit 54 šálky mezi čtyři kolegy tak, aby každý dostal stejný počet šálek. Kolik šálek dostanou do každého šálku?
 
-Úkol 8: Najdi délku vzdálenosti mezi dvěma body na rovině, které jsou vzdáleny 5 metrů od středu čtverce o straně 8 metrů.
+Úkol 9: Do tří skřínek chcete uložit 63 kuliček do hracího kostky. Počet kuliček ve všech třech skříňkách je stejný. Kolik kuliček bude ve každé skříňce?
 
-Úkol 9: Vypočítej objem válce o průměru 5 cm a výšce 10 cm.
-
-Úkol 10: Najdi délku strany čtverce, jehož obsah je 25 cm² a jehož stranou je také délka strany jiného čtverce o stranách 3 cm a 4 cm.
+Úkol 10: 72 balíčků cukrovinek chcete rozdělit do čtyř skupin tak, aby každá skupina dostala stejný počet balíčků. Kolik balíčků dostanou do každé skupiny?

@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:21:34
+# Datum: 2025-09-15 21:46:06
 
-Úkol 1: Najděte a udělejte překlad anglického slova "hello" do češtiny a vysvětlete jeho význam.
+Úkol 1: Nápověda: Přepište do češtiny následující anglický text: "The sun was shining brightly in the clear blue sky, making the trees look very green."
 
-Úkol 2: Seznamte se s typy anglických sloves (dynamické, statické, přechodníkové) a udělejte příklad pro každé z nich.
+Úkol 2: Analýza: Porovnejte a vysvětlujte rozdíly mezi následujícími dvěma větami: "I went to the store to buy some milk" a "The store is where I bought some milk." 
 
-Úkol 3: Analyzujte anglický text "The road not taken" autora Roberta Frosta a odůvodněte, zda je interpretován jako oslavný nebo kritický k rozhodnutí.
+Úkol 3: Úprava: Změňte časování slovesa "to go" v následujících větách: "Yesterday, I went to the beach. Today, I will..." a "Last week, my friend went to Paris. Next month, she will..."
 
-Úkol 4: Učte se o pojmu "passive voice" v angličtině a udělejte pár větných konstrukcí, které ilustrují jeho použití.
+Úkol 4: Překlad: Přepište do angličtiny následující český text: "Jeho jméno bylo Jan a pracoval jako učitel."
 
-Úkol 5: Přeložte a interpretujte anglický text o tématu "environmentalism" a diskutujte, zda je relevantní také v současné době.
+Úkol 5: Diskuze: Diskutujte a vysvětlete rozdíl mezi následujícímmi dvěma pojmy: "dokázat" a "dokázat něco udělat".
 
-Úkol 6: Studujte a rozkládáte příklad anglického textu s komplexní strukturou a vysvětlíte, jak funguje v rámci celé věty.
+Úkol 6: Rozbor: Rozložte a vysvětlete strukturu následujících vět: "Vždycky jsem chtěl cestovat do Evropy." a "Jsem ráda, že jsem mohla cestovat po Japonsku."
 
-Úkol 7: Rozlišujte mezi synonymy "big" a "large" v angličtině a udělejte překlad textu, který ilustruje jejich použití v různých kontextech.
+Úkol 7: Úprava: Změňte časování slovesa "to be" v následujících větách: "If I were rich, I would buy a house in the countryside." a "When I am older, I will have..."
 
-Úkol 8: Přečtěte si anglický text "The American Dream" a diskutujte, zda je stále relevantní v současnosti a jak se projevuje v různých aspektech americké společnosti.
+Úkol 8: Analytická práce: Analyzujte a vysvětlujte funkce následujících částí věty: "Protože", "ačkoli" a "ať".
 
-Úkol 9: Analyzujte anglický text "The Stranger" autora Albert Camuse a rozložte jeho strukturu, včetně přechodů a vazeb mezi větami.
+Úkol 9: Komparace: Porovnejte a vysvětlujte rozdíly mezi následujícímmi dvěma typey srovnávacích vět: "X je lepší než Y" a "X je více lepší než Y".
 
-Úkol 10: Učte se o pojmu "figurative language" v angličtině a vyberte příklady, které ilustrují jeho použití v různých stylových oblastech.
+Úkol 10: Výzkum: Vyberte a popište tři různé typy anglických přísloví, které se používají k popisu rychlosti, a vysvětlujte jejich rozdíly.

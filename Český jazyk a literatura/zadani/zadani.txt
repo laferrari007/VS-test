@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Český jazyk a literatura
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:21:28
+# Datum: 2025-09-15 21:45:51
 
-Úkol 1: Vyberte dvě básně Petra Bezruče a porovnejte jejich strukturu a obsah. Jak se liší vzhledem k tématu a osobnímu projevu básníka?
+Úkol 1: Analyzujte význam a použití přísloví "Kdo se směje, ten se také plíží" v rámci českého jazyka a literatury. Zahrňte jeho výskyt v různých textech a vysvětlte, jak se vyjadřuje k lidským chováním.
 
-Úkol 2: Analyzujte významový kontext slova "černý" v české literatuře 19. století. Jak se slovo používá v dílech různých autorů a jak se to odrazuje v jejich postojích k člověku, společnosti a historii?
+Úkol 2: Vyberte jednu z básní Petra Bezruče a rozežmjete její strukturu, jazykové prostředky a poetický styl. Vysvětlte, jak se autor vyjadřuje k tématu národní identity.
 
-Úkol 3: Vyberte jeden román od Bohumila Hrabala a představte jeho hlavní protagonistu, včetně jeho charakterových rysů a psychologického profilu. Jak se protagonistův charakter vyvíjí během románu a jaký je jeho vztah k ostatním postavám?
+Úkol 3: Porovnejte a srovnajte dva různé překladové díla české literatury, například "Povídky malostranské" od Aloise Jiráska a "Malý princ" od Antoine de Saint-Exupéry v češtině. Zbysvětlujte, jak se zacházejí s kulturními a jazykovými rozdíly.
 
-Úkol 4: Porovnejte tři různé interpretace jednoho z děl Jana Nerudy (například básně "Květy"). Jak se interpretace liší podle různých teoretických přístupů a co to říká o významu a významovém rozsahu díla?
+Úkol 4: Zpracujte analytický článek o jednom z českých autorů, jako například Karlu Čapkovi nebo Františku Halasovi. Zbysvětlujte jeho životní dráhu, literární styl a význam jeho děl pro českou literaturu.
 
-Úkol 5: Vyberte jednu z nejznámějších českých básní (například "Maj" od Jaroslava Vrchlického) a napište její analýzu z hlediska formální stránky. Jak se formální prvky (struktura, metrum, obrazovost) odrážejí v celkovém dojmu a významu básně?
+Úkol 5: Vyberte jedno ze staročeských děl, například "Kalevala" nebo "Staročeské povídky", a zanalyzujte jeho strukturu a jazykové prostředky. Vysvětlte, jak se vyjadřuje k tématu českého národního povědomí.
 
-Úkol 6: Analyzujte téma "člověk a příroda" v české literatuře 20. století. Jak se autorové (například Karel Čapek, Josef Škvorecký) vztahují k přírodě a jak se to odráží v jejich dílech?
+Úkol 6: Porovnejte a srovnajte dvě různé interpretace jednoho z českých literárních děl, například "Babička" od Boženy Němcové. Zbysvětlujte, jak se interpretace liší v závislosti na historickém a kulturním kontextu.
 
-Úkol 7: Vyberte jeden z děl Miroslava Krleži (například novela "Povratak Filipa Latinovića") a představte jeho postavy včetně jejich psychologického profilu a charakterových rysů. Jak se postavy vyvíjejí během díla a jaký je jejich vztah k ději a ostatním postavám?
+Úkol 7: Zpracujte eseji o tématu "Český národ v české literatuře". Zbysvětlujte, jak se národní identita vyjadřuje v různých literárních dílech a jak se mění v průběhu času.
 
-Úkol 8: Porovnejte vliv dvou různých literárních proudů (například realismus a symbolismus) na vývoj české literatury v 19. století. Jak se autorské postupy a tématy liší podle obou proudů a co to říká o společenském a kulturním kontextu té doby?
+Úkol 8: Vyberte jeden z českých autorů, který se zabýval tématem identity a národního povědomí, například Karel Hynek Mácha nebo Svatopluk Čech. Zanalyzujte jeho životní dráhu a literární díla a vysvětlujte, jak se vyjadřuje k tématu národní identity.
 
-Úkol 9: Vyberte jednu z nejznámějších českých literárních osobností (například Franz Kafka) a analyzujte její dílo z hlediska jeho sociálního a kulturního kontextu. Jak se Kafkaovo dílo vyvíjí v souvislosti s historickými událostmi a kulturními změnami té doby?
+Úkol 9: Porovnejte a srovnajte dvě různé teorie literárního vyprávění, například teorie narrativní struktury nebo teorie literárního jazyka. Zbysvětlujte, jak se teorie liší v závislosti na kulturním a historickém kontextu.
 
-Úkol 10: Napište esej o významu a významovém rozsahu české literatury 20. století. Jak se česká literatura vyvíjí v souvislosti s historickými událostmi a kulturními změnami té doby a jaký je její vztah k ostatním evropským literaturám?
+Úkol 10: Zpracujte disertaci o tématu "Český jazyk a literatura v kontextu evropské kultury". Zbysvětlujte, jak se český jazyk a literatura vyvíjely v rámci evropské kultury a jak se liší od ostatních literárních tradic.

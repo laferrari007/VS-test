@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Chemie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:22:45
+# Datum: 2025-09-15 21:47:45
 
-Úkol 1: Základní úkol z předmětu Chemie ZŠ - úroveň 1
+Úkol 1: Seznamte se s pojmy "látka", "živá substance" a "chemická látka". Zapište jejich definice a udělejte přehled, který obsahuje tyto pojmy.
 
-Úkol 2: Základní úkol z předmětu Chemie ZŠ - úroveň 2
+Úkol 2: Vypočtěte hmotnost jednoho atomu vodíku (H) a jednoho atomu kyslíku (O). Použijte data ze standardní tabulky atomových hmotností.
 
-Úkol 3: Základní úkol z předmětu Chemie ZŠ - úroveň 3
+Úkol 3: Seznamte se s periodickou tabulkou prvků. Přeneste prvky ze skupiny 1 (alkalické kovy) do samostatné tabulky a popište jejich hlavní charakteristiky.
 
-Úkol 4: Základní úkol z předmětu Chemie ZŠ - úroveň 4
+Úkol 4: Seznamte se s pojmy "sloučenina" a "chemická rovnice". Napište příklad chemické rovnice a vysvětlujte, co každý symbol v rovnici znamená.
 
-Úkol 5: Základní úkol z předmětu Chemie ZŠ - úroveň 5
+Úkol 5: Vypočtěte hmotnost jednoho molu vody (H2O) na základě hmotností jednoho atomu vodíku (H) a jednoho atomu kyslíku (O).
 
-Úkol 6: Základní úkol z předmětu Chemie ZŠ - úroveň 6
+Úkol 6: Seznamte se s pojmy "chemické reakce" a "reakční směs". Napište příklad chemické reakce a popište, jak je reakční směs vypočtena.
 
-Úkol 7: Základní úkol z předmětu Chemie ZŠ - úroveň 7
+Úkol 7: Seznamte se s pojmy "neodluštitelná látka" a "odluštitelná látka". Napište příklady obou typů látek a vysvětlujte, proč jsou považovány za odlišné.
 
-Úkol 8: Základní úkol z předmětu Chemie ZŠ - úroveň 8
+Úkol 8: Seznamte se s pojmy "chemická vazba" a "chemická reakce". Napište příklad chemické vazby a vysvětlujte, jak je spojen s chemickou reakcí.
 
-Úkol 9: Základní úkol z předmětu Chemie ZŠ - úroveň 9
+Úkol 9: Seznamte se s pojmy "chemické rovnice" a "reakční rovnice". Napište příklady obou typů rovnic a vysvětlujte, jak se liší.
 
-Úkol 10: Základní úkol z předmětu Chemie ZŠ - úroveň 10
+Úkol 10: Seznamte se s pojmy "termodynamika chemických reakcí" a "kinetika chemických reakcí". Napište stručné popisy obou pojmů a vysvětlujte, jak je důležité pro chemické reakce.

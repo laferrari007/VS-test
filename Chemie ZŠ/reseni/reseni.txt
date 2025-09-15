@@ -1,24 +1,101 @@
 # AI Generované řešení úkolů pro předmět: Chemie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:22:45
+# Datum: 2025-09-15 21:47:45
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Chemie ZŠ
+Řešení 1: Seznamte se s pojmy "látka", "živá substance" a "chemická látka". Zapište jejich definice a udělejte přehled, který obsahuje tyto pojmy.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Chemie ZŠ
+Látka je chemický nebo fyzikální objekt, který má své vlastní vlastnosti a charakteristiky. Livius Šťastný definoval látku jako "věc, která má své vlastní vlastnosti a charakteristiky".
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Chemie ZŠ
+Živá substance, také známá jako živočišná látka, je látka, která se tvoří v procesu fotosyntézy a je zdrojem energie pro většinu organismů na Zemi. Živá substance se skládá z vody, uhlíku, kyslíku a vodíku.
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Chemie ZŠ
+Chemická látka je látka, která se skládá z atomů a má své vlastní chemické vlastnosti. Chemické látky se dělí na neorganické a organické látky.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Chemie ZŠ
+Přehled:
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Chemie ZŠ
+- Látka: chemický nebo fyzikální objekt s vlastnostmi a charakteristikami.
+- Živá substance (živá látka): látka, která se tvoří v procesu fotosyntézy a je zdrojem energie pro většinu organismů.
+- Chemická látka: látka, která se skládá z atomů a má své vlastní chemické vlastnosti.
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Chemie ZŠ
+Řešení 2: Vypočtěte hmotnost jednoho atomu vodíku (H) a jednoho atomu kyslíku (O). Použijte data ze standardní tabulky atomových hmotností.
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Chemie ZŠ
+Standardní tabulka atomových hmotností uvádí, že atom vodíku (H) má hmotnost 1,00794 u, zatímco atom kyslíku (O) má hmotnost 15,9994 u. 
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Chemie ZŠ
+1 u (atomární hmotnost) je definován jako poloviční hmotnost izotopu olova-208.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Chemie ZŠ
+Vypočteme hmotnost jednoho atomu vodíku:
+
+hmotnost vodíku (H) = 1,00794 u
+
+Vypočteme hmotnost jednoho atomu kyslíku:
+
+hmotnost kyslíku (O) = 15,9994 u
+
+Řešení 3: Seznamte se s periodickou tabulkou prvků. Přeneste prvky ze skupiny 1 (alkalické kovy) do samostatné tabulky a popište jejich hlavní charakteristiky.
+
+Periodická tabulka prvků je seznam všech známých chemických prvků, uspořádaný podle jejich atomových hmotností a chemických vlastností. Prvky jsou rozděleny do skupin a period, kde skupiny odkazují na podobné chemické vlastnosti a period odkazují na podobné fyzikální vlastnosti.
+
+Prvky ze skupiny 1 (alkalické kovy) jsou:
+
+- Li (Lithium)
+- Na (Sodík)
+- K (Draslík)
+- Rb (Rubidium)
+- Cs (Caesium)
+- Fr (Francium)
+
+Hlavní charakteristiky alkalických kovů:
+
+- Jsou velmi reaktivní a snadno ztrácejí jeden nebo více elektronů.
+- Mají vysoké teploty tání a varu.
+- Jsou silně elektroudující.
+- Mají velké ionty, které se snadno rozpouštějí.
+
+Tabulka alkalických kovů:
+
+| Prvek | Symbol | At. hmotnost | Zajímavost |
+|---------|---------|--------------|--------------|
+| Lithium | Li | 6,94 | První alkalický kov |
+| Sodík | Na | 22,99 | Nejhojnější alkalický kov |
+| Draslík | K | 39,09 | Největší ionty |
+| Rubidium | Rb | 85,47 | Nejvyšší teplota tání |
+| Caesium | Cs | 132,91 | Nejvyšší teplota varu |
+| Francium | Fr | 223,02 | Nejmenší alkalický kov |
+
+Řešení 4: Seznamte se s pojmy "sloučenina" a "chemická rovnice". Napište příklad chemické rovnice a vysvětlujte, co každý symbol v rovnici znamená.
+
+Sloučenina je látka, která se skládá z dvou nebo více chemických prvků. Sloučeniny se dělí na neorganické a organické látky.
+
+Chemická rovnice je matematický výraz, který popisuje chemickou reakci. Chemická rovnice obsahuje symboly chemických prvků a sloučenin, které se účastní reakce.
+
+Příkladem chemické rovnice je:
+
+2H₂ + O₂ → 2H₂O
+
+Vysvětlení symbolů:
+
+- H₂: vodík (prvek)
+- O₂: kyslík (prvek)
+- H₂O: voda (sloučenina)
+
+V chemické rovnici "2H₂ + O₂ → 2H₂O" se uvádí, že dvě molekuly vodíku a jedna molekula kyslíku se kombinují za vzniku dvou molekul vody.
+
+Řešení 5: Vypočtěte hmotnost jednoho molu vody (H2O) na základě hmotností jednoho atomu vodíku (H) a jednoho atomu kyslíku (O).
+
+Standardní tabulka atomových hmotností uvádí, že atom vodíku (H) má hmotnost 1,00794 u, zatímco atom kyslíku (O) má hmotnost 15,9994 u.
+
+Voda (H₂O) se skládá z dvou atomů vodíku a jednoho atomu kyslíku. Molekula vody má hmotnost:
+
+hmotnost vodíku = 2 x 1,00794 u = 2,01588 u
+hmotnost kyslíku = 15,9994 u
+hmotnost vodíku (H₂O) = 2,01588 u + 15,9994 u = 18,01528 u
+
+Jedna molekula vodíku (H₂O) má hmotnost 18,01528 u. Jedna molekula vody (H₂O) je definována jako 2,01588 molu vodíku, který má hmotnost 18,01528 g.
+
+1 mol vodíku (H) má hmotnost 1,00794 g/mol
+1 mol kyslíku (O) má hmotnost 15,9994 g/mol
+
+Vypočteme hmotnost jednoho molu vodíku (H₂O):
+
+hmotnost vodíku (H₂O) = 2 x hmotnost vodíku (H) + hmotnost kyslíku (O)
+= 2 x 1,00794 g/mol + 15,9994 g/mol
