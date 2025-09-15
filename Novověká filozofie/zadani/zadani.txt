@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Novověká filozofie
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:58:30
+# Datum: 2025-09-15 23:58:34
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Novověká filozofie
 
