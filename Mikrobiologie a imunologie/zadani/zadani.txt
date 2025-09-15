@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Mikrobiologie a imunologie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:46:35
+
+Úkol 1: Popiš rozdíl mezi bakteriovým a archaeickým metabolizmem, s důrazem na unikátní vlastnosti archeí.
+
+Úkol 2: Seznam a charakterizuj nejčastější typy imunitních komplexů, které se účastní rozpoznání a neutralizace patogenů.
+
+Úkol 3: Srovnaj mechanismy bakteriální a virální adheze k hostitelským buňkám, včetně role adheznin a jejich úlohy v infekci.
+
+Úkol 4: Popiš roli cytokinů v imunitním systému a jejich role v regulaci imunitních odpovědí v reakci na infekci.
+
+Úkol 5: Vysvětle mechanismy aktivace a deaktivace neutrofilů v průběhu infekce a jejich vztah k antimikrobiálnímu odporu.
+
+Úkol 6: Seznam a charakterizujte různé typy bakteriálních virulentních faktorů a jejich mechanismy, které podporují infekci hostitelské tkáně.
+
+Úkol 7: Popiš rozdíl mezi akutní a chronickou infekcí a role imunitní soustavy v regulaci a zvládnutí těchto typů infekce.
+
+Úkol 8: Vysvětle procesy antigenové prezentace na MHC II molekulách a jejich vztah k aktivaci specifických T lymfocytů.
+
+Úkol 9: Seznam a charakterizujte různé typy komplementních proteinů a jejich mechanismy, které podporují odolnost organismu proti infekci.
+
+Úkol 10: Popiš a diskutujte o možnostech terapeutického využití mikrobiomů v léčbě imunologických poruch a chronických infekcí.
