@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Biologie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:42:31
+# Datum: 2025-09-15 22:53:27
 
-Úkol 1: Popiš rozdíl mezi rostlinami a živočichy na základě jejich buněčných struktur.
+Úkol 1: Popiš rozdíl mezi jednoduchými a složitými organizmy na Zemi. Uveď příklady obou typů.
 
-Úkol 2: Vyberte jeden typ organismu a popiš jeho životní cyklus, včetně rozmnožování a dospělosti.
+Úkol 2: Seznam si typy fotosyntézy a popiš jejich rozdíly. Uveď příklady rostlin, které tyto typy fotosyntézy využívají.
 
-Úkol 3: Porovnejte metabolické procesy fotosyntézy a respirace a vysvětlěj, proč jsou důležité pro život na Zemi.
+Úkol 3: Vymaluj diagram celkového procesu fotosyntézy a vysvětli jeho jednotlivé fáze.
 
-Úkol 4: Rostlinky rostliny mají 4 listy. Jakou roli hraje fotosyntéza u zdravých rostlin a jak se projevuje u rostlin s málo světla?
+Úkol 4: Popiš rozdíl mezi homeostázou a adaptací v rostlinách. Uveď příklady obou procesů.
 
-Úkol 5: Popiš rozdíl mezi homologními a analogovými strukturami v přírodě a udělej příklad každého.
+Úkol 5: Seznam si typy symbióz v přírodě a popiš jejich přínos pro organismy, které je vytvářejí.
 
-Úkol 6: Vyberte jeden typ mikroorganismu a popiš, jak se adaptuje na různé prostředí a jak je důležité pro naše zdraví.
+Úkol 6: Vymaluj diagram procesu rozmnožování rostlin pomocí semínek a vysvětli jeho jednotlivé fáze.
 
-Úkol 7: Porovnejte procesy rozvoje embrya u savců a ptáků a vysvětlěj, proč se liší.
+Úkol 7: Popiš rozdíl mezi endosymbiózou a eukaryotizací. Uveď příklady obou procesů v přírodě.
 
-Úkol 8: Rostliny potřebují vodu k růstu a rozvoji. Jaké jsou hlavní mechanismy, které rostliny používají k uchovávání vody?
+Úkol 8: Seznam si typy biorezonance a popiš jejich vliv na život na Zemi. Uveď příklady obou procesů.
 
-Úkol 9: Popiš rozdíl mezi genetickým a epigenetickým děděním a udělej příklad každého v přírodě.
+Úkol 9: Popiš rozdíl mezi vrozenými a získanými vlastnostmi v organismech. Uveď příklady obou procesů.
 
-Úkol 10: Vyberte jeden ekosystém a popiš, jak se organismy v něm vzájemně ovlivňují a jak se přizpůsobují měnícím se podmínkám.
+Úkol 10: Seznam si typy genetické diverzity a popiš jejich význam pro přežití organismů na Zemi. Uveď příklady obou procesů.
