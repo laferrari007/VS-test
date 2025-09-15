@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Oftalmologie
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:48:47
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:48:49
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Oftalmologie
+Úkol 1: Popiš rozdíl mezi primární a sekundární glaukomou a uveďte příklady jejich klinických projevů.
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Oftalmologie
+Úkol 2: Vyjmenťe hlavní typy strabismu a popište jejich příznaky a diagnostické postupy.
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Oftalmologie
+Úkol 3: Porovnejte mechanismy vzniku a léčbu sekretorické a vaskulární formy epiretinační membrány.
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Oftalmologie
+Úkol 4: Uveďte hlavní rizikové faktory pro vzniku diabetické retinopatie a popište její patofyziologii.
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Oftalmologie
+Úkol 5: Vyjmenťe typy katarakty a uveďte jejich hlavní příčiny a léčebné postupy.
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Oftalmologie
+Úkol 6: Popište mechanismy vzniku a léčbu amblyopie u dětí a dospělých.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Oftalmologie
+Úkol 7: Uveďte hlavní rozdíly mezi karcinomem a melanomem oční koule a popište jejich diagnostické postupy.
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Oftalmologie
+Úkol 8: Vyjmenťe hlavní typy očních infekcí a uveďte jejich hlavní příznaky a léčebné postupy.
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu Oftalmologie
+Úkol 9: Porovnejte mechanismy vzniku a léčbu sekundárního glaukomu způsobeného retinálním chorobám (NVD, NVE, RD).
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Oftalmologie
+Úkol 10: Uveďte hlavní rizikové faktory pro vzniku a rozvoj vaskulární choroby sítnice a popište její diagnostické a léčebné postupy.
