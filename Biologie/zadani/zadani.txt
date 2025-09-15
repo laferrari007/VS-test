@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Biologie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:52:32
+
+Úkol 1: Popište hlavní rozdíly mezi fotosyntézou v mořském a suchozemském prostředí. Jaké faktory ovlivňují účinnost fotosyntézy v těchto dvou prostředích?
+
+Úkol 2: Porovnejte metabolismus glukózy a glykogenu. Jaké jsou hlavní rozdíly mezi nimi a jak jsou důležité v rámci energetické bilance organismu?
+
+Úkol 3: Vysvětlte, jakým způsobem funguje mechanismus osmoregulace v rostlinách. Jaké molekulární mechanismy jsou zapojené do regulace osmotického tlaku v buňkách?
+
+Úkol 4: Popište proces syntézy bílkovin v eukaryotických buňkách. Jaké jsou role jednotlivých částí ribozomu a jak se syntéza bílkovin ovlivňuje vnějšími faktory?
+
+Úkol 5: Analyzujte vzájemné vztahy mezi mitochondriemi, endoplazmatickou retikulou a peroxisomy v eukaryotických buňkách. Jaké jsou hlavní funkce těchto orgánoidů a jak se spolupracují na úrovni buněčné metabolismu?
+
+Úkol 6: Popište proces specifické imunity v chráněném systému. Jak funguje rozpoznávání a eliminace patogenních organismů na úrovni imunitních buněk?
+
+Úkol 7: Vysvětlte, jakým způsobem funguje mechanismus vrozené imunity v organizmu. Jaké jsou role jednotlivých buněk imunitního systému a jak se vrozená imunita vyvine a přizpůsobuje se v průběhu života organismu?
+
+Úkol 8: Porovnejte fyziologický stav spánku a bdění v organismu. Jaké jsou hlavní rozdíly mezi těmito dvěma stavovými podmínkami a jak se navzájem ovlivňují na úrovni neuronální aktivity?
+
+Úkol 9: Analyzujte vzájemné vztahy mezi genetickými mutacemi, expresí genů a vývojovým procesem. Jakým způsobem genetické mutace ovlivňují vývoj organismu a jak se vyvíjí v průběhu embryogeneze?
+
+Úkol 10: Popište procesy buněčné differenciace a diferenciace. Jaké jsou hlavní faktory, které ovlivňují buněčnou diferenciaci a jak se vyvíjí na úrovni buněčné metabolismu a genetické expresí?

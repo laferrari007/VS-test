@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Český jazyk a literatura
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:45:51
+# Datum: 2025-09-15 21:51:04
 
-Úkol 1: Analyzujte význam a použití přísloví "Kdo se směje, ten se také plíží" v rámci českého jazyka a literatury. Zahrňte jeho výskyt v různých textech a vysvětlte, jak se vyjadřuje k lidským chováním.
+Úkol 1: Analyzujte příklad citátu z české literatury (např. Bílá nemoc, Povídky pohádek, ...) a vysvětlujte jeho význam a souvislosti v rámci textu.
 
-Úkol 2: Vyberte jednu z básní Petra Bezruče a rozežmjete její strukturu, jazykové prostředky a poetický styl. Vysvětlte, jak se autor vyjadřuje k tématu národní identity.
+Úkol 2: Vyberte dvě české básně a porovnejte jejich strukturu, imagery a poetické prvky.
 
-Úkol 3: Porovnejte a srovnajte dva různé překladové díla české literatury, například "Povídky malostranské" od Aloise Jiráska a "Malý princ" od Antoine de Saint-Exupéry v češtině. Zbysvětlujte, jak se zacházejí s kulturními a jazykovými rozdíly.
+Úkol 3: Vypracujte esej o významu a účinku jazykového humoru v české literatuře (např. u Karla Čapka, Bohumila Hrabala, ...).
 
-Úkol 4: Zpracujte analytický článek o jednom z českých autorů, jako například Karlu Čapkovi nebo Františku Halasovi. Zbysvětlujte jeho životní dráhu, literární styl a význam jeho děl pro českou literaturu.
+Úkol 4: Analyzujte vybranou postavu z české literatury (např. Jan Hus, Svatopluk Čech, ...) a diskutujte její osobnost, motivace a roli v textu.
 
-Úkol 5: Vyberte jedno ze staročeských děl, například "Kalevala" nebo "Staročeské povídky", a zanalyzujte jeho strukturu a jazykové prostředky. Vysvětlte, jak se vyjadřuje k tématu českého národního povědomí.
+Úkol 5: Vyberte dvě české romány a porovnejte jejich děj, motivy a tématiku.
 
-Úkol 6: Porovnejte a srovnajte dvě různé interpretace jednoho z českých literárních děl, například "Babička" od Boženy Němcové. Zbysvětlujte, jak se interpretace liší v závislosti na historickém a kulturním kontextu.
+Úkol 6: Vypracujte studii o vývoji a proměnách českého jazyka v průběhu historie (např. od středověku do současnosti).
 
-Úkol 7: Zpracujte eseji o tématu "Český národ v české literatuře". Zbysvětlujte, jak se národní identita vyjadřuje v různých literárních dílech a jak se mění v průběhu času.
+Úkol 7: Analyzujte vybrané české drama (např. Kámen na kamenu, Kladivo na čarodějnice, ...) a diskutujte jeho strukturu, motivy a sociální kritiku.
 
-Úkol 8: Vyberte jeden z českých autorů, který se zabýval tématem identity a národního povědomí, například Karel Hynek Mácha nebo Svatopluk Čech. Zanalyzujte jeho životní dráhu a literární díla a vysvětlujte, jak se vyjadřuje k tématu národní identity.
+Úkol 8: Vyberte tři české básníky a porovnejte jejich poezii v kontextu historického období, ve kterém žili.
 
-Úkol 9: Porovnejte a srovnajte dvě různé teorie literárního vyprávění, například teorie narrativní struktury nebo teorie literárního jazyka. Zbysvětlujte, jak se teorie liší v závislosti na kulturním a historickém kontextu.
+Úkol 9: Vypracujte teoretický text o významu a účinku metaforické reprezentace v české literatuře.
 
-Úkol 10: Zpracujte disertaci o tématu "Český jazyk a literatura v kontextu evropské kultury". Zbysvětlujte, jak se český jazyk a literatura vyvíjely v rámci evropské kultury a jak se liší od ostatních literárních tradic.
+Úkol 10: Vyberte čtyři české romány a analyzujte jejich zobrazení historických událostí a jejich vliv na současnost.

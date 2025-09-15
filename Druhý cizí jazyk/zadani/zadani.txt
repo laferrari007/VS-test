@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Druhý cizí jazyk
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:51:32
+
+Úkol 1: Napiš krátký text (cca 50 slov) o svém oblíbeném místě v ČR, včetně názvu obce, zajímavostí a důvodů, proč tam rádi chodíte.
+
+Úkol 2: Seznamte se s některým z módních časopisů ve svém cílovém jazyce a napiš krátkou recenzi na jeden z článků (cca 100 slov).
+
+Úkol 3: Vyberte si dvě zajímavé zahraniční školy a napiš srovnávací článek (cca 150 slov) o jejich výhodách a nevýhodách.
+
+Úkol 4: Seznamte se s některým z online jazykových portálů a napiš krátký článek (cca 200 slov) o jejich výhodách a nevýhodách pro studium cizího jazyka.
+
+Úkol 5: Přeložte krátký text (cca 100 slov) z angličtiny do vašeho cílového jazyka a napište překladový komentář.
+
+Úkol 6: Vyberte si nějaký zajímavý článek ve vašem cílovém jazyce a napište jeho shrnutí (cca 150 slov) a stručný komentář.
+
+Úkol 7: Seznamte se s některým z cizích jazykových testů (např. TOEFL, IELTS) a napište článek (cca 250 slov) o jejich podstatě a výhodách pro studenty.
+
+Úkol 8: Napište krátký rozhovor (cca 150 slov) s nějakým cizím jazykovým učitelem o jeho zkušenostech a tipy pro zlepšení jazykových dovedností.
+
+Úkol 9: Seznamte se s některými z nejčastějších jazykových chyb v vašem cílovém jazyce a napište článek (cca 300 slov) o jejich příčinách a způsobech jejich odstranění.
+
+Úkol 10: Vyberte si nějaký zajímavý článek ve vašem cílovém jazyce a napište jeho kritickou analýzu (cca 400 slov), včetně vyhodnocení jazykových prostředků a stylistických prvků.

@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Německý jazyk ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:49:56
+
+Úkol 1: Napište do věty své jméno, věkové kategorii a třídu, ve které se učíte. Použijte správné osobní zájmena (já, ty, on, ona, ono, my, vy, oni, ony, oni).
+
+Úkol 2: Přeložte do německého jazyka větu "Můj přítel hraje futsal." 
+
+Úkol 3: Vyberte čtyři předměty, které se učíte ve škole, a napište je do věty. Použijte správné příslovce (žádný, žádný, žádný, žádný, žádný, žádný).
+
+Úkol 4: Napište o sobě jednu větu. Použijte správné příslovce (kdykoli, nikdy, stále, stále). Použijte přídavná jména (starý, mladý, velký, malý).
+
+Úkol 5: Přeložte do německého jazyka větu "Já mám ráda černé oblečení." 
+
+Úkol 6: Vyberte tři své oblíbené činnosti a napište je do věty. Použijte správné příslovce (kdykoli, nikdy, stále, stále). Použijte přídavná jména (starý, mladý, velký, malý).
+
+Úkol 7: Napište o své rodině jednu větu. Použijte správné příslovce (kdykoli, nikdy, stále, stále). Použijte přídavná jména (starý, mladý, velký, malý).
+
+Úkol 8: Přeložte do německého jazyka větu "Můj otec jede do práce autobusem." 
+
+Úkol 9: Napište, jak jste se seznámili s německým jazykem. Použijte správné příslovce (kdykoli, nikdy, stále, stále). Použijte přídavná jména (starý, mladý, velký, malý).
+
+Úkol 10: Přeložte do německého jazyka větu "Můj učitel mi pomohl s překladem."

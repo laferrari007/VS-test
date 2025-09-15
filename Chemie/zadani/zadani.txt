@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Chemie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:52:51
+
+Úkol 1: Vypočítejte molekulovou hmotnost ethanu (C2H6).
+
+Úkol 2: Popište proces sublimace a její rozdíl od kondenzace.
+
+Úkol 3: Vypočítejte počet molekul kyslíku (O2) obsažených v 2,5 g této sloučeniny.
+
+Úkol 4: Zkuste vysvětlit, proč se elektrolyticky rozpouští pouze rozpustné soli.
+
+Úkol 5: Uveďte příklad sloučeniny, která se vyznačuje polymerní strukturou.
+
+Úkol 6: Vypočítejte koncentraci roztoku sodíku (NaCl) ve vodě, který obsahuje 35 g NaCl na 1 litr.
+
+Úkol 7: Vysvětlte, jak funguje reakce mezi kyselinou sírovou a hydroxidem sodným.
+
+Úkol 8: Popište rozdíly mezi iontovými a molekulárními kapalinami.
+
+Úkol 9: Uveďte příklad chemické reakce, ve které dochází k izomerizaci.
+
+Úkol 10: Vysvětlte mechanismus fotosyntézy a její chemické reakce.

@@ -29,3 +29,30 @@
 [0;31m❌ Neplatné přihlašovací údaje pro uživatele: mstank[0m
 [0;31m❌ Zkontrolujte, zda uživatel existuje v kontejneru a heslo je správné[0m
 [0;31m❌ Inicializace selhala - neplatné přihlašovací údaje[0m
+2025-09-15 21:50:19 - 🚀 Spouštím Linux úkoly - automatické řešení
+2025-09-15 21:50:19 - 📦 Kontejner: f91d71d8f87e
+2025-09-15 21:50:19 - 📁 Výsledky: /root/VS-TEST/VS-test/zadani/reseni
+[0;34mℹ️  Ověřuji přihlašovací údaje: testuser[0m
+[0;32m✅ Přihlašovací údaje jsou platné[0m
+2025-09-15 21:50:20 - Ukončuji skript
+2025-09-15 21:50:38 - 🚀 Spouštím Linux úkoly - automatické řešení
+2025-09-15 21:50:38 - 📦 Kontejner: f91d71d8f87e
+2025-09-15 21:50:38 - 📁 Výsledky: /root/VS-TEST/VS-test/zadani/reseni
+[0;34mℹ️  Ověřuji přihlašovací údaje: tester[0m
+[0;31m❌ Neplatné přihlašovací údaje pro uživatele: tester[0m
+[0;31m❌ Zkontrolujte, zda uživatel existuje v kontejneru a heslo je správné[0m
+[0;31m❌ Inicializace selhala - neplatné přihlašovací údaje[0m
+2025-09-15 21:51:25 - 🚀 Spouštím Linux úkoly - automatické řešení
+2025-09-15 21:51:25 - 📦 Kontejner: f91d71d8f87e
+2025-09-15 21:51:25 - 📁 Výsledky: /root/VS-TEST/VS-test/zadani/reseni
+[0;34mℹ️  Ověřuji přihlašovací údaje: tester[0m
+[0;31m❌ Neplatné přihlašovací údaje pro uživatele: tester[0m
+[0;31m❌ Zkontrolujte, zda uživatel existuje v kontejneru a heslo je správné[0m
+[0;31m❌ Inicializace selhala - neplatné přihlašovací údaje[0m
+2025-09-15 21:51:30 - 🚀 Spouštím Linux úkoly - automatické řešení
+2025-09-15 21:51:30 - 📦 Kontejner: f91d71d8f87e
+2025-09-15 21:51:30 - 📁 Výsledky: /root/VS-TEST/VS-test/zadani/reseni
+[0;34mℹ️  Ověřuji přihlašovací údaje: ttestuser[0m
+[0;31m❌ Neplatné přihlašovací údaje pro uživatele: ttestuser[0m
+[0;31m❌ Zkontrolujte, zda uživatel existuje v kontejneru a heslo je správné[0m
+[0;31m❌ Inicializace selhala - neplatné přihlašovací údaje[0m

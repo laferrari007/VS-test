@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Rodinná výchova
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:49:37
+
+Úkol 1: Popište rozdíly mezi rodinnou výchovou a výchovou v jiném prostředí (škola, vychovatelství). Seznamte se s výhodami a nevýhodami každé formy výchovy.
+
+Úkol 2: Porovnejte tři různé způsoby komunikace s dětmi (logické, emocionální, autoritativní) a vysvětlete, které z nich je nejvhodnější v konkrétním případě.
+
+Úkol 3: Popište význam role modelu v rodinné výchově a udělejte přehled, jakým způsobem může rodič fungovat jako pozitivní model pro své děti.
+
+Úkol 4: Diskutujte o roli technologií v rodinné výchově a udělejte návrh, jak lze zneškodnit negativní vlivy těchto technologií na vzdělání dětí.
+
+Úkol 5: Analyzujte vliv třídního prostředí rodiny na vývoj osobnosti dětí. Udělejte přehled toho, jak lze třídní prostředí pozitivně ovlivnit a zlepšit.
+
+Úkol 6: Vypracujte návrh programu výchovy pro děti ve věku 6-10 let. Zahrňte aktivity, které budou napomáhat k rozvoji jejich motorických schopností, kreativitě a sociálnímu učení.
+
+Úkol 7: Vyšetříte, které jsou nejdůležitější faktory pro tvorbu emocionální zdravé rodiny. Udělejte přehled toho, jak lze tyto faktory pozitivně ovlivnit.
+
+Úkol 8: Vypracujte návrh programu výchovy k rozvoji sebeúcty u dětí. Zahrňte aktivity, které napomáhají k rozvoji jejich sebevědomí a kreativitě.
+
+Úkol 9: Vyšetříte, jak lze účinně řešit konflikty v rodině. Zahrňte strategie, které napomáhají k vyřešení konfliktů a zlepšení komunikace mezi členy rodiny.
+
+Úkol 10: Vypracujte komplexní návrh rodinné výchovy pro děti ve věku 0-18 let. Zahrňte plán, který bude zahrnovat všechny fáze jejich vývoje a poskytovat jim potřebné dovednosti k úspěšnému životu.

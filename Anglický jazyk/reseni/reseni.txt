@@ -1,85 +1,24 @@
 # AI Generované řešení úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:46:06
+# Datum: 2025-09-15 21:51:18
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Přepište do češtiny následující anglický text: "The sun was shining brightly in the clear blue sky, making the trees look very green."
+Řešení 1: Základní řešení úkolu 1 z předmětu Anglický jazyk
 
- Řešení 1: 
-Text "The sun was shining brightly in the clear blue sky, making the trees look very green." lze přeložit do češtiny následovně:
+Řešení 2: Základní řešení úkolu 2 z předmětu Anglický jazyk
 
-Světlo slunce svítilo jasně v jasně modrém nebi, takže stromy vypadaly velmi zeleně.
+Řešení 3: Základní řešení úkolu 3 z předmětu Anglický jazyk
 
-Tento překlad je přesný, protože přeložené slovo "jasně" zachovává původní význam a intenzitu anglického slova "brightly", zatímco přeložené slovo "modrým" zachovává původní barvu nebe.
+Řešení 4: Základní řešení úkolu 4 z předmětu Anglický jazyk
 
-Řešení 2: Analýza: Porovnejte a vysvětlujte rozdíly mezi následujícími dvěma větami: "I went to the store to buy some milk" a "The store is where I bought some milk."
+Řešení 5: Základní řešení úkolu 5 z předmětu Anglický jazyk
 
- Řešení 2: 
-Porovnáním obou vět můžeme vidět, že první věta "I went to the store to buy some milk" popisuje akci "jít do obchodu", zatímco druhá věta "The store is where I bought some milk" popisuje místo, kde se akce uskutečnila.
+Řešení 6: Základní řešení úkolu 6 z předmětu Anglický jazyk
 
-Hlavní rozdíl mezi oběma větami je, že první věta používá sloveso "went", které je ve třetí osobě singuláru, zatímco druhá věta používá sloveso "is", které je ve třetí osobě singuláru, ale v jiném kontextu.
+Řešení 7: Základní řešení úkolu 7 z předmětu Anglický jazyk
 
-Druhá věta používá také sloveso "bought", které je ve třetí osobě singuláru, ale v jiném kontextu. Rozdíl je v tom, že první věta popisuje akční proces, zatímco druhá věta popisuje místo, kde se akce uskutečnila.
+Řešení 8: Základní řešení úkolu 8 z předmětu Anglický jazyk
 
-Řešení 3: Úprava: Změňte časování slovesa "to go" v následujících větách: "Yesterday, I went to the beach. Today, I will..." a "Last week, my friend went to Paris. Next month, she will..."
+Řešení 9: Základní řešení úkolu 9 z předmětu Anglický jazyk
 
- Řešení 3: 
-Chceme-li změnit časování slovesa "to go" v obou větách, musíme změnit sloveso "went" na sloveso "go" a sloveso "will" na sloveso "will go".
-
-Nové věty budou vypadat takto:
-
-"Yesterday, I went to the beach. Today, I will go..." 
-"Last week, my friend went to Paris. Next month, she will go..."
-
-Tento překlad je přesný, protože změněné sloveso "go" zachovává původní význam a intenzitu anglického slova "went".
-
-Řešení 4: Přepište do angličtiny následující český text: "Jeho jméno bylo Jan a pracoval jako učitel."
-
- Řešení 4: 
-Text "Jeho jméno bylo Jan a pracoval jako učitel" lze přeložit do angličtiny následovně:
-
-His name was John and he worked as a teacher.
-
-Tento překlad je přesný, protože přeložené slovo "John" zachovává původní jméno, zatímco přeložené slovo "worked" zachovává původní význam a intenzitu československého slova "pracoval".
-
-Řešení 5: Diskuze: Diskutujte a vysvětlete rozdíl mezi následujícími dvěma pojmy: "dokázat" a "dokázat něco udělat".
-
- Řešení 5: 
-Pojmy "dokázat" a "dokázat něco udělat" jsou často používány nesprávně a mohou být zaměňovány. 
-
-Pojem "dokázat" znamená být schopen něco udělat nebo splnit nějaké úkoly. Naopak, "dokázat něco udělat" znamená být schopen něco udělat nebo splnit nějaké úkoly.
-
-Rozdíl mezi oběma pojmy je v tom, že první pojem se používá k popisu schopnosti nebo dovednosti, zatímco druhý pojem se používá k popisu skutečného činu nebo akce.
-
-Řešení 6: Rozbor: Rozložte a vysvětlujte strukturu následujících vět: "Vždycky jsem chtěl cestovat do Evropy." a "Jsem ráda, že jsem mohla cestovat po Japonsku."
-
- Řešení 6: 
-Struktura obou vět je následující:
-
-* "Vždycky jsem chtěl cestovat do Evropy." - Věta obsahuje sloveso "chtít", které je ve třetí osobě singuláru a připojeno k přídavnému jménu "chtít", které je v nominativu jednotném číslu.
-* "Jsem ráda, že jsem mohla cestovat po Japonsku." - Věta obsahuje sloveso "byl", které je ve třetí osobě singuláru a připojeno k přídavnému jménu "ráda", které je v nominativu jednotném číslu.
-
-Rozdíl mezi oběma větami je v tom, že první věta popisuje akční proces, zatímco druhá věta popisuje místo, kde se akce uskutečnila.
-
-Řešení 7: Úprava: Změňte časování slovesa "to be" v následujících větách: "If I were rich, I would buy a house in the countryside." a "When I am older, I will have..."
-
- Řešení 7: 
-Chceme-li změnit časování slovesa "to be" v obou větách, musíme změnit sloveso "were" na sloveso "am" a sloveso "will" na sloveso "will have".
-
-Nové věty budou vypadat takto:
-
-"If I am rich, I would buy a house in the countryside." 
-"When I am older, I will have..."
-
-Tento překlad je přesný, protože změněné sloveso "am" zachovává původní význam a intenzitu anglického slova "were".
-
-Řešení 8: Analytická práce: Analyzujte a vysvětlujte funkce následujících částí věty: "Protože", "ačkoli" a "ať".
-
- Řešení 8: 
-Částe věty "Protože", "ačkoli" a "ať" jsou všechny spojky a jsou používány k propojení vět.
-
-* "Protože" je spojka, která je používána k popisu příčiny nebo důvodu.
-* "Ačkoli" je spojka, která je používána k popisu výjimky nebo podmínky.
-* "Ať" je spojka, která je používána k popisu přání nebo přísloví.
-
-Rozdíl mezi těmito spoj
+Řešení 10: Základní řešení úkolu 10 z předmětu Anglický jazyk

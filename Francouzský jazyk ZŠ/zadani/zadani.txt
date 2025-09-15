@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Francouzský jazyk ZŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:50:11
+
+Úkol 1: Napište krátkou větu o své nejoblíbenější sezóně (zimu, jaro, léto, podzimu) a přeložte ji do francouzštiny.
+
+Úkol 2: Přeložte slovo "konec" do francouzštiny a vysvětlěte, jak se používá ve větě.
+
+Úkol 3: Napište krátkou větu o svém oblíbeném jídle a přeložte ji do francouzštiny. Porovnejte rozdílné použití francouzských tvarů pro "jídlo" (plat, repas) a "příležitost" (occasion).
+
+Úkol 4: Přeložte text "V noci je tmavé" do francouzštiny a vysvětlěte rozdíl mezi francouzskými slovy "noir" a "obscur".
+
+Úkol 5: Napište krátkou povídku o vašem dni a přeložte ji do francouzštiny, včetně použití francouzských tvarů pro "dne" (jour, journée).
+
+Úkol 6: Přeložte text "Mám ráda černé kožené boty" do francouzštiny a vysvětlěte rozdíl mezi francouzskými slovy "jouer" a "porter".
+
+Úkol 7: Napište krátkou text o vaší oblíbené knize a přeložte ji do francouzštiny, včetně použití francouzských tvarů pro "knihu" (livre, roman).
+
+Úkol 8: Přeložte text "Jsem rád, že je pondělí" do francouzštiny a vysvětlěte rozdíl mezi francouzskými slovy "heureux" a "content".
+
+Úkol 9: Napište krátkou text o vašem oblíbeném filmu a přeložte ji do francouzštiny, včetně použití francouzských tvarů pro "film" (film, cinéma).
+
+Úkol 10: Přeložte text "Cesta do práce je dlouhá" do francouzštiny a vysvětlěte rozdíl mezi francouzskými slovy "courte" a "longue", včetně použití francouzských tvarů pro "času" (heure, temps).

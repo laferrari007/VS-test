@@ -1,0 +1,121 @@
+# AI Generované řešení úkolů pro předmět: Matematika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:50:46
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vypočítejte obsah trojúhelníku s hranami 3, 4 a 5.
+
+Trojúhelník s hranami 3, 4 a 5 je vzhledem k délce stran klasickým příkladem trojúhelníku, který splňuje podmínku trapezu (podle Pythagorovy věty). Protože délky stran jsou 3, 4 a 5, jedná se o trojúhelník pravý.
+
+K výpočtu obsahu trojúhelníku použijeme Heronovu formuli:
+
+S = √(s(sa)(sb)(sc))
+
+kde s je poloviční obvod trojúhelníku a a, b, c jsou délky stran.
+
+Poloviční obvod trojúhelníku je:
+
+s = (a + b + c) / 2
+= (3 + 4 + 5) / 2
+= 6
+
+Nyní použijeme Heronovu formuli:
+
+S = √(6(6-3)(6-4)(6-5))
+= √(6(3)(2)(1))
+= √(36)
+= 6
+
+Jiným způsobem, pro tento specifický případ, kde délky stran jsou 3, 4 a 5, lze použít Heronovu formuli s použitím polovičního obvodu:
+
+S = √(6(3)(2)(1))
+= √(36)
+= 6
+
+V případě trojúhelníku s hranami 3, 4 a 5 tedy jeho obsah bude 6.
+
+Řešení 2: Zjistěte počet společných prvků množiny {1, 2, 3, 4, 5} a množiny {4, 5, 6, 7, 8}.
+
+K zjištění počtu společných prvků obou množin použijeme operaci nanechání nuly (pro násobení) a poté odčítání obou množin následované operací nanechání nuly (pro násobení). 
+
+Příklad nanechání nuly pro násobení obou množin je:
+
+(1, 2, 3, 4, 5) × (4, 5, 6, 7, 8) = (4, 10, 18, 20, 40, 25, 30, 35, 36, 40, 48, 50, 60)
+(40, 20, 18, 10, 4, 48, 36, 30, 25, 20, 18, 10, 8)
+
+Nyní se odčítá obě množiny, aby se získalo:
+
+(1, 2, 3, 0, 0, 37, 27, 23, 19, 0, 0, 0)
+
+Po nanechání nuly (pro násobení) se odčtené množiny spojí do jedné množiny:
+
+(1, 2, 3, 37, 27, 23, 19)
+
+Z této množiny je zřejmé, že množina {1, 2, 3, 4, 5} a množina {4, 5, 6, 7, 8} mají společný prvek pouze 2 prvky, které jsou 4 a 5.
+
+Označme počet společných prvků dvou množin jako |A∩B|.
+
+|A∩B| = 2
+
+Řešení 3: Určete poloměr kružnice se středem (1, 2) a souběžnou osou x.
+
+Poloměr kružnice je odstup od jejího středu k jejímu okraji. 
+
+Kromě souběžné osy x (která je x-osa) je kružnice orientována tak, že její střed leží na x-osa. Z tohoto důvodu bude její poloměr tvořen rozdílem mezi jejím středem a x- osou.
+
+Pro určení poloměru kružnice se středem (x₀, y₀) a souběžnou osou x použijeme vzdálenost bodu (x, y) od x- osy, která je |y - y₀|.
+
+V tomto případě je střed kružnice (1, 2) a x-osa. 
+
+Poloměr kružnice je tedy:
+
+r = √((1-1)^2 + (2-0)^2)
+= √(0 + 4)
+= 2
+
+Řešení 4: Vypočítejte součin dvou čísel, jejichž součet je 12 a jejich rozdíly jsou 5 a 7.
+
+Zadáno dvě podmínky, které jsou pro dvě čísla x a y:
+
+x + y = 12
+x - y = 5 (nebo x - y = 7)
+
+Dle druhé rovnice získáme x = 5 + y.
+
+Podstoupením první rovnice do druhé rovnice x = 5 + y dostaneme:
+
+5 + y + y = 12
+
+Z tohoto výrazu se vyčíslí:
+
+2y = 7
+
+y = 7/2
+
+y = 3,5
+
+Získáme y = 3,5
+
+Podstoupením y = 3,5 do první rovnice x + y = 12 dostaneme:
+
+x + 3,5 = 12
+
+x = 8,5
+
+Získáme x = 8,5
+
+Součinem těchto dvou čísel, které jsou 8,5 a 3,5, bude:
+
+8,5 × 3,5 = 29,75
+
+Vypočtený součin dvou čísel, jejichž součet je 12 a jejich rozdíly jsou 5 a 7, bude 29,75.
+
+Řešení 5: Zjistěte počet řešení lineární rovnice 2x + 5y = 11.
+
+Lineární rovnice 2x + 5y = 11 má tvar Ax + By = C, kde A, B a C jsou reálná čísla.
+
+Existují tři způsoby řešení této rovnice:
+
+1. Existuje jediné řešení: Pokud je A = 0 a B ≠ 0, nebo pokud je A ≠ 0 a B = 0.
+2. Existuje nekonečně mnoho řešení: Pokud je A = 0 a B = 0, nebo pokud je A = 0 a B ≠ 0 a zároveň C = 0.
+3. Existuje žádné řešení

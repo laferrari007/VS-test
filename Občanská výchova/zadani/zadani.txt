@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Občanská výchova
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:52:01
+
+Úkol 1: Vytvořte seznam 5 základních práv a svobod, které jsou uvedeny v Listině základních práv a svobod ČR. Seznam stručně vysvětlujte.
+
+Úkol 2: Porovnejte a srovnajte koncepty demokracie a autoritářského režimu. Jaké jsou hlavní rozdíly mezi těmito dvěma typy vládnutí?
+
+Úkol 3: Seznamte se s historií občanské společnosti v ČR. Jaký byl význam občanské společnosti v období 1989-1991? Jaké byly její cíle a úspěchy?
+
+Úkol 4: Diskutujte o důležitosti tolerance a respektu k různorodosti v současné společnosti. Jak může občanská výchova přispět k rozvoji těchto hodnot?
+
+Úkol 5: Analyzujte roli občanské společnosti v boji za práva a svobody minorit. Jaké jsou příklady úspěšných akcí občanských organizací v České republice?
+
+Úkol 6: Vytvořte kampaň pro zvýšení povědomí o důležitosti transparentnosti a odpovědnosti v oblasti veřejné správy. Jakou strategii byste použili k dosažení cíle?
+
+Úkol 7: Diskutujte o tématu environmentální výchovy a jejího významu pro občanskou společnost. Jak by mohla být environmentální výchova integrována do vzdělávání?
+
+Úkol 8: Porovnejte a srovnajte modely občanské participace v ČR a v Evropě. Jaké jsou hlavní rozdíly mezi těmito modely a jak by mohly být využity v České republice?
+
+Úkol 9: Seznamte se s vývojem lidských práv v ČR od roku 1989. Jaký byl význam dokumentu "Akt z Dubí" a jak se odráží v právním rámci ČR?
+
+Úkol 10: Vytvořte návrh pro rozvoj občanské společnosti v ČR, který by zahrnoval iniciativy pro zvýšení civicke aktivity, transparentnosti a odpovědnosti v oblasti veřejné správy. Jak by mohly být tyto iniciativy financovány a implementovány?

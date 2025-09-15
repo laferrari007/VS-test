@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Matematika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:50:46
+
+Úkol 1: Vypočítejte obsah trojúhelníku s hranami 3, 4 a 5.
+
+Úkol 2: Zjistěte počet společných prvků množiny {1, 2, 3, 4, 5} a množiny {4, 5, 6, 7, 8}.
+
+Úkol 3: Určete poloměr kružnice se středem (1, 2) a souběžnou osou x.
+
+Úkol 4: Vypočítejte součin dvou čísel, jejichž součet je 12 a jejich rozdíly jsou 5 a 7.
+
+Úkol 5: Zjistěte počet řešení lineární rovnice 2x + 5y = 11.
+
+Úkol 6: Vypočítejte odmocniny čtvrtého stupně rovnoběžníku ABC, kde AB = 5, BC = 6 a AC = 7.
+
+Úkol 7: Zjistěte souřadnice bodu, který leží na křivce y = 2x + 1 a je vzdálený 3 jednotek od bodu (2, 5).
+
+Úkol 8: Vypočítejte současný objem dvou sfér s poloměry 4 a 5, které jsou umístěny v rovině x-y.
+
+Úkol 9: Zjistěte počet řešení systému dvou lineárních rovnic 2x + 3y = 7 a x - 2y = -3.
+
+Úkol 10: Vypočítejte obsah povrchu kladiny s rovinou y = 2x + 5, kde kladina má rozměry 6x4 a nachází se v první ose.

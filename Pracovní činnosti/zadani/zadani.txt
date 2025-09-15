@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Pracovní činnosti
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:49:22
+
+Úkol 1: Popište základní principy bezpečnosti práce v provozu a zdůvodněte jejich důležitost v pracovním prostředí.
+
+Úkol 2: Porovnejte a srovnajte dva různé typy osobních ochranných pracovních prostředků (OPH) - sluchadla a ochranné brýle. Uveďte jejich výhody a nevýhody v různých pracovních situacích.
+
+Úkol 3: Analyzujte a popište proces tvorby pracovního řádu v dané organizaci. Seznamte se s klíčovými Body, které musí být zahrnuty do pracovního řádu.
+
+Úkol 4: Vypracujte návrh systému pro evidenci a kontrolu pracovních podmínek ve vaší organizaci. Popište důležité prvky systému a zdůvodněte jejich důležitost.
+
+Úkol 5: Vyberte si dva různé typy pracovních postojů - stojící a sedící. Porovnejte jejich vliv na zdraví a uveďte doporučení pro optimalizaci pracovního postroje.
+
+Úkol 6: Popište různé druhy rizik na pracovišti a zdůvodněte jejich důležitost v systému prevence rizik.
+
+Úkol 7: Vypracujte návrh systému pro vykonávání pravidelných bezpečností kontrol na pracovišti. Seznamte se s klíčovými kroky a pravidly pro efektivní vykonávání bezpečnostních kontrol.
+
+Úkol 8: Analyzujte a popište proces vyřizování nároků na invalidní důchod v souladu s právními předpisy ČR. Seznamte se s klíčovými kroky a podmínkami pro úspěšné vyřízení nároků.
+
+Úkol 9: Vyberte si dva různé typy pracovních zátěží - fyzické a psychické. Porovnejte jejich vliv na zdraví a uveďte doporučení pro optimalizaci pracovních podmínek.
+
+Úkol 10: Vypracujte návrh komplexního systému pro prevenci a vyšetřování pracovních úrazů a nemocí z povolání ve vaší organizaci. Seznamte se s klíčovými prvky systému a zdůvodněte jejich důležitost.
