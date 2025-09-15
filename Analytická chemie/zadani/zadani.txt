@@ -1,23 +1,25 @@
-# AI Generované zadání úkolů pro předmět: Analytická chemie
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:08:59
+# Zadání úkolů pro předmět: Analytická chemie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:22:35
 
-Úkol 1: Popište a vysvětlujte rozdíl mezi kvalitativní a kvantitativní analýzou. Uveďte příklady aplikací obou metod v analytické chemii.
+Zde jsou 10 univerzitních úkolů pro předmět "Analytická chemie":
 
-Úkol 2: Zpracujte příklad rozkladu kompozice vzorku pomocí chromatografie. Uveďte rovnice reakcí a vysvětlete mechanismus procesu.
+Úkol 1: Prozkoumejte vlastnosti a použití silanů v analytické chemii. Uveďte alespoň 3 aplikace silanů v oblasti analýzy.
 
-Úkol 3: Vyberte a stručně popište tři různé metody extrakce látek z kapalných roztoků. Porovnejte jejich výhody a nevýhody.
+Úkol 2: Popište principy a kroky extrakční chromatografie na povrchu (SPE) a uveďte alespoň 3 oblasti, kde je SPE používán v analytické chemii.
 
-Úkol 4: Napište stručný popis postupu přípravy a kalibrace spektrofotometru. Uveďte příklady aplikací spektrofotometrie v analytické chemii.
+Úkol 3: Vypočítejte koncentraci složky v roztoku pomocí metody absorpční spektroskopie (AAS). Údaje: absorpční koeficient 2,5 mol/l.m, délka cestičky 0,05 m, intenzita záření 0,5 A.
 
-Úkol 5: Ujasněte si rozdíl mezi teplem roztoku a teplotou roztoku. Vysvětlíte, jak se tyto veličiny používají v analytické chemii.
+Úkol 4: Popište rozdíl mezi metodami gas chromatografie (GC) a lícní chromatografie (LC) a uveďte alespoň 3 aplikace těchto metod v analytické chemii.
 
-Úkol 6: Vyrobte a kalibrujte roztok standardní látky (např. EDTA). Zpracujte graf kalibrace a uveďte číselné hodnoty součinitelů aktivní hmoty.
+Úkol 5: Prozkoumejte vlastnosti a použití derivatizací v analytické chemii. Uveďte alespoň 3 typy derivatizací a jejich aplikace.
 
-Úkol 7: Popište a vysvětlujte principy a mechanismus spektroskopických technik (např. IR, NMR, MS). Uveďte příklady aplikací těchto technik v analytické chemii.
+Úkol 6: Vypočítejte koncentraci složky v roztoku pomocí titrací. Údaje: roztok HCl 0,1 M, 25 ml roztoku HCl je potřeba k titraci 20 ml roztoku NaOH 0,1 M, čárka je v místě 30 ml.
 
-Úkol 8: Zpracujte příklad analýzy vzorku pomocí elektrochemické metody (např. polarografie). Uveďte rovnice reakcí a vysvětlete mechanismus procesu.
+Úkol 7: Popište principy a kroky hmotnostní spektrometrie (MS) a uveďte alespoň 3 oblasti, kde je MS používán v analytické chemii.
 
-Úkol 9: Vyberte a stručně popište tři různé metody separace látek (např. chromatografie, elektroforéza, extrakční chromatografie). Porovnejte jejich výhody a nevýhody a uveďte příklady aplikací.
+Úkol 8: Prozkoumejte vlastnosti a použití iontových výměnných polymerů (IWP) v analytické chemii. Uveďte alespoň 3 aplikace IWP v oblasti analýzy.
 
-Úkol 10: Napište komplexní práci, která spojuje několik analytických metod pro analýzu vzorku (např. extrakce, chromatografie, spektroskopie). Uveďte rovnice reakcí, stručné vysvětlení mechanismů procesů a výsledky analýzy.
+Úkol 9: Vypočítejte koncentraci složky v roztoku pomocí metody fluorescenční spektroskopie (FSS). Údaje: fluorescenční koeficient 0,8 mol/l.m, délka cestičky 0,05 m, intenzita záření 0,5 A.
+
+Úkol 10: Popište rozdíl mezi metodami elektrochemické analýzy (ECA) a kapilární elektrochemické analýzy (CECA). Uveďte alespoň 3 aplikace těchto metod v analytické chemii a porovnejte jejich výhody a nevýhody.
