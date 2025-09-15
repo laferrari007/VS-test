@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Betonové konstrukce
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:38:43
+
+Úkol 1: Vypočítejte rozměry základové desky pro dům o rozměrech 10 m x 15 m s nosnou konstrukcí z betonu C25/30. Předpokládejte, že základová deska bude umístěna na neprůhledném podloží.
+
+Úkol 2: Zjistěte, zda je možné použít železobetonové bloky o rozměrech 600x300x200 mm místo konvenčního zdiva na stavbu budovy o rozměrech 20 m x 30 m.
+
+Úkol 3: Vypočítejte množství betonu potřebného pro vytvoření výplní otvorů v železobetonových nosných konstrukcích o rozměrech 100x100 mm s výškou 200 mm.
+
+Úkol 4: Zjistěte, zda je možné použít armovací dráty s průměrem 10 mm místo 12 mm na konstrukci ocelového mostu s rozpětím 50 m.
+
+Úkol 5: Vypočítejte rozměry a množství materiálu potřebného pro vytvoření železobetonového sloupu o výšce 15 m a průměru 800 mm pro budovu o rozměrech 30 m x 40 m.
+
+Úkol 6: Zjistěte, zda je možné použít beton C20/25 místo C25/30 na konstrukci mostu o rozpětí 30 m s nosnou konstrukcí z betonu.
+
+Úkol 7: Vypočítejte množství betonu potřebného pro vytvoření základové desky pro dům o rozměrech 15 m x 20 m s nosnou konstrukcí z betonu C25/30. Předpokládejte, že základová deska bude umístěna na průhledném podloží.
+
+Úkol 8: Zjistěte, zda je možné použít železobetonové vazníky s rozměry 600x400x200 mm místo konvenčních vazníků na stavbu budovy o rozměrech 25 m x 35 m.
+
+Úkol 9: Vypočítejte rozměry a množství materiálu potřebného pro vytvoření železobetonového mostu o rozpětí 50 m s nosnou konstrukcí z betonu C30/37.
+
+Úkol 10: Zjistěte, zda je možné použít beton C30/37 místo C25/30 na konstrukci budovy o rozměrech 40 m x 50 m s nosnou konstrukcí z betonu.
