@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Biofyzika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:07:50
+# Zadání úkolů pro předmět: Biofyzika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:21:27
 
-Úkol 1: Vyberte dva biologické molekuly a vysvětlujte jejich strukturu a funkci na molekulární úrovni, použijte konkrétní příklady z experimentální biofyziky.
+Úkol 1: Popište základní principy a charakteristiky difuze v biologických systémech.
 
-Úkol 2: Popište mechanismy difuzního transportu v biologických membránách, včetně role membránních proteinů a jejich interakcí s molekulami.
+Úkol 2: Porovnejte a vyjasněte rozdíly mezi pasivním a aktivním transportem látek přes buněčnou membránu.
 
-Úkol 3: Vyjmenujte a charakterizujte hlavní typy biologických membrán (plazmatická membrána, mitochondriální membrána, atd.) a vysvětlujte jejich strukturu a funkci ve fyziologických procesech.
+Úkol 3: Popište mechanismus a význam proteinů transportéru v buněčném metabolismu.
 
-Úkol 4: Porovnejte a srovnajte mechanismy elektronegativní aktivní transportu s mechanizmy difuzního transportu v biologických membránách, včetně rolí membránních proteinů a jejich interakcí s molekulami.
+Úkol 4: Vysvětlejte roli mechanochemických procesů v řízení dynamiky buněčné membrány.
 
-Úkol 5: Vyjmenujte a charakterizujte hlavní typy biomateriálů a vysvětlujte jejich použití v biomedicíně, včetně jejich fyzikálních a chemických vlastností.
+Úkol 5: Diskutujte o významu a mechanismech buněčné signalizace, zejména v souvislosti s receptorovými systémama.
 
-Úkol 6: Popište principy a mechanismy magnetoreceptivního systému v některých živočiších, včetně rolí magnetických molekul a jejich interakcí s magnetickými poli.
+Úkol 6: Vysvětlejte principy a aplikaci magnetické rezonance v biologii a medicíně (například MRI).
 
-Úkol 7: Vyjmenujte a charakterizujte hlavní typy biologických systémů, které jsou citlivé na gravitační sílu (gravireceptory), a vysvětlujte jejich funkci ve fyziologických procesech.
+Úkol 7: Porovnejte a vyjasněte rozdíly mezi lineární a nelineární dynamikou v biologických systémech.
 
-Úkol 8: Porovnejte a srovnajte mechanismy fototropismu u rostlin a mechanizmy magnetotropismu u některých živočiších, včetně rolí fyziologických procesů a interakcí s vnějšími stimuly.
+Úkol 8: Popište principy a mechanismy mikromechaniky biologických systémů (například mechanika buněčné stěny).
 
-Úkol 9: Vyjmenujte a charakterizujte hlavní typy biomolekulárních strojů, včetně motorů ATPáz a mechanismy jejich funkce ve fyziologických procesech, včetně role biologických membrán a interakcí s molekulami.
+Úkol 9: Vysvětlejte roli a mechanismus membránových potenciálů v regulaci buněčné aktivity.
 
-Úkol 10: Popište principy a mechanismy biologických systémů, které jsou citlivé na elektromagnetické pole (elektromagnetoreceptory), a vysvětlujte jejich funkci ve fyziologických procesech, včetně rolí fyziologických procesů a interakcí s vnějšími stimuly.
+Úkol 10: Vytvořte teoretický model a simulujte dynamiku šíření nánosvětelého záření v biologických tkáních (například fotodynamika).
