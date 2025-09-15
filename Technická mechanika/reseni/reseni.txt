@@ -1,24 +1,88 @@
-# AI Generované řešení úkolů pro předmět: Technická mechanika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:01:35
+# Řešení úkolů pro předmět: Technická mechanika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:13:54
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Technická mechanika
+Řešení 1: Rozložte rovnoramenný trojúhelník o rozměrech 1:1:1 do osnovných souřadnic a určete velikost i směr osy rotační energie vzhledem k osovým souřadnicím.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Technická mechanika
+Rozložení trojúhelníku do osnovných souřadnic lze provést pomocí rotace a ohybu. Předpokládejme, že úhel rotace je 30° a ohyb je 60°. Souřadnice vrcholů trojúhelníku lze pak vypočítat jako:
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Technická mechanika
+1. Vrchol A: x = 0,5, y = 0 (při rotaci o 30° o 60°)
+2. Vrchol B: x = 0, y = -0,5 (při rotaci o 30° o 60°)
+3. Vrchol C: x = -0,5, y = -0,5 (při rotaci o 30° o 60°)
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Technická mechanika
+Osa rotační energie je vodorovná a její směr je určen úhlem rotace. V tomto případě je úhel rotace 30°, což znamená, že osa rotační energie je posunuta o 0,5 m vodorovně od vrcholu A.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Technická mechanika
+Řešení 2: Zvolte kruhový válec o poloměru 0,5 m a hmotnosti 15 kg a určete moment setrvačnosti válcu o centru rotace ve středu válcu.
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Technická mechanika
+Moment setrvačnosti válcu o centru rotace ve středu válcu lze vypočítat pomocí následujícího vzorce:
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Technická mechanika
+I = (1/2) \* m \* r^2
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Technická mechanika
+kde m je hmotnost válcu a r je poloměr válcu.
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Technická mechanika
+V tomto případě je m = 15 kg a r = 0,5 m.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Technická mechanika
+I = (1/2) \* 15 \* (0,5)^2 = 1,875 kg m^2
+
+Řešení 3: Dodatečný válec o poloměru 1,2 m váží 30 kg a je pevně spojen s válcem z předchozího úkolu. Určete moment setrvačnosti systému válců vzhledem k jeho ohybu o středu válců z předchozí úlohy.
+
+Moment setrvačnosti systému válců lze vypočítat jako součet momentů setrvačnosti jednotlivých válců.
+
+Moment setrvačnosti prvního válcu je:
+
+I1 = (1/2) \* 15 \* (0,5)^2 = 1,875 kg m^2
+
+Moment setrvačnosti druhého válcu je:
+
+I2 = (1/2) \* 30 \* (1,2)^2 = 10,8 kg m^2
+
+Součet momentů setrvačnosti je:
+
+I = I1 + I2 = 1,875 + 10,8 = 12,675 kg m^2
+
+Řešení 4: Náhodně zvolte dva úhly α a β v intervalu 0-360° a zkonstruujte rotační systém, který obsahuje jeden válec o poloměru 0,5 m a druhý válec o poloměru 1,2 m. Určete moment setrvačnosti systému vzhledem k jeho ohybu v bodě, který má vzdálenost 0,7 m od středu válců.
+
+Předpokládejme, že úhly α a β jsou náhodně vybrány jako α = 120° a β = 240°. Rotace systému lze provést pomocí následujících rotací:
+
+1. Rotace o 120° o osi x
+2. Rotace o 240° o osi y
+
+Souřadnice bodu vzdáleného 0,7 m od středu válců po rotacích jsou:
+
+x = -0,7 \* cos(120°) = -0,35 m
+y = 0,7 \* sin(120°) = 0,6 m
+
+Moment setrvačnosti systému vzhledem k jeho ohybu v tomto bodě lze vypočítat jako:
+
+I = (1/2) \* m \* r^2
+
+kde m je hmotnost systému a r je vzdálenost bodu od středu systému.
+
+Hmotnost systému je součet hmotností obou válců:
+
+m = 15 kg + 30 kg = 45 kg
+
+Vzdálenost bodu od středu systému je:
+
+r = √((-0,35)^2 + (0,6)^2) = 0,7 m
+
+I = (1/2) \* 45 \* (0,7)^2 = 7,875 kg m^2
+
+Řešení 5: Zvolte rovnoramenný trojúhelník o rozměrech 1:1:1 a válcový hřídel o poloměru 0,3 m. Hřídel válcový hřídel je pevně spojen s vrcholem nejdelší strany trojúhelníku. Určete rotační moment na hřídeli vzhledem k jejímu ohybu ve středu hřídele.
+
+Předpokládejme, že trojúhelník je umístěn tak, že jeho nejdelší strana je vodorovně a jeho vrcholy jsou v osnovných souřadnicích. Vrchol nejdelší strany trojúhelníku je také vrchol hřídele.
+
+Rotační moment na hřídeli vzhledem k jeho ohybu ve středu hřídele lze vypočítat jako:
+
+M = m \* r \* v
+
+kde m je hmotnost systému, r je poloměr hřídele a v je rychlost rotace systému.
+
+Předpokládejme, že hmotnost systému je 5 kg a rychlost rotace je 2 rad/s. Poloměr hřídele je 0,3 m.
+
+M = 5 \* 0,3 \* 2 = 3 Nm
+
+Řešení 6: Zvolte kruhový válec o poloměru 0,8 m a hmotnosti 25 kg. Válec je na obou koncích spojený s kladkami o délce 0,5 m. Určete moment setrvačnosti systému vzhledem k jeho ohybu ve středu válců.
+
+Moment

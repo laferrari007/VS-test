@@ -1,23 +1,33 @@
-# AI Generované zadání úkolů pro předmět: Technická mechanika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:01:35
+# Zadání úkolů pro předmět: Technická mechanika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:13:54
 
-Úkol 1: Proveďte statický rovnovážný stav podložky s pevným diskem, kde podložka je zajištěna pomocí pevně zapojeného kroužku. Zjistěte velikost největšího náhlého zatížení, které podložka dokáže odolat, pokud je podložka vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa a má rozměry 50 mm x 50 mm x 10 mm.
+Úkol 1: 
+Rozložte rovnoramenný trojúhelník o rozměrech 1:1:1 do osnovných souřadnic. Vyjmenujte souřadnice vrcholů a určete velikost i směr osy rotační energie vzhledem k osovým souřadnicím.
 
-Úkol 2: Porovnejte tlumivé vlastnosti dvou různých typů tlumičů vibrací: jednoduchého tlumiče (tlumič elastičnosti) a tlumiče s elastickým kroužkem. Zjistěte, jak se mění tlumivý účinek tlumiče s frekvencí.
+Úkol 2: 
+Zvolte kruhový válec o poloměru 0,5 m a hmotnosti 15 kg. Určete moment setrvačnosti válcu o centru rotace ve středu válcu.
 
-Úkol 3: Proveďte dynamický rovnovážný stav podložky s pevným diskem, kde podložka je zajištěna pomocí pevně zapojeného kroužku a podložka je vystavena náhlému dynamickému zatížení. Zjistěte, jak se mění pohyb podložky s časem.
+Úkol 3: 
+Dodatečný válec o poloměru 1,2 m váží 30 kg a je pevně spojen s válcem z předchozího úkolu. Určete moment setrvačnosti systému válců vzhledem k jeho ohybu o středu válců z předchozí úlohy.
 
-Úkol 4: Zjistěte, jak se mění vnitřní energie systému tvořeného dvěma pevně zapojenými kroužky a podložkou, pokud jsou kroužky zajištěny pomocí pevně zapojeného kroužku. Zjistěte, jak se mění vnitřní energie s velikostí náhlého zatížení.
+Úkol 4: 
+Náhodně zvolte dva úhly α a β v intervalu 0-360° a zkonstruujte rotační systém, který obsahuje jeden válec o poloměru 0,5 m a druhý válec o poloměru 1,2 m. Určete moment setrvačnosti systému vzhledem k jeho ohybu v bodě, který má vzdálenost 0,7 m od středu válců.
 
-Úkol 5: Porovnejte tlumivé vlastnosti dvou různých typů tlumičů vibrací: tlumiče elastičnosti a tlumiče s elastickým kroužkem. Zjistěte, jak se mění tlumivý účinek tlumiče s frekvencí a velikostí náhlého zatížení.
+Úkol 5: 
+Zvolte rovnoramenný trojúhelník o rozměrech 1:1:1 a válcový hřídel o poloměru 0,3 m. Hřídel válcový hřídel je pevně spojen s vrcholem nejdelší strany trojúhelníku. Určete rotační moment na hřídeli vzhledem k jejímu ohybu ve středu hřídele.
 
-Úkol 6: Proveďte statický rovnovážný stav podložky s pevným diskem, kde podložka je zajištěna pomocí pevně zapojeného kroužku a podložka je vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa. Zjistěte velikost největšího náhlého zatížení, které podložka dokáže odolat, pokud je podložka rozlosována do šesti rovnoběžných pásů.
+Úkol 6: 
+Zvolte kruhový válec o poloměru 0,8 m a hmotnosti 25 kg. Válec je na obou koncích spojený s kladkami o délce 0,5 m. Určete moment setrvačnosti systému vzhledem k jeho ohybu ve středu válců.
 
-Úkol 7: Zjistěte, jak se mění vnitřní energie systému tvořeného dvěma pevně zapojenými kroužky a podložkou, pokud jsou kroužky zajištěny pomocí pevně zapojeného kroužku a podložka je vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa. Zjistěte, jak se mění vnitřní energie s velikostí náhlého zatížení.
+Úkol 7: 
+Doručte válec o poloměru 1,5 m váží 60 kg, který je spojen s válcem z předchozí úlohy. Hmotnosti obou válců jsou v rozdílných úhlových polohách. Vyhledejte rotační moment na hřídeli válců vzhledem k jejich ohybu ve středu válců.
 
-Úkol 8: Porovnejte tlumivé vlastnosti dvou různých typů tlumičů vibrací: tlumiče elastičnosti a tlumiče s elastickým kroužkem. Zjistěte, jak se mění tlumivý účinek tlumiče s frekvencí, velikostí náhlého zatížení a teplotou.
+Úkol 8: 
+Zvolte kruhový válec o poloměru 1,0 m a hmotnosti 35 kg. Válec je na obou koncích spojený s kladkami o délce 0,7 m. Hmotnosti kladek jsou 5 kg a válec má moment setrvačnosti 0,2 kg m^2. Určete rotační moment na kladkách vzhledem k jejich ohybu v bodě, který má vzdálenost 0,4 m od středu válců.
 
-Úkol 9: Proveďte dynamický rovnovážný stav podložky s pevným diskem, kde podložka je zajištěna pomocí pevně zapojeného kroužku a podložka je vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa. Zjistěte, jak se mění pohyb podložky s časem, velikostí náhlého zatížení a teplotou.
+Úkol 9: 
+Zvolte rovnoramenný trojúhelník o rozměrech 1:1:1 a válcový hřídel o poloměru 0,4 m. Hřídel válcový hřídel je pevně spojen s vrcholem nejdelší strany trojúhelníku. Válec válcový hřídel váží 20 kg a má moment setrvačnosti 0,15 kg m^2. Hmotnosti všech dalších částí rotačního systému jsou 5 kg a úhly mezi nimi jsou α = 30° a β = 60°. Určete rotační moment na hřídeli vzhledem k jejímu ohybu ve středu hřídele.
 
-Úkol 10: Zjistěte, jak se mění vnitřní energie systému tvořeného dvěma pevně zapojenými kroužky a podložkou, pokud jsou kroužky zajištěny pomocí pevně zapojeného kroužku a podložka je vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa. Zjistěte, jak se mění vnitřní energie s velikostí náhlého zatížení, teplotou a materiálovou teplotou podložky.
+Úkol 10: 
+Zvolte dva válcové hřídele o poloměru 0,6 m a váhu 30 kg. Hřídele válcové hřídele váží 15 kg a mají moment setrvačnosti 0,2 kg m^2. Hřídele válcové hřídele jsou pevně spojeny s vrcholem nejdelší strany rotačního systému a mají úhly α = 45° a β = 90°. Určete moment setrvačnosti systému vzhledem k jeho ohybu ve středu hřídele.
