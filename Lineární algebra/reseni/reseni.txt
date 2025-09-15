@@ -1,121 +1,104 @@
-# AI Generované řešení úkolů pro předmět: Lineární algebra
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:03:59
+# Řešení úkolů pro předmět: Lineární algebra
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:16:43
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Proveďte transformaci matice A do souřadné soustavy pomocí přechodové matice P, kde A je matice 2x2:
+Řešení 1: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-A = [ 2  1 ]
-    [ 4 -2 ]
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-Krok 1: Najděme vektory souřadné soustavy. Souřadná soustava je tvořena vektory, které jsou ortogonální a mají jednotkovou velikost. Pro matice 2x2 je možné použít vektory:
+Řešení 2: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-u1 = [ 1, 0 ]
-u2 = [ 0, 1 ]
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-Krok 2: Najděme přechodovou matice P, která přemění vektory souřadné soustavy na vektory původní soustavy. Přechodová matice P se může určit jako součtem vektorů souřadné soustavy, kde každá položka vektoru souřadné soustavy je násobena příslušnou položkou původní soustavy.
+Řešení 3: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-P = [ u1, u2 ]^T
-= [ [1, 0]^T, [0, 1]^T ]
-= [ [1, 0, 0, 0], [0, 1, 0, 0] ]
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-Krok 3: Zkontrolujeme, zda přechodová matice P je ortogonální (tj. zda P^T * P = I).
+Řešení 4: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-P^T * P = [ [1, 0], [0, 1] ] * [ [1, 0], [0, 1] ]
-= [ [1*1 + 0*0, 1*0 + 0*1], [0*1 + 1*0, 0*0 + 1*1] ]
-= [ [1, 0], [0, 1] ]
-= I
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-Krok 4: Proveďte transformaci matice A do souřadné soustavy pomocí přechodové matice P.
+Řešení 5: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-A' = P^T * A * P
-= [ [1, 0], [0, 1] ] * [ [2, 1], [4, -2] ] * [ [1, 0], [0, 1] ]
-= [ [1*2 + 0*4, 1*1 + 0*-2], [0*2 + 1*4, 0*1 + 1*-2] ]
-= [ [2, 1], [4, -2] ]
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-Řešení 2: Najděte ortogonální komplement prostoru vektorů u = [ -2, 3 ] a v = [ 1, -4].
+Řešení 6: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Krok 1: Najděme vektor, který je ortogonální k obou vektory u a v. Tento vektor se může určit jako
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-w = (u x v) / ||u x v||
+Řešení 7: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Krok 2: Vypočtěme vektor u x v.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-u x v = [ -2, 3 ] x [ 1, -4 ]
-= [ (3*1) - (-4*0), (-2*1) - (0*1) ]
-= [ 3, -2 ]
+Řešení 8: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Krok 3: Vypočtěme velikost vektoru u x v.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-||u x v|| = sqrt(3^2 + (-2)^2)
-= sqrt(13)
+Řešení 9: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Krok 4: Vypočtěme vektor w.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
 
-w = (u x v) / ||u x v||
-= [ 3, -2 ] / sqrt(13)
-= [ 3/sqrt(13), -2/sqrt(13) ]
+Řešení 10: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Lineární algebra
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Krok 5: Zkontrolujeme, zda w je ortogonální k oběma vektory u a v.
-
-u . w = (-2, 3) . (3/sqrt(13), -2/sqrt(13))
-= -2*3/sqrt(13) + 3*(-2)/sqrt(13)
-= 0
-
-v . w = (1, -4) . (3/sqrt(13), -2/sqrt(13))
-= 1*3/sqrt(13) + (-4)*(-2)/sqrt(13)
-= 0
-
-Řešení 3: Proveďte redukci matice A do horní trojčlenné trojčlenné formy, kde A je matice 3x3:
-
-A = [ 2  1  3 ]
-    [ 4 -2  5 ]
-    [ 1  3 -1 ]
-
-Krok 1: Použijte Gaussovu redukci, aby se snížila matice A do horní trojčlenné trojčlenné formy.
-
-Krok 2: Odstraňte prvky pod diagonálou.
-
-r1 = 4
-r2 = -2
-r3 = 1
-
-Krok 3: Přeneste prvky pod diagonálou do horní řady.
-
-r1,2 = r1/r3 = 4
-r1,3 = r2/r3 = -2
-
-Krok 4: Upravte horní řadu tak, aby první element byl 1.
-
-r1,1 = r1,1 / r1,2 = 1
-r1,2 = r1,2 - r1,3 * r1,1 = 0
-r1,3 = r1,3 - r1,2 * r1,1 = -2
-
-Krok 5: Zopakujte kroky 2-4, dokud nebudou prvky pod diagonálou nulové.
-
-Řešení 4: Najděte charakteristickou rovnici matice:
-
-A = [ 2  1 ]
-    [ 1  2 ]
-
-Krok 1: Vypočtěte determinant matice A - λI.
-
-det(A - λI) = det([ 2 - λ, 1 ], [ 1, 2 - λ ])
-= (2 - λ)(2 - λ) - 1*1
-= λ^2 - 4λ + 3
-
-Krok 2: Vypočtěte charakteristickou rovnici.
-
-x^2 - 4x + 3 = 0
-
-Řešení 5: Proveďte faktorizaci kvadratiků pomocí symetrických a ortogonálních matric.
-
-Krok 1: Definujte symetrickou a ortogonální matice.
-
-A = [ a  b ]
-    [ b  c ]
-
-B = [ sqrt(2)/2, sqrt(2)/2 ]
-    [ -sqrt(2)/2, sqrt(2)/2 ]
-
-Krok 2: Proveďte faktorizaci kvadratika a^2 - 2ab + b^2.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Lineární algebra.
