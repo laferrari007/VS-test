@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Občanská výchova
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:46:43
+# Datum: 2025-09-15 22:56:38
 
-Úkol 1: Vyberte a popište tři sociální normy, které se uplatňují v našich dnešních společnostech, a vysvětlíte, proč jsou důležité pro fungování společnosti.
+Úkol 1: Základní úkol z předmětu Občanská výchova - úroveň 1
 
-Úkol 2: Napište krátkou esej o významu respektování rozdílných názorů a názorových směrů ve společnosti. Uveďte několik příkladů, kde respektování rozdílných názorů vedlo ke kreativním řešení problémů.
+Úkol 2: Základní úkol z předmětu Občanská výchova - úroveň 2
 
-Úkol 3: Analyzujte a vyhodnoťte roli médií v šíření informačních kampaní a jejich vliv na veřejnou diskusi. Jaké jsou potenciální rizika a příležitosti?
+Úkol 3: Základní úkol z předmětu Občanská výchova - úroveň 3
 
-Úkol 4: Napište rozhovor s někým, kdo se aktivně zapojuje do veřejného života (např. aktivista, politik, občanské aktivistka). Zeptejte se ho na jejich motivaci a zkušenosti a napište krátký článek o tom, co jste se dozvěděli.
+Úkol 4: Základní úkol z předmětu Občanská výchova - úroveň 4
 
-Úkol 5: Vyberte a analyzujte jeden z významných zákonů nebo ústavních dokumentů (např. Mezinárodní pakt o občanských a politických právech). Popište jeho historický kontext, hlavní body a vliv na moderní společnost.
+Úkol 5: Základní úkol z předmětu Občanská výchova - úroveň 5
 
-Úkol 6: Zpracujte projektový plán pro organizaci charitativní akce v místní komunitě. Zvažte cíle akce, cílovou skupinu, rozpočet a komunikaci s účastníky.
+Úkol 6: Základní úkol z předmětu Občanská výchova - úroveň 6
 
-Úkol 7: Napište kritický článek o jedné z aktuálních společenských problematik (např. nerovnost, ekologické znečištění, zdravotnictví). Uveďte příčiny, dopady a návrhy na řešení.
+Úkol 7: Základní úkol z předmětu Občanská výchova - úroveň 7
 
-Úkol 8: Vyberte a analyzujte jeden z významných sociálních hnutí (např. hnutí za občanská práva v USA, hnutí za ženská práva v Indii). Popište jeho historický kontext, klíčové osobnosti a vliv na moderní společnost.
+Úkol 8: Základní úkol z předmětu Občanská výchova - úroveň 8
 
-Úkol 9: Zpracujte návrh na zřízení místní občanské iniciativy, která se bude zabývat řešením jednoho z aktuálních problémů v lokalitě (např. čistota veřejného prostoru, bezdomovectví, vzdělávání).
+Úkol 9: Základní úkol z předmětu Občanská výchova - úroveň 9
 
-Úkol 10: Napište esej o tom, jak demokracie funguje a jak se vyvinula v historii. Zahrňte také diskusi o současné krizi demokracie a návrhům na její upevnění.
+Úkol 10: Základní úkol z předmětu Občanská výchova - úroveň 10
