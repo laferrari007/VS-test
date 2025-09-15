@@ -1,120 +1,104 @@
-# AI Generované řešení úkolů pro předmět: Elektromagnetismus
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:05:56
+# Řešení úkolů pro předmět: Elektromagnetismus
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:19:09
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Prozkoumejte vztah mezi elektrickým a magnetickým polem v prostoru.
+Řešení 1:
+Úkol 1: Vypočítejte sílu elektromotorického výkonu elektromotoru, který je poháněn proudem 2A a má vnitřní odpor 5 ohmů, když je napájen zdrojem napětí 10V.
 
-Elektrické a magnetické pole v prostoru se vzájemně ovlivňují prostřednictvím Maxwellových rovnic. Tyto rovnice popisují vztah mezi elektrickým a magnetickým polem, jakož i jeho závislost na času a prostoru.
+Síla elektromotorického výkonu elektromotoru se vypočítá pomocí vzorce:
 
-Maxwellovy rovnice jsou:
+P = U * I
 
-1. Gaussova rovnice pro magnetické pole: ∇⋅B = 0
-2. Gaussova rovnice pro elektrické pole: ∇⋅E = ρ/ε0
-3. Faradayův zákon indukce: ∇×E = -∂B/∂t
-4. Ampérova toroidální zákon: ∇×B = μ₀J + μ₀ε₀∂E/∂t
+kde P je síla elektromotorického výkonu, U je napětí a I je proud.
 
-Z těchto rovnice je vidět, že elektrické a magnetické pole se vzájemně ovlivňují prostřednictvím indukce a změny magnetického pole. Elektrické pole indukuje magnetické pole a naopak.
+P = 10V * 2A = 20W
 
-Charakteristické vlastnosti elektrického pole jsou:
+Dále je nutno zjistit, zda elektromotor pracuje na plný úvazek. Úvazek lze vypočítat pomocí vzorce:
 
-* Sila elektrického pole je přímo úměrná náboji a odvráceně úměrná čtverci vzdálenosti.
-* Elektrické pole se šíří v prostoru s rychlostí světla.
+R = U / I
 
-Charakteristické vlastnosti magnetického pole jsou:
+kde R je vnitřní odpor elektromotoru a U je napětí.
 
-* Sila magnetického pole je přímo úměrná intenzitě proudu a odvráceně úměrná čtverci vzdálenosti.
-* Magnetické pole se šíří v prostoru s rychlostí světla.
+R = 10V / 2A = 5 ohmů
 
-Řešení 2: Vyjadřete Maxwellovy rovnice, které popisují elektromagnetické jevy.
+Úvazek se vypočítá jako:
 
-Maxwellovy rovnice jsou čtyři základní rovnice, které popisují elektromagnetické jevy v prostoru. Jsou to:
+Uvazek = U / R = 10V / 5 ohmů = 2 A
 
-1. Gaussova rovnice pro magnetické pole: ∇⋅B = 0
-2. Gaussova rovnice pro elektrické pole: ∇⋅E = ρ/ε0
-3. Faradayův zákon indukce: ∇×E = -∂B/∂t
-4. Ampérova toroidální zákon: ∇×B = μ₀J + μ₀ε₀∂E/∂t
+Kvůli vnitřnímu odporu elektromotoru nebude pracovat na plný úvazek, ale na úvazek 2 A. Protože je odpor 5 ohmů a napětí 10V, elektromotor pracuje na úvazek 2A.
 
-K jednotlivým složkám těchto rovnic:
+Síla elektromotorického výkonu elektromotoru je tedy 20W.
 
-* ∇ je operátor gradientu, který označuje změnu v prostoru.
-* B a E jsou skalární veličiny, které popisují magnetické a elektrické pole v prostoru.
-* ρ je hustota náboje v prostoru.
-* μ₀ je magnetická permeabilita vakuu.
-* ε₀ je dielektrická permitivita vakuu.
-* J je proudová hustota v prostoru.
+Řešení 2:
+Úkol 2: Vyjmenujte a popište hlavní fyzikální veličiny, které popisují elektromagnetické pole ve vakuu.
 
-Tyto rovnice popisují vztah mezi elektrickým a magnetickým polem, jakož i jeho závislost na času a prostoru.
+Hlavní fyzikální veličiny, které popisují elektromagnetické pole ve vakuu jsou:
 
-Řešení 3: Zjistěte, jak se vyvíjí elektrické pole kolem vodiče, když proud prochází přes něj.
+- Elektrické pole E (V/m)
+- Magnetické pole B (T)
+- Elektrická indukce D (C/m²)
+- Magnetická indukce H (A/m)
 
-Elektrické pole kolem vodiče se vyvíjí díky Coulombovu zákonu. Tento zákon říká, že elektrické pole kolem vodiče je úměrné náboji a odvráceně úměrné čtverci vzdálenosti:
+Elektrické pole E popisuje sílu, kterou elektromagnetické pole vyvíjí na náboj. Magnetické pole B popisuje sílu, kterou elektromagnetické pole vyvíjí na pohyblivý náboj. Elektrická indukce D popisuje proud, který je indukován elektromagnetickým polem. Magnetická indukce H popisuje sílu, kterou elektromagnetické pole vyvíjí na pohyblivý vodič.
 
-E = k \* q / r²
+Řešení 3:
+Úkol 3: Pokud máte dva vodiče s délkou 10cm a průřezem 1mm, vypočítejte jejich vzájemný odpor.
 
-kde:
+Vzorový odpor dvou vodičů se vypočítá pomocí vzorce:
 
-* E je elektrické pole v bodě vzdáleném r od vodiče.
-* q je náboj vodiče.
-* r je vzdálenost od vodiče.
+R = ρ * l / A
 
-Pokud proud prochází přes vodič, náboj se rozloží po celé délce vodiče. Elektrické pole se vyvíjí kolem vodiče a je největší na povrchu vodiče.
+kde R je vzorový odpor, ρ je specificke rezistivita materiálu, l je délka vodiče a A je průřez.
 
-Pokud je proud konstantní, náboj se nezmění a tedy ani elektrické pole. Elektrické pole se vyvíjí stabilně kolem vodiče.
+Specificke rezistivita materiálu (obvykle měděného drátu) je přibližně 1,6 × 10^(-8) Ωm.
 
-Řešení 4: Zajistěte, aby se elektrický proud pohyboval po kruhové dráze v magneticickém poli.
+A = π * (d/2)^2 = π * (0,001/2)^2 = 7,85 × 10^(-7) m^2
 
-Elektrický proud se pohybuje po kruhové dráze v magneticickém poli díky Lorentzově síle. Tato síla se vyvíjí, když elektrický proud prochází magnetickým polem a je úměrná produktu intenzity proudu a intenzity magnetického pole:
+R = ρ * l / A = (1,6 × 10^(-8) Ωm) * (0,1 m) / (7,85 × 10^(-7) m^2) = 0,2 Ω
 
-F = q \* v \* B
+Poznámka: Tento výpočet je přibližný, protože specificke rezistivita materiálu může variovat v závislosti na teplotě a jiných faktorech.
 
-kde:
+Řešení 4:
+Úkol 4: Vysvětlete rozdíl mezi indukčností a kapacitivitou a ukázejte příklady, kde se obě veličiny používají.
 
-* F je Lorentzova síla.
-* q je náboj částice.
-* v je rychlost částice.
-* B je magnetické pole.
+Indukčnost (L) je veličina, která popisuje schopnost obvodu absorbovat nebo generovat elektromagnetické pole v závislosti na změně proudu. Kapacitivita (C) je veličina, která popisuje schopnost obvodu uchovávat elektromagnetické pole v závislosti na napětí.
 
-Pokud je magnetické pole konstantní, částice se pohybují po kruhové dráze. Toto je základem funkce magnetických zářičů a dalších elektromagnetických zařízení.
+Indukčnost se používá v obvodech, jako jsou indukční brzdy, které jsou používány k regulaci rychlosti vozidel nebo strojů. Kapacitivita se používá v obvodech, jako jsou kondenzátory, které jsou používány k filtrování elektrické energie nebo jako součást filtrování signálu.
 
-Řešení 5: Porovnejte elektrické a magnetické pole v blízkosti elektricky nabitého tělesa.
+Příklady použití indukčnosti:
 
-Elektrické pole v blízkosti elektricky nabitého tělesa se vyvíjí podle Coulombovho zákona. Magnetické pole se vyvíjí podle Ampérovy toroidální zákonné.
+- Indukční brzda na kolech vozidla
+- Elektromotor s indukční brzdou
 
-Elektrické pole je úměrné náboji a odvráceně úměrné čtverci vzdálenosti:
+Příklady použití kapacitivita:
 
-E = k \* q / r²
+- Filtraci elektrické energie v elektronických obvodech
+- Filtrování signálu v elektronických obvodech
 
-Magnetické pole je úměrné intenzitě proudu a odvráceně úměrné čtverci vzdálenosti:
+Řešení 5:
+Úkol 5: Popište proces indukce elektromagnetického pole v přívodním vodiči, pokud se změní proud.
 
-B = μ₀ \* J / r²
+Proces indukce elektromagnetického pole v přívodním vodiči je následující:
 
-kde:
+1. Když se změní proud v přívodním vodiči, vznikne změny magnetického pole v jeho okolí.
+2. Magnetické pole indukuje elektrické pole v přívodním vodiči.
+3. Elektrické pole indukuje proud v přívodním vodiči.
+4. Proud v přívodním vodiči indukuje magnetické pole v jeho okolí.
 
-* E a B jsou elektrické a magnetické pole v blízkosti elektricky nabitého tělesa.
-* q je náboj tělesa.
-* r je vzdálenost od tělesa.
-* μ₀ je magnetická permeabilita vakuu.
-* J je proudová hustota v tělese.
+Tento proces je známý jako indukční efekt. On je zásadní pro pracuje elektromotoru, generatoru, dynamo a dalších zařízení.
 
-Řešení 6: Vyjasněte vztah mezi indukčním napětím a změnou magnetického pole v indukčním obvodu.
+Řešení 6:
+Úkol 6: Pokud máte tři vodiče s délkou 5cm, průřezem 2mm a materiálem kov, vypočítejte jejich vzájemný odpor.
 
-Indukční napětí v indukčním obvodu se vyvíjí podle Faradayova zákona indukce. Tento zákon říká, že indukční napětí je úměrné změně magnetického pole:
+Vzorový odpor tří vodičů se vypočítá pomocí vzorce:
 
-ε = -N \* ∂φ / ∂t
+R = ρ * l / A
 
-kde:
+kde R je vzorový odpor, ρ je specificke rezistivita materiálu, l je délka vodiče a A je průřez.
 
-* ε je indukční napětí.
-* N je počet obvodů indukčního obvodu.
-* φ je magnetický útes indukčního obvodu.
-* t je čas.
+Specificke rezistivita materiálu (obvykle měděného drátu) je přibližně 1,6 × 10^(-8) Ωm.
 
-Změna magnetického pole se vyvíjí podle Ampérovy toroidální zákonné:
+A = π * (d/2)^2 = π * (0,002/2)^2 = 1,57 × 10^(-5) m^2
 
-∇×B = μ₀J + μ₀ε₀∂E/∂t
-
-kde:
-
-* ∇×B je změna magnetického pole.
-* μ₀ je magnetická permeabilita vakuu
+R = ρ * l / A = (1,6 × 10^(-8) Ωm) * (0,05 m) / (1,57 × 10^(-5) m^2) = 0,05 Ω
