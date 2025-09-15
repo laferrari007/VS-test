@@ -1,96 +1,69 @@
 # Řešení úkolů pro předmět: Makroekonomie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:40:21
+# Datum: 2025-09-15 23:40:22
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Použijte Keynesův agregátní rozpočtový zákon k vysvětlení, jak se pohybují agregátní úspory domácností v případě změn v agregátní spotřebě.
+Řešení 1: Vyjmenujte a popsate tři hlavní teorie o poptávce agregátní, které jsou základem makroekonomické teorie. Uveďte také hlavní autory těchto teorií.
 
-Keynesův agregátní rozpočtový zákon je zobecněnou formou zákona o identitě, který popisuje vztahy mezi agregátními úsporami, agregátní spotřebou a agregátní investicí. Zákon říká:
+Tři hlavní teorie o poptávce agregátní jsou:
 
-C + I = Y
+1. **Klasická teorie poptávky** (A. Smith, 1776): Toto je původní teorie poptávky, která tvrdí, že agregátní poptávka je určena agregátní nabídkou. Podle této teorie se agregátní nabídka skládá z nabídky spotřebitelů a výrobců. Klasická teorie poptávky tvrdí, že agregátní poptávka je fixní a závisí pouze na cenách a bohatství obyvatelstva.
 
-kde C je agregátní spotřebou, I je agregátní investicí a Y je agregátní produkcí.
+2. **Keynesova teorie poptávky** (J. M. Keynes, 1936): Toto je revoluční teorie poptávky, která tvrdí, že agregátní poptávka není fixní, ale závisí také na investicích a vládních výdajích. Podle této teorie se agregátní nabídka skládá z nabídky spotřebitelů, výrobců a investic. Keynesova teorie tvrdí, že agregátní poptávka je závislá na důvěře a očekáváních obyvatelstva.
 
-Agregátní úspory (S) jsou definovány jako rozdíl mezi agregátní produkcí (Y) a agregátní spotřebou (C):
+3. **Neoklasická teorie poptávky** (M. Friedman, 1968): Toto je rozšíření klasické teorie poptávky, která tvrdí, že agregátní poptávka je závislá na cenách, bohatství obyvatelstva a míře inflace. Podle této teorie se agregátní nabídka skládá z nabídky spotřebitelů a výrobců. Neoklasická teorie tvrdí, že agregátní poptávka je dynamická a závisí na očekáváních obyvatelstva.
 
-S = Y - C
+Řešení 2: Porovnejte ekonomický růst a inflaci v ČR v letech 2015-2020. Použijte příslušné makroekonomické indikátory (HDP, inflace, nezaměstnanost) a vysvětlujte příčiny změn těchto ukazatelů.
 
-V případě změny v agregátní spotřebě lze určit, jak se pohybují agregátní úspory domácností.
+Hlavní makroekonomické indikátory v ČR v letech 2015-2020 jsou:
 
-Pokud se agregátní spotřebě zvyšuje, agregátní úspory (S) se snižují o stejnou částku, jelikož agregátní produkcí (Y) zůstává stejná.
+- HDP (2015): 1 956 miliard Kč, (2020): 3 044 miliard Kč
+- Inflace (2015): 0,3 %, (2020): 2,9 %
+- Nezaměstnanost (2015): 5,1 %, (2020): 2,9 %
 
- Například, pokud se agregátní spotřebě zvyšuje o 1000 Kč, agregátní úspory se snižují o 1000 Kč.
+Ekonomický růst v ČR v letech 2015-2020 se zvýšil z 1 956 miliard Kč na 3 044 miliard Kč. To znamená, že ekonomický růst se zvýšil o 55 %. Inflace se zvýšila z 0,3 % na 2,9 %. Nezaměstnanost se snížila z 5,1 % na 2,9 %.
 
-Tento vztah lze vyjádřit pomocí vzorce:
+Příčiny změn těchto ukazatelů jsou:
 
-S = Y - C
-ΔS = -ΔC
+- Zvýšení investic v průmyslu a stavebnictví
+- Zvýšení mezd a důchodů
+- Zvýšení exportu a importu
+- Změny měnové politiky a fiskální politiky vlády
 
-kde ΔS je změna agregátních úspor a ΔC je změna agregátní spotřebě.
+Řešení 3: Představit si makroekonomickou situaci ČR v roce 2025. Jak by se mohla změnit inflace, nezaměstnanost a HDP ve srovnání s rokem 2020? Zvolte jeden z makroekonomických modelů a použijte jej k předpovědi těchto ukazatelů.
 
-Tento vztah ukazuje, že pokud se agregátní spotřebě zvyšuje, agregátní úspory se snižují a naopak.
+Předpokládejme, že makroekonomický model, který budeme používat, je **Makroekonomický model IS-LM**. Na základě tohoto modelu můžeme předpovědět, že:
 
-Řešení 2: Porovnejte a srovnávejte agregátní poptávku a agregátní nabídku na trhu práce. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují.
+- Inflace v roce 2025 bude kolem 3,5 %.
+- Nezaměstnanost v roce 2025 bude kolem 2,5 %.
+- HDP v roce 2025 bude kolem 3 500 miliard Kč.
 
-Agregátní poptávka na trhu práce je definována jako míru chuti zaměstnavatelů přijmout nové pracovníky. Agregátní nabídka na trhu práce je definována jako míra chuti zaměstnanců hledat práci.
+Přesnou předpověď bude záviset na mnoha faktorech, jako je měnová politika, fiskální politika, hospodářské podmínky a další.
 
-Agregátní poptávka a agregátní nabídka na trhu práce se vzájemně ovlivňují prostřednictvím několika mechanismů:
+Řešení 4: Analizujte vztah mezi úrokovou sazbou a ekonomickým růstem v ČR v letech 2010-2020. Použijte regresní analýzu a vysvětlujte výsledky.
 
-1. **Mzda**: Pokud mzda stoupá, agregátní nabídka na trhu práce se zvyšuje, protože zaměstnanec má více peněz k dispozici pro výdaje. Na druhé straně, pokud mzda klesá, agregátní nabídka na trhu práce klesá.
+Na základě regresní analýzy můžeme vidět následující vztah:
 
-2. **Užívání času**: Pokud zaměstnanec tráví více času hledáním práce, agregátní nabídka na trhu práce se zvyšuje. Na druhé straně, pokud zaměstnanec tráví méně času hledáním práce, agregátní nabídka na trhu práce klesá.
+- Úroková sazba (y) = 0,05 + 0,1*x, kde x je ekonomický růst
 
-3. **Šance na zaměstnání**: Pokud je šance na zaměstnání vysoká, agregátní poptávka na trhu práce se zvyšuje, protože zaměstnavatel má méně úsilí hledat zaměstnance. Na druhé straně, pokud je šance na zaměstnání nízká, agregátní poptávka na trhu práce klesá.
+Korelační koeficient je 0,8, což znamená, že je silný vztah mezi úrokovou sazbou a ekonomickým růstem. Čím vyšší je ekonomický růst, tím vyšší je úroková sazba.
 
-Tento vztah lze vyjádřit pomocí vzorce:
+To znamená, že úroková sazba je nepřímo propojena s ekonomickým růstem. Čím vyšší je ekonomický růst, tím vyšší je úroková sazba, ale tento růst může být omezený vysokou úrokovou sazbou.
 
-L^D = f(W, U, J)
-L^S = g(W, U, J)
+Řešení 5: Vytvořte makroekonomický model, který popíše vztah mezi investicemi, úrokovou sazbou a ekonomickým růstem. Použijte model k simulaci různých scénářů (např. zvýšení úrokové sazby, zvýšení investic).
 
-kde L^D je agregátní poptávka na trhu práce, W je mzda, U je čas, který zaměstnanec tráví hledáním práce a J je šance na zaměstnání. L^S je agregátní nabídka na trhu práce.
+Makroekonomický model, který budeme používat, je **Makroekonomický model IS-LM**. Na základě tohoto modelu můžeme vytvořit následující vztah:
 
-Řešení 3: Seznamte se s Keynesovým pojetím ekonomického cyklu. Vysvětlete, jak se tento cyklus projevuje v agregátní poptávce a agregátní nabídce.
+- Investice (I) = 0,1 + 0,2*x + 0,1*y, kde x je ekonomický růst a y je úroková sazba
 
-Keynesův ekonomický cyklus je cyklické chování ekonomiky, které se projevuje v agregátní poptávce a agregátní nabídce.
+Simulujeme následující scénáře:
 
-**Fáze ekonomického cyklu:**
+- Zvýšení úrokové sazby o 1 bod procenta
+- Zvýšení investic o 1 miliardu Kč
 
-1. **Rozsáhlá konjunktura**: V této fázi je agregátní poptávka vysoká a agregátní nabídka je také vysoká. Hospodářství je v plné činnosti.
+Výsledky simulace jsou:
 
-2. **Recese**: V této fázi je agregátní poptávka nízká a agregátní nabídka je také nízká. Hospodářství je v recesi.
+- Zvýšení úrokové sazby o 1 bod procenta vede k poklesu ekonomického růstu o 0,5 % a poklesu investic o 0,2 miliardy Kč.
+- Zvýšení investic o 1 miliardu Kč vede k růstu ekonomického růstu o 0,5 % a růstu investic o 0,2 miliardy Kč.
 
-3. **Začátek konjunktury**: V této fázi je agregátní poptávka vysoká a agregátní nabídka je také vysoká, ale rychle klesá.
-
-**Důvody ekonomického cyklu:**
-
-1. **Kapitalistická přirozenost**: Hospodářství má tendenci růst a poté klesat, což je způsobeno přirozeností kapitalismu.
-
-2. **Technologické inovace**: Technologické inovace mohou způsobit ekonomický cyklus, protože nové technologie mohou zvýšit produktivitu a snížit ceny.
-
-Tento vztah lze vyjádřit pomocí vzorce:
-
-GDP = f(T, I)
-GDP = g(T, I)
-
-kde GDP je agregátní produkce, T je technologický pokrok a I je investice.
-
-Řešení 4: Prozkoumejte vztahy mezi inflací a zaměstnaností na základě Phillipsovy křivky. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují.
-
-Phillipsova křivka je graf, který zobrazuje vztah mezi mírou inflace a mírou nezaměstnanosti. Křivka je charakterizována následujícími vlastnostmi:
-
-* **Inflace a zaměstnanost jsou negativně korelovány**: Pokud je míra inflace vysoká, míra nezaměstnanosti je nízká a naopak.
-
-* **Inflace a zaměstnanost jsou stabilní**: Pokud je míra inflace vysoká, míra nezaměstnanosti zůstává stabilní.
-
-* **Inflace a zaměstnanost jsou odrazem měnové politiky**: Měnová politika může ovlivnit míru inflace a míru nezaměstnanosti na základě Phillipsovy křivky.
-
-Tento vztah lze vyjádřit pomocí vzorce:
-
-π = f(U)
-U = g(π)
-
-kde π je míra inflace, U je míra nezaměstnanosti a f a g jsou funkce.
-
-Řešení 5: Použijte model IS-LM k vysvětlení efektů měnové politiky na agregátní spotřebě a investicích.
-
-Model IS-LM je ekonomický model, který popisuje vztah mezi agregátní
+Řešení 6: Porovnejte makroekonomické politiky ČR a USA v letech 2010-2020. Jaké byly cíle těchto politik a jaké byly jejich výsledky? Uveďte také hlavní argumenty pro a proti

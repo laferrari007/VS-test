@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Makroekonomie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:40:21
+# Datum: 2025-09-15 23:40:22
 
-Úkol 1: Použijte Keynesův agregátní rozpočtový zákon k vysvětlení, jak se pohybují agregátní úspory domácností v případě změn v agregátní spotřebě.
+Úkol 1: Vyjmenujte a popsate tři hlavní teorie o poptávce agregátní, které jsou základem makroekonomické teorie. Uveďte také hlavní autory těchto teorií.
 
-Úkol 2: Porovnejte a srovnávejte agregátní poptávku a agregátní nabídku na trhu práce. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují.
+Úkol 2: Porovnejte ekonomický růst a inflaci v ČR v letech 2015-2020. Použijte příslušné makroekonomické indikátory (HDP, inflace, nezaměstnanost) a vysvětlujte příčiny změn těchto ukazatelů.
 
-Úkol 3: Seznamte se s Keynesovým pojetím ekonomického cyklu. Vysvětlete, jak se tento cyklus projevuje v agregátní poptávce a agregátní nabídce.
+Úkol 3: Představit si makroekonomickou situaci ČR v roce 2025. Jak by se mohla změnit inflace, nezaměstnanost a HDP ve srovnání s rokem 2020? Zvolte jeden z makroekonomických modelů a použijte jej k předpovědi těchto ukazatelů.
 
-Úkol 4: Prozkoumejte vztahy mezi inflací a zaměstnaností na základě Phillipsovy křivky. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují.
+Úkol 4: Analizujte vztah mezi úrokovou sazbou a ekonomickým růstem v ČR v letech 2010-2020. Použijte regresní analýzu a vysvětlujte výsledky.
 
-Úkol 5: Použijte model IS-LM k vysvětlení efektů měnové politiky na agregátní spotřebě a investicích.
+Úkol 5: Vytvořte makroekonomický model, který popíše vztah mezi investicemi, úrokovou sazbou a ekonomickým růstem. Použijte model k simulaci různých scénářů (např. zvýšení úrokové sazby, zvýšení investic).
 
-Úkol 6: Porovnejte a srovnávejte efektivní a nominální úrokovou míru. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují.
+Úkol 6: Porovnejte makroekonomické politiky ČR a USA v letech 2010-2020. Jaké byly cíle těchto politik a jaké byly jejich výsledky? Uveďte také hlavní argumenty pro a proti jednotlivých politik.
 
-Úkol 7: Prozkoumejte vztahy mezi mírou inflace a mírou nezaměstnanosti na základě Phillipsovy křivky. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují v rámci měnové politiky.
+Úkol 7: Představit si makroekonomickou situaci v EU v roce 2030. Jak by se mohla změnit inflace, nezaměstnanost a HDP jednotlivých zemí? Zvolte jeden z makroekonomických modelů a použijte jej k předpovědi těchto ukazatelů.
 
-Úkol 8: Použijte model AS-AD k vysvětlení efektů měnové politiky na agregátní nabídce a agregátní poptávce.
+Úkol 8: Analizujte dopad fiskální politiky na ekonomický růst v ČR v letech 2015-2020. Použijte makroekonomické modely a vysvětlujte výsledky.
 
-Úkol 9: Seznamte se s teorií o rovnovážním růstu. Vysvětlete, jak se tento model projevuje v agregátní poptávce a agregátní nabídce.
+Úkol 9: Vytvořte makroekonomický model, který popíše vztah mezi měnovou politikou a inflací. Použijte model k simulaci různých scénářů (např. zavedení měnové politiky, zvýšení měnové báze).
 
-Úkol 10: Prozkoumejte vztahy mezi mírou inflace a mírou růstu ekonomiky na základě modelu AS-AD. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují v rámci měnové politiky.
+Úkol 10: Napsat kritický článek o současné makroekonomické situaci v ČR a EU. Uveďte hlavní body, které byste změnili v současných makroekonomických politikách, aby se dosáhlo lepších výsledků.
