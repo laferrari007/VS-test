@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Kybernetická bezpečnost
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:32:11
+# Datum: 2025-09-15 23:32:25
 
-Úkol 1: Popište zásady bezpečnosti informací (CIA triada) a vysvětlí, proč jsou důležité pro kybernetickou bezpečnost. (1 bod)
+Úkol 1: Porovnejte a porovnejte bezpečnostní prvky dvou populárních operačních systémů (např. Windows a Linux). Vysvětlete, jaká bezpečnostní funkce je k dispozici, jak fungují a jak je možné je konfigurovat.
 
-Úkol 2: Porovnejte základní typy kryptografických algoritmů (symetrická, asymetrická) a vysvětlí, jak se používají v kybernetické bezpečnosti. (2 body)
+Úkol 2: Zvolte si jednoduchý protokol komunikace (např. HTTP nebo FTP), a vytvořte seznam všech možných zranitelností, které může obsahovat. Vysvětlíte, jak by bylo možné tyto zranitelnosti vyhnout nebo eliminovat.
 
-Úkol 3: Popište proces autentizace a autorizace v síti a vysvětlí, jak se liší. (2 body)
+Úkol 3: Vyberte si jednoduchý framework pro vývoj aplikací (např. Django nebo Spring) a vyzkoušejte, jak implementovat běžné bezpečnostní prvky (např. autentizaci, ochrana před SQL injectionem). Popište, jak funguje každá funkce a jak se používá.
 
-Úkol 4: Vyberte si jeden typ malware (vírus, worm, trojan) a popište jeho chování, symptomy a metody prevence. (3 body)
+Úkol 4: Studujte a analyzujte známou kybernetickou bezpečnostní zranitelnost (např. Heartbleed nebo Log4Shell). Popište, jak se zranitelnost objevila, jak funguje a jak se může eliminovat.
 
-Úkol 5: Vysvětlí, jak funguje princip firewallové polohy a vysvětlí, jaké jsou její výhody a nevýhody. (3 body)
+Úkol 5: Vyžádejte si od kolegy nebo od profesora ukázku webové aplikace s běžnými chybovými zprávami (např. SQL injection, cross-site scripting). Analyzujte, jak by bylo možné tyto chyby vyhledat a opravit.
 
-Úkol 6: Vysvětlí, jak funguje princip intrusion detection a vysvětlí, jaké jsou jeho výhody a nevýhody. (4 body)
+Úkol 6: Napište si vlastní útok na webovou aplikaci (např. SQL injection nebo cross-site scripting) a poté vyzkoušejte, jak by bylo možné tento útok odhalit a eliminovat pomocí běžných bezpečnostních nástrojů (např. Web Application Firewall).
 
-Úkol 7: Vyberte si jeden typ kybernetické útoky (phishing, watering hole attack, ransomware) a popište jeho chování, symptomy a metody prevence. (4 body)
+Úkol 7: Implementujte vlastní systém autentizace a autorizace pro jednoduchý projekt (např. webovou aplikaci). Vysvětlíte, jak funguje systém a jak se používá.
 
-Úkol 8: Vysvětlí, jak funguje princip Identity and Access Management (IAM) a vysvětlí, jaké jsou jeho výhody a nevýhody. (5 bodů)
+Úkol 8: Zvolte si jednoduchý cloudový poskytovatel služeb (např. AWS nebo Google Cloud) a vyzkoušejte, jak implementovat bezpečnostní prvky (např. virtuální síť, zabezpečený přístup k datům). Popište, jak funguje každá funkce a jak se používá.
 
-Úkol 9: Vyberte si jeden typ kryptografického protokolu (SSL/TLS, IPsec) a popište jeho chování, výhody a nevýhody. (5 bodů)
+Úkol 9: Analyzujte a porovnejte bezpečnostní postupy různých firemních firem nebo organizací. Vysvětlujte, jaká bezpečnostní opatření jsou použita, jak fungují a jak jsou implementována.
 
-Úkol 10: Vyberte si jeden typ kybernetické bezpečnosti na úrovni systému (endpoint security, network security, cloud security) a popište jeho chování, výhody a nevýhody. (6 bodů)
+Úkol 10: Vyžádejte si od profesora nebo kolegy ukázku komplexního kybernetického útoku (např. ransomware nebo phishing). Analyzujte, jak by bylo možné tento útok odhalit a eliminovat pomocí běžných bezpečnostních nástrojů a postupů.
