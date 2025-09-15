@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Zeměpis
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:41:39
+# Datum: 2025-09-15 22:52:27
 
-Úkol 1: Základní úkol z předmětu Zeměpis - úroveň 1
+Úkol 1: Popište rozdíly mezi kontinentální a oceánskou klimatickou zónou. Použijte konkrétní příklady a vysvětlete vliv zemské rotace a oceánského oceánu na vznik těchto klimatických zón.
 
-Úkol 2: Základní úkol z předmětu Zeměpis - úroveň 2
+Úkol 2: Vyberte tři typy reliéfů na kontinentální pevnině a popište jejich vzhled, vznik a význam pro lidskou činnost. Použijte příklady z ČR nebo jiného evropského státu.
 
-Úkol 3: Základní úkol z předmětu Zeměpis - úroveň 3
+Úkol 3: Porovnejte rozdíly mezi polárními a subtropickými srážkovými pásy. Použijte data o srážkách a teplotách v těchto pásy a vysvětlete vliv polárního oceánu a subtropických vodních toků na vznik těchto pásů.
 
-Úkol 4: Základní úkol z předmětu Zeměpis - úroveň 4
+Úkol 4: Popište charakteristické rysy geologických procesů v oblasti horských systémů (např. Alpy, Karpaty). Použijte příklady z konkrétních horstev a vysvětlete vliv tlaku a teploty na vznik těchto procesů.
 
-Úkol 5: Základní úkol z předmětu Zeměpis - úroveň 5
+Úkol 5: Vyberte konkrétní vodní tok (např. Vltava, Dunaj) a popište jeho hydrologické charakteristiky (průtok, délka, povodí). Použijte data o vodním režimu a vysvětlete vliv zeměpisných podmínek na vznik těchto charakteristik.
 
-Úkol 6: Základní úkol z předmětu Zeměpis - úroveň 6
+Úkol 6: Porovnejte rozdíly mezi vegetačními zónami v různých zeměpisných šířkách. Použijte příklady z subtropů, tropů a mírného pásu a vysvětlete vliv teploty, srážek a světla na vznik těchto zón.
 
-Úkol 7: Základní úkol z předmětu Zeměpis - úroveň 7
+Úkol 7: Popište charakteristické rysy geomorfologických procesů v oblasti delta (např. Delta Dunaje, Delta Mississippi). Použijte příklady z konkrétních delt a vysvětlete vliv vodního tlaku a sedimentů na vznik těchto procesů.
 
-Úkol 8: Základní úkol z předmětu Zeměpis - úroveň 8
+Úkol 8: Vyberte konkrétní ostrov (např. Sicílie, Kreta) a popište jeho geografické charakteristiky (pobřeží, vrcholy, geologie). Použijte data o zemětřeseních a vulkanické činnosti a vysvětlete vliv zemské tektoniky na vznik těchto charakteristik.
 
-Úkol 9: Základní úkol z předmětu Zeměpis - úroveň 9
+Úkol 9: Porovnejte rozdíly mezi klimatickými zónami v různých zeměpisných šířkách. Použijte příklady z subtropů, tropů a mírného pásu a vysvětlete vliv teploty, srážek a světla na vznik těchto zón.
 
-Úkol 10: Základní úkol z předmětu Zeměpis - úroveň 10
+Úkol 10: Zpracujte geografický rozbor konkrétního státu (např. ČR, Polsko) a popište jeho geografické charakteristiky (povrch, klima, vodstvo, obyvatelstvo). Použijte data o demografii, hospodářství a politice a vysvětlete vliv zeměpisných podmínek na vznik těchto charakteristik.
