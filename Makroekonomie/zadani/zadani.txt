@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Makroekonomie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:40:21
+
+Úkol 1: Použijte Keynesův agregátní rozpočtový zákon k vysvětlení, jak se pohybují agregátní úspory domácností v případě změn v agregátní spotřebě.
+
+Úkol 2: Porovnejte a srovnávejte agregátní poptávku a agregátní nabídku na trhu práce. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují.
+
+Úkol 3: Seznamte se s Keynesovým pojetím ekonomického cyklu. Vysvětlete, jak se tento cyklus projevuje v agregátní poptávce a agregátní nabídce.
+
+Úkol 4: Prozkoumejte vztahy mezi inflací a zaměstnaností na základě Phillipsovy křivky. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují.
+
+Úkol 5: Použijte model IS-LM k vysvětlení efektů měnové politiky na agregátní spotřebě a investicích.
+
+Úkol 6: Porovnejte a srovnávejte efektivní a nominální úrokovou míru. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují.
+
+Úkol 7: Prozkoumejte vztahy mezi mírou inflace a mírou nezaměstnanosti na základě Phillipsovy křivky. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují v rámci měnové politiky.
+
+Úkol 8: Použijte model AS-AD k vysvětlení efektů měnové politiky na agregátní nabídce a agregátní poptávce.
+
+Úkol 9: Seznamte se s teorií o rovnovážním růstu. Vysvětlete, jak se tento model projevuje v agregátní poptávce a agregátní nabídce.
+
+Úkol 10: Prozkoumejte vztahy mezi mírou inflace a mírou růstu ekonomiky na základě modelu AS-AD. Vysvětlete, jak se tyto dvě veličiny vzájemně ovlivňují v rámci měnové politiky.
