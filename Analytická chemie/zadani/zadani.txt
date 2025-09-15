@@ -2,24 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:22:35
 
-Zde jsou 10 univerzitních úkolů pro předmět "Analytická chemie":
+Úkol 1: Popiš postup přípravy roztoku vápníku (CaCl2) s koncentrací 0,1 mol/l. Použijte pouze čistou vodu a vápník bez dalších přísad.
 
-Úkol 1: Prozkoumejte vlastnosti a použití silanů v analytické chemii. Uveďte alespoň 3 aplikace silanů v oblasti analýzy.
+Úkol 2: Vysvětlíš podstatu principu roztoku a definuj jeho charakteristické vlastnosti. Uveď příklady různých typů roztoků.
 
-Úkol 2: Popište principy a kroky extrakční chromatografie na povrchu (SPE) a uveďte alespoň 3 oblasti, kde je SPE používán v analytické chemii.
+Úkol 3: Urči koncentraci roztoku chloridu hořečnatého (CaCl2) získanou z experimentálního data, pokud byl zředěn čistou vodou na objem 250 ml a vážil 0,35 g.
 
-Úkol 3: Vypočítejte koncentraci složky v roztoku pomocí metody absorpční spektroskopie (AAS). Údaje: absorpční koeficient 2,5 mol/l.m, délka cestičky 0,05 m, intenzita záření 0,5 A.
+Úkol 4: Porovnejte a vysvětlete rozdíly mezi metodou gravimetrického roztoku a metodou titračně-roztokové analýzy.
 
-Úkol 4: Popište rozdíl mezi metodami gas chromatografie (GC) a lícní chromatografie (LC) a uveďte alespoň 3 aplikace těchto metod v analytické chemii.
+Úkol 5: Rozebírej principy a postup přípravy roztoku sodné hydrogenuhličitanové (NaHCO3) a vysvětli, proč je důležité správné zředění roztoku.
 
-Úkol 5: Prozkoumejte vlastnosti a použití derivatizací v analytické chemii. Uveďte alespoň 3 typy derivatizací a jejich aplikace.
+Úkol 6: Urči koncentraci roztoku vodného roztoku síranu draselného (K2SO4) s objemem 200 ml a váhou 0,45 g.
 
-Úkol 6: Vypočítejte koncentraci složky v roztoku pomocí titrací. Údaje: roztok HCl 0,1 M, 25 ml roztoku HCl je potřeba k titraci 20 ml roztoku NaOH 0,1 M, čárka je v místě 30 ml.
+Úkol 7: Proveď experimentální měření a odhadněte koncentraci roztoku vápníku (CaCl2) s objemem 300 ml, váhou 0,7 g a konkrétní hmotností vápníku 74 g/mol.
 
-Úkol 7: Popište principy a kroky hmotnostní spektrometrie (MS) a uveďte alespoň 3 oblasti, kde je MS používán v analytické chemii.
+Úkol 8: Rozebírající rozdíly mezi různými typy roztoků (elektrolytické, koloidní a rozpouštěcí roztoky) a vysvětli, proč jsou pro různé aplikace důležité.
 
-Úkol 8: Prozkoumejte vlastnosti a použití iontových výměnných polymerů (IWP) v analytické chemii. Uveďte alespoň 3 aplikace IWP v oblasti analýzy.
+Úkol 9: Vyžádejte a popište specifické techniky pro izolaci a očišťování analytických látek z komplexních vzorků biologického nebo chemického původu.
 
-Úkol 9: Vypočítejte koncentraci složky v roztoku pomocí metody fluorescenční spektroskopie (FSS). Údaje: fluorescenční koeficient 0,8 mol/l.m, délka cestičky 0,05 m, intenzita záření 0,5 A.
-
-Úkol 10: Popište rozdíl mezi metodami elektrochemické analýzy (ECA) a kapilární elektrochemické analýzy (CECA). Uveďte alespoň 3 aplikace těchto metod v analytické chemii a porovnejte jejich výhody a nevýhody.
+Úkol 10: Proveďte experimentální měření a urči koncentraci roztoku chloridu sodného (NaCl) s objemem 500 ml, váhou 2,1 g a konkrétní hmotností chloridu sodného 58,44 g/mol, přičemž jste použili metodu titračně-roztokové analýzy.
