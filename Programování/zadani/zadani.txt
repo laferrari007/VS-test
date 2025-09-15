@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Programování
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:00:48
+# Zadání úkolů pro předmět: Programování
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:11:32
 
-Úkol 1: Základní úkol z předmětu Programování - úroveň 1
+Úkol 1: Implementujte funkci, která spočítá délku řetězce, přičemž řetězec obsahuje pouze znaky A, C, G a T.
 
-Úkol 2: Základní úkol z předmětu Programování - úroveň 2
+Úkol 2: Napište program, který bude připojovat dvě čísla pomocí operátorů přiřazení a přidání.
 
-Úkol 3: Základní úkol z předmětu Programování - úroveň 3
+Úkol 3: Implementujte algoritmus, který nalezne největší prvočíselnou hodnotu v daném seznamu.
 
-Úkol 4: Základní úkol z předmětu Programování - úroveň 4
+Úkol 4: Napište funkci, která vrátí počet prvků v poli, které jsou větší než průměr všech prvků v poli.
 
-Úkol 5: Základní úkol z předmětu Programování - úroveň 5
+Úkol 5: Implementujte třídu "Banka", která bude obsahovat atributy "jmenovitý_výnos" a "úrok". Upravte třídu tak, aby byla možné přidávání úroků a vyčíslování celkového výnosu.
 
-Úkol 6: Základní úkol z předmětu Programování - úroveň 6
+Úkol 6: Napište program, který najde všechny kromozomy v DNA řetězci a spočítá počet A, C, G a T v každé kromozomě.
 
-Úkol 7: Základní úkol z předmětu Programování - úroveň 7
+Úkol 7: Implementujte funkci, která vrátí seznam všech složených čísel (tj. čísel, jejichž hodnoty lze vyjádřit jako součty jejich dělitelných podílů) do n.
 
-Úkol 8: Základní úkol z předmětu Programování - úroveň 8
+Úkol 8: Napište program, který bude řešit jednoduchá lineární soustava rovnic na základě Guassovy eliminace.
 
-Úkol 9: Základní úkol z předmětu Programování - úroveň 9
+Úkol 9: Implementujte třídu "Hodnota", která bude obsahovat atributy "hodnota" a "přirozená" a umožní přidávání a odečítání hodnot. Upravte třídu tak, aby byla možné provádět operace s hodnotami.
 
-Úkol 10: Základní úkol z předmětu Programování - úroveň 10
+Úkol 10: Napište funkci, která vrátí slovník, kde klíčem je název země a hodnotou je počet obyvatel země. Funkce bude používat API a vrátí výsledky do 10 dnů.

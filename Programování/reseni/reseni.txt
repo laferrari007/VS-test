@@ -1,24 +1,137 @@
-# AI Generované řešení úkolů pro předmět: Programování
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:00:48
+# Řešení úkolů pro předmět: Programování
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:11:32
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Programování
+Řešení 1:
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Programování
+Implementujte funkci, která spočítá délku řetězce, přičemž řetězec obsahuje pouze znaky A, C, G a T.
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Programování
+**Funkce:**
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Programování
+```python
+def spocti_delenku(řetezec):
+    """
+    Funkce spočítá délku řetězce, který obsahuje pouze znaky A, C, G a T.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Programování
+    Args:
+        řetezec (str): Řetězec, který obsahuje pouze znaky A, C, G a T.
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Programování
+    Returns:
+        int: Délka řetězce.
+    """
+    if not isinstance(řetezec, str):
+        raise ValueError("Řetězec musí být typu string")
+    if not set(řetezec).issubset({"A", "C", "G", "T"}):
+        raise ValueError("Řetězec obsahuje znaky mimo A, C, G a T")
+    return len(řetezec)
+```
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Programování
+**ExAMPLEY:**
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Programování
+```python
+print(spocti_delenku("ATCG"))  # Vypíše 4
+print(spocti_delenku("ACGT"))  # Vypíše 4
+print(spocti_delenku("ATGCT"))  # Vypíše 5
+```
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Programování
+**Vysvětlivka:**
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Programování
+Funkce `spocti_delenku` bere jako vstup řetězec a vrátí jeho délku. Nejprve se ujistíme, zda je vstup typu string, jinak vyhodíme výjimku. Potom se ujistíme, zda řetězec obsahuje pouze znaky A, C, G a T, jinak vyhodíme výjimku. Pokud jsou tyto podmínky splněny, vrátíme délku řetězce pomocí funkce `len`.
+
+Řešení 2:
+
+Napište program, který bude připojovat dvě čísla pomocí operátorů přiřazení a přidání.
+
+**Program:**
+
+```python
+def pripravit_cisla(a, b):
+    """
+    Program připojuje dvě čísla pomocí operátorů přiřazení a přidání.
+
+    Args:
+        a (int): První číslo.
+        b (int): Druhé číslo.
+
+    Returns:
+        int: Součet obou čísel.
+    """
+    a += b
+    return a
+
+print(pripravit_cisla(5, 7))  # Vypíše 12
+print(pripravit_cisla(10, 3))  # Vypíše 13
+```
+
+**Vysvětlivka:**
+
+Program `pripravit_cisla` bere jako vstup dvě čísla a vrací jejich součet. Nejprve připojujeme k prvním číslu druhé číslo pomocí operátoru přiřazení `+=`, což má za následek, že první číslo bude obsahovat součet obou čísel. Potom vrátíme první číslo, které nyní obsahuje součet obou čísel.
+
+Řešení 3:
+
+Implementujte algoritmus, který nalezne největší prvočíselnou hodnotu v daném seznamu.
+
+**Algoritmus:**
+
+```python
+def najdi_najvacsie_prvocislo(cisla):
+    """
+    Algoritmus nalezne největší prvočíselnou hodnotu v daném seznamu.
+
+    Args:
+        cisla (list): Seznam čísel.
+
+    Returns:
+        int: Největší prvočíselná hodnota v seznamu.
+    """
+    def je_prvocislo(cislo):
+        """
+        Funkce zkontroluje, zda je číslo prvočíselné.
+
+        Args:
+            cislo (int): Číslo, které se má zkontrolovat.
+
+        Returns:
+            bool: True, pokud je číslo prvočíselné.
+        """
+        if cislo <= 1:
+            return False
+        for i in range(2, int(cislo ** 0.5) + 1):
+            if cislo % i == 0:
+                return False
+        return True
+
+    # Uložíme největší prvočíselnou hodnotu
+    najvacsie_prvocislo = 0
+
+    # Prochádzame všetky čísla v zozname
+    for cislo in cisla:
+        # Ak je číslo prvočíselné a je väčšie ako najväčšie prvočíselné číslo
+        if je_prvocislo(cislo) and cislo > najvacsie_prvocislo:
+            # Uložím jeho hodnotu
+            najvacsie_prvocislo = cislo
+
+    # Vrátime najväčšie prvočíselné číslo
+    return najvacsie_prvocislo
+
+cisla = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+print(najdi_najvacsie_prvocislo(cisla))  # Vypíše 19
+```
+
+**Vysvětlivka:**
+
+Algoritmus `najdi_najvacsie_prvocislo` bere jako vstup seznam čísel a vrací největší prvočíselnou hodnotu v seznamu. Nejprve definujeme funkci `je_prvocislo`, která zkontroluje, zda je číslo prvočíselné. Pokud je číslo menší nebo rovné 1, je považováno za neprvočíselné. Pokud je číslo dělitelné nějakým číslem od 2 do poloviny jeho hodnoty, je považováno za neprvočíselné. Pokud číslo není dělitelné žádným číslem do poloviny jeho hodnoty, je považováno za prvočíselné. Potom prochádzame všetky čísla v seznamu a zkontrolujeme, zda jsou prvočíselné a jestli jsou väčšie ako najväčšie prvočíselné číslo, ktoré sme uložili. Ak ano, uložíme jeho hodnotu ako najväčšie prvočíselné číslo. Na konci vrátíme najväčšie prvočíselné číslo.
+
+Řešení 4:
+
+Napište funkci, která vrátí počet prvků v poli, které jsou větší než průměr všech prvků v poli.
+
+**Funkce:**
+
+```python
+def pocet_prvkov_bez_prumeru(cisla):
+    """
+    Funkce vrátí počet prvků v poli, které jsou větší než průměr všech prvků v poli.
+
+    Args:
