@@ -1,92 +1,101 @@
-# AI Generované řešení úkolů pro předmět: Německý jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:56:50
+# Řešení úkolů pro předmět: Německý jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:01:18
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Přeložte do německého jazyka text: "Dnes je pěkný den, takže budeme chodit do školy pěšky."
+Řešení 1: Přeložte do německého jazyka větu "Jsem šťastný, dass ich in Prag geboren wurde." a stručně vysvětlete rozdíl mezi německým a českým překladištěním.
 
-Řešení této úlohy je následující:
+Při překládání věty "Jsem šťastný, že jsem se narodil v Praze" do německého jazyka používáme jinou strukturu. Němčina používá větu "Jsem šťastný, dass ich in Prag geboren wurde.", kde "dass" je kauxní slovo, které je překládáno jako "že". "Geboren wurde" je konjugovaný minulý čas slovesa "sein", který znamená "narodit se".
 
-"Dnes ist ein schöner Tag, also werden wir zu Fuß zur Schule gehen."
+Rozdíl mezi německým a českým překladištěním spočívá v tom, že Němčina vyžaduje používání kauxních slov, jako je "dass" nebo "daß", které se překládají jako "že". V českém jazyce můžeme tyto kauxní slová nepoužít a přeložit větu přímo.
 
-Tato věta je přeložena z češtiny do němečiny. Použité překlady jsou:
+Řešení 2: Vyberte 5 nejčastěji používaných přísloví v německém jazyce a přeložte je do češtiny. Zkuste vysvětlit jejich původ a běžné použití.
 
-- "Dnes" přeloženo jako "heute" nebo "dieses Tage", ale v tomto kontextu je lepší použít "dieser Tag" nebo "heute ist", přestože je v úloze uveden "dnes", proto použijeme "dieser Tag" nebo "heute ist". 
-- "je pěkný" přeloženo jako "ist schön" nebo "ist ein schöner", ale v tomto kontextu je lepší použít "ist ein schöner Tag."
-- "takový" přeloženo jako "solcher" nebo "solch ein", ale v tomto kontextu je lepší použít "solcher" nebo "solch ein", ale "solcher" je lépe použit pro přívlastky.
-- "budeme" přeloženo jako "werden" nebo "sollen", ale v tomto kontextu je lepší použít "werden" nebo "sollen".
-- "chodit" přeloženo jako "gehen" nebo "spazieren", ale v tomto kontextu je lepší použít "gehen" nebo "to Fuß gehen".
-- "do školy" přeloženo jako "zur Schule" nebo "in die Schule", ale v tomto kontextu je lepší použít "zur Schule" nebo "in die Schule".
-- "pěšky" přeloženo jako "zu Fuß" nebo "zu Fuß gehen", ale v tomto kontextu je lepší použít "zu Fuß" nebo "zu Fuß gehen".
+5 nejčastěji používaných přísloví v německém jazyce jsou:
 
-Řešení 2: Zodpovězte na otázku: Jak se přeloží věta "Mám ráda německou kuchyni" do angličtiny?
+1. "immer" - znamená "vždy"
+Příklad: "Ich bin immer bereit, dir zu helfen." (Jsem vždy připraven vám pomoct.)
 
-Řešení této úlohy je následující:
+2. "immer noch" - znamená "dokud ještě"
+Příklad: "Ich bin immer noch müde nach der Arbeit." (Jsem pořád unavený po práci.)
 
-"Též správná překlad této věty do angličtiny je: "I love German cuisine." nebo "I enjoy German cuisine." 
+3. "immer wieder" - znamená "pořád znovu"
+Příklad: "Wir gehen immer wieder ins Kino." (My jdeme pořád znovu do kina.)
 
-Tato věta je přeložena z češtiny a německého jazyka do angličtiny. Použité překlady jsou:
+4. "sogar" - znamená "i s to"
+Příklad: "Er fährt sogar mit dem Auto." (On jede i s autem.)
 
-- "Mám ráda" přeloženo jako "I love" nebo "I enjoy", ale v tomto kontextu je lepší použít "I love" nebo "I enjoy".
-- "německou" přeloženo jako "German" nebo "Deutsch", ale v tomto kontextu je lepší použít "German" nebo "Deutsch".
-- "kuchyni" přeloženo jako "cuisine" nebo "kochen", ale v tomto kontextu je lepší použít "cuisine" nebo "kochen".
+5. "doch" - znamená "i když"
+Příklad: "Ich bin müde, aber ich gehe trotzdem ins Kino." (Jsem unavený, ale i tak půjdu do kina.)
 
-Řešení 3: Přeložte do německého jazyka následující věty a označte typy vět (příkaz, otázka, tvrzení):
+Původ těchto příslovcích je většinou spojen s historií německého jazyka. "Immer" pochází ze starého německého slova "immero", které znamená "vždy". "Immer noch" vzniklo z "immer" a "noch", které bylo připojeno k němu. "Immer wieder" je kombinací "immer" a "wieder", které jsou spojené. "Sogar" pochází ze starého německého slova "soga", které znamená "s to". "Doch" pochází ze starého německého slova "tho", které znamená "i když".
 
-- "Můžete mi půjčit peníze?"
-- "Jsem z Prahy."
-- "Mějte se!"
+Řešení 3: Analyzujte rozdíl mezi německými předložkami "in" a "auf" a přeložte textový příklad, který ilustruje jejich použití.
 
-Řešení této úlohy je následující:
+Německé předložky "in" a "auf" jsou často zaměňovány, ale mají úplně jiný význam.
 
-1. "Můžete mi půjčit peníze?" 
-- Tvrzení: Ne, tato věta je otázka.
-- Překlad do německého jazyka: "Können Sie mir Geld leihen?"
+"In" je používáno pro vyjádření umístění nebo stavu v nějaké místnosti nebo prostoru.
 
-2. "Jsem z Prahy." 
-- Tvrzení: Ano, tato věta je tvrzení.
-- Překlad do německého jazyka: "Ich bin aus Prag."
+Příklad: "Ich bin in der Küche." (Jsem v kuchyni.)
 
-3. "Mějte se!" 
-- Tvrzení: Ne, tato věta je přání.
-- Překlad do německého jazyka: "Mach's gut!" nebo "Alles Gute!"
+"Auf" je používáno pro vyjádření umístění nebo stavu na nějaké ploše nebo povrchu.
 
-Řešení 4: Úpravte následující text, aby byl správně formátován podle německých pravidel pro psaní:
+Příklad: "Ich stehe auf dem Tisch." (Jsem na stolu.)
 
-"pokud seš ráda, zavolej mi, nebo posloucháme rádio, nebo jdeme do moře, nebo jdeme do moře, nebo jdeme do moře"
+Textový příklad, který ilustruje použití obou předložek:
 
-Řešení této úlohy je následující:
+"Wir gehen in die Stadt, um auf dem Marktplatz zu tanzen." (My jdeme do města, aby jsme tancovali na náměstí.)
 
-Správně formátovaným textem je:
+Zde je použito "in" pro vyjádření umístění do města a "auf" pro vyjádření umístění na náměstí.
 
-"Wenn du gerne bist, ruf mich an, oder wir hören Radio, oder wir gehen zum Meer, oder wir gehen zum Meer, oder wir gehen zum Meer."
+Řešení 4: Přeložte text o vědecké studii do německého jazyka a zkuste vysvětlit specifické pojmy a terminologii, které jsou v něm použité.
 
-Tato věta je úpravena podle německých pravidel pro psaní. Použité úpravy jsou:
+Text o vědecké studii:
 
-- "pokud" přeloženo jako "wenn"
-- "seš ráda" přeloženo jako "du gerne bist"
-- "zavolej mi" přeloženo jako "ruf mich an"
-- "posloucháme rádio" přeloženo jako "hören Radio"
-- "jdeme do moře" přeloženo jako "gehen zum Meer"
+"Studie: Untersuchung der Auswirkungen von Klimawandel auf die globale Erwärmung"
 
-Řešení 5: Přeložte následující německé věty do češtiny:
+Přeložené do německého jazyka:
 
-- "Die Sonne scheint auf die Erde."
-- "Ich esse gerne Apfelstrudel."
+"Studie: Untersuchung der Auswirkungen des Klimawandels auf die globale Erwärmung"
 
-Řešení této úlohy je následující:
+Specifické pojmy a terminologii:
 
-1. "Die Sonne scheint auf die Erde." 
-- Překlad do češtiny: "Slunce svítí na zem."
-- Použité překlady jsou:
-- "Die" přeloženo jako "Slunce" nebo "slunce", ale v tomto kontextu je lepší použít "slunce" nebo "Slunce".
-- "scheint" přeloženo jako "svítí" nebo "svítí na", ale v tomto kontextu je lepší použít "svítí" nebo "svítí na".
-- "auf" přeloženo jako "na" nebo "do", ale v tomto kontextu je lepší použít "na" nebo "do".
-- "die Erde" přeloženo jako "zem" nebo "země", ale v tomto kontextu je lepší použít "zem" nebo "země".
+* "Klimawandel" znamená "změna klimatu"
+* "Auswirkungen" znamená "dopady"
+* "globale Erwärmung" znamená "globální oteplování"
+* "Untersuchung" znamená "studie"
+* "Auswirkungen" znamená "dopady"
 
-2. "Ich esse gerne Apfelstrudel." 
-- Překlad do češtiny: "Jsem ráda z Apfelstrudel."
-- Použité překlady jsou:
-- "Ich" přeloženo jako "Jsem" nebo "jsem", ale v tomto kontextu je lepší použít "jsem" nebo "Jsem".
-- "esse" přeloženo jako "jí" nebo "jí", ale v tomto kontextu je lepší použít "jí" nebo "jí".
-- "gerne" přeloženo jako "ráda" nebo "ráda z", ale v tomto kontextu je lepší použít "ráda" nebo "rá
+Řešení 5: Vyberte německý text o historické události a přeložte ho do češtiny. Zkuste analyzovat jazykové rysy, které jsou charakteristické pro tento druh textu.
+
+Německý text o historické události:
+
+"Am 1. Oktober 1939 begann der Zweite Weltkrieg. Deutschland unterzeichnete einen Vertrag mit Italien, um gemeinsam gegen Frankreich zu kämpfen."
+
+Přeložené do češtiny:
+
+"1. října 1939 začala druhá světová válka. Německo podepsalo smlouvu s Itálií, aby bojovalo proti Francii společně."
+
+Jazykové rysy charakteristické pro tento druh textu:
+
+* Používání historických dat a jmen
+* Používání specifických slov a termínů (například "Zweiter Weltkrieg" pro "druhá světová válka")
+* Používání komplexních vět a frází
+
+Řešení 6: Přeložte text o ekonomické teorii do německého jazyka a zkuste vysvětlit specifické pojmy a terminologii, které jsou v něm použité.
+
+Text o ekonomické teorii:
+
+"Theory of Supply and Demand: A Study of the Relationship between Price and Quantity"
+
+Přeložené do německého jazyka:
+
+"Theorie der Nachfrage und Angebot: Eine Studie der Beziehung zwischen Preis und Menge"
+
+Specifické pojmy a terminologii:
+
+* "Theorie der Nachfrage und Angebot" znamená "teorie nabídky a poptávky"
+* "Beziehung zwischen Preis und Menge" znamená "souvislost mezi cenou a množstvím"
+* "Studie" znamená "studie"
+* "Nachfrage" znamená "poptávka"
+* "Angebot"
