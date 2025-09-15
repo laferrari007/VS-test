@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Finanční matematika
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:40:50
+
+Úkol 1: Vypočítejte následující příklad souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 2: Řešte rovnici souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 3: Dokažte následující tvrzení souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 4: Najděte derivaci funkce souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 5: Vypočtěte integrál souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 6: Určete definiční obor funkce souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 7: Sestrojte graf funkce souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 8: Řešte soustavu rovnic souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 9: Vypočítejte limitu souvisejí s tématem z předmětu Finanční matematika
+
+Úkol 10: Určete extrémy funkce souvisejí s tématem z předmětu Finanční matematika
