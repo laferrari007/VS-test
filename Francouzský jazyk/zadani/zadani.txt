@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Francouzský jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:57:10
+# Zadání úkolů pro předmět: Francouzský jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:01:34
 
-Úkol 1: Přeložte do francouzštiny větu "Jsem rád, že jsi tady." a vysvětlete rozdíl mezi příslovím a příslovečným zájmenem.
+Úkol 1: Přepalte francouzský text o délce jedné věty do češtiny, přičemž si uchovej původní počet slov.
 
-Úkol 2: Vyberte vhodné slovo ze skupiny "voiture", "moto", "bateau" a přeložte větu "Jsem ráda na kole."
+Úkol 2: Přelož francouzské přísloví na češtinu a vysvětluj význam. Použij přísloví „L'audace, c'est la pire des échecs.“ 
 
-Úkol 3: Přeložte do francouzštiny rozhovor mezi dvěma přáteli, který probíhá na kavárně. Uživatelé by měli použít současné časy.
+Úkol 3: Seznam všechna francouzská číslovka od 1 do 10 v párovém a nejrůznějším tvaru připojené k podstatnému jménu „děcko“.
 
-Úkol 4: Vypracujte konverzační dialog mezi dvěma studenty, kteří se rozhodli navštívit Paříž. Používejte příslovce a příslovečná zájmena.
+Úkol 4: Přepiš francouzský text o délce jednoho odstavce do češtiny a vysvětli význam jednotlivých frází.
 
-Úkol 5: Přeložte text o turistických zajímavostech v Paříži a vysvětlete rozdíl mezi příslovečným zájmenem a příslovečným zájmenem.
+Úkol 5: Přelož francouzskou básničku do češtiny a vysvětluj význam jednotlivých veršů.
 
-Úkol 6: Vypracujte úryvek z francouzské noviny o aktuálním tématu a přeložte ho do češtiny. Používejte příslovce a příslovečná zájmena.
+Úkol 6: Napiš krátký esej o významu francouzské kultury v současnosti. Použij přibližně 5 francouzských slovívek a slovních spojení.
 
-Úkol 7: Přeložte francouzský filmový scénář do češtiny a vysvětlete rozdíl mezi příslovečným zájmenem a příslovečným zájmenem.
+Úkol 7: Přelož francouzskou novinovou zprávu o aktuálním ději na světě do češtiny a vysvětluj význam jednotlivých výrazů.
 
-Úkol 8: Vypracujte úryvek z francouzské knížky a přeložte ho do češtiny. Používejte příslovce a příslovečná zájmena.
+Úkol 8: Seznam veškerá francouzská slovesa v infinitivu od 1 do 10 a jejich překlad do češtiny. Použij přibližně 5 různých tvarech sloves.
 
-Úkol 9: Přeložte francouzský článek o kulturním tématu do češtiny a vysvětlete rozdíl mezi příslovečným zájmenem a příslovečným zájmenem.
+Úkol 9: Přepiš francouzský text o délce dvou stran v knize do češtiny a vysvětli význam jednotlivých slov a frází.
 
-Úkol 10: Vypracujte překlad francouzské básně do češtiny a vysvětlete rozdíl mezi příslovečným zájmenem a příslovečným zájmenem.
+Úkol 10: Přelož francouzskou knihu o konkrétní tematice (například historii, kultura, literatura) do češtiny a napiš krátký úvod o autorovi a jeho díle. Použij přibližně 10 francouzských slovívek a slovních spojení.

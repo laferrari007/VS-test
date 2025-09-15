@@ -1,24 +1,137 @@
-# AI Generované řešení úkolů pro předmět: Francouzský jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:57:10
+# Řešení úkolů pro předmět: Francouzský jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:01:34
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Francouzský jazyk
+Řešení 1: Přepalte francouzský text o délce jedné věty do češtiny, přičemž si uchovej původní počet slov.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Francouzský jazyk
+Začínáme s francouzským textem: "La France est un pays européen avec une histoire riche et complexe."
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Francouzský jazyk
+Chceme ho přeložit do češtiny, přičemž si uchovejme původní počet slov. Po překladech dostaneme větu: "Francie je evropský stát s bohatou a složitou historií."
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Francouzský jazyk
+Tento překlad zachovává původní počet slov (11) a překládá každé slovo přesně.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Francouzský jazyk
+Řešení 2: Přelož francouzské přísloví na češtinu a vysvětluj význam.
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Francouzský jazyk
+Přísloví: "L'audace, c'est la pire des échecs."
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Francouzský jazyk
+Přeložené přísloví: "Odvážnost je nejhorší zklamání."
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Francouzský jazyk
+Znamená to, že odvážnost, která je často považována za cennou vlastnost, může někdy vést k neúspěchu, pokud je zneužita nebo nevhodně použita.
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Francouzský jazyk
+Řešení 3: Seznam všechna francouzská číslovka od 1 do 10 v párovém a nejrůznějším tvaru připojené k podstatnému jménu „děcko“.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Francouzský jazyk
+Seznam francouzských číslovek od 1 do 10:
+
+- 1: un enfant
+- 2: deux enfants
+- 3: trois enfants
+- 4: quatre enfants
+- 5: cinq enfants
+- 6: six enfants
+- 7: sept enfants
+- 8: huit enfants
+- 9: neuf enfants
+- 10: dix enfants
+
+V párovém tvaru:
+
+- 1: un enfant
+- 2: deux enfants
+- 3: trois enfants
+- 4: quatre enfants
+- 5: cinq enfants
+- 6: six enfants
+- 7: sept enfants
+- 8: huit enfants
+- 9: neuf enfants
+- 10: dix enfants
+
+V různych tvarech:
+
+- 1: un (složitý tvar), un enfant (párový tvar)
+- 2: deux (složitý tvar), deux enfants (párový tvar)
+- 3: trois (složitý tvar), trois enfants (párový tvar)
+- 4: quatre (složitý tvar), quatre enfants (párový tvar)
+- 5: cinq (složitý tvar), cinq enfants (párový tvar)
+- 6: six (složitý tvar), six enfants (párový tvar)
+- 7: sept (složitý tvar), sept enfants (párový tvar)
+- 8: huit (složitý tvar), huit enfants (párový tvar)
+- 9: neuf (složitý tvar), neuf enfants (párový tvar)
+- 10: dix (složitý tvar), dix enfants (párový tvar)
+
+Řešení 4: Přepiš francouzský text o délce jednoho odstavce do češtiny a vysvětli význam jednotlivých frází.
+
+František Proust napsal: "La vie est un voyage à travers les souvenirs."
+
+Přeloženo: "Život je putování skrze vzpomínky."
+
+Znamená to, že život je proces objevování a prožívání vzpomínek, které nás tvoří a definují.
+
+Řešení 5: Přelož francouzskou básničku do češtiny a vysvětluj význam jednotlivých veršů.
+
+Básnička:
+
+"La lune est bleue
+Comme un ciel d'azur
+Elle brille dans la nuit
+Comme une étoile aimée"
+
+Přeloženo:
+
+"Měsíc je modrý
+Jako jeden modrý nebe
+On svítí v noci
+Jako milovaná hvězda"
+
+Znamená to, že měsíc je krásný a svítí v noci, jako by byl milovanou hvězdou.
+
+Řešení 6: Napiš krátký esej o významu francouzské kultury v současnosti.
+
+Francouzská kultura je jednou z nejvýznamnějších kultur světa. Je známa svou bohatou historií, krásnou architekturou, bohatou literaturou a skvělou gastronomií.
+
+Francouzská kultura se také vyznačuje svým otevřeným a tolerantním přístupem k umění a kultuře. Má silnou tradici v oblasti umění, hudby a literatury.
+
+V dnešní době francouzská kultura pokračuje ve svém rozvoji a přinášejí novinky a inovace v různých oblastech. Je zajímavý, že francouzská kultura stále více otevírá své dveře ostatním kulturám a vyměňuje si zkušenosti.
+
+Použité francouzské slovíčka a slovní spojení:
+
+- kultura (kultura)
+- historie (historie)
+- architektura (architektura)
+- gastronomie (gastronomie)
+- umění (umění)
+- hudba (hudba)
+- literatura (literatura)
+- otevřené (otevřené)
+- tolerantní (tolerantní)
+
+Řešení 7: Přelož francouzskou novinovou zprávu o aktuálním ději na světě do češtiny a vysvětluj význam jednotlivých výrazů.
+
+Novinová zpráva:
+
+"La France est en crise économique, les entreprises sont en difficulté et les emplois sont en baisse."
+
+Přeloženo:
+
+"Francie je v ekonomické krizi, podniky jsou v těžké situaci a zaměstnanost je v útlumu."
+
+Znamená to, že Francie čelí ekonomickým problémem, podniky mají problém a zaměstnanost klesá.
+
+Použité francouzské slovíčka a slovní spojení:
+
+- krize (krize)
+- ekonomie (ekonomie)
+- entreprise (podnik)
+- difficulté (ztráta)
+- emploi (zaměstnanost)
+- baisse (útlum)
+
+Řešení 8: Seznam veškerá francouzská slovesa v infinitivu od 1 do 10 a jejich překlad do češtiny. Použij přibližně 5 různých tvarech sloves.
+
+Seznam francouzských sloves v infinitivu od 1 do 10:
+
+- 1: aimer (milovat)
+- 2: être (být)
+- 3: avoir (mít)
+- 4: faire (dě
