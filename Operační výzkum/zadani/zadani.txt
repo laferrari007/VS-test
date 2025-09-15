@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Operační výzkum
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:43:05
+
+Úkol 1: Zjistěte, zda existuje optimální řešení pro problém transportu kovů. Upravte problém transportu kovů tak, aby se stal příkladem problému transportu v operačním výzkumu.
+
+Úkol 2: Vypořádejte se s problémy optimalizace toku zboží v logistice společnosti. Použijte metodu Simplex pro řešení problému transportu zboží z výrobního závodu do zásoboven.
+
+Úkol 3: Pomozte malé firmě optimalizovat výrobní plán a vypořádejte se s problémy produkce více verzí výrobků. Použijte metodu Linear Programming pro optimalizaci výrobního systému.
+
+Úkol 4: Vypořádejte se s problémem optimalizace distribuce zboží v rámci městské oblasti. Použijte metodu Dijkstraho algoritmu pro najíždění cesty s minimální zátěží.
+
+Úkol 5: Pomozte dopravě optimalizovat trasování kamionů a vypořádejte se s problémy omezení kapacity silnic. Použijte metodu Ant Colony Optimization pro nalezení optimalní trasy.
+
+Úkol 6: Vypořádejte se s problémem optimalizace obsazení letadel a vypořádejte se s problémy omezení kapacity letiště. Použijte metodu Integer Programming pro nalezení optimalní konfigurace letadel.
+
+Úkol 7: Pomozte zákazníkům optimalizovat cestování po Evropě a vypořádejte se s problémy omezení kapacity letiště a dopravních prostředků. Použijte metodu Genetic Algorithm pro nalezení optimální trasy.
+
+Úkol 8: Vypořádejte se s problémem optimalizace distribuce zboží v rámci globální distribuční sítě. Použijte metodu Simulated Annealing pro nalezení optimalní distribuční strategie.
+
+Úkol 9: Pomozte firmě optimalizovat výrobní proces a vypořádejte se s problémy produkce více verzí výrobků. Použijte metodu Constraint Programming pro optimalizaci výrobního systému.
+
+Úkol 10: Vypořádejte se s problémem optimalizace distribuce energie v rámci elektrické sítě. Použijte metodu Dynamic Programming pro nalezení optimalní distribuční strategie.
