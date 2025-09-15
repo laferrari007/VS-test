@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Mikroekonomie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:40:05
+# Datum: 2025-09-15 23:40:06
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 

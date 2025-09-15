@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Mikroekonomie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:40:05
+# Datum: 2025-09-15 23:40:06
 
-Úkol 1: Vypočítejte rovnováhu trhu pro produkt X, kde cena produktu je 5 Kč a množství poptávky je 1000 jednotek, množství nabídky je 800 jednotek. Co bude cena produktu v případě, že se nabídka zvýší o 200 jednotek?
+Úkol 1: Pokazuji, že funkce příjmu a funkce nákladů jsou souměrné, pokud je funkce příjmu čtvrté stupně a její derivace je rovná druhé derivaci.
 
-Úkol 2: Pokuste se vysvětlit, proč jsou v mikroekonomii důležité informace o omezeních vstupů a jak to ovlivňuje rovnováhu trhu.
+Úkol 2: Zjistěte, zda je funkce příjmu a funkce nákladů souměrné pro následující funkce: příjem Q(x) = 3x^2 + 2x + 1 a náklady C(x) = 2x^2 + 5x - 3.
 
-Úkol 3: Rovnovážná cena produktu je 10 Kč, množství poptávky je 1200 jednotek a množství nabídky je 1000 jednotek. Pokud se cena produktu zvýší o 5 Kč, kolik jednotek se sníží nabídka a kolik jednotek se zvýší poptávka?
+Úkol 3: Pokud cena zboží A je 15 Kč a cena zboží B je 25 Kč. Pokud cena produktu je 50 Kč, zjistěte množství produktu, které lze koupit za 500 Kč.
 
-Úkol 4: Jaký je vliv elastičnosti poptávky na rovnováhu trhu? Vysvětlujte na příkladu produktu A, jehož cena je 20 Kč, množství poptávky je 1500 jednotek a množství nabídky je 1200 jednotek.
+Úkol 4: Pro dané funkce příjmu Q(x) = 2x^3 - 5x^2 + 3x a nákladů C(x) = x^3 - 2x^2 + x - 1, určete bod optimalizace (marginalní přírůstek příjmu roven nulové).
 
-Úkol 5: Pokuste se vysvětlit, jaký je rozdíl mezi absolutní a relativní cenovou elasticitou poptávky. Použijte příklad produktu B, jehož cena je 30 Kč, množství poptávky je 1800 jednotek a množství nabídky je 1600 jednotek.
+Úkol 5: Zjistěte, zda se daná funkce příjmu Q(x) = x^3 - 2x^2 - 3x + 1 a nákladů C(x) = x^3 - 2x^2 + x + 2 mohou současně přiblížit, pokud jsou souměrné.
 
-Úkol 6: Vypočítejte rovnovážnou cenu produktu C, kde množství poptávky je 2000 jednotek a množství nabídky je 1800 jednotek. Pokud se nabídka zvýší o 300 jednotek, jak se změní cena produktu C?
+Úkol 6: Pokud cena zboží A je 20 Kč a cena zboží B je 30 Kč. Pokud cena produktu je 40 Kč, určíte množství produktu, které lze koupit za 2000 Kč.
 
-Úkol 7: Jaký je vliv ekonomie skrytých nákladů na rovnováhu trhu? Vysvětlujte na příkladu produktu D, jehož cena je 40 Kč, množství poptávky je 2200 jednotek a množství nabídky je 2000 jednotek.
+Úkol 7: Pro dané funkce příjmu Q(x) = 3x^3 - 2x^2 + x a nákladů C(x) = 2x^3 - 4x^2 + 2x, určete bod optimalizace (marginalní přírůstek příjmu roven nulové).
 
-Úkol 8: Pokuste se vysvětlit, jaký je rozdíl mezi konkurenční a monopolní strukturou trhu. Použijte příklad produktu E, jehož cena je 50 Kč, množství poptávky je 2500 jednotek a množství nabídky je 2200 jednotek.
+Úkol 8: Zjistěte, zda existuje souměrnost mezi funkcí příjmu Q(x) = x^4 - 3x^3 + 2x^2 - x + 1 a funkcí nákladů C(x) = x^4 - 3x^3 + 2x^2 - 2x - 1.
 
-Úkol 9: Vypočítejte rovnovážnou cenu produktu F, kde množství poptávky je 3000 jednotek a množství nabídky je 2800 jednotek. Pokud se cena produktu F zvýší o 10 Kč, jak se změní nabídka a poptávka produktu F?
+Úkol 9: Pokud cena zboží A je 25 Kč a cena zboží B je 40 Kč. Pokud cena produktu je 55 Kč, určíte množství produktu, které lze koupit za 2750 Kč.
 
-Úkol 10: Pokuste se vysvětlit, jaký je vliv externích nákladů na rovnováhu trhu. Použijte příklad produktu G, jehož cena je 60 Kč, množství poptávky je 3200 jednotek a množství nabídky je 3000 jednotek.
+Úkol 10: Pro dané funkce příjmu Q(x) = 2x^4 - 3x^3 + 2x^2 - x a nákladů C(x) = x^4 - 2x^3 + x^2 - 2x, určete bod optimalizace (marginalní přírůstek příjmu roven nulové) a rovná se nule.
