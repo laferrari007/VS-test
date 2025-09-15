@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Finance
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:41:27
+# Datum: 2025-09-15 23:41:32
 
-Úkol 1: Vyberte 3 hlavní typy kapitálových trhů a popište jejich charakteristiku. 
+Úkol 1: Porovnejte a vysvětlete rozdíly mezi peněžními toky a čistými peněžními toky v účetnictví. Použijte příklad firmy, která prodává zboží a nabízí služby.
 
-Úkol 2: Vyberte 2 hlavní nástroje investičního portfolia a vysvětlite jejich funkčnost. 
+Úkol 2: Vyjmenujte a popište typy finančních analýz, které se používají pro hodnocení podnikatelské činnosti firmy. Uveďte příklady konkrétních ukazatelů, které se používají v každé analýze.
 
-Úkol 3: Jaké jsou hlavní rozdíly mezi akciovými a dluhopisovými trhy? 
+Úkol 3: Zobrazte, jak se využívají finanční deriváty v řízení rizik podniku. Použijte příklad firmy, která používá futures kontrakty na ropu k odhadování budoucích cen.
 
-Úkol 4: Popište proces vytváření a řízení investičního portfolia. 
+Úkol 4: Vypracujte rozpočet investičních aktiv pro fiktivní investiční společnost s cílem dosáhnout roční návratnosti 8 % a minimální rizika. Uveďte strategii investic a alokaci prostředků mezi různé třídy aktiv.
 
-Úkol 5: Jaký je rozdíl mezi kurzem a hodnotou akcií? Uveďte příklad.
+Úkol 5: Odhadněte, jak by se změnila hodnota akcie firmy v případě, že by došlo ke změně její obchodní strategie. Použijte model Value-at-Risk (VaR) a vysvětlete, jak se používá.
 
-Úkol 6: Vyberte 2 hlavní metody měření rizika investičního portfolia a popište jejich princip. 
+Úkol 6: Porovnejte a vyhodnocte různé typy investičních fondů (akciové fondy, fondy rizikových aktiv, dluhopisové fondy atd.). Uveďte jejich cíle, rizika a potenciální návratnost.
 
-Úkol 7: Vysvětlite, jak funguje mechanismus tvorby tržní hodnoty akcií. 
+Úkol 7: Vypracujte finanční plán pro start-up technologickou firmu, která chce v příštích 5 letech dosáhnout rozpočtu 10 mil. Kč a 20 % měsíčního růstu. Uveďte strategii financování a odhadovanou návratnost investic.
 
-Úkol 8: Popište proces vytváření a správy investičního fondu. 
+Úkol 8: Zpracujte studii případu o firmě, která se rozhodla implementovat aktivní řízení peněžních toků. Použijte data o peněžních tocích a vysvětlete, jak je implementace ovlivňuje finanční stabilitu firmy.
 
-Úkol 9: Jaký je rozdíl mezi interním a externím kapitálem a proč je důležité jejich správu? 
+Úkol 9: Odhadněte, jak by se změnila hodnota portfolia akciových cenných papírů v případě, že by došlo ke změně úrokových sazeb centrální banky. Použijte model Black-Litterman a vysvětlete, jak se používá.
 
-Úkol 10: Vyberte 2 hlavní typy investičních strategií a vysvětlite jejich cíle a principy.
+Úkol 10: Vypracujte komplexní finanční analýzu fiktivní firemní skupiny s více divizemi a zahrnutím finančních derivátů. Uveďte ukazatele finanční stability, návratnosti a rizika, a vyhodnocete, zda jsou divize dostatečně diverzifikované.
