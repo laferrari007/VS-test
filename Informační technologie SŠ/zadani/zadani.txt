@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Informační technologie SŠ
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:15:34
+# Datum: 2025-09-15 23:15:35
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Informační technologie SŠ
 
