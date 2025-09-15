@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Počítačové sítě SŠ
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:01:02
+# Zadání úkolů pro předmět: Počítačové sítě SŠ
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:13:22
 
-Úkol 1: Uveďte hlavní typy fyzických sdílených médií, které se používají v počítačových sítích.
+Úkol 1: Popiš rozdíl mezi síťovým rozhraním Ethernet a Wi-Fi. Uveď alespoň 3 hlavní rozdíly.
 
-Úkol 2: Popište rozdíl mezi síťovým protokolem a síťovým standardem.
+Úkol 2: Popiš, jak funguje protokol DHCP. Uveď proces získání IP adresy pro zařízení.
 
-Úkol 3: Uveďte a vysvětlete funkce Layer 2 (Data Link Layer) v OSI modelu.
+Úkol 3: Vysvětle rozdíl mezi routerem a switchem v počítačové síti. Uveď použití každého z nich.
 
-Úkol 4: Uveďte a porovnejte hlavní typy přenosových médií (Ethernet, Wi-Fi, Token Ring).
+Úkol 4: Napiš o výhodách a nevýhodách používání statické IP adresy na zařízení v počítačové síti.
 
-Úkol 5: Zvolte si síťový kartu a popište její hlavní komponenty a funkce.
+Úkol 5: Popiš, jak funguje protokol DNS. Uveď proces převodu doménového jména na IP adresu.
 
-Úkol 6: Uveďte a vysvětlete hlavní rozdíly mezi statickým a dynamickým přidělováním IP adres.
+Úkol 6: Napiš o bezpečnosti počítačové sítě a významu používání firewallov, antivirusových programů a hesel.
 
-Úkol 7: Uveďte a vysvětlete funkce Layer 3 (Network Layer) v OSI modelu, a to včetně routingu a přeposílání datagramů.
+Úkol 7: Vysvětle rozdíl mezi IPv4 a IPv6. Uveď výhody a nevýhody každého typu adresy.
 
-Úkol 8: Porovnejte a přehledně popsali síťový model TCP/IP a OSI model.
+Úkol 8: Popiš, jak funguje protokol HTTP. Uveď proces komunikace mezi klientem a serverem.
 
-Úkol 9: Uveďte a vysvětlete funkce NAT (Network Address Translation) a jeho aplikace v moderních počítačových sítích.
+Úkol 9: Napiš o principu VPN (virtuální privátní síť) a jeho použití v počítačové síti.
 
-Úkol 10: Uveďte a popisujte bezpečnostní prvky počítačových sítí, a to včetně firewallov, IDS a IPS.
+Úkol 10: Vysvětle rozdíl mezi síťovým protokolem TCP a UDP. Uveď použití každého z nich v různých aplikacích.
