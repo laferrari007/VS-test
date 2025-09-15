@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Přírodověda
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:40:42
+# Datum: 2025-09-15 22:51:21
 
-Úkol 1: Popište hlavní rozdíly mezi rostlinnými a živočišnými buňkami, včetně jejich struktury a funkce.
+Úkol 1: Popiš rozdíl mezi fyziognomií a fenotypem a uvážlivě zdůvodni, proč jsou tyto pojmy důležité v oblasti genetiky.
 
-Úkol 2: Vyjmenujte a popište tři hlavní skupiny buněčných stěn a vysvětlete jejich význam pro život rostlin.
+Úkol 2: Zkráceně rozejmi rozdíl mezi termokrasem a termokratickou zónou a uvážlivě zdůvodni, jaký účinek má na místní ekosystém.
 
-Úkol 3: Rozložte chemické složení půdy do jednotlivých složek a vysvětlěte jejich působení na rostliny.
+Úkol 3: Vysvětli, jak se vyvíjela teorie o vzniku života na Zemi, a uvážlivě kritizujte její silné i slabé stránky.
 
-Úkol 4: Vysvětlte principy fotosyntézy a popisujte, jak je tato proces spojen s přeměnou energie slunečního světla.
+Úkol 4: Rozejmi rozdíl mezi procesy primární a sekundární mineralizace a uvážlivě zdůvodni jejich význam pro vzniku minerálů v geologických procesech.
 
-Úkol 5: Porovnejte a porovnejte procesy metabolismu a respiře mezi rostlinami a živočichy a vysvětlí, proč jsou tyto procesy důležité pro přežití obou skupin organismů.
+Úkol 5: Uvádějte příklady organismů, které jsou tolerantní k jednomu nebo více druhům jedů, a zdůvodněte mechanizmy jejich tolerance.
 
-Úkol 6: Popište rozdíl mezi homologními a analogickými orgány a zdokumentujte příklady obou v přírodě.
+Úkol 6: Uvádějte příčiny a důsledky znečištění ovzduší v městských oblastech a uvážlivě odhadněte možnosti jejich omezení.
 
-Úkol 7: Zbavte se, že je v přírodě proces adaptace vzniku nových druhů. Vysvětlite, jak se objevuje vzniku nových druhů a jaký je význam pro evoluci.
+Úkol 7: Popište procesy vzniku a degradace půdy a uvážlivě zdůvodněte jejich význam pro zemědělskou činnost.
 
-Úkol 8: Porovnejte a porovnejte dva různé typy fotosyntézy: suchá a mokrá a vysvětlite, které druhy rostlin jsou optimálně přizpůsobeny k oběma typům.
+Úkol 8: Uvádějte příklady biogeochemických cyklů, které jsou důležití pro zásobování Země kyslíkem, a uvážlivě zdůvodněte jejich význam pro ekosystémy.
 
-Úkol 9: Rozložte, jak funguje biologický cyklus voda v přírodě a vysvětlite, jak je k němu zapojeno více různých organismů.
+Úkol 9: Rozejmi rozdíl mezi termoregulací a termoregulačními mechanismy u různých skupin organismů a uvážlivě zdůvodněte jejich význam pro přežití a přizpůsobení se prostředí.
 
-Úkol 10: Vymýšlejte a vysvětlete, jak by se vyvinul nový typ fotosyntézy, který by mohl pomoci řešit některé problémy s udržitelností životního prostředí.
+Úkol 10: Uvádějte příklady ekosystémů, které jsou ohroženy vymíráním druhů, a uvážlivě zdůvodněte příčiny a důsledky tohoto jevu pro celkovou biodiverzitu.
