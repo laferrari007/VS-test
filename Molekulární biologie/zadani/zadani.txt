@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Molekulární biologie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:24:03
+# Datum: 2025-09-15 23:24:04
 
-Úkol 1: Popište strukturu DNA a RNA a vysvětle jejich biologické funkce.
+Úkol 1: Popište základní principy molekulární biologie a vysvětlete, proč je studium DNA a proteinů důležité pro naše chápání biologických procesů.
 
-Úkol 2: Porovnejte primary a sekundární strukturu dvou různých proteinů a vysvětle jejich role v biologických procesech.
+Úkol 2: Porovnejte strukturu a funkci DNA a RNA. Jaké jsou hlavní rozdíly mezi těmito dvěma molekulami a proč je jejich studium důležité pro naše chápání genetického kódu?
 
-Úkol 3: Popište proces transkripce a vysvětlete, jak se genetický kód překládá na aminokyselinový řetězec.
+Úkol 3: Popište mechanismus transkripce a vysvětlete, jak je regulována expresí genů. Jaké jsou hlavní faktory, které ovlivňují expresi genů a proč je jejich regulace důležitá pro vývoj a funkce buněk?
 
-Úkol 4: Vyjmenujte a popište hlavní typy genetických mutací a vysvětle jejich důsledky na molekulární úrovni.
+Úkol 4: Vysvětlete, jak jsou geny kóduvány do proteiny. Popište mechanismus translace a vysvětlete, jak je regulována expresí proteinů. Jaké jsou hlavní faktory, které ovlivňují expresi proteinů a proč je jejich regulace důležitá pro vývoj a funkce buněk?
 
-Úkol 5: Popište mechanismus polymerázové řetězové reakce (PCR) a vysvětle její použití v molekulární biologii.
+Úkol 5: Porovnejte dvě různé techniky, které se používají k izolaci a analýze DNA, jako je PCR (polymerázová řetězová reakce) a sekvenování DNA. Jaké jsou hlavní rozdíly mezi těmito technikami a proč jsou používány v různých biologických aplikacích?
 
-Úkol 6: Porovnejte a vysvětle rozdíly mezi homologními a paralogními geny v rámci jedné a mezi dvěma druhy.
+Úkol 6: Vysvětlete, jak se genetická mutace odráží na úrovni molekulární biologie. Popište mechanismus, kterým dochází ke změnám v genetickém kódu a jakým způsobem ovlivňují expresi genů a funkci proteinů.
 
-Úkol 7: Vyjmenujte a popište hlavní typy genetických technik, jako je klonování, transgenóza a genová editace, a vysvětle jejich použití v molekulární biologii.
+Úkol 7: Popište principy a aplikace klonování DNA. Jaké jsou hlavní výhody a nevýhody této techniky a proč je používána v různých biologických aplikacích?
 
-Úkol 8: Popište strukturu a funkci ribozomu a vysvětle jeho roli v překládání genetického kódu na aminokyselinový řetězec.
+Úkol 8: Porovnejte dva různé typy genetických testů, jako je PCR a genetické sekvencování. Jaké jsou hlavní rozdíly mezi těmito testy a proč jsou používány v různých biologických aplikacích?
 
-Úkol 9: Porovnejte a vysvětle rozdíl mezi centromerovou a telomerovou stabilizací genetického materiálu během buněčného cyklu.
+Úkol 9: Vysvětlete, jak se molekulární biologie používá v diagnostice a léčbě nemocí. Popište příklady aplikací molekulární biologie v medicíně a jakým způsobem přispívají k léčbě onemocnění.
 
-Úkol 10: Vyjmenujte a popište hlavní typy epigenetických mechanismů, jako je metylace DNA a histonů, a vysvětle jejich roli v regulaci genové exprese.
+Úkol 10: Navrhujte experimentální návrh, který by spojoval dvoustrannou rekombinaci a sekvenování DNA k analýze genetické mutace v lidském genomu. Popište principy a postup experimentu, včetně analýzy dat a interpretace výsledků.
