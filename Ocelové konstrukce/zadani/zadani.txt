@@ -2,22 +2,34 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:39:01
 
-Úkol 1: Rozeberte statický schéma ocelové konstrukce a vysvětlejte principy statické rovnováhy a vnitřní síly.
+Dle vašich požadavků jsem připravil následující úkoly pro předmět "Ocelové konstrukce":
 
-Úkol 2: Vypočtěte zatížení a odpor hmotnosti pro jednoduchý ocelový strop s konstrukčními prvky (nosníky, sloupy, rámy). Předpokládejte, že strop má rozměry 10 m x 10 m a hmotnost 5 kg/m2.
+Úkol 1: 
+Nakreslete jednoduchou ocelovou vazbu s jedním sloupcem a dvěma vazníky. Provedete statické rovnováhu dané konstrukce a určete velikost odporu podpěry.
 
-Úkol 3: Zpracujte výpočet zatížení a odporu hmotnosti pro komplikovanější ocelový strop s více konstrukčními prvky (nosníky, sloupy, rámy, kříže). Předpokládejte, že strop má rozměry 20 m x 20 m a hmotnost 10 kg/m2.
+Úkol 2: 
+Vypočtěte velikost nosné kapacity ocelového sloupce o rozměrech 300x300 mm a tloušťce stěn 10 mm, který je zatížen statickým zatížením 100 kN.
 
-Úkol 4: Vypočtěte vnitřní síly a rozměry konstrukčních prvků (nosníky, sloupy) pro jednoduchý ocelový most s rozpěrami 100 m a výškou 10 m. Předpokládejte, že most má zatížení 50 kg/m.
+Úkol 3: 
+Zkuste navrhnout ocelovou vazbu pro strop budovy o rozměrech 10x15 m a zatížení 5 kN/m². Ujistěte se, že splňuje požadavky statické rovnováhy a odolnosti proti zlomení.
 
-Úkol 5: Zpracujte výpočet vnitřních sil a rozměrů konstrukčních prvků (nosníky, sloupy, kříže) pro komplikovanější ocelový most s více rozpěrami a výškou 20 m. Předpokládejte, že most má zatížení 100 kg/m.
+Úkol 4: 
+Provedete analýzu ocelové konstrukce zahrnující dvě vazníky a dva sloupečky. Zatížení se skládá ze statického zatížení 50 kN a dynamického zatížení 20 kN. Určete velikost odporu podpěry a velikost nosné kapacity konstrukce.
 
-Úkol 6: Vysvětlejte principy dynamické analýzy ocelových konstrukcí a rozeberte schéma dynamického zatížení (vzdušné proudy, větry, seismické otřesy).
+Úkol 5: 
+Nakreslete ocelovou vazbu se dvěma sloupci a třemi vazníky. Provedete statickou rovnováhu dané konstrukce a určete velikost odporu podpěry a velikost nosné kapacity konstrukce.
 
-Úkol 7: Vypočtěte dynamické zatížení ocelového mostu s rozpěrami 50 m a výškou 5 m za předpokladu větrného zatížení 10 m/s.
+Úkol 6: 
+Vypočtěte velikost nosné kapacity ocelového sloupce o rozměrech 300x300 mm a tloušťce stěn 10 mm, který je zatízen statickým zatížením 150 kN a dynamickým zatížením 30 kN.
 
-Úkol 8: Zpracujte výpočet dynamického zatížení ocelového budovy s výškou 30 m za předpokladu seismického zatížení 0,5 g.
+Úkol 7: 
+Zkuste navrhnout ocelovou vazbu pro strop budovy o rozměrech 12x18 m a zatížení 6 kN/m². Ujistěte se, že splňuje požadavky statické rovnováhy a odolnosti proti zlomení.
 
-Úkol 9: Vypočtěte rozměry a vnitřní síly konstrukčních prvků (nosníky, sloupy, kříže) pro komplikovaný ocelový most s více rozpěrami, výškou 30 m a zatíženým dynamicky.
+Úkol 8: 
+Provedete analýzu ocelové konstrukce zahrnující tři vazníky a tři sloupečky. Zatížení se skládá ze statického zatížení 100 kN a dynamického zatížení 40 kN. Určete velikost odporu podpěry a velikost nosné kapacity konstrukce.
 
-Úkol 10: Zpracujte projektovou dokumentaci ocelového konstrukce (nosníky, sloupy, rámy, kříže) pro komplikovaný ocelový most s více rozpěrami, výškou 50 m a zatíženým dynamicky.
+Úkol 9: 
+Nakreslete ocelovou vazbu se třemi sloupci a čtyřmi vazníky. Provedete statickou rovnováhu dané konstrukce a určete velikost odporu podpěry a velikost nosné kapacity konstrukce.
+
+Úkol 10: 
+Vypočtěte velikost nosné kapacity ocelového sloupce o rozměrech 500x500 mm a tloušťce stěn 15 mm, který je zatízen statickým zatížením 250 kN a dynamickým zatížením 50 kN.
