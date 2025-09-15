@@ -2,22 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:30:27
 
-Úkol 1: Použijte teorii adresování paměti a vysvětlete, jak systém operačního systému přiřazuje adresy fyzické paměti procesům. Zvažte různé režimy adresování paměti (lineární, virtuální, fyzická) a popište jejich rozdíly.
+Úkol 1: Popište rozdíl mezi operačním systémem a hardwarovým firmwarem. Uveďte příklady obou typů.
 
-Úkol 2: Porovnejte a vyhodnoťte tři různé algoritmy správy procesů: FCFS (First-Come-First-Served), SJF (Shortest Job First) a SRTF (Shortest Remaining Time First). Proč jsou některé algoritmy lepší než jiné v závislosti na scénáři?
+Úkol 2: Vypočítejte čas potřebný k otevření aplikace ve výpočetním systému, kde je operační systém založen na kernelu typu monolitické a další aplikace běží v kontextu jednoho uživatele. Předpokládejte, že aplikace má velikost 10 MB a systém má procesor s frekvencí 2,5 GHz a 4 GB RAM.
 
-Úkol 3: Použijte simulaci k porovnání účinnosti dvou různých strategií řízení procesů: Time-Slicing a Priority Scheduling. Zvažte, jak tyto strategie ovlivňují výkonnost systému a jak se chovají v různých situacích.
+Úkol 3: Porovnejte vlastnosti systému s monolitickým kernelem a mikrokernelem. Uveďte výhody a nevýhody obou typů.
 
-Úkol 4: Popište a porovnejte tři různé typy paměti: RAM (Random Access Memory), ROM (Read-Only Memory) a cachovací paměť. Uveďte příklady použití a rozdíl mezi nimi.
+Úkol 4: Popište principy práce s virtuálními zónami v operačním systému. Uveďte příklady použití této technologie.
 
-Úkol 5: Použijte teorii synchronizace k vysvětlení, jak procesy komunikují a spolupracují v operačním systému. Zvažte typy synchronizačních mechanismů (mutex, semafory, zámky) a jejich použití v reálných scénářích.
+Úkol 5: Uveďte příklady operačních systémů, které podporují virtualizaci hardwaru. Popište principy práce s virtualizací.
 
-Úkol 6: Analyzujte a porovnejte tři různé algoritmy zajišťování přístupu k souborům: First-Come-First-Served, Priority Scheduling a Round-Robin. Zvažte, jak tyto algoritmy ovlivňují výkonnost systému a jak se chovají v různých situacích.
+Úkol 6: Vypočítejte čas potřebný k otevření aplikace ve výpočetním systému, kde je operační systém založen na kernelu typu mikrokernel a další aplikace běží v kontextu jednoho uživatele. Předpokládejte, že aplikace má velikost 10 MB a systém má procesor s frekvencí 2,5 GHz a 4 GB RAM.
 
-Úkol 7: Použijte simulaci k porovnání účinnosti dvou různých strategií řízení souborů: File Allocation Table (FAT) a Indexed Allocation Table (IAT). Zvažte, jak tyto strategie ovlivňují výkonnost systému a jak se chovají v různých situacích.
+Úkol 7: Porovnejte vlastnosti systému s operačním systémem založeným na kontejneru a klasickým virtuálním počítačem. Uveďte výhody a nevýhody obou typů.
 
-Úkol 8: Popište a porovnejte tři různé typy síťových protokolů: TCP/IP, UDP a SCTP. Uveďte příklady použití a rozdíl mezi nimi.
+Úkol 8: Uveďte příklady operačních systémů, které podporují kontejnery. Popište principy práce s kontejnery.
 
-Úkol 9: Použijte teorii bezpečnosti k vysvětlení, jak operační systém chrání systém a uživatele před útoky a bezpečnostními riziky. Zvažte typy bezpečnostních mechanismů (autentizace, autorizace, kryptografie) a jejich použití v reálných scénářích.
+Úkol 9: Vypočítejte čas potřebný k otevření aplikace ve výpočetním systému, kde je operační systém založen na kernelu typu monolitické a další aplikace běží v kontextu jednoho uživatele a navíc využívají kontejnery. Předpokládejte, že aplikace má velikost 10 MB, systém má procesor s frekvencí 2,5 GHz a 4 GB RAM a kontejnery jsou implementovány jako součást operačního systému.
 
-Úkol 10: Analyzujte a porovnejte tři různé algoritmy správy paměti: Least Recently Used (LRU), Most Recently Used (MRU) a First-In-First-Out (FIFO). Zvažte, jak tyto algoritmy ovlivňují výkonnost systému a jak se chovají v různých situacích.
+Úkol 10: Popište principy práce s distribuovaným operačním systémem. Uveďte příklady použití této technologie a výhody spojené s ní.
