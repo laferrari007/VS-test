@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Fyziologie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:26:18
+
+Úkol 1: Vyberte 3 typy buněčných membrán a popište jejich strukturu a funkce.
+
+Úkol 2: Popište mechanismy odbourávání aminokyselin v játrech a jejich spojení s metabolismem cukrů.
+
+Úkol 3: Porovnejte rozdíl mezi iontovými kanály a pumpami v buněčných membránách a udělejte příklad pro každé.
+
+Úkol 4: Vyberte 2 typy nervových impulzů (například akciósíťový a gradační potenciál) a popište jejich charakteristiky a mechanismy vzniku.
+
+Úkol 5: Obraťte se na procesy nervového přenose a popište rozdíl mezi reflexy a vzorcem chování.
+
+Úkol 6: Popište mechanismy regulace koncentrace iontů v mozkomíšním moku a jejich spojení s homeostázou.
+
+Úkol 7: Vyberte 2 typy receptorů (například G-protein spřažené receptory a iontové kanály) a popište jejich strukturu a funkci.
+
+Úkol 8: Porovnejte rozdíl mezi autonomním a vegetativním nervovým systémem v oblasti regulace vnitřní teploty.
+
+Úkol 9: Vyberte 2 typy metabolických procesů (například glykolýza a glukoneogeneze) v játrech a popište jejich spojení s regulací krevního cukru.
+
+Úkol 10: Popište mechanismy regulace krevního tlaku v reakci na fyzickou aktivitu a udělejte příklad pro různé systémy regulace.
