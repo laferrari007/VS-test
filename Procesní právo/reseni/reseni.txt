@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Procesní právo
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:53:47
+# Datum: 2025-09-15 23:53:48
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 
