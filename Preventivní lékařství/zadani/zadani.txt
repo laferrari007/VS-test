@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Preventivní lékařství
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:50:00
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:50:13
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 1: Popište hlavní rozdíly mezi preventivními prohlídkami pro děti a dospělé, včetně doporučených frekvencí a obsahu prohlídek.
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 2: Vyberte tři prevenci rakoviny, které jsou široce doporučené a popište jeden konkrétní postup, který je jejich součástí.
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 3: Srovnajte účinnost různých metod prevence vzniku cukrovky typu 2, včetně změny životního stylu, užívání léků a očkování.
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 4: Diskutujte o výhodách a nevýhodách častějších screeningových testů na rakovinu pro dospělé, včetně testování na rakovinu prsu, prostatu a konečníku.
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 5: Popište roli preventivní medicíny v předcházení infarktům myokardu a popište jeden konkrétní postup prevence.
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 6: Navrhujte program preventivní péče pro seniory, včetně doporučených vyšetření a postupů.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 7: Vyberte tři prevenci chronických onemocnění a popište jeden konkrétní výzkum, který dokazuje jejich účinnost.
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 8: Vypracujte návrh preventivní strategie pro zdravotní středisko, včetně cílových skupin a doporučených postupů.
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 9: Srovnajte účinnost různých metod prevence obezity, včetně změny stravování, cvičení a podpory zdravého životního stylu.
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Preventivní lékařství
+Úkol 10: Navrhujte návrh systematického programu prevence a screeningu rakoviny pro celou populaci, včetně doporučených postupů a vyšetřovacích metod.
