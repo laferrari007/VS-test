@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Diferenciální rovnice
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:04:13
+# Zadání úkolů pro předmět: Diferenciální rovnice
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:17:06
 
-Úkol 1: Základní úkol z předmětu Diferenciální rovnice - úroveň 1
+Úkol 1: Proveďte, že rovnice y' = -y je lineární a její řešení je dán výrokem y(t) = Ce^(-t), kde C je konstanta.
 
-Úkol 2: Základní úkol z předmětu Diferenciální rovnice - úroveň 2
+Úkol 2: Vyřešte diferenciální rovnice y' + 2y = 0 s počáteční podmínkou y(0) = 1.
 
-Úkol 3: Základní úkol z předmětu Diferenciální rovnice - úroveň 3
+Úkol 3: Proveďte, že rovnice y'' + 4y = 0 je harmonické oscilátorová rovnice a její řešení je dán výrokem y(t) = C1cos(2t) + C2sin(2t), kde C1 a C2 jsou konstanty.
 
-Úkol 4: Základní úkol z předmětu Diferenciální rovnice - úroveň 4
+Úkol 4: Vyřešte diferenciální rovnice y'' + 2y' + y = 0 s počáteční podmínkou y(0) = 0 a y'(0) = 1.
 
-Úkol 5: Základní úkol z předmětu Diferenciální rovnice - úroveň 5
+Úkol 5: Proveďte, že rovnice y'' - 4y = 0 je lineární a její řešení je dán výrokem y(t) = C1e^(2t) + C2e^(-2t), kde C1 a C2 jsou konstanty.
 
-Úkol 6: Základní úkol z předmětu Diferenciální rovnice - úroveň 6
+Úkol 6: Vyřešte diferenciální rovnice y' = 2xy, kde x je funkce t, s počáteční podmínkou y(0) = 1.
 
-Úkol 7: Základní úkol z předmětu Diferenciální rovnice - úroveň 7
+Úkol 7: Proveďte, že rovnice y'' + y = 0 je harmonické oscilátorová rovnice a její řešení je dán výrokem y(t) = C1cos(t) + C2sin(t), kde C1 a C2 jsou konstanty.
 
-Úkol 8: Základní úkol z předmětu Diferenciální rovnice - úroveň 8
+Úkol 8: Vyřešte diferenciální rovnice y'' - 3y' + 2y = 0 s počáteční podmínkou y(0) = 1 a y'(0) = 2.
 
-Úkol 9: Základní úkol z předmětu Diferenciální rovnice - úroveň 9
+Úkol 9: Proveďte, že rovnice y'' + 4y = 0 je lineární a její řešení je dán výrokem y(t) = C1cos(2t) + C2sin(2t), kde C1 a C2 jsou konstanty.
 
-Úkol 10: Základní úkol z předmětu Diferenciální rovnice - úroveň 10
+Úkol 10: Vyřešte diferenciální rovnice y'' - 6y' + 13y = 0 s počáteční podmínkou y(0) = 1 a y'(0) = 4.
