@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Psychiatrie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:48:14
+# Datum: 2025-09-15 23:48:18
 
-Úkol 1: Popište hlavní rozdíly mezi psychózou a psychotickými příznaky. Proveďte přehled běžných typů psychóz a jejich charakteristik.
+Úkol 1: Popiš rozdíl mezi šikmou a depresí. Zahrni do svého popisu definici těchto stavů, symptomy a možné příčiny.
 
-Úkol 2: Seznamte se s principy psychodynamické teorie psychopatie. Jaké jsou hlavní součásti této teorie a jak se uplatňuje v diagnostice a léčbě? 
+Úkol 2: Porovnej teorie osobnostních disorders podle DSM-5 a ICD-11. Rozdíly v klasifikaci a popisování osobnostních poruch.
 
-Úkol 3: Připravte si přehled psychosociálních faktorů, které ovlivňují vznik a průběh duševních poruch. Zabývejte se například rolí rodiny, výchovou nebo sociálním postavením.
+Úkol 3: Diskutujte vliv stresu na psychickou zdravotní stav osobnosti. Zahrni do své diskuze výzkum, případové studie a teoretické rámce.
 
-Úkol 4: Vymezte pojmy „schizofrenie“ a „schizotypní porucha“. Jak se liší od sebe a jakým způsobem se projevují u pacientů?
+Úkol 4: Popiš mechanismy, které přispívají ke vzniku a udržení schizofrenie. Zahrni do svého popisu genetické, environmentální a neurobiologické faktory.
 
-Úkol 5: Analyzujte vztah mezi genetikou a duševními poruchami. Jaké jsou současné poznatky o genetických faktorech vzniku schizofrenie a jiných psychóz? 
+Úkol 5: Porovnej přístupy k léčbě posttraumatické stresové poruchy (PTSD) podle různých přístupů (behaviorální, kognitivně-behaviorální, farmakologické). Zahrni do svého porovnání výsledek studií a případové studie.
 
-Úkol 6: Popište proces diagnostiky a léčby borderline poruchy identity. Jaký je rozdíl mezi diagnózou a léčbou borderline poruchy identity a jiných typů osobnosti? 
+Úkol 6: Analýzujte vztah mezi psychickými poruchami a sociálním vystavením. Zahrni do své analýzy teoretické rámce, výzkum a případové studie.
 
-Úkol 7: Porovnejte a analyzujte dva různé přístupy k léčbě duševních poruch: farmakoterapii a psychoterapii. Co jsou jejich přednosti a nevýhody?
+Úkol 7: Popiš teorii o rozvoji borderline poruchy osobnosti. Zahrni do svého popisu definici, symptomy, příčiny a možné léčebné přístupy.
 
-Úkol 8: Seznamte se s pojmem „psychotropní léčba“. Jaké jsou její principy a jak se používá v klinické praxi? 
+Úkol 8: Zajistěte kritický přehled o vlivu elektronických zařízení na psychickou zdravotní stav osobnosti. Zahrni do svého přehledu výzkum, případové studie a teoretické rámce.
 
-Úkol 9: Připravte si přehled o různých typech duševních poruch u dětí a dospělých. Jaké jsou jejich hlavní symptomy a jak se liší od sebe?
+Úkol 9: Porovnej efektivity různých léčebných přístupů pro léčbu bipolární afektivní poruchy (BAP). Zahrni do svého porovnání výzkum, případové studie a metaanalýzy.
 
-Úkol 10: Připravte si kritické hodnocení současné znalosti a poznatků o vlivu environmentálních faktorů na vznik a průběh duševních poruch. Jaký je aktuální stav výzkumu v této oblasti?
+Úkol 10: Zajistěte kritický přehled o teorii o rozvoji komplexní posttraumatické poruchy (CPTSD). Zahrni do svého přehledu definici, symptomy, příčiny a možné léčebné přístupy.
