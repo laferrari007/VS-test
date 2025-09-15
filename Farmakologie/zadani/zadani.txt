@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Farmakologie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:46:20
+# Datum: 2025-09-15 23:46:23
 
-Úkol 1: Popiš principy absorpce léčiv do lidského organismu a uveď alespoň 3 faktory, které ovlivňují jejich absorpci.
+Úkol 1: Popiš mechanismus účinku a podání léku pro lék "Aspirin" a vysvětli, jak jej používá lékař v klinické praxi.
 
-Úkol 2: Porovnej účinky dvou různých léků na stejné farmakologické cíle (např. antihypertenzní, antidiabetní). Uveď alespoň 3 podobnosti a 3 rozdíly v jejich účincích.
+Úkol 2: Vyberte 3 různé léky, které jsou používané k léčbě hypertenze, a porovnejte jejich mechanismus účinku a možné vedlejší účinky.
 
-Úkol 3: Popiš mechanismy metabolizace léčiv v lidském těle a uveď alespoň 2 typy enzymů, které jsou zodpovědné za rozklad léčiv.
+Úkol 3: Vyjmenujte a popište tři různé typy farmakokinetiky, které se vyskytují u různých léků. Vysvětlete, proč je důležité znát tyto charakteristiky pro správnou léčbu.
 
-Úkol 4: Uveď příklad léčiva, které je součástí farmakokinetického studie. Popiš fáze studie a uveď alespoň 3 kritéria pro výběr účastníků studie.
+Úkol 4: Rozdělte léky do tří kategorií podle jejich mechanismu účinku na centrální nervový systém: stimulanci, relaxanci a anestetika. Vysvětle, jak se tyto léky liší v jejich účinku.
 
-Úkol 5: Porovnej rozdíl mezi farmakodynamickými a farmakokinetickými vlastnostmi léčiv. Uveď příklad léčiva, které má vysokou farmakodynamickou aktivitu, ale nízkou farmakokinetickou aktivitu.
+Úkol 5: Vyberte dva léky, které jsou používány k léčbě epilepsie, a porovnejte jejich mechanismus účinku, dávkování a možné vedlejší účinky. Vysvětlete, jak se tyto léky liší v jejich účinku.
 
-Úkol 6: Uveď příklad léčiva, které má úzkou terapeutickou indikaci. Popiš mechanismy, které ovlivňují jeho účinnost a uveď alespoň 2 faktory, které mohou ovlivnit jeho bezpečnost.
+Úkol 6: Popiš mechanismus účinku a podání léku pro lék "Insulin" a vysvětli, jak jej používá lékař v klinické praxi. Vysvětlete, proč je důležité pečlivě sledovat hladinu cukru v krvi pacienta.
 
-Úkol 7: Popiš principy farmakogenetiky a uveď alespoň 3 příklady genů, které ovlivňují odpověď organismu na léčiva.
+Úkol 7: Vyberte tři různé léky, které jsou používány k léčbě dušnosti, a porovnejte jejich mechanismus účinku a možné vedlejší účinky. Vysvětlete, jak se tyto léky liší v jejich účinku.
 
-Úkol 8: Uveď příklad léčiva, které je součástí komplexního terapeutického režimu. Popiš mechanismy, které ovlivňují jeho účinnost a uveď alespoň 2 faktory, které mohou ovlivnit jeho bezpečnost.
+Úkol 8: Vyjmenujte a popište tři různé typy farmakodynamiky, které se vyskytují u různých léků. Vysvětlete, proč je důležité znát tyto charakteristiky pro správnou léčbu. Vysvětlete, jak se tyto charakteristiky liší v jejich účinku.
 
-Úkol 9: Porovnej rozdíl mezi lokální a systémovou aplikací léčiv. Uveď příklad léčiva, které má vyšší účinnost při lokální aplikaci.
+Úkol 9: Vyberte dva léky, které jsou používány k léčbě srdeční arytmie, a porovnejte jejich mechanismus účinku, dávkování a možné vedlejší účinky. Vysvětlete, jak se tyto léky liší v jejich účinku.
 
-Úkol 10: Uveď příklad léčiva, které je součástí experimentální léčby. Popiš mechanismy, které ovlivňují jeho účinnost a uveď alespoň 2 faktory, které mohou ovlivnit jeho bezpečnost.
+Úkol 10: Napište stručnou práci o jedné z farmakologických terapií (například terapie beta-blokátory, terapie statiny apod.), která vysvětluje její mechanismus účinku, přednosti a možné nedostatky.
