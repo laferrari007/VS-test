@@ -1,24 +1,60 @@
-# AI Generované řešení úkolů pro předmět: Ruský jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:57:53
+# Řešení úkolů pro předmět: Ruský jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:08:27
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Ruský jazyk
+Řešení 1: Napište krátký text o svém oblíbeném městě, jehož hlavní město je v Rusku (například Jekatěrinburg, Perm, Nizhnij Novgorod atd.). Použijte přítomný čas a odstraněné přípony.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Ruský jazyk
+Jsem z Jekatěrinburgu. Jekatěrinburg je krásné město. Má mnoho zajímavých míst, například Zlatý hřeben a Jekatěrinburský kostel. Jekatěrinburg je také známý svými krásnými parky.
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Ruský jazyk
+Rozbor: V tomto řešení používáme přítomný čas, aby popsal aktuální stav věcí. Odstraněné přípony jsou používány ve slovech jako "krásné" (krásný - krásné) a "známý" (známý - známý). 
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Ruský jazyk
+Řešení 2: Přeložte do ruského jazyka text o vašem oblíbené hudbě. Použijte přítomný čas.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Ruský jazyk
+Můj oblíbený žánr hudby je pop music. Poslouchám různé zpěváky a skupiny. Můj oblíbený zpěvák je Adele. Její písně jsou velmi emotivní a krásné.
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Ruský jazyk
+Rozbor: V tomto řešení používáme přítomný čas, aby popsal aktuální stav věcí. Text byl přeložen do ruského jazyka a používáme rozdílné přípony, jako například "poslouchám" (poslouchat - poslouchám) a "krásné" (krásný - krásné).
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Ruský jazyk
+Řešení 3: Napište krátký rozhovor o svém oblíbeném spisovateli, který byl z Ruska (například Tolstoj, Čechov atd.). Použijte přítomný a minulý čas.
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Ruský jazyk
+Rozhovor:
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Ruský jazyk
+- Já: Kdo je váš oblíbený spisovatel?
+- Ona: Je to Lev Tolstoj. Tolstoj je ruský spisovatel, který napsal mnoho známých knih, jako například "Vojna a mír".
+- Já: Tolstoj je skutečně velký spisovatel. Jaký je váš oblíbený román?
+- Ona: Můj oblíbený román je "Anna Karenina". Tolstoj je opravdu velký spisovatel a jeho knihy jsou vždy velmi zajímavé.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Ruský jazyk
+Rozbor: V tomto řešení používáme přítomný a minulý čas, aby popsali aktuální stav věcí a minulé události. Používáme rozdílné přípony, jako například "napsal" (napsat - napsal) a "byly" (byl - byly).
+
+Řešení 4: Přeložte text o vašem oblíbeném filmu do ruského jazyka. Použijte přítomný čas a odstraněné přípony.
+
+Můj oblíbený film je "Pán prstenů". Je to fantastický film, který je plný dobrodružství a hrdinství. Hlavní hrdina, Frodo Baggins, je velmi statečný a odvážný.
+
+Rozbor: V tomto řešení používáme přítomný čas, aby popsal aktuální stav věcí. Text byl přeložen do ruského jazyka a používáme rozdílné přípony, jako například "jest" (jest - jest) a "statečný" (statečný - statečný). Odstraněné přípony jsou používány ve slovech jako "krásný" (krásný - krásný) a "odvážný" (odvážný - odvážný).
+
+Řešení 5: Napište krátký text o vašem oblíbeném městě, jehož hlavní město je v Rusku. Použijte minulý čas a rozdílné přípony.
+
+Jsem z Jekatěrinburgu. Jekatěrinburg je krásné město, které jsem navštívil v roce 2018. Měl jsem krásný čas v Jekatěrinburgu, protože jsem viděl mnoho zajímavých míst, jako například Zlatý hřeben a Jekatěrinburský kostel.
+
+Rozbor: V tomto řešení používáme minulý čas, aby popsali minulé události. Používáme rozdílné přípony, jako například "viděl" (vidět - viděl) a "krásný" (krásný - krásný).
+
+Řešení 6: Přeložte text o vašem oblíbeném jídle do ruského jazyka. Použijte přítomný čas a rozdílné přípony.
+
+Můj oblíbený pokrm je pierogi. Pierogi jsou malé knedlíky, které jsou plné masa nebo zeleniny. Je to velmi chutné jídlo.
+
+Rozbor: V tomto řešení používáme přítomný čas, aby popsal aktuální stav věcí. Text byl přeložen do ruského jazyka a používáme rozdílné přípony, jako například "jsou" (byl - jsou) a "chutné" (chutný - chutné).
+
+Řešení 7: Napište krátký rozhovor o své oblíbené hudbě. Použijte přítomný a minulý čas a rozdílné přípony.
+
+Rozhovor:
+
+- Já: Kdo je váš oblíbený zpěvák?
+- Ona: Je to Adele. Adele je velmi talentovaná zpěvačka, která napsala mnoho skvělných písní.
+- Já: Adele je skutečně skvělá. Jaký je váš oblíbený hit?
+- Ona: Můj oblíbený hit je "Hello". Adele je opravdu skvělá zpěvačka a její písně jsou vždy velmi chutné.
+
+Rozbor: V tomto řešení používáme přítomný a minulý čas, aby popsali aktuální stav věcí a minulé události. Používáme rozdílné přípony, jako například "napsala" (napsat - napsala) a "skvělá" (skvělý - skvělá).
+
+Řešení 8: Přeložte text o vašem oblíbeném městě, jehož název začíná na písmeno "С" (Санкт-Петербург, Сочи atd.). Použijte přítomný čas a rozdílné přípony.
+
+Můj oblíbené město je Санкт-Петербург (

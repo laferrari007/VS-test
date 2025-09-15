@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Ruský jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:57:53
+# Zadání úkolů pro předmět: Ruský jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:08:27
 
-Úkol 1: Základní úkol z předmětu Ruský jazyk - úroveň 1
+Úkol 1: Napište krátký text o svém oblíbeném městě, jehož hlavní město je v Rusku (například Jekatěrinburg, Perm, Nizhnij Novgorod atd.). Použijte přítomný čas a odstraněné přípony.
 
-Úkol 2: Základní úkol z předmětu Ruský jazyk - úroveň 2
+Úkol 2: Přeložte do ruského jazyka text o vašem oblíbené hudbě. Použijte přítomný čas.
 
-Úkol 3: Základní úkol z předmětu Ruský jazyk - úroveň 3
+Úkol 3: Napište krátký rozhovor o svém oblíbeném spisovateli, který byl z Ruska (například Tolstoj, Čechov atd.). Použijte přítomný a minulý čas.
 
-Úkol 4: Základní úkol z předmětu Ruský jazyk - úroveň 4
+Úkol 4: Přeložte text o vašem oblíbeném filmu do ruského jazyka. Použijte přítomný čas a odstraněné přípony.
 
-Úkol 5: Základní úkol z předmětu Ruský jazyk - úroveň 5
+Úkol 5: Napište krátký text o vašem oblíbeném městě, jehož hlavní město je v Rusku. Použijte minulý čas a rozdílné přípony.
 
-Úkol 6: Základní úkol z předmětu Ruský jazyk - úroveň 6
+Úkol 6: Přeložte text o vašem oblíbeném jídle do ruského jazyka. Použijte přítomný čas a rozdílné přípony.
 
-Úkol 7: Základní úkol z předmětu Ruský jazyk - úroveň 7
+Úkol 7: Napište krátký rozhovor o své oblíbené hudbě. Použijte přítomný a minulý čas a rozdílné přípony.
 
-Úkol 8: Základní úkol z předmětu Ruský jazyk - úroveň 8
+Úkol 8: Přeložte text o vašem oblíbeném městě, jehož název začíná na písmeno "С" (Санкт-Петербург, Сочи atd.). Použijte přítomný čas a rozdílné přípony.
 
-Úkol 9: Základní úkol z předmětu Ruský jazyk - úroveň 9
+Úkol 9: Napište krátký text o vašem oblíbeném spisovateli, který byl z Ruska. Použijte minulý čas a rozdílné přípony.
 
-Úkol 10: Základní úkol z předmětu Ruský jazyk - úroveň 10
+Úkol 10: Přeložte text o vašem oblíbeném filmu do ruského jazyka. Použijte minulý čas a rozdílné přípony a odstraněné přípony.
