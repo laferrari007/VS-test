@@ -1,0 +1,82 @@
+# Řešení úkolů pro předmět: Kybernetická bezpečnost
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:32:11
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Popište zásady bezpečnosti informací (CIA triada) a vysvětlí, proč jsou důležité pro kybernetickou bezpečnost.
+
+Zásady bezpečnosti informací, známé také jako CIA triada, jsou tři základní principy, které zajišťují ochranu informací před neoprávněným přístupem, ukradením nebo modifikací. CIA triada se skládá z následujících tří prvků:
+
+- **Confidentiality** (Záložní bezpečnost): zajišťuje, aby informace zůstaly utajené a nebyly přístupné neoprávněným osobám.
+- **Integrity** (Integritu): zajišťuje, aby informace zůstaly nepoškozené a nezměněny během zpracování nebo přenosu.
+- **Availability** (Dostupnost): zajišťuje, aby informace byly k dispozici pro oprávněné osoby za jakékoli době.
+
+CIA triada je důležité pro kybernetickou bezpečnost proto, že poskytuje záruku ochrany informací před neoprávněným přístupem, ukradením nebo modifikací. Tím se zajišťuje ochrana citlivých dat a prevence útoků.
+
+Řešení 2: Porovnejte základní typy kryptografických algoritmů (symetrická, asymetrická) a vysvětlí, jak se používají v kybernetické bezpečnosti.
+
+**Symetrická kryptografie**:
+
+Symetrická kryptografie používá jeden klíč pro šifrování a dešifrování dat. Tento klíč je známus oběma stranám komunikace. Symetrická kryptografie je vhodná pro komunikaci mezi dvěma stranami, které jsou si vzájemně důvěryhodné.
+
+Například, když chcete poslat citlivé informace svým přátelům, můžete použít symetrickou kryptografii, aby nikdo kromě vás a vašich přátel nemohl číst zprávy.
+
+**Asymetrická kryptografie**:
+
+Asymetrická kryptografie používá dva klíče - veřejný klíč a soukromý klíč. Veřejný klíč je používán pro šifrování dat, zatímco soukromý klíč je používán pro dešifrování dat. Asymetrická kryptografie je vhodná pro komunikaci mezi dvěma stranami, které nejsou si vzájemně důvěryhodné.
+
+Například, když chcete poslat citlivé informace na server, můžete použít asymetrickou kryptografii, aby nikdo kromě vás a serveru nemohl číst zprávy.
+
+Řešení 3: Popište proces autentizace a autorizace v síti a vysvětlí, jak se liší.
+
+**Autentizace**:
+
+Autentizace je proces ověřování identity uživatele nebo zařízení v síti. Autentizace zajišťuje, aby uživatel nebo zařízení bylo oprávněné přistupovat k síti a zdrojům.
+
+- **Příklad autentizace**: Uživatel zadá uživatelské jméno a heslo a systém ověří, zda jsou správné.
+
+**Autorizace**:
+
+Autorizace je proces udělování oprávnění uživateli nebo zařízenímu k přístupu k síti a zdrojům. Autorizace zajišťuje, aby uživatel nebo zařízení mělo oprávnění k přístupu k zdrojům.
+
+- **Příklad autorizace**: Uživatel je přidělen roli administrátor a má přístup k určitým funkcím a zdrojům.
+
+**Rozdíl mezi autentizací a autorizací**:
+
+Autentizace ověřuje identitu uživatele nebo zařízení, zatímco autorizace uděluje oprávnění k přístupu k síti a zdrojům.
+
+Řešení 4: Vyberte si jeden typ malware (vírus, worm, trojan) a popište jeho chování, symptomy a metody prevence.
+
+**Virus**:
+
+Virus je typ malware, který se šíří prostřednictvím souborů a má schopnost kopírovat se a šířit se do dalších souborů. Virus může způsobit škodu tím, že poškozuje nebo odstraní data.
+
+- **Chování**: Virus se šíří prostřednictvím souborů a kopíruje se do dalších souborů.
+- **Symptomy**: Virus může způsobit chyby při spuštění programu, ztrátu dat nebo poškození systému.
+- **Metody prevence**: Virusy mohou být vymazány pomocí antivirového software a uživatelé musí být opatrní při otevírání souborů a spínání programů.
+
+Řešení 5: Vysvětlí, jak funguje princip firewallové polohy a vysvětlí, jaké jsou její výhody a nevýhody.
+
+**Firewall**:
+
+Firewall je zařízení nebo software, který chrání síť před neoprávněným přístupem a zajišťuje bezpečnost sítě. Firewall zajišťuje, aby pouze oprávněné osoby a zařízení měly přístup k síti.
+
+- **Fungování**: Firewall kontroluje přenosy dat a povolené a zakázané zdroje a cíle.
+- **Výhody**: Firewall zajišťuje bezpečnost sítě, zvyšuje úroveň ochrany a chrání před útoky.
+- **Nevýhody**: Firewall může omeškat přístup k určitým službám nebo zdrojům.
+
+Řešení 6: Vysvětlí, jak funguje princip intrusion detection a vysvětlí, jaké jsou jeho výhody a nevýhody.
+
+**Intrusion detection**:
+
+Intrusion detection je proces detekce neoprávněného přístupu nebo útoků na síť. Intrusion detection zajišťuje, aby se detekovaly neoprávněné aktivity a zajišťoval ochranu sítě.
+
+- **Fungování**: Intrusion detection používá algoritmy a technologie k detekci neoprávněných aktivity a zajišťuje ochranu sítě.
+- **Výhody**: Intrusion detection zvyšuje úroveň ochrany, detekuje neoprávněné aktivity a zajišťuje bezpečnost sítě.
+- **Nevýhody**: Intrusion detection může způsobit falešné poplachy a odbíjet zdroje.
+
+Řešení 7: Vyberte si jeden typ kybernetické útoky (phishing, watering hole attack, ransomware) a popište jeho chování, symptomy a metody prevence.
+
+**Phishing**:
+
+Phishing je typ kybernetického útoku, který se používá k získ
