@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Chemie životního prostředí
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:23:08
+
+Úkol 1: Vyvažte chemickou rovnici souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 2: Vypočítejte molární hmotnost souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 3: Určete koncentraci roztoku souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 4: Řešte úkol ze stechiometrie souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 5: Navrhněte syntézu sloučeniny souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 6: Určete oxidační čísla souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 7: Vypočítejte pH roztoku souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 8: Řešte rovnováhu reakce souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 9: Určete typ chemické vazby souvisejí s tématem z předmětu Chemie životního prostředí
+
+Úkol 10: Vypočítejte výtěžek reakce souvisejí s tématem z předmětu Chemie životního prostředí
