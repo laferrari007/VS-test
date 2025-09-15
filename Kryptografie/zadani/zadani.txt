@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Kryptografie
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:31:56
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:32:04
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Kryptografie
+Úkol 1: Zkuste implementovat jednoduchý algoritmus Caesarova substituce, který posouvá každou písmeno o 3 pozice vpřed v abecedě.
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Kryptografie
+Úkol 2: Přepište algoritmus Caesarova substituce tak, aby posouval každou písmeno o 3 pozice vzad v abecedě. Uveďte příklad použití.
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Kryptografie
+Úkol 3: Implementujte algoritmus substituce Vigenéra s klíčem 3 znaky dlouhým: "abc". Použijte jako vstup text "HELLO WORLD".
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Kryptografie
+Úkol 4: Vypracujte algoritmus, který vrátí rozptyl textu v případě, že bude použit klíčový text "klíč" a vstupním textem bude "Škola kryptografie je zajímavá".
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Kryptografie
+Úkol 5: Implementujte algoritmus šifrování RSA s klíčem 2048 bitů. Použijte jako vstup text "Škola kryptografie je zajímavá" a uveďte výslednou šifru.
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Kryptografie
+Úkol 6: Vypracujte algoritmus, který vrátí rozptyl textu v případě, že bude použit klíčový text "klíč" a vstupním textem bude "Škola kryptografie je zajímavá". Použijte algoritmus Shannonova rozptylu pro statistickou analýzu.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Kryptografie
+Úkol 7: Implementujte algoritmus Diffie-Hellmana pro výměnu klíčů mezi dvěma stranami. Uveďte příklad použití a vysvětlete princip algoritmu.
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Kryptografie
+Úkol 8: Implementujte algoritmus Elliptické křivky (ECC) pro šifrování a dešifrování textu. Použijte jako vstup text "Škola kryptografie je zajímavá" a uveďte výslednou šifru.
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu Kryptografie
+Úkol 9: Vypracujte algoritmus, který vrátí rozptyl textu v případě, že bude použit klíčový text "klíč" a vstupním textem bude "Škola kryptografie je zajímavá". Použijte algoritmus Shannonova rozptylu pro statistickou analýzu a porovnejte výsledky s algoritmem Shannonova rozptylu.
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Kryptografie
+Úkol 10: Implementujte algoritmus Quantum Key Distribution (QKD) pro výměnu klíčů mezi dvěma stranami. Uveďte příklad použití a vysvětlete princip algoritmu.
