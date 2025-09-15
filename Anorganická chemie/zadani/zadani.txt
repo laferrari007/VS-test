@@ -2,22 +2,24 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:21:44
 
-Úkol 1: Zjistěte a popište hlavní rozdíly mezi iontovými a kovalentními sloučeninami.
+Děkuji za požádání. Zde jsou 10 univerzitních úkolů pro předmět "Anorganická chemie":
 
-Úkol 2: Použijte molekulární modely k popisu struktury molekul chloridu sodného (NaCl) a vody (H2O).
+Úkol 1: Popiš rozdíl mezi iontovým a molekulárním krystalizovaným roztokem a udělejte příklad pro každý typ.
 
-Úkol 3: Vysvětlete rozdíl mezi oxidačními čísly a elektronegativitou v rámci periodické tabulky prvků.
+Úkol 2: Vysvětlěte principy tvorby komplexních sloučenin iontová vazbou a udělejte příklady na základě příkladů z přednášky.
 
-Úkol 4: Proveďte výpočet molární hmotnosti a hustoty molybdenu (Mo) za předpokladu, že jeho čistá hmotnost je 95,94 g/mol.
+Úkol 3: Popiš proces elektrolytické oxidace zinku a udělejte diagram reaktorového zařízení.
 
-Úkol 5: Napište rovnice roztavení a taví se při teplotě 962 °C pro hořčík (Ca) a popište jeho vlastnosti ve formě kapaliny.
+Úkol 4: Vysvětlěte pojmy "oxid" a "peroxid" a udělejte příklad na základě příkladů z přednášky. Zkuste definovat rozdíl mezi oběma pojmy.
 
-Úkol 6: Vypočítejte teoretickou hustotu olova (Pb) v jeho čisté formě za předpokladu, že jeho molární hmotnost je 207,2 g/mol.
+Úkol 5: Popiš chemické vlastnosti a využití olova a udělejte přehled o jeho historickém využití.
 
-Úkol 7: Seznamte se se základními vlastnostmi a aplikacemi titanu, zejména jeho použití v kosmických technologiích.
+Úkol 6: Vysvětlěte principy tvorby hydridů kovu a udělejte příklady na základě příkladů z přednášky. Zkuste popsat vlastnosti a využití hydridů kovu.
 
-Úkol 8: Použijte zákon Raoultova k popisu vývoje vzájemné rozpustnosti v roztoku chloridu sodného (NaCl) a vodou (H2O) v závislosti na koncentraci chloridu sodného.
+Úkol 7: Popiš proces výroby chloridu sodného a udělejte diagram reaktorového zařízení.
 
-Úkol 9: Vypočítejte molovou hmotnost a molovou hmotnostní zastoupení jednotlivých složek v roztoku obsahujícím chlorid vápenatý (CaCl2) a chlorid sodný (NaCl) ve stejném poměru 1:1.
+Úkol 8: Vysvětlěte pojmy "amfetamin" a "fenol" a udělejte příklad na základě příkladů z přednášky. Zkuste definovat vztah mezi oběma sloučeninami.
 
-Úkol 10: Popište mechanismus syntézy chloridu kobaltitého (CoCl2) z chloridu kobaltitého (CoO) a chloridu vápenatého (CaCl2) a zmiňte jeho hlavní technické aplikace.
+Úkol 9: Popiš chemické vlastnosti a využití bismutu a udělejte přehled o jeho historickém využití. Zkuste popsat jeho použití v medicíně a dalších oblastech.
+
+Úkol 10: Vysvětlěte principy tvorby sloučenin kovů s halogeny a udělejte příklady na základě příkladů z přednášky. Zkuste popsat vlastnosti a využití sloučenin kovu s halogeny.
