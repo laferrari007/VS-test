@@ -1,104 +1,104 @@
-# AI Generované řešení úkolů pro předmět: Pravděpodobnost a statistika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:04:30
+# Řešení úkolů pro předmět: Pravděpodobnost a statistika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:17:27
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vypočítejte střední hodnotu a rozptyl pro distribuci Bernoulli s parametrem p = 0,5.
+Řešení 1: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Distribuce Bernoulli je binomní distribuce s jedním pokusem, kde p je pravděpodobnost úspěchu. Střední hodnota distribuce Bernoulli je p, protože střední hodnota binomní distribuce je p(n), kde n je počet pokusů. V tomto případě je n = 1, takže střední hodnota je p = 0,5.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-Rozptyl distribuce Bernoulli je p(1-p). V tomto případě je p = 0,5 a 1-p = 0,5, takže rozptyl je 0,5(1-0,5) = 0,25.
+Řešení 2: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Takže střední hodnotou distribuce Bernoulli s parametrem p = 0,5 je 0,5 a rozptyl je 0,25.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-Řešení 2: Zjistěte, zda je pravděpodobnost události A a události B nezávislá (na základě podmínky nezávislosti) a zjisti jejich společnou pravděpodobnost.
+Řešení 3: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Pro nezávislé události A a B platí podmínka nezávislosti: P(A ∩ B) = P(A)P(B).
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-Nejběžnější formou této podmínky je:
+Řešení 4: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-P(A ∩ B) = P(A)P(B) ≠ P(A|B)P(B)
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-Pokud tato podmínka platí, pak události A a B jsou nezávislé.
+Řešení 5: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-V případě, že chceme zjištění společné pravděpodobnosti událostí A a B, použijeme vzorec:
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+Řešení 6: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Nebo také:
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-P(A ∪ B) = P(A) + P(B) - P(A)P(B)
+Řešení 7: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Tady se předpokládá, že události A a B jsou nezávislé. Pokud je to tak, pak můžeme použít vzorec P(A ∩ B) = P(A)P(B) a vložit jej do vzorce pro společnou pravděpodobnost.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-Nebo také:
+Řešení 8: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-P(A ∪ B) = 1 - P(A' ∩ B') 
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-kde ' označuje komplement události A, tj. A' = {-events které nejsou v A}
+Řešení 9: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Až nyní nemáme žádné konkrétní hodnoty pro události A a B, proto nelze určit, zda jsou nezávislé a jejich společná pravděpodobnost.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.
 
-Řešení 3: Pro rozdělení normální s střední hodnotou μ = 10 a rozptylem σ = 2 vypočtěte pravděpodobnost P(X < 12) a P(X > 8).
+Řešení 10: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Pravděpodobnost a statistika
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Pro rozdělení normální platí, že více než 99,7% hodnot leží v intervalu μ ± 3σ.
-
-Toto je vypočítáno z faktu, že rozdělení normální je symetrické, takže pro každou hodnotu X < μ - 3σ a X > μ + 3σ je stejný počet hodnot.
-
-Protože 12 je 2σ větší než μ, můžeme tvrdit, že více než 99,7% hodnot leží do 12.
-
-Proto P(X < 12) je přibližně 1.
-
-Pro P(X > 8) je to lehce jinak. 8 je 2σ menší než μ, takže méně než 0,3% hodnot leží nad 8.
-
-Proto P(X > 8) je přibližně 0,997 - 0,003 = 0,994.
-
-Řešení 4: Uvažujte binomální rozdělení s parametrem n = 10 a p = 0,3. Vypočtěte střední hodnotu a rozptyl této distribuce.
-
-Střední hodnota binomní distribuce je n*p, kde n je počet pokusů a p je pravděpodobnost úspěchu.
-
-V tomto případě je n = 10 a p = 0,3, takže střední hodnota je 10*0,3 = 3.
-
-Rozptyl binomní distribuce je n*p*(1-p).
-
-V tomto případě je n = 10, p = 0,3 a 1-p = 0,7, takže rozptyl je 10*0,3*0,7 = 2,1.
-
-Takže střední hodnotou binomní distribuce s parametrem n = 10 a p = 0,3 je 3 a rozptyl je 2,1.
-
-Řešení 5: Uvažujte Poissonovo rozdělení s parametrem λ = 5. Vypočtěte střední hodnotu a rozptyl této distribuce.
-
-Střední hodnotou Poissonova rozdělení je λ.
-
-V tomto případě je λ = 5, takže střední hodnota je 5.
-
-Rozptyl Poissonova rozdělení je λ.
-
-V tomto případě je λ = 5, takže rozptyl je také 5.
-
-Takže střední hodnotou Poissonova rozdělení s parametrem λ = 5 je 5 a rozptyl je 5.
-
-Řešení 6: Zjistěte koeficient korelace mezi dvěma náhodnými proměnnými X a Y s následujícími charakteristikami: E(X) = 5, E(Y) = 3, σ²(X) = 4, σ²(Y) = 9.
-
-Koeficient korelace mezi dvěma náhodnými proměnnými je dán vzorcem:
-
-ρ = Cov(X, Y) / (σ(X) * σ(Y))
-
-Kde Cov(X, Y) je korelace mezi X a Y a σ(X) a σ(Y) jsou standardní odchylky obou proměnných.
-
-Cov(X, Y) lze vypočítat pomocí vzorce:
-
-Cov(X, Y) = E(XY) - E(X)E(Y)
-
-V tomto případě je E(XY) = E(X)E(Y) + Cov(X, Y) protože X a Y jsou náhodné proměnné.
-
-Takže E(XY) = 5*3 + Cov(X, Y) = 15 + Cov(X, Y)
-
-Proto Cov(X, Y) = E(XY) - E(X)E(Y) = 15 + Cov(X, Y) - 15 = Cov(X, Y)
-
-V tomto případě je E(X) = 5 a E(Y) = 3, takže E(XY) = 5*3 = 15
-
-Takže Cov(X, Y) = E(XY) - E(X)E(Y) = 15 - 15 = 0
-
-Tedy Cov(X, Y) = 0, protože X a Y jsou nezávislé.
-
-Protože Cov(X, Y) = 0, tak σ(X) * σ(Y) = 0, protože ρ = Cov(X, Y) / (σ(X)
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Pravděpodobnost a statistika.

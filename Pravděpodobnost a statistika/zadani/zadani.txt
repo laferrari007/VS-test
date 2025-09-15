@@ -1,28 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Pravděpodobnost a statistika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:04:30
+# Zadání úkolů pro předmět: Pravděpodobnost a statistika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:17:27
 
-Úkol 1: Vypočítejte střední hodnotu a rozptyl pro distribuci Bernoulli s parametrem p = 0,5.
+Úkol 1: Urči, zda se pravděpodobnostní rozdělení binomiale s parametrem n = 5 a p = 0,3 patří do rodiny exponenciálních rozdělení. Motivovalo by vás to rozdělit na podskupiny? 
 
-Úkol 2: Zjistěte, zda je pravděpodobnost události A a události B nezávislá (na základě podmínky nezávislosti) a zjisti jejich společnou pravděpodobnost.
+Úkol 2: Pokud máme dvě náhodné proměnné X a Y s hodnotami 0 a 1 a jejich nezávislé pravděpodobnostní rozdělení jsou rovna 0,5. Jaká je průměrná hodnota jejich součtu? 
 
-Úkol 3: Pro rozdělení normální s střední hodnotou μ = 10 a rozptylem σ = 2 vypočtěte pravděpodobnost P(X < 12) a P(X > 8).
+Úkol 3: Pro rozdělení Poisson s parametrem λ = 10, urči střední hodnotu a rozptyl druhé kovy. 
 
-Úkol 4: Uvažujte binomální rozdělení s parametrem n = 10 a p = 0,3. Vypočtěte střední hodnotu a rozptyl této distribuce.
+Úkol 4: Pro rozdělení normální N(0,1), urči, zda existuje k nějakým hodnotám c a d takové, že je pravděpodobnost 0,8 pro hodnoty kladné, pokud se vybere náhodný výstup z daného rozdělení.
 
-Úkol 5: Uvažujte Poissonovo rozdělení s parametrem λ = 5. Vypočtěte střední hodnotu a rozptyl této distribuce.
+Úkol 5: Urči pravděpodobnost, že náhodný výběr z 10 bodů, které jsou náhodně vybrány z intervalu (0,1), bude větší než 7/10.
 
-Úkol 6: Zjistěte koeficient korelace mezi dvěma náhodnými proměnnými X a Y s následujícími charakteristikami: E(X) = 5, E(Y) = 3, σ²(X) = 4, σ²(Y) = 9.
+Úkol 6: Pro rozdělení binomiale s parametrem n = 20 a p = 0,5, urči střední hodnotu a rozptyl druhé kovy.
 
-Úkol 7: Pro rozdělení exponenciální s parametrem λ = 0,2 vypočtěte střední hodnotu a rozptyl této distribuce.
+Úkol 7: Pro náhodnou proměnnou, která má rozdělení normální s střední hodnotou 0 a rozptylem 1, urči, zda existuje k nějakým hodnotám a a b takové, že existuje pravděpodobnost 0,6 pro hodnoty kladné, pokud je vybráno náhodné výstupní z daného rozdělení.
 
-Úkol 8: Pro rozdělení binomální s parametrem n = 15 a p = 0,4 vypočtěte pravděpodobnost P(X = 6), P(X ≤ 6) a P(X ≥ 6).
+Úkol 8: Pokud máte dvě náhodné proměnné X a Y s hodnotami 0 a 1 a jejich nezávislé pravděpodobnostní rozdělení jsou stejné. Jaká je střední hodnota jejich součtu?
 
-Úkol 9: Pro rozdělení normální s střední hodnotou μ = 10 a rozptylem σ = 3 vypočtěte pravděpodobnost P(8 < X < 12).
+Úkol 9: Pro rozdělení Poisson s parametrem λ = 5, urči střední hodnotu a rozptyl druhé kovy. Poté porovnejte výsledky s výsledky pro rozdělení Poisson s parametrem λ = 10. 
 
-Úkol 10: Uvažujte Markovovu řetězovou řetězec s následujícím přechodovým matricí:
-
-| 0,7  | 0,3 |
-| 0,4  | 0,6 |
-
-Zjistěte pravděpodobnost, že se řetězec nachází ve stavu 2 po 3 krocích.
+Úkol 10: Pro rozdělení binomiale s parametrem n = 100 a p = 0,05, urči střední hodnotu a rozptyl druhé kovy.
