@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Softwarové inženýrství
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:30:56
+
+Úkol 1: Vyberte vhodnou metriku pro hodnocení kvality kódu a zdůvodněte proč jste ji zvolili.
+
+Úkol 2: Zkuste implementovat krok překladače, který konvertuje kód z jednoho programovacího jazyka do jiného (například z Pythonu do Java).
+
+Úkol 3: Použijte principy designu UML (Unified Modeling Language) k navrhování a dokumentování softwarového systému.
+
+Úkol 4: Implementujte algoritmus pro vyhledávání binárních stromů a analyzujte jeho časovou a prostorovou složitost.
+
+Úkol 5: Vyberte vhodnou metodu pro testování softwarového systému (například unit testing, integration testing) a zdůvodněte proč jste ji zvolili.
+
+Úkol 6: Použijte návrhový vzor Singleton k implementaci jediného instance třídy, která uchovává data o uživateli.
+
+Úkol 7: Implementujte algoritmus pro vyhledávání v řetězci pomocí prefixů a analyzujte jeho efektivní implementaci.
+
+Úkol 8: Použijte návrhový vzor Factory metod k implementaci třídy, která vrací různé instance objektů na základě vstupních parametrů.
+
+Úkol 9: Implementujte algoritmus pro vyhledávání v grafu pomocí DFS (Deep-First Search) a BFS (Breadth-First Search), a porovnejte jejich časovou složitost.
+
+Úkol 10: Použijte návrhový vzor Observer k implementaci třídy, která umožňuje pozorovat změny stavu objektů a reagovat na ně adekvátně.
