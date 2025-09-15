@@ -1,33 +1,25 @@
-# AI Generované zadání úkolů pro předmět: Biochemie
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:09:18
+# Zadání úkolů pro předmět: Biochemie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:22:54
 
-Úkol 1: 
-Vysvětlit rozdíl mezi strukturou a funkcí enzymů a jejich aktivních center.
+Zde jsou 10 univerzitních úkolů pro předmět "Biochemie":
 
-Úkol 2: 
-Popsat, jak se tvoří a fungují membránové transportní proteiny a jejich role v regulaci koncentrace látek v buňce.
+Úkol 1: Popiš základní principy struktury a funkce aminokyselin, včetně jejich klasifikace a vazebných vlastností.
 
-Úkol 3: 
-Rozběhnout syntézu ATP uvnitř mitochondrií a vysvětlet, jak se mění energetická forma uvnitř buněčných membrán.
+Úkol 2: Vytvoř seznam hlavních enzymů, které jsou zodpovědné za přeměnu glukózy na energie v buňkách a vysvětľ jejich biochemické mechanismy.
 
-Úkol 4: 
-Popsat mechanismus fosforylace uvnitř buněčných membrán a jeho vliv na aktivitu enzymů.
+Úkol 3: Porovnej a vysvětľ rozdíl mezi transkripční regulačními prvky a translačními regulačními prvky, a udělejte příklad jejich působení v buňkách.
 
-Úkol 5: 
-Vysvětlit, jak se tvoří a přemísťují lipidy uvnitř buněčných membrán a jaký je jejich význam v buněčné signalizaci.
+Úkol 4: Popiš roli membránových transportéru v regulaci koncentrace iontů a molekul v buňkách, včetně jejich mechanismů aktivního a pasivního transportu.
 
-Úkol 6: 
-Vyjmenovat a popsat hlavní typy antioxidantů a jejich roli v omezení škodlivého účinku volných radikálů na buněčné molekuly.
+Úkol 5: Vytvoř diagram popisující metabolismus lipidů v buňkách, včetně hlavních kroků syntézy a rozkladu triglyceridů.
 
-Úkol 7: 
-Popsat mechanismus biosyntézy aminokyselin a jejich význam pro bílkovinné syntézu uvnitř buněk.
+Úkol 6: Analyzujte efekt iontového gradientu na membránový potenciál v buňkách a udělejte příklad jeho vlivu na různé buňkové procesy.
 
-Úkol 8: 
-Vysvětlit rozdíl mezi glykogenolýzou a glycogenu syntézou a jejich roli v regulaci hladiny glukózy v krvi.
+Úkol 7: Popiš roli GTPáz v různých biochemických procesech, včetně aktivace faktorů signálizace a regulace metabolismu.
 
-Úkol 9: 
-Vysvětlit mechanismus biosyntézy lipidů a jejich význam pro buněčnou strukturu a funkci.
+Úkol 8: Vytvoř popis syntetického cyklu a jeho mechanismů u glukózy a glykogenu v buňkách, včetně hlavních enzymů a regulátorů.
 
-Úkol 10: 
-Popsat mechanismus regulace transkripčního faktoru pro bílkovinnou syntézu a vliv na buněčné procesy.
+Úkol 9: Porovnej a vysvětľ rozdíl mezi dvěma typy katabolismu, tj. fermentačním a respiračním, a udělejte příklad jejich použití v různých buňkách a organismech.
+
+Úkol 10: Popiš roli epigenetických mechanismů v regulaci gene expresí v buňkách, včetně hlavních typů modifikací DNA a histonů a jejich vlivu na různé buňkové procesy.
