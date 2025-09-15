@@ -1,0 +1,33 @@
+# Zadání úkolů pro předmět: Dynamika strojů
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:36:21
+
+Úkol 1: 
+Popište rozdíl mezi harmonickým a periodickým pohybem v kontextu dynamiky strojů. Uveďte příklady aplikací těchto pohybů v různých strojích.
+
+Úkol 2: 
+Zajistěte, aby v mechanizmu se dvěma válečkami byla úhlová rychlost jedné válečky o 1,5násobku úhlové rychlosti druhé válečky. Pokud je úhlová rychlost první válečky 60 rad/s, určit úhlovou rychlost druhé válečky a její rotační rychlost.
+
+Úkol 3: 
+Popište vlastnosti kyvného pohybu a jeho aplikace v různých strojích (například v rázových tlumičích). Uveďte výhody a nevýhody kyvného pohybu ve srovnání s jinými typy pohybů.
+
+Úkol 4: 
+Pokud má válec průměr 0,2 m a je napnutý silou 150 N, vypočítejte jeho moment sil. Pokud válec otáčí se zpožděním 2 s, určíte zpoždění vřetene na straně válcového převodu.
+
+Úkol 5: 
+Určete rotační rychlost a úhlovou rychlost rotoru u rotoru s válcem o průměru 0,3 m a momentem sil 200 Nm. Uvažujte, že rotor má hmotnost 20 kg a převodové poměry jsou 5:1.
+
+Úkol 6: 
+Vypočítejte moment sil při rotační rychlosti 1200 rpm u kyvného mechanismu s kyvnou hřídelí o délce 1 m a hmotnosti 20 kg. Zohledníte fakt, že kyvná hřídel je vyztužena dvěma přírubami.
+
+Úkol 7: 
+Popište principy práce diferenciálu v kontextu dynamiky strojů. Uveďte jeho aplikace v různých typech vozidel a uveďte výhody a nevýhody jeho použití.
+
+Úkol 8: 
+Pokud má diferenciál poměr převodu 3,5:1, vypočítejte moment sil vstupující do diferenciálu při rotační rychlosti 1000 rpm. Zohledníte fakt, že diferenciál má hmotnost 50 kg.
+
+Úkol 9: 
+Určete rotační rychlost a úhlovou rychlost rotoru u rotoru s válcem o průměru 0,4 m a momentem sil 300 Nm. Uvažujte, že rotor má hmotnost 30 kg a převodové poměry jsou 4:1. Zohledníte zpoždění 2 s.
+
+Úkol 10: 
+Vypočítejte moment sil při rotační rychlosti 1800 rpm u kyvného mechanismu s kyvnou hřídelí o délce 1,2 m a hmotnosti 30 kg. Zohledníte fakt, že kyvná hřídel je vyztužena čtyřmi přírubami.
