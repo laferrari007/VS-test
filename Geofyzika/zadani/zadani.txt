@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Geofyzika
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:28:09
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:28:17
 
-Úkol 1: Vypočítejte rychlost tělesa souvisejí s tématem z předmětu Geofyzika
+Úkol 1: Popište základní pojmy v geofyzice, zejména rozdílné typy vln a jejich vlastnosti (P-vlny, S-vlny, Rayleighovy vlny, Loveovy vlny).
 
-Úkol 2: Určete sílu působící na těleso souvisejí s tématem z předmětu Geofyzika
+Úkol 2: Vysvětlejte rozdíl mezi seismometrem a seismografem a popište princip fungování těchto zařízení.
 
-Úkol 3: Vypočítejte energii systému souvisejí s tématem z předmětu Geofyzika
+Úkol 3: Urči, jak je možné pomocí geofyziky studovat vnitřní stavbu Země a identifikovat hlavní složky její zemské jádrové struktury.
 
-Úkol 4: Řešte pohybovou rovnici souvisejí s tématem z předmětu Geofyzika
+Úkol 4: Vypočtěte a interpretujte časový interval mezi příchozími P-vlnami a S-vlnami v seismicním záznamu zemětřesení.
 
-Úkol 5: Určete elektrický proud souvisejí s tématem z předmětu Geofyzika
+Úkol 5: Popište procesy generování a šíření zemětřesení a jejich důsledky pro okolí epicentra.
 
-Úkol 6: Vypočítejte odpor obvodu souvisejí s tématem z předmětu Geofyzika
+Úkol 6: Vypracujte krátkou studii o geofyzikálních vlastnostech a chování zemských plášťů různých typů planet v našem sluneční systému.
 
-Úkol 7: Řešte úkol z termodynamiky souvisejí s tématem z předmětu Geofyzika
+Úkol 7: Analyzujte data o seizmických dějích, které se odehrály v určitém regionu a použijte je k odhadnutí hloubky zemětřesení.
 
-Úkol 8: Určete vlnovou délku souvisejí s tématem z předmětu Geofyzika
+Úkol 8: Vysvětlejte principy měření zemětřesení pomocí gravimetrických metod a jejich aplikace v geofyzice.
 
-Úkol 9: Vypočítejte moment síly souvisejí s tématem z předmětu Geofyzika
+Úkol 9: Vypočtěte a interpretujte vypočtené hodnoty seizmických parametrů (velikost, hloubka, rychlost vln) pro dané zemětřesení.
 
-Úkol 10: Řešte úkol z optiky souvisejí s tématem z předmětu Geofyzika
+Úkol 10: Zpracujte geofyzikální model zemské kůry a plášťové zóny v daném regionu a vysvětlete, jak geofyzikální data ovlivňují modelování zemské stavby.
