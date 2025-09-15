@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Operační výzkum
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:43:05
+# Datum: 2025-09-15 23:43:07
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 

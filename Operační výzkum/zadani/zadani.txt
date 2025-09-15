@@ -1,23 +1,69 @@
 # Zadání úkolů pro předmět: Operační výzkum
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:43:05
+# Datum: 2025-09-15 23:43:07
 
-Úkol 1: Zjistěte, zda existuje optimální řešení pro problém transportu kovů. Upravte problém transportu kovů tak, aby se stal příkladem problému transportu v operačním výzkumu.
+Úkol 1: Navrhněte základní typy lineární programování (LP) a popište jejich účel a aplikace.
 
-Úkol 2: Vypořádejte se s problémy optimalizace toku zboží v logistice společnosti. Použijte metodu Simplex pro řešení problému transportu zboží z výrobního závodu do zásoboven.
+Úkol 2: Prodejce má v nabídce 5 různých produktů (A, B, C, D a E) a chce je distribuovat do 3 různých obchodů. Pojmy nákladů na dopravu a skladování pro každý produkt a obchod jsou uvedeny v následující tabulce. Navrhněte optimální rozdělení produktů mezi obchody za použití metody simplex.
 
-Úkol 3: Pomozte malé firmě optimalizovat výrobní plán a vypořádejte se s problémy produkce více verzí výrobků. Použijte metodu Linear Programming pro optimalizaci výrobního systému.
+| Produkt | Obchod 1 | Obchod 2 | Obchod 3 |
+| --- | --- | --- | --- |
+| A | 10 | 15 | 12 |
+| B | 12 | 8 | 11 |
+| C | 8 | 10 | 9 |
+| D | 9 | 11 | 13 |
+| E | 14 | 13 | 12 |
 
-Úkol 4: Vypořádejte se s problémem optimalizace distribuce zboží v rámci městské oblasti. Použijte metodu Dijkstraho algoritmu pro najíždění cesty s minimální zátěží.
+Úkol 3: Společnost chce maximálně zvýšit svůj zisk z prodeje výrobků. Má k dispozici pouze 2 typy výrobků (A a B), které se liší svou cenou a náklady na výrobu. Cena produktu A je 80 eur a cena produktu B je 100 eur. Náklady na výrobu produktu A jsou 60 eur a náklady na výrobu produktu B jsou 80 eur. Společnost má také omezení 1000 eur na výrobu. Navrhněte strategii, která maximálně zvyšuje zisk.
 
-Úkol 5: Pomozte dopravě optimalizovat trasování kamionů a vypořádejte se s problémy omezení kapacity silnic. Použijte metodu Ant Colony Optimization pro nalezení optimalní trasy.
+Úkol 4: Navrhněte způsob optimalizace toku zboží v logistickém systému. Předpokládejte, že existuje 5 různých typů zboží a 3 různé cíle pro dopravu. Náklady na dopravu a skladování jsou uvedeny v následující tabulce. Použijte programovací jazyk Python k řešení problému.
 
-Úkol 6: Vypořádejte se s problémem optimalizace obsazení letadel a vypořádejte se s problémy omezení kapacity letiště. Použijte metodu Integer Programming pro nalezení optimalní konfigurace letadel.
+| Zboží | Cíl 1 | Cíl 2 | Cíl 3 |
+| --- | --- | --- | --- |
+| A | 10 | 15 | 8 |
+| B | 12 | 8 | 11 |
+| C | 8 | 10 | 9 |
+| D | 9 | 11 | 13 |
+| E | 14 | 13 | 12 |
 
-Úkol 7: Pomozte zákazníkům optimalizovat cestování po Evropě a vypořádejte se s problémy omezení kapacity letiště a dopravních prostředků. Použijte metodu Genetic Algorithm pro nalezení optimální trasy.
+Úkol 5: Společnost chce optimalizovat distribuci zboží do 5 různých regionů. Existuje 3 různé typy zboží (A, B a C), které mají různé náklady na dopravu a skladování. Náklady jsou uvedeny v následující tabulce. Použijte metodu simplex k nalezení optimálního rozdělení zboží do regionů.
 
-Úkol 8: Vypořádejte se s problémem optimalizace distribuce zboží v rámci globální distribuční sítě. Použijte metodu Simulated Annealing pro nalezení optimalní distribuční strategie.
+| Zboží | Region 1 | Region 2 | Region 3 | Region 4 | Region 5 |
+| --- | --- | --- | --- | --- | --- |
+| A | 12 | 10 | 15 | 8 | 9 |
+| B | 14 | 13 | 11 | 12 | 10 |
+| C | 10 | 9 | 8 | 11 | 13 |
 
-Úkol 9: Pomozte firmě optimalizovat výrobní proces a vypořádejte se s problémy produkce více verzí výrobků. Použijte metodu Constraint Programming pro optimalizaci výrobního systému.
+Úkol 6: Navrhněte algoritmus pro optimalizaci úlohy skládaní kontejnerů. Předpokládejte, že existuje 5 různých kontejnerů a 3 různé typy zboží (A, B a C). Náklady na skladování a dopravu jsou uvedeny v následující tabulce. Použijte programovací jazyk Python k řešení problému.
 
-Úkol 10: Vypořádejte se s problémem optimalizace distribuce energie v rámci elektrické sítě. Použijte metodu Dynamic Programming pro nalezení optimalní distribuční strategie.
+| Kontejner | Zboží A | Zboží B | Zboží C |
+| --- | --- | --- | --- |
+| 1 | 10 | 12 | 8 |
+| 2 | 14 | 13 | 11 |
+| 3 | 9 | 11 | 13 |
+| 4 | 12 | 10 | 15 |
+| 5 | 8 | 9 | 12 |
+
+Úkol 7: Společnost chce optimalizovat svůj zisk z prodeje výrobků. Má k dispozici 2 typy výrobků (A a B), které se liší svou cenou a náklady na výrobu. Cena produktu A je 80 eur a cena produktu B je 100 eur. Náklady na výrobu produktu A jsou 60 eur a náklady na výrobu produktu B jsou 80 eur. Společnost má také omezení 1000 eur na výrobu a omezení 500 kusů na prodej. Navrhněte strategii, která maximálně zvyšuje zisk.
+
+Úkol 8: Navrhněte způsob optimalizace toku informace v počítačové síti. Předpokládejte, že existuje 5 různých typů dat (A, B, C, D a E) a 3 různé cíle pro přenos informací. Náklady na přenos informací a skladování jsou uvedeny v následující tabulce. Použijte programovací jazyk Python k řešení problému.
+
+| Data | Cíl 1 | Cíl 2 | Cíl 3 |
+| --- | --- | --- | --- |
+| A | 10 | 15 | 8 |
+| B | 12 | 8 | 11 |
+| C | 8 | 10 | 9 |
+| D | 9 | 11 | 13 |
+| E | 14 | 13 | 12 |
+
+Úkol 9: Společnost chce optimalizovat distribuci zboží do 10 různých regionů. Existuje 5 různých typů zboží (A, B, C, D a E), které mají různé náklady na dopravu a skladování. Náklady jsou uvedeny v následující tabulce. Použijte metodu simplex k nalezení optimálního rozdělení zboží do regionů.
+
+| Zboží | Region 1 | Region 2 | Region 3 | Region 4 | Region 5 | Region 6 | Region 7 | Region 8 | Region 9 | Region 10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A | 12 | 10 | 15 | 8 | 9 | 11 | 13 | 10 | 14 | 12 |
+| B | 14 | 13 | 11 | 12 | 10 | 9 | 8 | 15 | 13 | 11 |
+| C | 10 | 9 | 8 | 11 | 13 | 12 | 14 | 11 | 10 | 9 |
+| D | 9 | 11 | 13 | 14 | 12 | 10 | 8 | 15 | 11 | 13 |
+| E | 14 | 13 | 12 | 10 | 9 | 11 | 15 | 8 | 13 | 14 |
+
+Úkol
