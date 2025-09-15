@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Přírodověda
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:47:28
+# Datum: 2025-09-15 21:21:45
 
-Úkol 1: Rozdělte organismy do tříd podle jejich biologických charakteristik (typ buněk, přítomnost organů apod.).
+Úkol 1: Základní úkol z předmětu Přírodověda - úroveň 1
 
-Úkol 2: Popište fyziologický proces fotosyntézy a jejich význam pro vývoj života na Zemi.
+Úkol 2: Základní úkol z předmětu Přírodověda - úroveň 2
 
-Úkol 3: Porovnejte a srovnajte vývojové stádia lidského embryo v různých obdobích jeho vývoje.
+Úkol 3: Základní úkol z předmětu Přírodověda - úroveň 3
 
-Úkol 4: Seznamte se s pojmem homeostáza a popište, jak ji organismy udržují, aby zajistily stabilitu vnitřního prostřední.
+Úkol 4: Základní úkol z předmětu Přírodověda - úroveň 4
 
-Úkol 5: Vyberte rostlinu a popište její fyziologické adaptace k životu v prostředí s nízkou vlhkostí a vysokými teplotami.
+Úkol 5: Základní úkol z předmětu Přírodověda - úroveň 5
 
-Úkol 6: Rozhodněte, zda je více pravděpodobné, že určitý organismus je endosymbiont nebo symbiont. Důvodem by měla být analýza jeho fyziologie a biologie.
+Úkol 6: Základní úkol z předmětu Přírodověda - úroveň 6
 
-Úkol 7: Vyberte dva příklady evolučních adaptací a vysvětlete, jak tyto adaptace organismům umožňují přežít v jejich životním prostředí.
+Úkol 7: Základní úkol z předmětu Přírodověda - úroveň 7
 
-Úkol 8: Popište, jak se organismy vypořádávají s stresem, a rozložte, jak jsou různé druhy organismů citlivé na různé typy stresů.
+Úkol 8: Základní úkol z předmětu Přírodověda - úroveň 8
 
-Úkol 9: Popište a analyzujte proces evoluce v kontextu genetiky, fylogenetiky a fyziologie organismů.
+Úkol 9: Základní úkol z předmětu Přírodověda - úroveň 9
 
-Úkol 10: Popište hlavní typy ekologických vztahů mezi organismy (symbiózy, predace, parazitismus, komensalismus), a rozložte příklady pro každý typ vztahu.
+Úkol 10: Základní úkol z předmětu Přírodověda - úroveň 10

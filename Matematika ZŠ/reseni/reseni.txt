@@ -1,146 +1,133 @@
 # AI Generované řešení úkolů pro předmět: Matematika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:47:09
+# Datum: 2025-09-15 21:21:21
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Rozdělit číslo na desetinnou a celkovou část
+Řešení 1: Vypočítej počet koulí, které je možné umístit do krabičky o rozměrech 5 cm x 5 cm x 5 cm, pokud je průměr každé koule 2 cm.
 
-Úkol: Rozdělit číslo 432 na desetinnou a celkovou část.
+Předpokládejme, že krabička je krychlová, což znamená, že její rozměry jsou stejné v každém směru. Obvod koule je rovnoměrný kruh, takže pokud je průměr koule 2 cm, její poloměr je 1 cm. 
 
-Krok 1: Najděme desetinnou část čísla. K tomu nás naučili metoda dělení desetinné části.
+Vzorec pro objem koule je:
 
-432 ÷ 10 = 43 (celá část)
-0,0432 (desetinná část)
+V = (4/3)πr³
 
-Krok 2: Převést desetinnou část čísla na celkovou část.
+kde r je poloměr koule.
 
-432 = 430 (celá část) + 2 (desetinná část)
+V = (4/3)π(1)³
+V = (4/3)π
+V ≈ 4,188 cm³
 
-Krok 3: Přidat desetinnou část k celkové části.
+Je-li krabička krychlová o rozměrech 5 cm x 5 cm x 5 cm, její objem je:
 
-432 = 430 + 2,0432
+V = délka × šířka × výška
+V = 5 × 5 × 5
+V = 125 cm³
 
-Řešení 2: Najít průměr trojúhelníku
+Chceme zjistit, kolik kouli se vejí do krabičky, takže dělememe objem krabičky objemem koule:
 
-Úkol: Najít délku strany x, která je průměrem trojúhelníku ABC, kde délky stran a a b jsou 5 cm a 7 cm.
+Počet koulí = Objem krabičky / Objem koule
+Počet koulí = 125 cm³ / 4,188 cm³
+Počet koulí ≈ 29,87
 
-Krok 1: Použít tvarovací větu:
+Protože nelze mít desetinný počet koulí, kolemjdeme na nejbližší celé číslo dolů, což je 29.
 
-(1/2) * (a + b) * x = 10 (tvarná věta trojúhelníku)
+Tento postup je přibližný, protože se nepředpokládá, že koule budou přesně rozmístěny v krabičce. V praxi by bylo možné do krabičky umístit více koulí, protože se dá použít prostor mezi koulemi.
 
-Krok 2: Zaměnit známé hodnoty do tvarovací věty.
+Řešení 2: Najdi délku strany čtverce, jehož obsah je 16 cm².
 
-(1/2) * (5 + 7) * x = 10
+Obsah čtverce je dán vzorcem:
 
-Krok 3: Simplifikovat a vyřešit pro x.
+A = délka × délka
+16 = délka × délka
+délka = √16
+délka = 4 cm
 
-(1/2) * 12 * x = 10
-6 * x = 10
-x = 10/6
-x = 5/3
-x = 1,67 cm
+Řešení 3: Vypočítej počet čtverců o straně 4 cm, které se vejí do čtahu čtverců o straně 6 cm.
 
-Řešení 3: Najít rozdíly mezi dvěma číselnými řadami
+Předpokládejme, že čtahu čtverců o straně 6 cm tvoří čtvereček o rozměrech 6 cm x 6 cm. Chceme zjistit, kolik čtverců o straně 4 cm se vejí do tohoto čtverečku. 
 
-Úkol: Najít rozdíl mezi dvěma číselnými řadami: 2 + 5 + 8 + 11 + 14 a 3 + 6 + 9 + 12 + 15
+Rozměry čtverečku o straně 4 cm jsou 4 cm x 4 cm, takže jeho obsah je:
 
-Krok 1: Rozdělit číselné řady do dvou samostatných řad:
+A = délka × délka
+A = 4 cm × 4 cm
+A = 16 cm²
 
-řada 1: 2, 5, 8, 11, 14
-řada 2: 3, 6, 9, 12, 15
+Rozměry čtverečku o straně 6 cm jsou 6 cm x 6 cm, takže jeho obsah je:
 
-Krok 2: Rozdílet každé číslo z první řady od odpovídajícího čísla z druhé řady.
+A = délka × délka
+A = 6 cm × 6 cm
+A = 36 cm²
 
-(2 - 3) + (5 - 6) + (8 - 9) + (11 - 12) + (14 - 15)
-= -1 + (-1) + (-1) + (-1) + (-1)
-= -5
+Základní jednotkou tohoto čtahu čtverců o straně 6 cm je čtvereček o straně 6 cm, jehož obsah je 36 cm². Chceme zjistit, kolik čtverců o straně 4 cm se vejí do jednoho čtverečku o straně 6 cm. 
 
-Řešení 4: Rozdělit číslo na desetinnou a celkovou část
+Počet čtverců o straně 4 cm = Obsah čtverečku o straně 6 cm / Obsah čtverečku o straně 4 cm
+Počet čtverců o straně 4 cm = 36 cm² / 16 cm²
+Počet čtverců o straně 4 cm = 2,25
 
-Úkol: Rozdělit číslo 945,678 na desetinnou a celkovou část.
+Protože nelze mít desetinný počet čtverců o straně 4 cm, kolemjdeme na nejbližší celé číslo dolů, což je 2. 
 
-Krok 1: Najděme desetinnou část čísla. K tomu nás naučili metoda dělení desetinné části.
+Protože čtahu čtverců o straně 6 cm tvoří čtvereček o rozměrech 6 cm x 6 cm, počet čtverců o straně 4 cm, které se vejí do čtahu čtverců o straně 6 cm, je:
 
-9456,78 ÷ 10 = 9456,78 (celá část)
-0,078 (desetinná část)
+Počet čtverců o straně 4 cm = Počet čtverců o straně 4 cm pro jeden čtvereček o straně 6 cm × Počet čtverečků o straně 6 cm
+Počet čtverců o straně 4 cm = 2 × 2
+Počet čtverců o straně 4 cm = 4
 
-Krok 2: Převést desetinnou část čísla na celkovou část.
+Řešení 4: Najdi délku diagonálu čtverce o straně 5 cm.
 
-9456,78 = 9456 (celá část) + 0,78 (desetinná část)
+Délka diagonály čtverce je rovnoměrným křížem jeho stran. 
 
-Krok 3: Přidat desetinnou část k celkové části.
+Předpokládejme, že délka diagonály čtverce je d. Dále předpokládejme, že délka jedné strany čtverce je s. 
 
-9456,78 = 9456 + 0,078
+Délka diagonály čtverce = √(délka stran čtverce)² + (√(délka stran čtverce)²)
+d = √(s² + s²)
+d = √2s
+d = √2 × 5 cm
+d = 7,071 cm
 
-Řešení 5: Najít průměr čtverečku
+Řešení 5: Vypočítej objem koule o průměru 4 cm.
 
-Úkol: Najít délku strany x, která je průměrem čtverečku ABCD, kde délky stran a a b jsou 8 cm a 10 cm.
+Objem koule je dán vzorcem:
 
-Krok 1: Použít tvarovací větu:
+V = (4/3)πr³
 
-(1/2) * (a + b) * x = 20 (tvarná věta čtverečku)
+kde r je poloměr koule.
 
-Krok 2: Zaměnit známé hodnoty do tvarovací věty.
+Poloměr koule je polovina jejího průměru:
 
-(1/2) * (8 + 10) * x = 20
+r = Průměr koule / 2
+r = 4 cm / 2
+r = 2 cm
 
-Krok 3: Simplifikovat a vyřešit pro x.
+Vzorec pro objem koule je:
 
-(1/2) * 18 * x = 20
-9 * x = 20
-x = 20/9
-x = 2,22 cm
+V = (4/3)πr³
 
-Řešení 6: Najít rozdíl mezi dvěma číselnými řadami
+kde r je poloměr koule.
 
-Úkol: Najít rozdíl mezi dvěma číselnými řadami: 3 + 6 + 9 + 12 + 15 a 2 + 5 + 8 + 11 + 14
+V = (4/3)π(2)³
+V = (4/3)π(8)
+V = (32/3)π
+V ≈ 33,51 cm³
 
-Krok 1: Rozdělit číselné řady do dvou samostatných řad:
+Řešení 6: Najdi obsah trojúhelníka s bokem 5 cm a výškou 6 cm.
 
-řada 1: 3, 6, 9, 12, 15
-řada 2: 2, 5, 8, 11, 14
+Obsah trojúhelníka je dán vzorcem:
 
-Krok 2: Rozdílet každé číslo z první řady od odpovídajícího čísla z druhé řady.
+S = (bok × výška) / 2
 
-(3 - 2) + (6 - 5) + (9 - 8) + (12 - 11) + (15 - 14)
-= 1 + 1 + 1 + 1 + 1
-= 5
+kde bok a výška jsou strany trojúhelníka.
 
-Řešení 7: Najít průměr rovnoběžníku
+S = (5 cm × 6 cm) / 2
+S = 30 cm / 2
+S = 15 cm²
 
-Úkol: Najít délku strany x, která je průměrem rovnoběžníku ABC, kde délky stran a a b jsou 6 cm a 8 cm.
+Řešení 7: Vypočítej délku strany čtverce, jehož obsah je 36 cm² a jehož stranou je také délka strany dalšího čtverce.
 
-Krok 1: Použít tvarovací větu:
+Obsah čtverce je dán vzorcem:
 
-(1/2) * (a + b) * x = 14 (tvarná věta rovnoběžníku)
+A = délka × délka
+36 = délka × délka
+délka = √36
+délka = 6 cm
 
-Krok 2: Zaměnit známé hodnoty do tvarovací věty.
-
-(1/2) * (6 + 8) * x = 14
-
-Krok 3: Simplifikovat a vyřešit pro x.
-
-(1/2) * 14 * x = 14
-7 * x = 14
-x = 14/7
-x = 2 cm
-
-Řešení 8: Rozdělit číslo na desetinnou a celkovou část
-
-Úkol: Rozdělit číslo 6789,123 na desetinnou a celkovou část.
-
-Krok 1: Najděme desetinnou část čísla. K tomu nás naučili metoda dělení desetinné části.
-
-6789,123 ÷ 10 = 6789,123 (celá část)
-0,123 (desetinná část)
-
-Krok 2: Převést desetinnou část čísla na celkovou část.
-
-6789,123 = 6789 (celá část) + 0,123 (desetinná část)
-
-Krok 3: Přidat desetinnou část k celkové části.
-
-6789,123 = 6789 + 0,123
-
-Řešení 9: Najít průměr čtverečku
-
-Úkol: Najít délku strany x
+Řešení 8: Najdi délku vzdálenosti mezi dvěma body na rovině,

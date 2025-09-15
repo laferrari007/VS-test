@@ -1,0 +1,17 @@
+=== ŘEŠENÍ ÚKOLU 1: Práce s uživateli a skupinami ===
+
+Datum: Mon Sep 15 09:19:59 PM CEST 2025
+Kontejner: f91d71d8f87e
+
+PROVEDENÉ KROKY:
+1. useradd -m -s /bin/bash testuser
+2. echo 'testuser:mojeheslo123' | chpasswd
+3. groupadd developers
+4. usermod -a -G developers testuser
+5. usermod -c 'Test User pro Linux ukoly' testuser
+
+VÝSLEDKY OVĚŘENÍ:
+- ID uživatele: uid=3947(testuser) gid=3947(testuser) groups=3947(testuser),3948(developers)
+- Skupiny: testuser : testuser developers
+
+STATUS: ✅ DOKONČENO

@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Český jazyk a literatura
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:47:17
+# Datum: 2025-09-15 21:21:28
 
-Úkol 1: Popište a porovnejte charakteristické rysy osobnosti hlavních hrdinů v povídkách Karel Čapek - "Povídky z jedné bašty". Použijte konkrétní pasáže ze textu a zdůrazněte jejich rozdíly.
+Úkol 1: Vyberte dvě básně Petra Bezruče a porovnejte jejich strukturu a obsah. Jak se liší vzhledem k tématu a osobnímu projevu básníka?
 
-Úkol 2: Analyzujte vystoupení hlavního hrdiny v románovém příběhu "Pražský román" od Aleny Šeredová. Pouvažujte nad jeho motivy, jednání a jeho vztahy s ostatními postavami.
+Úkol 2: Analyzujte významový kontext slova "černý" v české literatuře 19. století. Jak se slovo používá v dílech různých autorů a jak se to odrazuje v jejich postojích k člověku, společnosti a historii?
 
-Úkol 3: Porovnejte syntaxe dvou různých vět v češtině. Zvolte dvě jednoduché věty, které obsahují rozdílné typy podmětů a přísudku. Použijte teoretické znalosti o gramatice a zdůrazněte jejich rozdíly.
+Úkol 3: Vyberte jeden román od Bohumila Hrabala a představte jeho hlavní protagonistu, včetně jeho charakterových rysů a psychologického profilu. Jak se protagonistův charakter vyvíjí během románu a jaký je jeho vztah k ostatním postavám?
 
-Úkol 4: Vyberte tři klasické české básně a analyzujte jejich strukturu, obsah a jazykový styl. Použijte konkrétní pasáže a zdůrazněte jejich specifické prvky.
+Úkol 4: Porovnejte tři různé interpretace jednoho z děl Jana Nerudy (například básně "Květy"). Jak se interpretace liší podle různých teoretických přístupů a co to říká o významu a významovém rozsahu díla?
 
-Úkol 5: Napsat krátký komparativní úvod ke knize "Povídky o víle" od Aleny Šeredové. Zahrňte stručný popis autorky a jejího díla, jeho žánrové a tematické rysy.
+Úkol 5: Vyberte jednu z nejznámějších českých básní (například "Maj" od Jaroslava Vrchlického) a napište její analýzu z hlediska formální stránky. Jak se formální prvky (struktura, metrum, obrazovost) odrážejí v celkovém dojmu a významu básně?
 
-Úkol 6: Zpracujte krátký esej na téma "Symbolismus v českých povídkách 19. století". Použijte konkrétní příklady ze souvisejících textů a zdůrazněte jejich specifické prvky.
+Úkol 6: Analyzujte téma "člověk a příroda" v české literatuře 20. století. Jak se autorové (například Karel Čapek, Josef Škvorecký) vztahují k přírodě a jak se to odráží v jejich dílech?
 
-Úkol 7: Analyzujte a porovnejte jazykové prvky v rozhovorech v románu "Pražský román" od Aleny Šeredové. Pouvažujte nad jejich funkcí a vlivem na celkovou atmosféru textu.
+Úkol 7: Vyberte jeden z děl Miroslava Krleži (například novela "Povratak Filipa Latinovića") a představte jeho postavy včetně jejich psychologického profilu a charakterových rysů. Jak se postavy vyvíjejí během díla a jaký je jejich vztah k ději a ostatním postavám?
 
-Úkol 8: Vyberte dva české básníky (např. Karel Hynek Mácha a Svatopluk Čech) a napište o jejich životě a tvorbě stručný referát. Zahrňte jejich nejznámější díla a jejich tematické rysy.
+Úkol 8: Porovnejte vliv dvou různých literárních proudů (například realismus a symbolismus) na vývoj české literatury v 19. století. Jak se autorské postupy a tématy liší podle obou proudů a co to říká o společenském a kulturním kontextu té doby?
 
-Úkol 9: Napište krátký teoretický článek o rozvoji českého jazyka v 19. století. Použijte konkrétní příklady ze související literatury a zdůrazněte jeho specifické prvky.
+Úkol 9: Vyberte jednu z nejznámějších českých literárních osobností (například Franz Kafka) a analyzujte její dílo z hlediska jeho sociálního a kulturního kontextu. Jak se Kafkaovo dílo vyvíjí v souvislosti s historickými událostmi a kulturními změnami té doby?
 
-Úkol 10: Zpracujte komplexní esej na téma "Postmodernismus v českých povídkách 20. století". Použijte konkrétní příklady ze související literatury a zdůrazněte jejich specifické prvky.
+Úkol 10: Napište esej o významu a významovém rozsahu české literatury 20. století. Jak se česká literatura vyvíjí v souvislosti s historickými událostmi a kulturními změnami té doby a jaký je její vztah k ostatním evropským literaturám?

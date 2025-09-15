@@ -1,25 +1,25 @@
 # AI Generované zadání úkolů pro předmět: Matematika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:47:09
+# Datum: 2025-09-15 21:21:21
 
-Zde jsou 10 univerzitních úkolů pro předmět "Matematika ZŠ":
+zde jsou 10 univerzitních úkolů pro předmět "Matematika ZŠ":
 
-Úkol 1: Vypočtěte délku úsečky, jejíž délka je o 5 cm kratší než délka úsečky dlouhé 15 cm.
+Úkol 1: Vypočítej počet koulí, které je možné umístit do krabičky o rozměrech 5 cm x 5 cm x 5 cm, pokud je průměr každé koule 2 cm.
 
-Úkol 2: Pokud máte 12 koulí o průměru 10 cm, jak velký je jejich celkový povrch?
+Úkol 2: Najdi délku strany čtverce, jehož obsah je 16 cm².
 
-Úkol 3: Pokud máte 5 souběžných prutů o délce 2 m, jak velký je jejich celkový obvod?
+Úkol 3: Vypočítej počet čtverců o straně 4 cm, které se vejí do čtahu čtverců o straně 6 cm.
 
-Úkol 4: Vypočtěte obsah trojúhelníku s základnou 6 cm a výškou 8 cm.
+Úkol 4: Najdi délku diagonálu čtverce o straně 5 cm.
 
-Úkol 5: Pokud máte 18 čtverečků o straně 4 cm, jak velký je jejich celkový obsah?
+Úkol 5: Vypočítej objem koule o průměru 4 cm.
 
-Úkol 6: Vypočtěte délku strany čtverce o rozměru 9 cm.
+Úkol 6: Najdi obsah trojúhelníka s bokem 5 cm a výškou 6 cm.
 
-Úkol 7: Pokud máte 6 čtverců o straně 5 cm, jak velký je jejich celkový obvod?
+Úkol 7: Vypočítej délku strany čtverce, jehož obsah je 36 cm² a jehož stranou je také délka strany dalšího čtverce.
 
-Úkol 8: Vypočtěte délku úsečky, jejíž délka je o 2x více než délka úsečky dlouhé 18 cm.
+Úkol 8: Najdi délku vzdálenosti mezi dvěma body na rovině, které jsou vzdáleny 5 metrů od středu čtverce o straně 8 metrů.
 
-Úkol 9: Pokud máte 12 kol o průměru 8 cm, jak velký je jejich celkový objem?
+Úkol 9: Vypočítej objem válce o průměru 5 cm a výšce 10 cm.
 
-Úkol 10: Vypočtěte obsah hranolu o rozměru 8 cm a výšce 12 cm.
+Úkol 10: Najdi délku strany čtverce, jehož obsah je 25 cm² a jehož stranou je také délka strany jiného čtverce o stranách 3 cm a 4 cm.

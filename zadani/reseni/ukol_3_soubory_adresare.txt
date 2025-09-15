@@ -1,0 +1,42 @@
+=== ŘEŠENÍ ÚKOLU 3: Práce se soubory a adresáři ===
+
+Datum: Mon Sep 15 09:20:19 PM CEST 2025
+Kontejner: f91d71d8f87e
+
+PROVEDENÉ KROKY:
+1. mkdir -p /tmp/files_test/{src,dest,archive}
+2. Vytvoření testovacích souborů
+3. cp /tmp/files_test/src/file1.txt /tmp/files_test/dest/
+4. mv /tmp/files_test/src/file2.log /tmp/files_test/dest/
+5. find /tmp/files_test -name '*.txt'
+6. find /tmp/files_test -size +10c
+7. grep -r 'Secret' /tmp/files_test/
+8. tar -czf archive/backup.tar.gz src/
+9. zip -r archive/backup.zip src/
+
+VÝSLEDKY FIND (podle názvu):
+/tmp/files_test/dest/file1.txt
+/tmp/files_test/src/secret.txt
+/tmp/files_test/src/file1.txt
+
+VÝSLEDKY FIND (podle velikosti):
+/tmp/files_test
+/tmp/files_test/dest
+/tmp/files_test/dest/file1.txt
+/tmp/files_test/dest/file2.log
+/tmp/files_test/archive
+/tmp/files_test/src
+/tmp/files_test/src/secret.txt
+/tmp/files_test/src/file1.txt
+
+VÝSLEDKY GREP:
+/tmp/files_test/src/secret.txt:Secret data
+
+ARCHIVY:
+total 16
+drwxr-xr-x 2 root root 4096 Sep 15 19:20 .
+drwxr-xr-x 5 root root 4096 Sep 15 19:20 ..
+-rw-r--r-- 1 root root  203 Sep 15 19:20 backup.tar.gz
+-rw-r--r-- 1 root root  496 Sep 15 19:20 backup.zip
+
+STATUS: ✅ DOKONČENO

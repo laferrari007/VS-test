@@ -1,0 +1,30 @@
+=== ŘEŠENÍ ÚKOLU 2: Nastavení práv a přístupů ===
+
+Datum: Mon Sep 15 09:20:08 PM CEST 2025
+Kontejner: f91d71d8f87e
+
+PROVEDENÉ KROKY:
+1. mkdir -p /tmp/test_permissions
+2. echo 'Test soubor' > /tmp/test_permissions/testfile.txt
+3. chmod 755 /tmp/test_permissions/testfile.txt
+4. chmod u+x,g+w,o-r /tmp/test_permissions/testdir
+5. chown testuser:developers /tmp/test_permissions/testfile.txt
+6. umask 022 && touch /tmp/test_permissions/umask_test.txt
+
+VYSVĚTLENÍ PRÁV:
+- rwx (421): read, write, execute
+- Uživatel (u), Skupina (g), Ostatní (o)
+- 755 = rwxr-xr-x (uživatel: rwx, skupina: r-x, ostatní: r-x)
+
+AKTUÁLNÍ UMASK: 0022
+VÝSLEDEK UMASK TESTU: -rw-r--r-- 1 root root 0 Sep 15 19:20 /tmp/test_permissions/umask_test.txt
+
+PŘEHLED SOUBORŮ:
+total 16
+drwxr-xr-x 3 root     root       4096 Sep 15 19:20 .
+drwxrwxrwt 1 root     root       4096 Sep 15 19:20 ..
+drwxrwx--x 2 root     root       4096 Sep 15 19:20 testdir
+-rwxr-xr-x 1 testuser developers   12 Sep 15 19:20 testfile.txt
+-rw-r--r-- 1 root     root          0 Sep 15 19:20 umask_test.txt
+
+STATUS: ✅ DOKONČENO

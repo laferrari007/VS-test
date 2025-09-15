@@ -1,6 +1,6 @@
 # AI Generované zadání úkolů pro předmět: Dějepis
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:48:16
+# Datum: 2025-09-15 21:22:15
 
 Úkol 1: Základní úkol z předmětu Dějepis - úroveň 1
 

@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Zeměpis
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:48:21
+# Datum: 2025-09-15 21:22:30
 
-Úkol 1: Popište typy geologických procesů, které ovlivňují tvar povrchu Země. 
+Úkol 1: Vypořádejte se s mapovou legendou dané Evropy. Zvýrazněte hlavní zeměpisné prvky (pohoří, řeky, pobřeží apod.) a vysvětlete jejich význam.
 
-Úkol 2: Porovnejte a popsme rozdíly mezi kontinentální a oceánskou kůrou Země.
+Úkol 2: Porovnejte klimatické podmínky v tropických a mírných zeměpisných pásmech. Jaké jsou hlavní rozdíly a podobnosti mezi těmito pásmy?
 
-Úkol 3: Vyberte a stručně popište 5 nejdůležitějších faktory, které ovlivňují klimatické podmínky v konkrétní oblasti.
+Úkol 3: Použitím geografických informací ovahejte, zda je Evropa nebo Afrika geograficky zajímavější kontinent. Zkuste doložit svůj názor několika příklady.
 
-Úkol 4: Vymezte a popište hlavní charakteristiky různých typů horstvého pásma.
+Úkol 4: Mapou zachyťte hlavní charakteristiky vnitrozemské Francie. Vyjasněte, proč je Francie považována za geograficky zajímavý kontinent.
 
-Úkol 5: Vyberte a přibližně popište 3 druhy přírodních zdrojů a jejich význam pro lidskou společnost.
+Úkol 5: Vypořádejte se s pojmem globální znečišťování ovzduší a jeho příčiny. Zkuste vyčíslit míru účinnosti různých metod ochrany ovzduší.
 
-Úkol 6: Popište rozdíl mezi geomorfologickým a geologickým procesem. 
+Úkol 6: Porovnejte přírodní zdroje a možnosti jejich využití v Asii a Africe. Zkuste doložit svůj názor několika příklady.
 
-Úkol 7: Vyberte a stručně popište 5 nejdůležitějších typů půd na světě a popište jejich význam pro zemědělství.
+Úkol 7: Použitím geografických informací ovahejte, zda je moře nebo voda důležitější pro lidský život. Zkuste doložit svůj názor několika příklady.
 
-Úkol 8: Porovnejte a popište hlavní rozdíly mezi tektonickými a vulkanickými procesy.
+Úkol 8: Mapou a dalšími zdroji vyhledejte a analyzujte hlavní příčiny a následky sucha v Africe. Jaké jsou hlavní dopady sucha na lidské komunity v Africe?
 
-Úkol 9: Vyberte a přibližně popište 3 příklady přírodě i člověkem ovlivněných krajinních typů.
+Úkol 9: Vypořádejte se s pojmem globální oteplování a jeho příčiny. Zkuste vyčíslit míru účinnosti různých metod boje proti globálnímu oteplování.
 
-Úkol 10: Zpracujte analýzu dopadů globálního oteplování na geografické procesy a přírodní zdroje na Zemi.
+Úkol 10: Použitím geografických informací a dalších zdrojů vybudujte argumentaci pro či proti tomu, zda je lepší život na moři nebo na zemi. Zkuste doložit svůj názor několika příklady.

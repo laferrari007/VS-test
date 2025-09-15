@@ -1,104 +1,24 @@
 # AI Generované řešení úkolů pro předmět: Biologie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:49:00
+# Datum: 2025-09-15 21:23:00
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Rozlišování rostlin a živočichů
+Řešení 1: Základní řešení úkolu 1 z předmětu Biologie ZŠ
 
-Tento úkol je vhodný pro začínající studenty. Předpokládá se, že studenti znají základní charakteristiky rostlin a živočichů.
+Řešení 2: Základní řešení úkolu 2 z předmětu Biologie ZŠ
 
-- Krok 1: Zjistěte typy úložiště potravy u rostlin a živočichů.
-  - U rostlin se potrava ukládá v klíčcích, lístech a stoncích.
-  - U živočichů se potrava ukládá v žaludku a střevech.
+Řešení 3: Základní řešení úkolu 3 z předmětu Biologie ZŠ
 
-- Krok 2: Zjistěte, jak se rostliny a živočichy pohybují.
-  - Rostliny se pohybují pomocí kořenů a listů.
-  - Živočichy se pohybují pomocí nohou, křídel nebo ploutví.
+Řešení 4: Základní řešení úkolu 4 z předmětu Biologie ZŠ
 
-- Krok 3: Zjistěte, jak se rostliny a živočichy rozmnožují.
-  - Rostliny se rozmnožují pomocí semen a rozšiřování oddenků.
-  - Živočichy se rozmnožují pomocí vajíček, spermií a rozmnožování mláďaty.
+Řešení 5: Základní řešení úkolu 5 z předmětu Biologie ZŠ
 
-- Krok 4: Zjistěte, jak se rostliny a živočichy živí.
-  - Rostliny se živí fotosyntézou a vdechováním CO2.
-  - Živočichy se živí konzumací potravy a vdechováním kyslíku.
+Řešení 6: Základní řešení úkolu 6 z předmětu Biologie ZŠ
 
-Tento úkol by měl studenty naučit rozlišovat mezi základními charakteristikami rostlin a živočichů.
+Řešení 7: Základní řešení úkolu 7 z předmětu Biologie ZŠ
 
-Řešení 2: Struktura a funkce buňky
+Řešení 8: Základní řešení úkolu 8 z předmětu Biologie ZŠ
 
-Tento úkol je vhodný pro studenty na úrovni nižšího středoškolského stupně. Předpokládá se, že studenti znají základní principy buněčné struktury a funkce.
+Řešení 9: Základní řešení úkolu 9 z předmětu Biologie ZŠ
 
-- Krok 1: Popište komponenty buněčné membrány.
-  - Cytoplazma: obsah buněčné membrány.
-  - Cytoplazmatická membrána: ochranná vrstva kolem buněčné membrány.
-  - Mitochondrie: orgány odpovědné za produkci energie.
-  - Ribozomy: orgány odpovědné za syntézu bílkovin.
-
-- Krok 2: Popište funkci buněčných orgánů.
-  - Mitochondrie: produkují energii v podobě ATP.
-  - Ribozomy: syntetizují bílkoviny podle genetických instrukcí.
-
-- Krok 3: Popište procesy buněčné komunikace.
-  - Signální dráhy: umožňují komunikaci mezi buňkami.
-  - Molekulární signály: umožňují komunikaci mezi buňkami.
-
-- Krok 4: Popište procesy buněčné diferenciace.
-  - Diferenciace buněk: umožňuje buněčné specializace.
-  - Diferenciace buněčné linie: umožňuje buněčnou specializaci.
-
-Tento úkol by měl studenty naučit rozlišovat mezi strukturou a funkcí buněčných orgánů a procesy buněčné komunikace a diferenciace.
-
-Řešení 3: Fotosyntéza a respirace
-
-Tento úkol je vhodný pro studenty na úrovni vyššího středoškolského stupně. Předpokládá se, že studenti znají základní principy fotosyntézy a respirace.
-
-- Krok 1: Popište proces fotosyntézy.
-  - 6 CO2 + 6 H2O + světlo → C6H12O6 + 6 O2
-  - Fotosyntéza probíhá v chloroplastech za účasti chlorofylu.
-
-- Krok 2: Popište proces respirace.
-  - C6H12O6 + 6 O2 → 6 CO2 + 6 H2O + energie
-  - Respirace probíhá v mitochondriích za účasti ATP syntázy.
-
-- Krok 3: Porovnejte procesy fotosyntézy a respirace.
-  - Fotosyntéza: produkuje energie a O2.
-  - Respirace: spotřebovává energie a O2.
-
-- Krok 4: Popište souvislost mezi fotosyntézou a respirací.
-  - Fotosyntéza produkuje energie, která je spotřebována během respirace.
-  - Respirace spotřebovává O2, který je produkován během fotosyntézy.
-
-Tento úkol by měl studenty naučit rozlišovat mezi procesy fotosyntézy a respirace a jejich souvislostí.
-
-Řešení 4: Evoluce a diverzita organismů
-
-Tento úkol je vhodný pro studenty na úrovni vysokoškolského stupně. Předpokládá se, že studenti znají základní principy evoluce a diverzity organismů.
-
-- Krok 1: Popište teorie evoluce.
-  - Darwinova teorie: organismy se vyvíjejí prostřednictvím selekce.
-  - Mendelova teorie: organismy se vyvíjejí prostřednictvím genetické výměny.
-
-- Krok 2: Popište proces diverzity organismů.
-  - Diverzita organismů: vznikají nové druhy prostřednictvím mutací a hybridizace.
-  - Evoluce: organismy se vyvíjejí v závislosti na prostředí.
-
-- Krok 3: Porovnejte evoluci a diverzitu organismů.
-  - Evoluce: proces změny v rámci jednoho druhu.
-  - Diverzita: vznik nových druhů.
-
-- Krok 4: Popište souvislost mezi evolucí a diverzí organismů.
-  - Evoluce: je procesem, který vede k diverzitě organismů.
-  - Diverzita: je výsledkem evoluce.
-
-Tento úkol by měl studenty naučit rozlišovat mezi procesy evoluce a diverzity organismů a jejich souvislostí.
-
-Řešení 5: Biotechnologie a genetika
-
-Tento úkol je vhodný pro studenty na úrovni vysokoškolského stupně. Předpokládá se, že studenti znají základní principy biotechnologie a genetiky.
-
-- Krok 1: Popište principy genetické rekombinace.
-  - Genetická rekombinace: kombinace genů z různých organismů.
-  - Genetická modifikace: záměrné změna genetického materiálu.
-
-- Krok 2: Popište aplikace genetické rekombinace.
-  - Geneticky upravené organism
+Řešení 10: Základní řešení úkolu 10 z předmětu Biologie ZŠ

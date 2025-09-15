@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:47:22
+# Datum: 2025-09-15 21:21:34
 
-Úkol 1: Napsat krátkou osobnostní anketu studenta, kde použijete přídavná jména a příslovce, které popíší jeho zájmy a vlastnosti.
+Úkol 1: Najděte a udělejte překlad anglického slova "hello" do češtiny a vysvětlete jeho význam.
 
-Úkol 2: Přeložit do angličtiny text o víkendovém volno, kde použijete překlady běžných českých slov a frází.
+Úkol 2: Seznamte se s typy anglických sloves (dynamické, statické, přechodníkové) a udělejte příklad pro každé z nich.
 
-Úkol 3: Napsat krátkou povídku o přátelství, kde použijete anglické synonyma pro české slová jako "přítel", "kamarád", "společník".
+Úkol 3: Analyzujte anglický text "The road not taken" autora Roberta Frosta a odůvodněte, zda je interpretován jako oslavný nebo kritický k rozhodnutí.
 
-Úkol 4: Přeložit do angličtiny text o různých typech počasí a jejich vlivu na lidské nálady.
+Úkol 4: Učte se o pojmu "passive voice" v angličtině a udělejte pár větných konstrukcí, které ilustrují jeho použití.
 
-Úkol 5: Napsat rozhovor mezi dvěma studenty o jejich plánu do budoucnosti, kde použijete fráze a fólie jako "Co se dá očekávat...", "Mám plány...".
+Úkol 5: Přeložte a interpretujte anglický text o tématu "environmentalism" a diskutujte, zda je relevantní také v současné době.
 
-Úkol 6: Přeložit do angličtiny text o významu a roli učitelů a studentů ve školním procesu.
+Úkol 6: Studujte a rozkládáte příklad anglického textu s komplexní strukturou a vysvětlíte, jak funguje v rámci celé věty.
 
-Úkol 7: Napsat krátkou analýzu textu o důležitosti vzdělání v moderní společnosti, kde použijete anglické synonyma pro české slová jako "vzdělání", "škola", "učitel".
+Úkol 7: Rozlišujte mezi synonymy "big" a "large" v angličtině a udělejte překlad textu, který ilustruje jejich použití v různých kontextech.
 
-Úkol 8: Přeložit do angličtiny text o různých typech umění a jejich vlivu na lidskou psychologii.
+Úkol 8: Přečtěte si anglický text "The American Dream" a diskutujte, zda je stále relevantní v současnosti a jak se projevuje v různých aspektech americké společnosti.
 
-Úkol 9: Napsat krátkou hru "20 otázek" o anglickém jazyce, kde použijete fráze a fólie jako "Kolik slov...?", "Co to znamená...".
+Úkol 9: Analyzujte anglický text "The Stranger" autora Albert Camuse a rozložte jeho strukturu, včetně přechodů a vazeb mezi větami.
 
-Úkol 10: Přeložit do angličtiny dlouhou úvodní zprávu o aktuálním problému ve světě, kde použijete anglické synonyma pro české slová jako "problém", "současný svět", "aktuální událost".
+Úkol 10: Učte se o pojmu "figurative language" v angličtině a vyberte příklady, které ilustrují jeho použití v různých stylových oblastech.

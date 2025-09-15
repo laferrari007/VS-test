@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Informatika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:49:15
+# Datum: 2025-09-15 21:23:09
 
-Úkol 1: Základní úkol z předmětu Informatika ZŠ - úroveň 1
+Úkol 1: Napište program, který zobrazí vaši jméno a roční stupeň na obrazovce.
 
-Úkol 2: Základní úkol z předmětu Informatika ZŠ - úroveň 2
+Úkol 2: Použijte algoritmus, který vypíše všechny čísla od 1 do 100, které jsou dělitelné jak 3, tak 5.
 
-Úkol 3: Základní úkol z předmětu Informatika ZŠ - úroveň 3
+Úkol 3: Stvořte program, který spočítá a vypíše součet všech čísel od 1 do 100.
 
-Úkol 4: Základní úkol z předmětu Informatika ZŠ - úroveň 4
+Úkol 4: Použijte cykly a podmínky, aby program na obrazovce vypsal všechny prvočísla od 1 do 20.
 
-Úkol 5: Základní úkol z předmětu Informatika ZŠ - úroveň 5
+Úkol 5: Napište program, který bude ptát uživatele na své jméno a poté ho přivítá a požádá o zadání věku. Pokud je uživatel mladší 18 let, vypíše program informaci, že uživatel je dítě.
 
-Úkol 6: Základní úkol z předmětu Informatika ZŠ - úroveň 6
+Úkol 6: Použijte podmínky a cykly, aby program na obrazovce vypsal všechny měsíce roku, v nichž je 31 dní.
 
-Úkol 7: Základní úkol z předmětu Informatika ZŠ - úroveň 7
+Úkol 7: Stvořte program, který spočítá a vypíše průměrnou hodnotu čísel od 1 do 100.
 
-Úkol 8: Základní úkol z předmětu Informatika ZŠ - úroveň 8
+Úkol 8: Použijte cykly a podmínky, aby program na obrazovce vypsal všechny čísla od 1 do 100, které jsou větší než 50.
 
-Úkol 9: Základní úkol z předmětu Informatika ZŠ - úroveň 9
+Úkol 9: Napište program, který bude ptát uživatele na jejich oblíbenou barvu a poté ho pozdraví a požádá o zadání čísla. Pokud je číslo kladné, vypíše program informaci, že číslo je kladné.
 
-Úkol 10: Základní úkol z předmětu Informatika ZŠ - úroveň 10
+Úkol 10: Použijte podmínky a cykly, aby program na obrazovce vypsal všechny dny v týdnu, v nichž je pondělí.

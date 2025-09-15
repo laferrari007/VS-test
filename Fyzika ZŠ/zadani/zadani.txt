@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Fyzika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:48:37
+# Datum: 2025-09-15 21:22:36
 
-Úkol 1: Základní úkol z předmětu Fyzika ZŠ - úroveň 1
+Úkol 1: Napíšte krátkou definici pojmu "síla" ve fyzice.
 
-Úkol 2: Základní úkol z předmětu Fyzika ZŠ - úroveň 2
+Úkol 2: Vypočítejte hmotnost objektu o velikosti 2 x 2 cm a výšce 5 cm, pokud má objem 20 cm³.
 
-Úkol 3: Základní úkol z předmětu Fyzika ZŠ - úroveň 3
+Úkol 3: Popište rozdíl mezi mechanickým a termodynamickým pojetím pohybu.
 
-Úkol 4: Základní úkol z předmětu Fyzika ZŠ - úroveň 4
+Úkol 4: Určete rychlost objektu, který se pohybuje po kruhu o poloměru 10 m za 15 sekund.
 
-Úkol 5: Základní úkol z předmětu Fyzika ZŠ - úroveň 5
+Úkol 5: Vysvětlejte rozdíl mezi gravitační silou a gravitační zatahovací silou.
 
-Úkol 6: Základní úkol z předmětu Fyzika ZŠ - úroveň 6
+Úkol 6: Vypočítejte silové síly, které působí na vozidlo o hmotnosti 1500 kg, pokud je umístěno na svištivce a brzdi se po skále o úhlu 30°.
 
-Úkol 7: Základní úkol z předmětu Fyzika ZŠ - úroveň 7
+Úkol 7: Popište principy a mechanismy funkce plynového motoru.
 
-Úkol 8: Základní úkol z předmětu Fyzika ZŠ - úroveň 8
+Úkol 8: Vypočítejte výkon elektrické zátěže o napětí 12 V a proudě 2 A.
 
-Úkol 9: Základní úkol z předmětu Fyzika ZŠ - úroveň 9
+Úkol 9: Vysvětlejte principy a mechanismy funkce fotoelektrického jevu.
 
-Úkol 10: Základní úkol z předmětu Fyzika ZŠ - úroveň 10
+Úkol 10: Vypočítejte rychlost zvuku v závislosti na teplotě vzduchu a tlaku.

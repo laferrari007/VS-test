@@ -1,0 +1,91 @@
+# AI Generované řešení úkolů pro předmět: Test Subject
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:25:39
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vytvořte testovací scénář pro aplikaci s uživatelským rozhraním
+
+**Testovací scénář**
+
+Cíl testovacího scénáře: Ověřit správnou funkci aplikace při přihlášení uživatele, přístupu k stránce se seznamem dat a kliknutí na tlačítko pro editaci záznamu.
+
+**Krok 1: Přihlášení uživatele**
+
+* Vytvořte testovací účet s platnými údaji (jménem, heslem, emailovou adresou)
+* Přihlaste se k aplikaci pomocí testovacího účtu
+* Ověřete, zda je uživatel úspěšně přihlášen a má přístup k hlavní nabídce aplikace
+
+**Krok 2: Přístup k stránce se seznamem dat**
+
+* Otevřete stránku se seznamem dat, která je dostupná pro přihlášeného uživatele
+* Ověřete, zda stránka obsahuje požadované informace a údaje jsou správně zobrazeny
+* Zkontrolujte, zda stránka nemá žádné chyby nebo závady
+
+**Krok 3: Kliknutí na tlačítko pro editaci záznamu**
+
+* Najděte na stránce se seznamem dat tlačítko pro editaci záznamu
+* Klikněte na tlačítko a ověřte, zda je uživatel přesměrován na stránku editace záznamu
+* Zkontrolujte, zda stránka editace záznamu obsahuje požadované informace a údaje jsou správně zobrazeny
+
+**Možné chyby a chybové scénáře**
+
+* Uživatel není úspěšně přihlášen, protože heslo nebo jméno je špatné
+* Stránka se seznamem dat obsahuje chyby nebo závady
+* Tlačítko pro editaci záznamu nefunguje, protože uživatel nemá požadované oprávnění
+* Stránka editace záznamu obsahuje chyby nebo závady
+
+**Testovací data**
+
+* Uživatel: testovací účet s platnými údaji (jménem, heslem, emailovou adresou)
+* Stránka se seznamem dat: obsahuje požadované informace a údaje jsou správně zobrazeny
+* Tlačítko pro editaci záznamu: funguje správně, pokud uživatel má požadované oprávnění
+
+Řešení 2: Návrh testovací strategie pro komplexní software
+
+**Testovací strategie**
+
+Cíl testovací strategie: Ověřit funkčnost jednotlivých modulů a komunikaci mezi nimi pomocí protokolu JSON.
+
+**Krok 1: Identifikace modulů a komunikace**
+
+* Identifikujte jednotlivé moduly a komunikaci mezi nimi
+* Zjistěte, jak jednotlivé moduly komunikují pomocí protokolu JSON
+
+**Krok 2: Návrh testovacího scénáře**
+
+* Vytvořte testovací scénář pro ověřování funkčnosti jednotlivých modulů a komunikace mezi nimi
+* Zahrňte testovací data a chybové scénáře
+
+**Krok 3: Návrh typů testů**
+
+* Návrh jednotkových testů (Unit Tests) pro jednotlivé moduly
+* Návrh integrativních testů (Integration Tests) pro komunikaci mezi moduly
+* Návrh funkčních testů (Functional Tests) pro ověřování funkčnosti jednotlivých modulů a komunikace mezi nimi
+
+**Typy testů**
+
+* Jednotkové testy (Unit Tests):
+ + Testují funkčnost jednotlivých modulů
+ + Zahrnují testování vstupů a výstupů jednotlivých modulů
+* Integrativní testy (Integration Tests):
+ + Testují komunikaci mezi moduly
+ + Zahrnují testování vstupů a výstupů komunikace mezi moduly
+* Funkční testy (Functional Tests):
+ + Testují funkčnost jednotlivých modulů a komunikace mezi nimi
+ + Zahrnují testování vstupů a výstupů jednotlivých modulů a komunikace mezi nimi
+
+**Výběr nástrojů**
+
+* Vyberte vhodné nástroje pro testování komplexního softwaru, jako je například:
+ + Pytest pro jednotkové testy a funkční testy
+ + Pytest-JSONTest pro testování komunikace pomocí protokolu JSON
+
+**Implementace testů**
+
+* Implementujte testy podle navrhované testovací strategie
+* Zahrňte testovací data a chybové scénáře
+
+**Ověření funkčnosti**
+
+* Ověříte funkčnost jednotlivých modulů a komunikace mezi nimi pomocí protokolu JSON
+* Zahrňte testovací data a chybové scénáře

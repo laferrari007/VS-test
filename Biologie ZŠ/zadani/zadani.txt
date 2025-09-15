@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Biologie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:49:00
+# Datum: 2025-09-15 21:23:00
 
-Úkol 1: Popiš vlastnosti rostlin, které jim umožňují přežívat v různých prostředích.
+Úkol 1: Popiš funkci fotosyntézy a udělej schéma, jakým způsobem probíhá přeměna světelné energie na chemickou energii.
 
-Úkol 2: Porovnej životní cykly roztočů a savců. Jaké jsou hlavní rozdíly?
+Úkol 2: Vymaluj diagram pokroku v rozvoji biologické klasifikace od Aristotela po současnost.
 
-Úkol 3: Seznamte se s typy půdy a popište jejich vlastnosti.
+Úkol 3: Uveď 5 příkladů zvířat, která se vyvinula z vodního prostředí na suchozemské prostředí, a vysvětlěj proces této evoluční adaptace.
 
-Úkol 4: Vytvořte diagram života vodních rostlin (například rákousek). Jaké jsou hlavní fáze jejich života?
+Úkol 4: Popiš rozdíl mezi fyziologickým a anatomickým stavem organismu a udělej příklady, jak se tyto pojmy liší.
 
-Úkol 5: Popište proces fotosyntézy. Jaké jsou důležité reakce a produkty této procesu?
+Úkol 5: Vysvětlěj rozdíl mezi monofyletickými a polyfyletickými skupinami organismů a udělej příklad na podporu svých slov.
 
-Úkol 6: Seznamte se s typy obratlovců a popište jejich fyziologické charakteristiky.
+Úkol 6: Vymaluj diagram, jakým způsobem probíhá přemena jednoduchých cukrů na komplexní bílkoviny v buňce.
 
-Úkol 7: Porovnejme životní cykly hmyzu a savců. Jaké jsou hlavní rozdíly mezi nimi?
+Úkol 7: Popiš roli mitochondrií v procesu buněčné respirace a udělej schéma, jakým způsobem probíhá přenos elektronů v řetězci elektronového transportu.
 
-Úkol 8: Vytvořte schéma vnitřního rozlišování rostlin (například stromu). Jaké jsou hlavní části tohoto systému?
+Úkol 8: Udělej přehled a srovnání mezi hlavními typy fotosyntetických rostlinných buněk (chloroplasty, chromoplasty, leukoplasty) a jejich funkcemi.
 
-Úkol 9: Popište proces rozkladu látek v přírodě. Jaké jsou role bakterií a hub v tomto procesu?
+Úkol 9: Vysvětlěj principy a mechanismy buněčného cyklu a udělej schéma, jakým způsobem probíhá proces fáze G1, S a G2.
 
-Úkol 10: Seznamte se s typy ekosystémů a popište jejich charakteristiky. Jaké jsou hlavní faktory, které ovlivňují stabilitu ekosystémů?
+Úkol 10: Popiš rozdíl mezi genetickou a epigenetickou regulací a udělej příklady, jak se tyto pojmy liší v různých organizmy.

@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Výchova k občanství
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:47:59
+# Datum: 2025-09-15 21:22:05
 
-Úkol 1: Základní úkol z předmětu Výchova k občanství - úroveň 1
+Úkol 1: Popište rozdíl mezi občanstvím a občanskostí. Použijte příklady z každého pojmu, aby bylo zřejmé, jak se liší.
 
-Úkol 2: Základní úkol z předmětu Výchova k občanství - úroveň 2
+Úkol 2: Seznamte se s některými zásadami demokracie. Vysvětlejte, proč jsou důležité pro fungování společnosti.
 
-Úkol 3: Základní úkol z předmětu Výchova k občanství - úroveň 3
+Úkol 3: Analyzujte roli médií v výchově k občanství. Jaké jsou jejich povinnosti a možnosti?
 
-Úkol 4: Základní úkol z předmětu Výchova k občanství - úroveň 4
+Úkol 4: Napište esej o významu tolerance v moderní společnosti. Jaké jsou její přínosy a výzvy?
 
-Úkol 5: Základní úkol z předmětu Výchova k občanství - úroveň 5
+Úkol 5: Vyberte si tři klíčové principy lidských práv a vysvětlejte jejich zásadní význam pro práva a svobody jednotlivců.
 
-Úkol 6: Základní úkol z předmětu Výchova k občanství - úroveň 6
+Úkol 6: Porovnejte dva různé modely občanské výchovy: aktivistický a integrativní. Jaké jsou jejich výhody a nevýhody?
 
-Úkol 7: Základní úkol z předmětu Výchova k občanství - úroveň 7
+Úkol 7: Napsat analýzu o roli vzdělávání v výchově k občanství. Jaké jsou klíčové kompetence a znalosti, které se mají vzdělávacím institucím poskytnout studentům?
 
-Úkol 8: Základní úkol z předmětu Výchova k občanství - úroveň 8
+Úkol 8: Vyjadřujte svůj názor na to, zda je zahraniční politika státu ovlivněna občanskou vybaveností populace. Podávejte argumenty pro a proti.
 
-Úkol 9: Základní úkol z předmětu Výchova k občanství - úroveň 9
+Úkol 9: Napište kritický přehled o roli občanské společnosti v prosazování změn ve společnosti. Jaké jsou její výhody a nevýhody?
 
-Úkol 10: Základní úkol z předmětu Výchova k občanství - úroveň 10
+Úkol 10: Vypracujte návrh programových postupů pro implementaci kompetence občanství do vzdělávacího systému. Jakým způsobem by měla být tato kompetence vzdělávacími institucemi rozvíjena?

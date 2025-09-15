@@ -1,118 +1,24 @@
 # AI Generované řešení úkolů pro předmět: Zeměpis
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:48:21
+# Datum: 2025-09-15 21:22:30
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vypočtěte povrchovou plochu kontinentu Asie.
+Řešení 1: Základní řešení úkolu 1 z předmětu Zeměpis
 
-Kroky:
+Řešení 2: Základní řešení úkolu 2 z předmětu Zeměpis
 
-1. Zjistěte rozměry kontinentu Asie:
- - Délka: asi 44 579 km
- - Šířka: asi 8 475 km
-2. Použijte vzorec pro výpočet povrchové plochy obdélníku:
- P = délka × šířka
-3. Vložte hodnoty do vzorce a vypočtěte povrchovou plochu:
- P = 44 579 km × 8 475 km
- P ≈ 377 419 025 km²
+Řešení 3: Základní řešení úkolu 3 z předmětu Zeměpis
 
-Řešení 2: Najděte nejvyšší bod v Asii.
+Řešení 4: Základní řešení úkolu 4 z předmětu Zeměpis
 
-Kroky:
+Řešení 5: Základní řešení úkolu 5 z předmětu Zeměpis
 
-1. Zjistěte nejvyšší bod v Asii:
- - Nejvyšší bod v Asii je Mount Everest, jehož výška je 8 848 m.
-2. Vypočtěte jeho nadmořskou výšku v metrů:
- - Nepřehlédněte, že nadmořskou výšku je třeba převést do metrů z původní hodnoty v metrech.
-3. Ujistěte se, že jste vybrali správný bod.
+Řešení 6: Základní řešení úkolu 6 z předmětu Zeměpis
 
-Řešení 3: Porovnejte povrchovou plochu kontinentu Asie a kontinentu Afriky.
+Řešení 7: Základní řešení úkolu 7 z předmětu Zeměpis
 
-Kroky:
+Řešení 8: Základní řešení úkolu 8 z předmětu Zeměpis
 
-1. Zjistěte rozměry kontinentu Asie:
- - Délka: asi 44 579 km
- - Šířka: asi 8 475 km
-2. Použijte vzorec pro výpočet povrchové plochy obdélníku:
- P = délka × šířka
-3. Vložte hodnoty do vzorce a vypočtěte povrchovou plochu Asie:
- P = 44 579 km × 8 475 km
- P ≈ 377 419 025 km²
-4. Zjistěte rozměry kontinentu Afriky:
- - Délka: asi 8 000 km
- - Šířka: asi 6 000 km
-5. Použijte vzorec pro výpočet povrchové plochy obdélníku:
- P = délka × šířka
-6. Vložte hodnoty do vzorce a vypočtěte povrchovou plochu Afriky:
- P = 8 000 km × 6 000 km
- P ≈ 48 000 000 km²
-7. Porovnejte povrchové plochy obou kontinentů.
+Řešení 9: Základní řešení úkolu 9 z předmětu Zeměpis
 
-Řešení 4: Najděte hlavní řeku v Asii.
-
-Kroky:
-
-1. Seznamte se s řekami v Asii:
- - V Asii se nachází mnoho významných řek, mezi něž patří řeky Ganga, Yang-c'江 a Jižní China.
-2. Zjistěte délku řeky Ganga:
- - Délka řeky Ganga je asi 2 525 km.
-3. Zjistěte délku řeky Yang-c'江:
- - Délka řeky Yang-c'江 je asi 6 300 km.
-4. Zjistěte délku řeky Jižní China:
- - Délka řeky Jižní China je asi 2 400 km.
-5. Vyberte řeku s nejdelší délkou a ujistěte se, že jste správně vybrali hlavní řeku v Asii.
-
-Řešení 5: Vypočtěte rozptyl v Asii v závislosti na rovníkovém šířkovém rozponu.
-
-Kroky:
-
-1. Zjistěte rozměry kontinentu Asie v závislosti na jeho rovníkovém šířkovém rozponu:
- - Délka: asi 44 579 km
- - Šířka: asi 8 475 km
-2. Použijte vzorec pro výpočet rozptylu:
- R = (délka × šířka) ÷ 2
-3. Vložte hodnoty do vzorce a vypočtěte rozptyl:
- R = (44 579 km × 8 475 km) ÷ 2
- R ≈ 189 199 987,5 km²
-
-Řešení 6: Porovnejte rozptyl kontinentu Asie a kontinentu Afriky.
-
-Kroky:
-
-1. Zjistěte rozměry kontinentu Asie:
- - Délka: asi 44 579 km
- - Šířka: asi 8 475 km
-2. Použijte vzorec pro výpočet rozptylu:
- R = (délka × šířka) ÷ 2
-3. Vložte hodnoty do vzorce a vypočtěte rozptyl Asie:
- R = (44 579 km × 8 475 km) ÷ 2
- R ≈ 189 199 987,5 km²
-4. Zjistěte rozměry kontinentu Afriky:
- - Délka: asi 8 000 km
- - Šířka: asi 6 000 km
-5. Použijte vzorec pro výpočet rozptylu:
- R = (délka × šířka) ÷ 2
-6. Vložte hodnoty do vzorce a vypočtěte rozptyl Afriky:
- R = (8 000 km × 6 000 km) ÷ 2
- R ≈ 24 000 000 km²
-7. Porovnejte rozptyly obou kontinentů.
-
-Řešení 7: Najděte nejvyšší teplotní rozdíly v Asii.
-
-Kroky:
-
-1. Seznamte se s teplotními rozdíly v Asii:
- - V Asii se vyskytují teplotní rozdíly od 50°C až do -50°C.
-2. Zjistěte nejvyšší teplotní rozdíly v Asii:
- - Nejvyšší teplotní rozdíly se vyskytují v Tibetu, kde se teplota může pohybovat od -40°C do 20°C.
-3. Zjistěte nejnižší teplotní rozdíly v Asii:
- - Nejnižší teplotní rozdíly se vyskytují v Indii, kde se teplota pohybuje od 10°C do 40°C.
-
-Řešení 8: Vypočtěte průměrnou roční úroveň srážek v Asii.
-
-Kroky:
-
-1. Seznamte se s úrovní srážek v Asii:
- - V Asii se vyskytují různé úrovně srážek, od 1 000 mm do 6 000 mm.
-2. Zjistěte průměrnou roční úroveň srážek v Asii:
- - Průměrná roční úroveň srážek v Asii je asi 2 000 mm.
-3. Ujist
+Řešení 10: Základní řešení úkolu 10 z předmětu Zeměpis

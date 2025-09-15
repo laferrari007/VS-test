@@ -1,0 +1,7 @@
+# AI Generované zadání úkolů pro předmět: Test Subject
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:25:39
+
+Úkol 1: Vytvořte testovací scénář pro aplikaci s uživatelským rozhraním, který simuluje následující situace: uživatel se přihlašuje do systému, potom přistupuje k nějaké stránce se seznamem dat a poté klikne na tlačítko pro editaci záznamu. Popište všechny možné chyby, které mohou nastat během této procedury a vyberte vhodné testovací data pro ověřování správné funkce aplikace.
+
+Úkol 2: Rozbavíte návrh testovací strategie pro komplexní software, který obsahuje několik modulů, mezi nimiž dochází k komunikaci přes síť. Moduly jsou implementovány pomocí jazyka Python a komunikují se pomocí protokolu JSON. Popište, jak by jste postupovali ve vypracování testů pro tento software a jaké typy testů by byly nejvhodnější pro ověření funkčnosti jednotlivých modulů a komunikace mezi nimi.
