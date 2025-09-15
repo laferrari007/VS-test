@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Český jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:58:21
+# Zadání úkolů pro předmět: Český jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:08:43
 
-Úkol 1: Základní úkol z předmětu Český jazyk - úroveň 1
+Úkol 1: Vytvořte seznam 10 nejčastěji používaných příslovekových sloves v češtině. Pro každou položku uvědomte, zda se jedná o příslovekové sloveso pohybu, příslovekové sloveso způsobu, příslovečné sloveso míry apod.
 
-Úkol 2: Základní úkol z předmětu Český jazyk - úroveň 2
+Úkol 2: Popište rozdíl mezi neurčitým a neurčitým pádem v českém jazyce. Použijte příklady, které ilustrovají obě možnosti.
 
-Úkol 3: Základní úkol z předmětu Český jazyk - úroveň 3
+Úkol 3: Vytvořte seznam 5 sloves v české jazykové rovině, které se vyskytují výhradně v infinitivu. Vysvětle, proč se tyto slovesa vyskytují pouze v infinitivu.
 
-Úkol 4: Základní úkol z předmětu Český jazyk - úroveň 4
+Úkol 4: Vyhledejte a vyjmenujte 7 synonym slovesa "říkat". Vysvětle, jak se tyto synonyma liší ve využití a významu.
 
-Úkol 5: Základní úkol z předmětu Český jazyk - úroveň 5
+Úkola 5: Analyzujte a porovnejte morfologii dvou přídavných jmen "starý" a "nejstarší". Vysvětle, jak se morfologie těchto slov liší a jaká je příčina těchto rozdílů.
 
-Úkol 6: Základní úkol z předmětu Český jazyk - úroveň 6
+Úkol 6: Napište krátký esej, která porovnává významy dvou slov "klid" a "tichý". Vysvělte, jak se tyto slovům liší v užívání a významu.
 
-Úkol 7: Základní úkol z předmětu Český jazyk - úroveň 7
+Úkol 7: Vytvořte graf, který ilustruje frekvenci použití dvou sloves "být" a "stát" v českém jazyce. Vysvělte, jaký je důvod jejich častého používání.
 
-Úkol 8: Základní úkol z předmětu Český jazyk - úroveň 8
+Úkol 8: Analyzujte a porovnejte syntaxi dvou vět s rozdílnými pořadmi slov. Vysvělte, jak se syntax dvou vět liší a jaký je důvod těchto rozdílů.
 
-Úkol 9: Základní úkol z předmětu Český jazyk - úroveň 9
+Úkol 9: Napište krátký text, který obsahuje 10 různých typů příslovečných výrazů, jako jsou příslovečné sloveso způsobu, příslovečné sloveso míry, příslovečné sloveso místa apod. Vysvělte, jak se tyto příslovečné výrazy liší ve využití a významu.
 
-Úkol 10: Základní úkol z předmětu Český jazyk - úroveň 10
+Úkol 10: Vytvořte seznam 5 slov, která nejsou součástí standardní češtiny, ale jsou používána jako slangová či regionální výrazy. Vysvělte, jak se tyto slova liší od standardní češtiny a jaký je důvod jejich používání.
