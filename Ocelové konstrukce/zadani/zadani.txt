@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Ocelové konstrukce
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:39:01
+
+Úkol 1: Rozeberte statický schéma ocelové konstrukce a vysvětlejte principy statické rovnováhy a vnitřní síly.
+
+Úkol 2: Vypočtěte zatížení a odpor hmotnosti pro jednoduchý ocelový strop s konstrukčními prvky (nosníky, sloupy, rámy). Předpokládejte, že strop má rozměry 10 m x 10 m a hmotnost 5 kg/m2.
+
+Úkol 3: Zpracujte výpočet zatížení a odporu hmotnosti pro komplikovanější ocelový strop s více konstrukčními prvky (nosníky, sloupy, rámy, kříže). Předpokládejte, že strop má rozměry 20 m x 20 m a hmotnost 10 kg/m2.
+
+Úkol 4: Vypočtěte vnitřní síly a rozměry konstrukčních prvků (nosníky, sloupy) pro jednoduchý ocelový most s rozpěrami 100 m a výškou 10 m. Předpokládejte, že most má zatížení 50 kg/m.
+
+Úkol 5: Zpracujte výpočet vnitřních sil a rozměrů konstrukčních prvků (nosníky, sloupy, kříže) pro komplikovanější ocelový most s více rozpěrami a výškou 20 m. Předpokládejte, že most má zatížení 100 kg/m.
+
+Úkol 6: Vysvětlejte principy dynamické analýzy ocelových konstrukcí a rozeberte schéma dynamického zatížení (vzdušné proudy, větry, seismické otřesy).
+
+Úkol 7: Vypočtěte dynamické zatížení ocelového mostu s rozpěrami 50 m a výškou 5 m za předpokladu větrného zatížení 10 m/s.
+
+Úkol 8: Zpracujte výpočet dynamického zatížení ocelového budovy s výškou 30 m za předpokladu seismického zatížení 0,5 g.
+
+Úkol 9: Vypočtěte rozměry a vnitřní síly konstrukčních prvků (nosníky, sloupy, kříže) pro komplikovaný ocelový most s více rozpěrami, výškou 30 m a zatíženým dynamicky.
+
+Úkol 10: Zpracujte projektovou dokumentaci ocelového konstrukce (nosníky, sloupy, rámy, kříže) pro komplikovaný ocelový most s více rozpěrami, výškou 50 m a zatíženým dynamicky.
