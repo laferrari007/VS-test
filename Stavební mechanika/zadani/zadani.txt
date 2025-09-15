@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Stavební mechanika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:38:21
+
+Úkol 1: Určete typ stavebního prvku, který je založen na principu deformace a roztažení pod působením síly. Popište jeho použití ve stavebnictví.
+
+Úkol 2: Rozdělte tahovou sílu na jednotlivé prvky stavební konstrukce pomocí metod analýzy napětí a deformací. Zvažte použití teorie pružnosti pro rovnoramenný stůl.
+
+Úkol 3: Odvodte rovnici pro deformaci délky trubky, kterou táhne váha o hmotnosti 1000 kg. Předpokládejte, že váha je umístěna v prostředním bodě trubky a ta má délku 5 metrů.
+
+Úkol 4: Změřte modul pružnosti materiálu ovlivněné teplotou. Používejte materiál o specifické tvrdosti a teplotně závislý modul pružnosti.
+
+Úkol 5: Určete napětí v konstrukci železničního mostu v závislosti na zatížení a velikosti rozpětí. Použijte rovnovážnou teorii pro výpočet napětí v konstrukci mostu.
+
+Úkol 6: Zpracujte statický výkaz pro železniční most s rozpětím 30 metrů. Použijte hodnoty hmotností mostu a zatížení.
+
+Úkol 7: Zpracujte statický výkaz pro vybranou železniční stanici s rozpětím 60 metrů. Použijte hodnoty hmotností mostu a zatížení.
+
+Úkol 8: Vypočtěte deformaci rozpětí mostu, které je zatíženo hmotností 500 tun. Předpokládejte, že rozpětí mostu má rozpětí 100 metrů a hmotnost rozpětí je 200 tun.
+
+Úkol 9: Zpracujte statický výkaz pro most s rozpětím 100 metrů, který je zatížený hmotností 500 tun. Použijte hodnoty hmotností mostu a zatížení.
+
+Úkol 10: Zpracujte statický výkaz pro vybraný most s rozpětím 150 metrů. Použijte hodnoty hmotností mostu a zatížení, zvažte také deformace rozpětí mostu.
