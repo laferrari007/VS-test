@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Optoelektronika
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:35:43
+# Datum: 2025-09-15 23:35:45
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Optoelektronika
 
