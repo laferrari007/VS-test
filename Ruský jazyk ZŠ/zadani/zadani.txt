@@ -1,31 +1,27 @@
 # AI Generované zadání úkolů pro předmět: Ruský jazyk ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:44:53
+# Datum: 2025-09-15 22:55:49
 
-Úkol 1: Napište slovo, které se v ruském jazyce podobá českému slovu "domácí". Poznamenejte si pravopis a výslovnost ruského slova.
+Úkol 1: Píšete krátké rozprávku o svém dni. Použijte přídavné jméno v pádovém tvaru (například "můj, tvůj, jeho, její, náš, váš, jejich").
 
-Úkol 2: Přeložte ruský text "Я люблю читать книги" do českého jazyka a vysvětlěte význam jednotlivých slov.
+Úkol 2: Přeložte do ruského jazyka tyto věty:
+- "Mám ráda hru na kytaru."
+- "Můj otec jezdí na kole."
 
-Úkol 3: Vyberte tři ruská slova, která se podobají českým slovům "krev", "kostel" a "svátek". Napište pravopis a výslovnost ruských slov.
+Úkol 3: Seznamte se s některými typy ruských číslovek (od 1 do 10). Zapište čísla v ruském jazyce a řekněte, jak se liší od českých číslovek.
 
-Úkol 4: Přeložte následující ruské fráze:
-- Где находится моя сумка?
-- Какая у тебя температура?
-- Мне нужна помощь.
+Úkol 4: Použijte přídavná jména v podmětním pádě (jsem, ty jsi, on/ona/oně, my, vy, oni) k popisu osoby, která je ve vašem okolí. Například "Můj přítel je velký".
 
-Úkol 5: Vyberte pět ruských slov, která se týkají jídla (například "суп", "хлеб", "овощи"). Vytvořte krátký text, ve kterém je použijete.
+Úkol 5: Přeložte tyto ruské věty do češtiny:
+- "Můj kamarád je z Kyjeva."
+- "Můj bratr studuje na vysoké škole."
 
-Úkol 6: Přeložte následující ruský text do českého jazyka:
-"Я живу в Москве. Моё имя Анна. Мне 12 лет. Я люблю играть в футбол."
+Úkol 6: Rozpoznáte ruská jména zvířat (svině, pes, kočka, koza, pták). Seznamte se s přídavnými jmény v podmětě (svině, psí, kočičí, králičí, holubí).
 
-Úkol 7: Vyberte tři ruské fráze, které se týkají času (například "я говорил вчера", "я соберусь завтра", "я работаю теперь"). Napište je do textu v kontextu.
+Úkol 7: Použijte přídavná jména v předmětovém pádě (já, ty, on/ona/oně, my, vy, oni) k popisu zvířat. Například "Můj pes je velký".
 
-Úkol 8: Přeložte následující ruské slovo do českého jazyka a vysvětlěte jeho význam:
-- Родители.
-- Сестра.
-- Школа.
+Úkol 8: Seznamte se s některými typy ruských přísloví (například "včera, dnes, zítra, hned"). Přeložte tyto přísloví do češtiny a řekněte, jak se liší od českých přísloví.
 
-Úkol 9: Vyberte pět ruských slov, která se týkají dovolené (například "тур", "отдых", "пляж"). Vytvořte krátký text, ve kterém je použijete.
+Úkol 9: Přeložte ruské věty do češtiny a použijte přísloví, například "Jsem rád, že jsem včera jel na kole" (Já jsem rád, že jsem včera jel na kole).
 
-Úkol 10: Přeložte následující ruský text do českého jazyka a vysvětlěte význam jednotlivých slov:
-"Я всегда хотел поехать в путешествие по России. Теперь у меня есть возможность. Мне нужно купить билет и забронировать отель."
+Úkol 10: Píšete krátkou povídku o vašem městě. Použijte přídavná jména v podmětě a přísloví k popisu míst a událostí.
