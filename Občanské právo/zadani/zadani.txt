@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Občanské právo
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:50:56
+# Datum: 2025-09-15 23:50:58
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Občanské právo
 

@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Občanské právo
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:50:56
+# Datum: 2025-09-15 23:50:58
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 
