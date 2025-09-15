@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Anatomie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:45:45
+# Datum: 2025-09-15 23:45:48
 
-Úkol 1: Popiš a ilustroval strukturu kosterního systému lidského těla.
+Úkol 1: Popište anatomii hrudníku a vyjmenujte hlavní části, které tvoří jeho vnitřní strukturu.
 
-Úkol 2: Seznamte se s funkčními charakteristikami svalového aparátu a přineste příklady na jeho využívání.
+Úkol 2: Porovnejte anatomii rukou a nohou, se zaměřením na podobnosti a rozdíly ve struktuře a funkce.
 
-Úkol 3: Vyberte a popište 5 nejdůležitějších orgánů lidského trávicího systému a zdůvodněte jejich umístění v těle.
+Úkol 3: Popište proces formování kostí v lidském těle a vyjmenujte typy kostí podle jejich funkce a lokalizace.
 
-Úkol 4: Porovnejte anatomické rozdíly mezi lidským srdcem a srdcem obratlovců a vysvětle rozdíl v jejich fungování.
+Úkol 4: Vyjmenujte a popsali funkce různých šlach a svalů v oblasti ramen a loktů.
 
-Úkol 5: Popište vztah mezi nervovým a svalovým aparátem a ilustrovalte příklady tohoto vztahu na lidském těle.
+Úkol 5: Popište anatomii očí a vyjmenujte důležité tkáně a struktury, které je tvoří.
 
-Úkol 6: Seznamte se s anatomickými znaky a funkčními charakteristikami pohybového aparátu a přineste příklady na jeho využívání.
+Úkol 6: Porovnejte anatomii nervového systému lidského těla a vyjmenujte hlavní části, které tvoří jeho strukturu.
 
-Úkol 7: Porovnejte anatomické rozdíly mezi lidským mozkem a mozkem obratlovců a vysvětle rozdíl v jejich fungování.
+Úkol 7: Vyjmenujte a popište funkce různých částí mozkových blan a jejich role v regulaci lidských funkcí.
 
-Úkol 8: Vyberte a popište 3 nejdůležitějších krevní cévy v lidském těle a zdůvodněte jejich roli v oběhové soustavě.
+Úkol 8: Popsali anatomii trávicího ústrojí a vyjmenujte hlavní části, které tvoří jeho strukturu.
 
-Úkol 9: Analýzujte vztah mezi nervovým a endokrinním systémem a ilustrovalte příklady tohoto vztahu na lidském těle.
+Úkol 9: Porovnejte anatomii srdce a jeho krevních cév, se zaměřením na podobnosti a rozdíly ve struktuře a funkci.
 
-Úkol 10: Popište rozdíl mezi centrálním a periferním nervovým systémem a zdůvodněte důležitost obou systémů pro funkce lidského těla.
+Úkol 10: Popište proces formování pojivové tkáně v lidském těle a vyjmenujte její funkce a role v regulaci lidských funkcí.
