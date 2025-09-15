@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Výchova k občanství
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:41:10
+# Datum: 2025-09-15 22:51:56
 
-Úkol 1: Základní úkol z předmětu Výchova k občanství - úroveň 1
+Úkol 1: Napsat krátký článek (cca 1 stranu) o významu občanství v moderní společnosti a jeho souvislostech s demokratickými hodnotami.
 
-Úkol 2: Základní úkol z předmětu Výchova k občanství - úroveň 2
+Úkol 2: Vybrat 5 klíčových právních dokumentů, které tvoří základ demokratického systému v České republice, a stručně je popsat.
 
-Úkol 3: Základní úkol z předmětu Výchova k občanství - úroveň 3
+Úkol 3: Analyzovat roli médií v šíření informací o občanské participaci a aktivitě ve společnosti. Popsat případové studie o úspěšných nebo neúspěšných kampaních.
 
-Úkol 4: Základní úkol z předmětu Výchova k občanství - úroveň 4
+Úkol 4: Napsat krátký scénář rozhovoru o roli mladých lidí v politickém procesu a jejich potenciálu ovlivnit veřejné politiky v České republice.
 
-Úkol 5: Základní úkol z předmětu Výchova k občanství - úroveň 5
+Úkol 5: Vybrat 3 příklady neziskových organizací zabývajících se občanskou výchovou a aktivitou. Popsat jejich cíle, metody a úspěšné projekty.
 
-Úkol 6: Základní úkol z předmětu Výchova k občanství - úroveň 6
+Úkol 6: Analyzovat vztah mezi občanskou angažovaností a ekonomickými ukazateli v České republice (např. HDP, nezaměstnanost). Diskutovat o důsledcích těchto vztahů pro politické rozhodnutí.
 
-Úkol 7: Základní úkol z předmětu Výchova k občanství - úroveň 7
+Úkol 7: Napsat článek o historii a rozvoji demokracie v České republice, včetně klíčových událostí a osobností.
 
-Úkol 8: Základní úkol z předmětu Výchova k občanství - úroveň 8
+Úkol 8: Vypracovat návrh konceptu pro občanskou kampani zaměřenou na zvýšení povědomí o důležitosti environmentální výchovy a ochrany přírody v České republice.
 
-Úkol 9: Základní úkol z předmětu Výchova k občanství - úroveň 9
+Úkol 9: Analyzovat roli občanské společnosti v boji proti korupci a klientelismu v České republice. Popsat případové studie úspěšných nebo neúspěšných bojů proti korupci.
 
-Úkol 10: Základní úkol z předmětu Výchova k občanství - úroveň 10
+Úkol 10: Vypracovat návrh pro návrh a implementaci nového programu občanské výchovy na středních školách v České republice, který by se zaměřil na rozvoj kritického myšlení, komunikace a občanské angažovanosti.
