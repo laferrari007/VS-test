@@ -2,22 +2,24 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:24:54
 
-Úkol 1: Popiš tři hlavní metody, které mikrobiologové používají k izolaci a identifikaci bakterií ze vzorků životního prostředí.
+Zde jsou 10 univerzitních úkolů pro předmět "Mikrobiologie":
 
-Úkol 2: Porovnej a vysvětli rozdíl mezi bakteriálními spory a vegetativními formami. Jaké jsou hlavní rysy těchto forem?
+Úkol 1: Popiš rozdíl mezi bakteriální a virovou infekcí. Proveď porovnání jejich mechanismů infekce a příznaků onemocnění.
 
-Úkol 3: Seznamte se s typy látek, které mikrobiologové používají jako inhibitory růstu (AGAR, inhibitory růstu bakterií, inhibitory růstu hub). Popiš jejich použití a výhody.
+Úkol 2: Rovněž porovnej roli gramového barviva v identifikaci bakterií. Popiš rozdíl mezi gram-pozitivními a gram-negativními bakteriemi.
 
-Úkol 4: Popiš proces syntézy a degradace uhličitanu vápenatého (CaCO3) ve vodním prostředí, včetně mikrobiálního přispění.
+Úkol 3: Proveď analýzu příkladu viru HIV. Popiš jeho biologickou aktivitu, mechanismy šíření a příčinu onemocnění.
 
-Úkol 5: Seznamte se s hlavními typy mikrobiálních metabolických procesů (aerobní, anaerobní, chemolithotrofní) a popiš každou ze zvlášť.
+Úkol 4: Popiš rozdíl mezi bakteriální a plísníkovou infekcí. Proveď porovnání příznaků, mechanismů infekce a léčby.
 
-Úkol 6: Popiš rozdíl mezi mikrobiálními syntetickými a degradativními procesy a udělejte příklad každého ze zvlášť.
+Úkol 5: Rovněž popiš roli mikrobiálních toxinů ve vývoji infekce. Proveď analýzu příkladu toxinu botulotoxinu.
 
-Úkol 7: Porovnej a vysvětli rozdíl mezi gram-pozitivními a gram-negativními bakteriemi, včetně jejich morfologie, biokemických vlastností a fyziologické vlastnosti.
+Úkol 6: Proveď experimentální návrh k izolaci a identifikaci bakterií z půdy. Popiš materiály a vybavení potřebné pro experiment.
 
-Úkol 8: Seznamte se s hlavními typy virů, včetně struktury, genetické informace a mechanismů replikace.
+Úkol 7: Popiš rozdíl mezi kvasinkovými houbami a plísní. Proveď analýzu jejich biologické aktivity a mechanismů infekce.
 
-Úkol 9: Popiš procesy, které mikrobiologové používají k identifikaci a charakterizaci mikroorganismů, včetně sérologie, biochemických testů a fyziologických testů.
+Úkol 8: Rovněž popiš roli mikrobiální ekologie ve vývoji antibiotické rezistence. Proveď analýzu příkladu rezistentních bakterií.
 
-Úkol 10: Diskutujte o významu mikrobiálního metabolismu pro biotechnologické aplikace, včetně produkce biolátek, bioremediace a biotechnologické výroby bioenergií.
+Úkol 9: Proveď studii o rozvoji antibiotik a jejich mechanismech účinku. Popiš rozdíl mezi bakteriostatickými a baktericidními antibiotiky.
+
+Úkol 10: Proveď návrh experimentu k studiu interakcí mezi bakteriemi a jejich hostitelským organismem. Popiš materiály a vybavení potřebné pro experiment a očekávané výsledky.
