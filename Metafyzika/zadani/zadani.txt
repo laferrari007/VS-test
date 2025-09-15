@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Metafyzika
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:56:39
+
+Úkol 1: Vypočítejte rychlost tělesa souvisejí s tématem z předmětu Metafyzika
+
+Úkol 2: Určete sílu působící na těleso souvisejí s tématem z předmětu Metafyzika
+
+Úkol 3: Vypočítejte energii systému souvisejí s tématem z předmětu Metafyzika
+
+Úkol 4: Řešte pohybovou rovnici souvisejí s tématem z předmětu Metafyzika
+
+Úkol 5: Určete elektrický proud souvisejí s tématem z předmětu Metafyzika
+
+Úkol 6: Vypočítejte odpor obvodu souvisejí s tématem z předmětu Metafyzika
+
+Úkol 7: Řešte úkol z termodynamiky souvisejí s tématem z předmětu Metafyzika
+
+Úkol 8: Určete vlnovou délku souvisejí s tématem z předmětu Metafyzika
+
+Úkol 9: Vypočítejte moment síly souvisejí s tématem z předmětu Metafyzika
+
+Úkol 10: Řešte úkol z optiky souvisejí s tématem z předmětu Metafyzika
