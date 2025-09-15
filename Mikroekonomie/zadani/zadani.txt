@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Mikroekonomie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:40:05
+
+Úkol 1: Vypočítejte rovnováhu trhu pro produkt X, kde cena produktu je 5 Kč a množství poptávky je 1000 jednotek, množství nabídky je 800 jednotek. Co bude cena produktu v případě, že se nabídka zvýší o 200 jednotek?
+
+Úkol 2: Pokuste se vysvětlit, proč jsou v mikroekonomii důležité informace o omezeních vstupů a jak to ovlivňuje rovnováhu trhu.
+
+Úkol 3: Rovnovážná cena produktu je 10 Kč, množství poptávky je 1200 jednotek a množství nabídky je 1000 jednotek. Pokud se cena produktu zvýší o 5 Kč, kolik jednotek se sníží nabídka a kolik jednotek se zvýší poptávka?
+
+Úkol 4: Jaký je vliv elastičnosti poptávky na rovnováhu trhu? Vysvětlujte na příkladu produktu A, jehož cena je 20 Kč, množství poptávky je 1500 jednotek a množství nabídky je 1200 jednotek.
+
+Úkol 5: Pokuste se vysvětlit, jaký je rozdíl mezi absolutní a relativní cenovou elasticitou poptávky. Použijte příklad produktu B, jehož cena je 30 Kč, množství poptávky je 1800 jednotek a množství nabídky je 1600 jednotek.
+
+Úkol 6: Vypočítejte rovnovážnou cenu produktu C, kde množství poptávky je 2000 jednotek a množství nabídky je 1800 jednotek. Pokud se nabídka zvýší o 300 jednotek, jak se změní cena produktu C?
+
+Úkol 7: Jaký je vliv ekonomie skrytých nákladů na rovnováhu trhu? Vysvětlujte na příkladu produktu D, jehož cena je 40 Kč, množství poptávky je 2200 jednotek a množství nabídky je 2000 jednotek.
+
+Úkol 8: Pokuste se vysvětlit, jaký je rozdíl mezi konkurenční a monopolní strukturou trhu. Použijte příklad produktu E, jehož cena je 50 Kč, množství poptávky je 2500 jednotek a množství nabídky je 2200 jednotek.
+
+Úkol 9: Vypočítejte rovnovážnou cenu produktu F, kde množství poptávky je 3000 jednotek a množství nabídky je 2800 jednotek. Pokud se cena produktu F zvýší o 10 Kč, jak se změní nabídka a poptávka produktu F?
+
+Úkol 10: Pokuste se vysvětlit, jaký je vliv externích nákladů na rovnováhu trhu. Použijte příklad produktu G, jehož cena je 60 Kč, množství poptávky je 3200 jednotek a množství nabídky je 3000 jednotek.
