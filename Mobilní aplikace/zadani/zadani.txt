@@ -1,23 +1,33 @@
 # Zadání úkolů pro předmět: Mobilní aplikace
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:32:46
+# Datum: 2025-09-15 23:32:47
 
-Úkol 1: Navrhujte jednoduchou mobilní aplikaci pro záznam denních aktivit (například cvičení, jídla apod.). Aplikace by měla mít minimálně tři funkce: záznam aktivity, přehled aktivit a statistiky.
+Úkol 1: 
+Vytvořte jednoduchou mobilní aplikaci pro zjišťování počasí pomocí API počasí a zobrazujte výsledky na úvodní stránce aplikace.
 
-Úkol 2: Implementujte v programu Android aplikaci, která umožňuje uživatelům přidávat a mazat položky z seznamu nákupních úloh. Aplikace by měla mít rozhraní s uživatelským vstupem pro přidání položky a seznam nákupních úloh by měl být uložen v místní databázi.
+Úkol 2: 
+Vytvořte mobilní aplikaci pro sledování běhu. Aplikace by měla umožňovat uživateli zadat čas běhu, úroveň obtížnosti a vzdálenost běhu. Aplikace by měla také umožňovat uživatelům sledovat jejich běhové záznamy a zobrazovat výsledky na grafu.
 
-Úkol 3: Vytvořte aplikaci, která umožňuje uživatelům vytvářet a spravovat své vlastní kalendáře. Aplikace by měla mít funkce pro přidání událostí, mazání událostí a úpravu existujících událostí.
+Úkol 3: 
+Vytvořte mobilní aplikaci pro objednávání jídel v restauraci. Aplikace by měla umožňovat uživatelům procházet nabídku jídel, přidávat jídla do košíku a provádět platbu.
 
-Úkol 4: Implementujte aplikaci pro sledování zdraví, která umožňuje uživatelům zaznamenat své stravování, fyzickou aktivitu a spánek. Aplikace by měla mít funkce pro vypočítání denního příjmu kalorií, celkového denního pohybu a celkového spánku.
+Úkol 4: 
+Vytvořte mobilní aplikaci pro sledování zdraví. Aplikace by měla umožňovat uživatelům zaznamenávat své stravování, fyzickou aktivitu a spánek, a poté zobrazovat výsledky na grafu.
 
-Úkol 5: Navrhujte aplikaci pro sdílení obsahu na sociálních sítích. Aplikace by měla mít funkce pro přidávání obsahu (text, obrázky, videa), sdílení obsahu na sociálních sítích a spravování obsahu.
+Úkol 5: 
+Vytvořte mobilní aplikaci pro organizaci času. Aplikace by měla umožňovat uživatelům vytvářet schůzky, připomínat jim je a zobrazovat seznam plánovaných událostí.
 
-Úkol 6: Vytvořte aplikaci pro správu osobních financí. Aplikace by měla mít funkce pro přidávání výdajů, mazání výdajů, aktualizaci existujících výdajů a vypočítání celkového příjmu.
+Úkol 6: 
+Vytvořte mobilní aplikaci pro sociální sítě. Aplikace by měla umožňovat uživatelům vytvářet profily, přátelům, komentovat příspěvky a sdílet fotografie a videa.
 
-Úkol 7: Implementujte aplikaci pro vyhledávání informací na internetu. Aplikace by měla mít funkce pro zadání dotazu, vyhledání relevantních výsledků a zobrazování výsledků v seznamu.
+Úkol 7: 
+Vytvořte mobilní aplikaci pro vyhledávání místa v okolí. Aplikace by měla umožňovat uživatelům zadávat hledaný termín a zobrazovat výsledky na mapě.
 
-Úkol 8: Navrhujte aplikaci pro správu a plánování cestování. Aplikace by měla mít funkce pro přidávání destinací, mazání destinací, aktualizaci existujících destinací a vypočítání celkových nákladů na cestu.
+Úkol 8: 
+Vytvořte mobilní aplikaci pro sledování finančních transakcí. Aplikace by měla umožňovat uživatelům zadávat transakce, zobrazovat přehledy výdajů a příjmů a vytvářet grafy pro analýzu financí.
 
-Úkol 9: Vytvořte aplikaci pro analýzu a vizualizaci dat. Aplikace by měla mít funkce pro importování dat, vizualizaci dat (grafy, tabulky) a analýzu dat (statistika, trendy).
+Úkol 9: 
+Vytvořte mobilní aplikaci pro organizaci cesty. Aplikace by měla umožňovat uživatelům vytvářet itineráře, plánovat cestovní ruch a zobrazovat informace o destinacích.
 
-Úkol 10: Implementujte aplikaci pro správu a řízení týmu. Aplikace by měla mít funkce pro přidávání členů týmu, mazání členů týmu, aktualizaci existujících členů týmu a vypočítání celkového počtu členů týmu.
+Úkol 10: 
+Vytvořte komplexní mobilní aplikaci pro správu zdraví a kondice. Aplikace by měla umožňovat uživatelům zaznamenávat své stravování, fyzickou aktivitu, spánek, ale také by měla umožňovat uživatelům vytvářet plány tréninku a sledovat své pokroky.
