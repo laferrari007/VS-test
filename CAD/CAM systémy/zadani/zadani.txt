@@ -1,23 +1,33 @@
 # Zadání úkolů pro předmět: CAD/CAM systémy
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:37:18
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:37:30
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 1: 
+Vytvořte jednoduchý 2D design pomocí CAD systému Autodesk Inventor. Použijte si v něm vymezitelné tvary (skupiny), vytvořte geometrický tvar a uložte ho jako soubor DWG.
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 2: 
+Vygenerujte 3D model produktu pomocí CAD systému SolidWorks. Použijte si nástroje pro tvůrčí práci a vytvořte jednoduchý model sochy. Použijte si také nástroje pro správu geometrie a ověřte správnost modelu.
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 3: 
+Vytvořte program pro automatické generování CAD modelů produktů pomocí CAM systému. Použijte si jazyk Python a integrujte si ho s CAD systémem Fusion 360. Vytvořte skript, který generuje model produktu na základě zadaných parametrů.
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 4: 
+Vytvořte 3D model produktu pomocí CAD systému Catia. Použijte si nástroje pro tvůrčí práci a vytvořte komplexní model automobilové součástky. Použijte si také nástroje pro analýzu a ověřte správnost modelu.
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 5: 
+Vygenerujte CNC program pro obrábění materiálu pomocí CAM systému Mastercam. Použijte si nástroje pro správu geometrie a vytvořte program pro obrábění komplexního tváře. Použijte si také nástroje pro kontrolu a ověřte správnost programu.
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 6: 
+Vytvořte program pro automatické generování CNC programů pomocí CAM systému. Použijte si jazyk C++ a integrujte si ho s CAM systémem Siemens NX. Vytvořte skript, který generuje CNC program na základě zadaných parametrů.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 7: 
+Vytvořte 3D model produktu pomocí CAD systému Autodesk Revit. Použijte si nástroje pro tvůrčí práci a vytvořte komplexní model budovy. Použijte si také nástroje pro analýzu a ověřte správnost modelu.
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 8: 
+Vygenerujte program pro obrábění materiálu pomocí CAM systému. Použijte si nástroje pro správu geometrie a vytvořte program pro obrábění komplexního tváře. Použijte si také nástroje pro kontrolu a ověřte správnost programu.
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 9: 
+Vytvořte program pro automatické generování CAD modelů produktů pomocí CAM systému. Použijte si jazyk Java a integrujte si ho s CAD systémem PTC Creo. Vytvořte skript, který generuje model produktu na základě zadaných parametrů.
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu CAD/CAM systémy
+Úkol 10: 
+Vytvořte komplexní projekt CAD/CAM systému, který obsahuje všechny fáze procesu od navrhování produktu po výrobu. Použijte si více CAD/CAM systémů a integrujte je do jednoho komplexního systému. Vytvořte také program pro kontrolu a ověřte správnost systému.
