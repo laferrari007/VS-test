@@ -2,24 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:17:48
 
-Sem Vám poskytnu 10 univerzitních úkolů pro předmět "Numerická matematika":
+Úkol 1: Implementujte numerickou metodu pro aproximaci kruhového čísla π. Použijte metodu Monte Carlo, kde generujete náhodná čísla v intervalu (0,1) a určujete poměr čísel, která leží v daném kruhu. Zkuste implementovat alespoň 10 iterací a porovnejte výsledky s aproximací π.
 
-Úkol 1: Implementujte algoritmus pro aproximaci funkce pomocí Newtonovy metody pro řešení úloh s jedním neznámým, přičemž jako vstupní funkce použijte funkční předpis x^2 - 2.
+Úkol 2: Použijte numerické metody pro aproximaci funkce f(x) = 1/x. Implementujte metodu Newtonova-Raphsona s počátečním předpokladem x0 = 1 a určete číslo iterací, které vede ke stabilitě a přesnosti výsledku. Diskutujte vliv počtu iterací na přesnost výsledku.
 
-Úkol 2: Použijte metodu konečných prvků k aproximaci řešení úlohy pocházející z diferenciálního rovnice 2*y' + y = 0 na intervalu [0, 1] s počátečním podmínce y(0) = 1.
+Úkol 3: Implementujte numerickou metodu pro řešení systému lineárních rovnic Ax = b. Použijte metodu Gaussa-Seidela pro řešení systému s vícerozložitými maticemi A a b. Porovnejte výsledky s řešením pomocí metody Choleského.
 
-Úkol 3: Implementujte algoritmus pro numerickou integraci funkce pomocí kvadratury Simpsonovy pro funkci f(x) = sin(x) na intervalu [0, π] s přesností 0,001.
+Úkol 4: Použijte numerické metody pro aproximaci integrálu funkce f(x) = 1/x^2. Implementujte metodu Simpsonovy, kde budete použít čtvrtinné intervaly a určujete počet iterací. Porovnejte výsledky s aproximací pomocí metody Trapezoidu.
 
-Úkol 4: Použijte metodu konečných prvků k aproximaci řešení úlohy pocházející z parciální diferenciální rovnice ∂u/∂t = k * (∂²u/∂x²) s počáteční podmínkou u(0, x) = sin(x) a hranicemi u(0, t) = u(1, t) = 0 pro t > 0 za k = 0,1.
+Úkol 5: Implementujte numerickou metodu pro řešení diferenciálních rovnic y' = -y, kde y(0) = 1. Použijte metodu Eulerovy pro řešení diferenciální rovnice s počátečním předpokladem y0 = 1 a určit počet iterací, které vede ke stabilitě a přesnosti výsledku.
 
-Úkol 5: Implementujte algoritmus pro numerickou aproximaci řešení úlohy s více neznámými pomocí metody mocnin a řešte systém lineárních rovnic x + 2*y = 4 a 3*x + y = 5.
+Úkol 6: Použijte numerické metody pro aproximaci funkce f(x) = sin(x). Implementujte metodu Lagrangeovy, která využívá interpolaci Lagrangeovy sítě. Porovnejte výsledky s aproximací pomocí metody Newtonovy.
 
-Úkol 6: Použijte implicitní Eulerovu metodu k aproximaci řešení úlohy ∂u/∂t = f(u, x, t) s počáteční podmínkou u(0, x) = sin(x) a hranicemi u(0, t) = u(1, t) = 0 pro t > 0.
+Úkol 7: Implementujte numerickou metodu pro řešení systému lineárních rovnic Ax = b, kde A je maticí s vícerozložitými prvky. Použijte metodu QR, která spočívá v rozkladu maticy A na kvadratinici Q a horní trojúhelníkovou matici R. Porovnejte výsledky s řešením pomocí metody Gaussa-Seidela.
 
-Úkol 7: Implementujte algoritmus pro numerickou integraci funkce pomocí metody Trapeziových tvarů pro funkci f(x) = e^(-x) na intervalu [0, 2] s přesností 0,0001.
+Úkol 8: Použijte numerické metody pro aproximaci integrálu funkce f(x) = e^(-x^2). Implementujte metodu Gaussa-Kronrodova, která spočívá v aproximaci integrálu pomocí Gaussova kvadraturu a následném korekci pomocí metody Kronrodovy. Porovnejte výsledky s aproximací pomocí metody Simpsonovy.
 
-Úkol 8: Použijte metodu konečných prvků k aproximaci řešení úlohy pocházející z parciální diferenciální rovnice ∂²u/∂x² + ∂²u/∂y² = 0 s počáteční podmínkou u(x, 0) = sin(x) a hranicemi u(0, y) = u(π, y) = 0 pro y > 0.
+Úkol 9: Implementujte numerickou metodu pro řešení diferenciálních rovnic y'' + 2y' + y = 0, kde y(0) = 0 a y'(0) = 1. Použijte metodu Runge-Kutta, která spočívá v použití čtyřstupeňové integrace a posunu. Porovnejte výsledky s řešením pomocí metody Eulerovy.
 
-Úkol 9: Implementujte algoritmus pro numerickou aproximaci řešení úlohy s více neznámými pomocí metody mocnin a řešte systém lineárních rovnic 2*x + 3*y = 7 a x - 2*y = -3.
-
-Úkol 10: Použijte metodu konečných prvků k aproximaci řešení úlohy pocházející z diferenciálního rovnice y' = f(x, y) s počátečním podmínačem y(0) = 1 a hranicí y(x) = 0 pro x > 0.
+Úkol 10: Použijte numerické metody pro aproximaci funkce f(x) = log(x). Implementujte metodu Newtonova-Raphsona s počátečním předpokladem x0 = 1 a určete číslo iterací, které vede ke stabilitě a přesnosti výsledku. Diskutujte vliv počtu iterací na přesnost výsledku a porovnejte výsledky s aproximací pomocí metody Lagrangeovy.
