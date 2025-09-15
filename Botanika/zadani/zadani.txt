@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Botanika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:25:11
+
+Úkol 1: Popiš rozdíl mezi jednoduchým a složeným listem, včetně příkladů rostlin, na nichž tyto typy listů jsou pozorovatelné.
+
+Úkol 2: Porovnejte vlastnosti chlorofylu a carotenu, včetně jejich struktury a funkce v procesu fotosyntézy.
+
+Úkol 3: Popište a vysvětlěte proces fotosyntézy, včetně rovnice, která ukazuje, jak se v ní tvoří glukóza a kyslík.
+
+Úkol 4: Popište a porovnejte vlastnosti dvou typů kořenů: vláknitých a hlízovitých, včetně jejich funkcí a forem.
+
+Úkol 5: Vysvětlte rozdíl mezi symetrickými a nesymetrickými květy, včetně příkladů rostlin, na nichž tyto typy květu jsou pozorovatelné.
+
+Úkol 6: Popište a vysvětlěte proces transpirace, včetně faktorů, které ji ovlivňují, a důsledků pro rostliny.
+
+Úkol 7: Porovnejte vlastnosti dvou typů stonků: oddělujících a nepřezdílných, včetně jejich funkcí a forem.
+
+Úkol 8: Vysvětlte rozdíl mezi rostlinami monokotylonními a dikotylonními, včetně příkladů rostlin, na nichž tyto typy jsou pozorovatelné.
+
+Úkol 9: Popište a vysvětlěte proces sekundárního růstu dřeviny, včetně faktorů, které ho ovlivňují, a výsledků pro strom.
+
+Úkol 10: Vysvětlte rozdíl mezi adaptacemi rostlin na suché a vlhké prostředí, včetně příkladů rostlin, na nichž tyto adaptace jsou pozorovatelné.
