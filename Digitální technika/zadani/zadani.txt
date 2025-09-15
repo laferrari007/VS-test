@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Digitální technika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:34:03
+# Datum: 2025-09-15 23:34:04
 
-Úkol 1: Navrhnejte a popište základní principy a charakteristiky mikrokontroléru. Uveďte alespoň 3 důležité vlastnosti a vysvětlejte jejich význam pro aplikaci v digitální technice.
+Úkol 1: Popište rozdíl mezi analógními a číslicovými obvody a uveďte příklady použití obou typů ve praktických aplikacích.
 
-Úkol 2: Použijte simulaci nebo softwarové nástroje (např. Arduino IDE) a vytvořte jednoduchý obvod, který bude pracovat jako časovač se stálým časovým intervalem. Popište funkční princip a stručně vysvětlejte jeho použití v praxi.
+Úkol 2: Porovnejte charakteristiky mikroprocesorů ARM a x86 a uveďte jejich základní aplikace.
 
-Úkol 3: Vyberte a popište jeden typ rozhraní mikrokontroléru (např. UART, SPI, I2C) a vysvětlete jeho principy, výhody a nevýhody. Uveďte alespoň 3 příklady aplikací v digitální technice.
+Úkol 3: Vyberte typ mikrokontroléru a popište jeho charakteristiky a možnosti použití v domácích projektech.
 
-Úkol 4: Navrhnejte a popište návrh chybového chování mikrokontroléru, včetně detekce chyby, zpracování výjimek a generování alarmu. Uveďte alespoň 2 scénáře, v nichž by se mohlo chybové chování vyskytnout.
+Úkol 4: Navrhněte a popište obvod na ovládání LED diod pomocí čipu Arduino nebo mikrokontroléru ATmega.
 
-Úkol 5: Použijte programovací jazyk C nebo C++ a vytvořte jednoduchý program pro mikrokontrolér, který bude číst hodnoty ze senzorů (např. teplotního senzoru, tlačítka) a uložit je do paměti. Popište kód, funkční princip a stručně vysvětlejte jeho použití v praxi.
+Úkol 5: Popište principy a aplikace digitálního signálu. Uveďte rozdíl mezi analogovým a digitálním signálem a popište jeho použití v reálném světě.
 
-Úkol 6: Vyberte a popište jeden typ paměti mikrokontroléru (např. EEPROM, Flash) a vysvětlete jeho principy, výhody a nevýhody. Uveďte alespoň 2 příklady aplikací v digitální technice.
+Úkol 6: Navrhněte a implementujte algoritmus na zpracování dat na základě mikrokontroléru ATmega. Používejte například knihovnu libopencm3.
 
-Úkol 7: Navrhnejte a popište návrh komunikačního protokolu pro komunikaci mezi mikrokontrolérem a externím zařízením (např. počítačem, displejem). Uveďte alespoň 3 kroky a vysvětlejte jejich význam pro komunikaci v digitální technice.
+Úkol 7: Vyberte typ komunikační technologie (např. Wi-Fi, Bluetooth, Ethernet) a popište její principy a aplikace. Uveďte příklady použití v reálném světě.
 
-Úkol 8: Použijte simulaci nebo softwarové nástroje (např. Simulink) a vytvořte obvod s více mikrokontroléry, které budou komunikovat navzájem prostřednictvím komunikačního protokolu. Popište funkční princip, komunikaci a stručně vysvětlejte jeho použití v praxi.
+Úkol 8: Navrhněte a implementujte systém na ovládání domácí automatizace pomocí mikrokontroléru a komunikační technologie. Používejte například knihovnu ESP-IDF pro ESP32.
 
-Úkol 9: Vyberte a popište jeden typ digitálního signálu (např. PWM, analogový signál) a vysvětlete jeho principy, výhody a nevýhody. Uveďte alespoň 3 příklady aplikací v digitální technice.
+Úkol 9: Popište principy a aplikace mikroprogramování mikrokontrolérů. Uveďte příklady použití v reálném světě a navrhnete vlastní mikroprogram.
 
-Úkol 10: Navrhnejte a popište návrh systému pro monitorování a kontrolu procesu (např. výrobního procesu, klimatizace). Použijte mikrokontrolér, senzory, komunikaci a digitální signály. Uveďte alespoň 3 kroky a vysvětlejte jejich význam pro monitorování a kontrolu procesu v digitální technice.
+Úkol 10: Navrhněte a implementujte komplexní systém na zpracování a analýzu dat, který používá kombinaci mikrokontroléru, komunikační technologie a mikroprogramování. Používejte například knihovnu Arduino nebo libopencm3.
