@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Chemická technologie SŠ
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:16:14
+# Datum: 2025-09-15 23:16:15
 
-Úkol 1: Popiš proces rozložení kyseliny sírové (H2SO4) pomocí technologie rozložení v kapalném oxidu uhelnatém (CO).
+Úkol 1: Popiš a porovnej fyzikálně-chemické procesy, které probíhají během rozkladu uhelného prachu a rozkladu lignitu. Vymez své závěry.
 
-Úkol 2: Porovnejte výhod a nevýhod technologie rozkladu ropy naftové na ropný plyn a ropa zkapalněná.
+Úkol 2: Zvažte možnosti výroby oxidu uhličitého z CO2 v atmosféře. Vysvětle jednotlivé metody a diskutujte jejich efektivitu a náklady.
 
-Úkol 3: Vysvětlej proces výroby ethylalkoholu z ethylenu pomocí procesu alkylování.
+Úkol 3: Vypočtěte množství tepla, které je nezbytné pro zahřátí 100 kg vody z pokojové teploty na 80°C v reaktoru s vnitřním ohřevem. Předpokládejte, že reaktor má tepelnou kapacitu 0,4 MJ/kgK a účinnost 80%.
 
-Úkol 4: Popiš výrobní postup a charakteristické vlastnosti produktů z reakce mezi dusičnou kyselinou (HNO3) a uhelnatým oxidem (CO).
+Úkol 4: Popiš a porovnej vlastnosti a použití tří typů katalyzátorů: katalyzátorů pro rozklad vody, katalyzátorů pro okysličování a katalyzátorů pro dehydrogenaci.
 
-Úkol 5: Porovnej vliv teploty na rychlost rozkladu síranu sodného (Na2SO4) při aplikaci technologie rozkladu s vodou.
+Úkol 5: Zvažte možnosti využití bioplynu jako alternativy k fosilním palivům. Vysvětle jednotlivé metody jeho výroby a využití, včetně výhod a nedostatků.
 
-Úkol 6: Zkuste popsat vliv obsahu vody v kapalině na proces výroby chlorovodíku (HCl) pomocí reakce mezi chlorem a vodou.
+Úkol 6: Vypočtěte množství kyseliny sírové, které je třeba přidat do roztoku síranu sodného (10 litrů, 0,5 M), aby se dosáhlo koncentrace 1,2 M.
 
-Úkol 7: Vysvětlej proces výroby amoniaku (NH3) z dusičnanu amonného (NH4NO3) s aplikací technologie rozkladu za vzniku plynu.
+Úkol 7: Popiš a porovnej principy a rozdíly mezi postupem Haberho-Boscha a Clausovou reakcí. Vysvělte výhody a nevýhody obou procesů.
 
-Úkol 8: Porovnejte výhody a nevýhody dvou možných postupů k výrobě kyseliny chlorovodíkové (HCl) - reakce mezi chlorem a vodou a rozklad chloridu amonného (NH4Cl) za vzniku plynu.
+Úkol 8: Zvažte možnosti výroby vodíku z biomasy. Vysvělte jednotlivé metody jeho výroby a využití, včetně výhod a nedostatků.
 
-Úkol 9: Vyjasněte proces a technologie výroby oxidu uhličitého (CO2) z uhelného uhlí pomocí koksárenské technologie.
+Úkol 9: Vypočtěte množství energie, které je potřebné k zahřátí 500 kg vody z pokojové teploty na 150°C v reaktoru s vnějším ohřevem. Předpokládejte, že reaktor má tepelnou kapacitu 0,4 MJ/kgK a účinnost 80%.
 
-Úkol 10: Porovnejte dva možné postupy k výrobě kyseliny dusičné (HNO3) - proces rozkladu amoniaku za vzniku plynu a reakce mezi dusíkem a kyslíkem.
+Úkol 10: Popiš a porovnej vlastnosti a použití tří typů čidel: čidel koncentrace, čidel tlaku a čidel teploty. Vysvělte výhody a nevýhody jednotlivých typů čidel a jejich použití v chemické technice.
