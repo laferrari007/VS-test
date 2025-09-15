@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Signály a systémy
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:34:19
+
+Úkol 1: Vypočítejte celkovou hodnotu komplexního signálu s hodnotami 3 + 4j a 2 - 5j.
+
+Úkol 2: Vyjmenujte a popište hlavní typy filtrování (lina, pásmo, frekvenční) a uveďte jejich obecné vlastnosti.
+
+Úkol 3: Zjistěte a předložte přirozenou frekvenční charakteristiku systému s transferovacím funkčním vztahem H(s) = (s + 2)/(s^2 + 3s + 2).
+
+Úkol 4: Pro systém s transferovacím funkčním vztahem H(z) = (z^2 + 0,5z + 0,2)/(z^2 + 0,7z + 0,3), udělejte přirozenou frekvenční charakteristiku.
+
+Úkol 5: Zkonvertujte časový signál x(t) = sin(2πt/3) z časové do frekvenční oblasti s využitím Fourierovy transformace.
+
+Úkol 6: Pro systém s nastaveným vstupním signálem se zanedbávanými kmitočty, vyřešte problém zanedbávaných kmitočtů a udělejte návrh filtru, který bude odstranit tyto kmitočty a zachovával ostatní.
+
+Úkol 7: Pro systém s nastaveným transferovacím funkčním vztahem H(s) = (s + 1)/(s^2 + 2s + 2), zkonvertujte z časové do frekvenční oblasti a udělejte přirozenou frekvenční charakteristiku.
+
+Úkol 8: Implementujte a vyhodnoťte efektivitu algoritmu vypočítávání Fourierovy transformace Discrete Fourier Transform (DFT) na základě vzorkování časového signálu a porovnejte výsledky s výsledky algoritmu Fast Fourier Transform (FFT).
+
+Úkol 9: Pro systém s nastaveným transferovacím funkčním vztahem H(z) = (z^2 - 0,7z + 0,3)/(z^2 - 0,2z + 0,1), udělejte přirozenou frekvenční charakteristiku ve frekvenční oblasti a udělejte návrh filtru, který bude odstranit nežádoucí kmitočty.
+
+Úkol 10: Implementujte a vyhodnoťte efektivitu algoritmu řízení frekvenčních kmitočtů, který bude optimalizovat systém pro maximální odolnost vůči zanedbávaným kmitočtům.

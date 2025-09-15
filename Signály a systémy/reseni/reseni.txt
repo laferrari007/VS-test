@@ -1,0 +1,90 @@
+# Řešení úkolů pro předmět: Signály a systémy
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:34:19
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vypočítejte celkovou hodnotu komplexního signálu s hodnotami 3 + 4j a 2 - 5j.
+
+Pokud chceme vypočítat celkovou hodnotu komplexního signálu, můžeme jej zapsat jako součet dvou komplexních čísel. Celková hodnota komplexního signálu je pak komplexní číslo, jehož reálnou a imaginární částí jsou součty reálných a imaginárních částí jednotlivých komplexních čísel.
+
+V tomto případě máme komplexní čísla 3 + 4j a 2 - 5j. Celkovou hodnotu komplexního signálu můžeme zapsat jako:
+
+(3 + 4j) + (2 - 5j)
+
+Způsobilost komplexních čísel se zapisuje pomocí následujícího pravidla:
+
+a + bj + c + dj = (a + c) + (b + d)j
+
+V našem případě je a = 3, bj = 4j, c = 2 a dj = -5j. Podle výše uvedeného pravidla tedy celková hodnota komplexního signálu je:
+
+(3 + 2) + (4 - 5)j = 5 - j
+
+Celkovou hodnotu komplexního signálu 3 + 4j a 2 - 5j tedy je 5 - j.
+
+Řešení 2: Vyjmenujte a popište hlavní typy filtrování (lina, pásmo, frekvenční) a uveďte jejich obecné vlastnosti.
+
+Filtrování je proces, při kterém je odstraněn nežádoucí signál nebo jsou zachovány pouze požadované složky signálu. Existuje několik typů filtrování, z nichž jsou hlavní:
+
+- **Liniérové filtrování**: Liniérové filtrování je typ filtrování, při kterém je signál změněn lineární funkcí. Liniérový filtr má transferový vektor nebo transferový vektor, který je lineární funkcí vstupního signálu. Liniérové filtrování je často používáno v analoga-signálových systémech.
+
+- **Pásmové filtrování**: Pásmové filtrování je typ filtrování, při kterém je signál filtrován podle jeho frekvenční složky. Pásmový filtr odstraní nežádoucí frekvenční složky a zachová požadované frekvenční složky. Pásmové filtrování je často používáno v analoga-signálových systémech.
+
+- **Frekvenční filtrování**: Frekvenční filtrování je typ filtrování, při kterém je signál filtrován podle jeho frekvenční složky. Frekvenční filtr odstraní nežádoucí frekvenční složky a zachová požadované frekvenční složky. Frekvenční filtrování je často používáno v digitálních systémech.
+
+Obecné vlastnosti těchto typů filtrování jsou:
+
+- Liniérové filtrování: lineární funkce vstupního signálu, jednoduché implementace.
+- Pásmové filtrování: filtrování podle frekvenční složky, jednoduché implementace.
+- Frekvenční filtrování: filtrování podle frekvenční složky, složitější implementace.
+
+Řešení 3: Zjistěte a předložte přirozenou frekvenční charakteristiku systému s transferovacím funkčním vztahem H(s) = (s + 2)/(s^2 + 3s + 2).
+
+Přirozenou frekvenční charakteristikou systému je funkce, která udává poměr výstupu k vstupu systému podle frekvenční složky vstupu. Přirozenou frekvenční charakteristiku lze získat pomocí transferového vztahu systému a transformace Laplace.
+
+Transferový vektor systému je dán jako:
+
+H(s) = (s + 2)/(s^2 + 3s + 2)
+
+Přirozenou frekvenční charakteristiku lze získat pomocí transformace Laplace:
+
+Y(jω) = H(jω) = H(s)|s=jω
+
+Zaměníme s = jω do transferového vztahu a vyhodnotíme:
+
+H(jω) = (jω + 2)/((jω)^2 + 3(jω) + 2)
+
+Zjednodušíme a vyhodnotíme:
+
+H(jω) = (jω + 2)/((jω)^2 + 3jω + 2)
+
+Přirozenou frekvenční charakteristikou systému je funkce:
+
+H(jω) = (jω + 2)/((jω)^2 + 3jω + 2)
+
+Řešení 4: Pro systém s transferovacím funkčním vztahem H(z) = (z^2 + 0,5z + 0,2)/(z^2 + 0,7z + 0,3), udělejte přirozenou frekvenční charakteristiku.
+
+Přirozenou frekvenční charakteristikou systému je funkce, která udává poměr výstupu k vstupu systému podle frekvenční složky vstupu. Přirozenou frekvenční charakteristiku lze získat pomocí transformace Z.
+
+Transferový vektor systému je dán jako:
+
+H(z) = (z^2 + 0,5z + 0,2)/(z^2 + 0,7z + 0,3)
+
+Přirozenou frekvenční charakteristiku lze získat pomocí transformace Z:
+
+Y(e^{jω}) = H(e^{jω}) = H(z)|z=e^{jω}
+
+Zaměníme z = e^{jω} do transferového vztahu a vyhodnotíme:
+
+H(e^{jω}) = (e^{jω} + 0,5e^{jω} + 0,2)/(e^{jω} + 0,7e^{jω} + 0,3)
+
+Zjednodušíme a vyhodnotíme:
+
+H(e^{jω}) = (e^{jω}(1 + 0,5) + 0,2)/(e^{jω}(1 + 0,7) + 0,3)
+
+Přirozenou frekvenční charakteristikou systému je funkce:
+
+H(e^{jω}) = (1,5 + 0,2)/(1,7 + 0,3)
+
+Řešení 5: Zkonvertujte časový signál x(t) = sin(2πt/3) z časové do frekvenční oblasti s využitím Fourierovy transformace.
+
+Fourierova transformace je matematická funkce, která převádí časový signál do frekvenční oblasti.
