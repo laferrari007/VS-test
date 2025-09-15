@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Fyzikální chemie
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:08:43
+# Zadání úkolů pro předmět: Fyzikální chemie
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:22:13
 
-Úkol 1: Vyjmenujte a popište hlavní pojmy, které jsou základem fyzikální chemie. (1-2 stránkové text)
+Úkol 1: Vypočítejte rychlost tělesa souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 2: Vymyslete experimentální postup, jak měřit úroveň aktivační energie pro danou chemickou reakci. (3-4 stránkový text)
+Úkol 2: Určete sílu působící na těleso souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 3: Porovnejte a vysvětlete rozdíly mezi klasickou mechanikou a kvantovou mechanikou v kontextu chemických reaktionů. (5-6 stránkový text)
+Úkol 3: Vypočítejte energii systému souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 4: Zjistěte, jakou roli hraje kinetika v chemických reakcích a jaké jsou její základní principy. (7-8 stránkový text)
+Úkol 4: Řešte pohybovou rovnici souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 5: Vytvořte tabulku, která porovná energetické hodnoty a reaktanty pro několik různých chemických reakcí, a vysvětlíte, proč jsou některé reakce energeticky výhodné. (9-10 stránkový text)
+Úkol 5: Určete elektrický proud souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 6: Seznamte se s teorií molekulární orbitálů a vysvětlíte její použití v chemii. (11-12 stránkový text)
+Úkol 6: Vypočítejte odpor obvodu souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 7: Zpracujte analýzu molekulárních orbitalů pro danou sloučeninu a vysvětlte její strukturu a właścilosti. (13-14 stránkový text)
+Úkol 7: Řešte úkol z termodynamiky souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 8: Vyjmenujte a popište různé typy chemických vazeb a vysvětlíte jejich energetické a mechanické vlastnosti. (15-16 stránkový text)
+Úkol 8: Určete vlnovou délku souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 9: Vytvořte model elektronové struktury pro komplexní organickou sloučeninu a vysvětlíte její chování v různých chemických reakcích. (17-18 stránkový text)
+Úkol 9: Vypočítejte moment síly souvisejí s tématem z předmětu Fyzikální chemie
 
-Úkol 10: Zpracujte komplexní analýzu chemických reaktionů a vysvětlíte, jak se interakce molekul a jejich energetické vlastnosti ovlivňují průběhu chemických reakcí. (19-20 stránkový text)
+Úkol 10: Řešte úkol z optiky souvisejí s tématem z předmětu Fyzikální chemie
