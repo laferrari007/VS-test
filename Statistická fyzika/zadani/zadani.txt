@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Statistická fyzika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:06:37
+# Zadání úkolů pro předmět: Statistická fyzika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:20:00
 
-Úkol 1: Základní úkol z předmětu Statistická fyzika - úroveň 1
+Úkol 1: Popište rozdíl mezi statistickou a klasickou fyzikou uvnitř systému v rovnováze. Jak se tyto dva přístupy liší v popisu chování mikroskopických částic?
 
-Úkol 2: Základní úkol z předmětu Statistická fyzika - úroveň 2
+Úkol 2: Vyjmenujte a popište základní postuláty statistické mechaniky. Jaké jsou jejich základní předpoklady a jak se tyto postuláty používají k popisu fyzikálních systémů?
 
-Úkol 3: Základní úkol z předmětu Statistická fyzika - úroveň 3
+Úkol 3: Popište význam funkce partition funkce v statistické mechanice. Jak se používá k popisu systému v rovnováze a jak se odlišuje od jiné funkce, známé jako entropie?
 
-Úkol 4: Základní úkol z předmětu Statistická fyzika - úroveň 4
+Úkol 4: Proveďte analýzu systému v rovnováze pomocí metody MaxEnt (Maximální Entropie). Jakou roli hraje funkce entropie v tomto přístupu a jak je spojen s partition funkcí?
 
-Úkol 5: Základní úkol z předmětu Statistická fyzika - úroveň 5
+Úkol 5: Vyberte dva fyzikální systémy, které lze popsat pomocí metody MaxEnt (například ideální plyn a magnet v magnetickém poli). Popište, jakým způsobem se MaxEnt používá k popisu těchto systémů a jakých výsledků lze očekávat.
 
-Úkol 6: Základní úkol z předmětu Statistická fyzika - úroveň 6
+Úkol 6: Popište rozdíl mezi mikroskopickým a makroskopickým popisem fyzikálního systému. Jaký je vztah mezi nimi a jak se tyto dva přístupy liší v popisu chování fyzikálních systémů?
 
-Úkol 7: Základní úkol z předmětu Statistická fyzika - úroveň 7
+Úkol 7: Proveďte analýzu systému v rovnováze pomocí metody statistické termodinamiky. Jakým způsobem se používají základní pojmy jako entropie, vnitřní energie a teplota v tomto přístupu?
 
-Úkol 8: Základní úkol z předmětu Statistická fyzika - úroveň 8
+Úkol 8: Vyberte dva fyzikální systémy, které lze popsat pomocí metody statistické termodinamiky (například ideální plyn a termodynamický cyklus). Popište, jakým způsobem se používají základní pojmy v tomto přístupu a jakých výsledků lze očekávat.
 
-Úkol 9: Základní úkol z předmětu Statistická fyzika - úroveň 9
+Úkol 9: Popište vztah mezi statistickou mechanikou a kvantovou mechanikou. Jaký je vztah mezi mikroskopickým popisem fyzikálního systému pomocí statistické mechaniky a makroskopickým popisem pomocí kvantové mechaniky?
 
-Úkol 10: Základní úkol z předmětu Statistická fyzika - úroveň 10
+Úkol 10: Proveďte analýzu systému v rovnováze pomocí metody statistické mechaniky s přihlédnutím k efektům kvantové mechaniky (například Bose-Einstein statistika a Fermi-Dirac statistika). Jakým způsobem se používají základní pojmy v tomto přístupu a jakých výsledků lze očekávat?
