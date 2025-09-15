@@ -1,13 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Strojové učení
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:44:47
+# Zadání úkolů pro předmět: Strojové učení
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:31:41
 
-Úkol 1: Implementujte jednoduchou klasifikaci dat pomocí lineárního rozložení, která rozděluje datové body do dvou tříd. Použijte pro tuto úlohu dataset Iris a vyhodnocujte úspěšnost klasifikace pomocí accuracy měření.
+Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Strojové učení
 
-Úkol 2: Trénujte a vyhodnocujte model neuronové sítě pro předpovídání ceny nemovitostí na základě charakteristik nemovitostí (počet pokojů, plocha, počet podlaží apod.). Použijte dataset s hodnotami cen nemovitostí a vyhodnocujte úspěšnost modelu pomocí mean squared error.
+Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Strojové učení
 
-Úkol 3: Implementujte a trénujte model gradientního zvrácení (gradient boosting) pro předpovídání výsledku voleb na základě sociodemografických dat (věk, pohlaví, vzdělání apod.). Použijte dataset s výsledky voleb a vyhodnocujte úspěšnost modelu pomocí F1 skóre.
+Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Strojové učení
 
-Úkol 4: Vyberte dataset ze světa biomedicíny a implementujte a trénujte model hluboké neuronové sítě (CNN) pro klasifikaci obrazů biologických vzorků (např. zobrazování magnetickou rezonancí). Použijte dataset s obrazními daty a vyhodnocujte úspěšnost modelu pomocí accuracy měření.
+Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Strojové učení
 
-Úkol 5: Implementujte a trénujte model založený na reprezentacích slov (word embeddings) pro předpovídání sentimentu recenzí na základě textu recenze a hodnocení. Použijte dataset s recenzemi a hodnoceními a vyhodnocujte úspěšnost modelu pomocí F1 skóre.
+Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Strojové učení
+
+Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Strojové učení
+
+Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Strojové učení
+
+Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Strojové učení
+
+Úkol 9: Interpretujte data souvisejí s tématem z předmětu Strojové učení
+
+Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Strojové učení

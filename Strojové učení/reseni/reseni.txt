@@ -1,153 +1,104 @@
-# AI Generované řešení úkolů pro předmět: Strojové učení
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:44:47
+# Řešení úkolů pro předmět: Strojové učení
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:31:41
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Klasyfikace textů pomocí Logistického_regressionu
+Řešení 1: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-**Úkol:**
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-Předat datový soubor s textovými údaji a použít Logistický_regression k klasifikaci textů do dvou kategorií: pozitivní a negativní.
+Řešení 2: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-**Datový soubor:**
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-- 1000 řádků (texty)
-- 2 atributy: "text" (textový údaj) a "polarity" (kategorie: pozitivní nebo negativní)
+Řešení 3: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-**Postup:**
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-1. **Příprava dat:**
- - Přeložte texty do numerických reprezentací pomocí Tfidf (Term Frequency-Inverse Document Frequency) nebo Word Embeddings (například Word2Vec).
- - Rozdělte data na trénovací a testovací sadu (80% trénování, 20% testování).
+Řešení 4: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-2. **Vytvoření modelu:**
- - Použijte Logistický_regression k vytvoření modelu klasifikace.
- - Použijte knihovnu scikit-learn v Pythonu.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-3. **Trenování modelu:**
- - Trenujte model na trénovacích datech.
- - Použijte optimizační algoritmus (například SGD) k optimalizaci parametrů modelu.
+Řešení 5: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-4. **Testování modelu:**
- - Testujte model na testovacích datech.
- - Použijte metriku accuracy k měření úspěšnosti modelu.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-5. **Výsledek:**
- - Pokud je accuracy modelu vyšší než 80%, lze říci, že Logistický_regression je efektivní pro klasifikaci textů.
+Řešení 6: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-### Kód:
-```python
-import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-# Načtěte datový soubor
-df = pd.read_csv("text_data.csv")
+Řešení 7: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-# Rozdělte data na trénovací a testovací sadu
-x_train, x_test, y_train, y_test = train_test_split(df["text"], df["polarity"], test_size=0.2, random_state=42)
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-# Přeložte texty do numerických reprezentací
-vectorizer = TfidfVectorizer()
-x_train_tfidf = vectorizer.fit_transform(x_train)
-x_test_tfidf = vectorizer.transform(x_test)
+Řešení 8: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-# Vytvořte model Logistického_regression
-model = LogisticRegression()
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-# Trenujte model
-model.fit(x_train_tfidf, y_train)
+Řešení 9: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-# Testujte model
-y_pred = model.predict(x_test_tfidf)
-accuracy = accuracy_score(y_test, y_pred)
-print("Accuracy:", accuracy)
-```
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
 
-Řešení 2: Klasifikace obrázků pomocí Klasifikátoru s hluboký neuronovou síti
+Řešení 10: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Strojové učení
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-**Úkol:**
-
-Předat datový soubor s obrázky a použít Klasifikátor s hluboký neuronovou síti (CNN) k klasifikaci obrázků do tří kategorií: zelená, červená a žlutá.
-
-**Datový soubor:**
-
-- 1000 obrázků s rozlišením 224x224 (soubory JPEG)
-- 3 atributy: "image" (obrázek), "label" (kategorií: zelená, červená nebo žlutá)
-
-**Postup:**
-
-1. **Příprava dat:**
- - Přeložte obrázky do numerických reprezentací pomocí CNN (například VGG16 nebo ResNet50).
- - Rozdělte data na trénovací a testovací sadu (80% trénování, 20% testování).
-
-2. **Vytvoření modelu:**
- - Použijte Klasifikátor s hluboký neuronovou síti (CNN) k vytvoření modelu klasifikace.
- - Použijte knihovnu TensorFlow nebo PyTorch v Pythonu.
-
-3. **Trenování modelu:**
- - Trenujte model na trénovacích datech.
- - Použijte optimizační algoritmus (například Adam) k optimalizaci parametrů modelu.
-
-4. **Testování modelu:**
- - Testujte model na testovacích datech.
- - Použijte metriku accuracy k měření úspěšnosti modelu.
-
-5. **Výsledek:**
- - Pokud je accuracy modelu vyšší než 90%, lze říci, že CNN je efektivní pro klasifikaci obrázků.
-
-### Kód:
-```python
-import tensorflow as tf
-from tensorflow.keras.applications import VGG16
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Dense, Flatten
-
-# Načtěte datový soubor
-train_dir = "train"
-test_dir = "test"
-
-# Příprava dat
-train_datagen = ImageDataGenerator(rescale=1./255)
-test_datagen = ImageDataGenerator(rescale=1./255)
-train_generator = train_datagen.flow_from_directory(train_dir, target_size=(224, 224), batch_size=32, class_mode="categorical")
-test_generator = test_datagen.flow_from_directory(test_dir, target_size=(224, 224), batch_size=32, class_mode="categorical")
-
-# Vytvořte model CNN
-base_model = VGG16(weights="imagenet", include_top=False, input_shape=(224, 224, 3))
-x = base_model.output
-x = Flatten()(x)
-x = Dense(128, activation="relu")(x)
-x = Dense(3, activation="softmax")(x)
-model = Model(inputs=base_model.input, outputs=x)
-
-# Trenujte model
-model.compile(optimizer="adam", loss="categorical_crossentropy", metrics=["accuracy"])
-model.fit(train_generator, epochs=10, validation_data=test_generator)
-
-# Testujte model
-loss, accuracy = model.evaluate(test_generator)
-print("Accuracy:", accuracy)
-```
-
-Řešení 3: Klasifikace textu pomocí Recurentního_neuronového_sítě (RNN)
-
-**Úkol:**
-
-Předat datový soubor s textovými údaji a použít Recurrentní_neuronovou_síť (RNN) k klasifikaci textů do dvou kategorií: pozitivní a negativní.
-
-**Datový soubor:**
-
-- 1000 řádků (texty)
-- 2 atributy: "text" (textový údaj) a "polarity" (kategorie: pozitivní nebo negativní)
-
-**Postup:**
-
-1. **Příprava dat:**
- - Přeložte texty do numerických reprezentací pomocí Word Embeddings (například Word2Vec).
- - Rozdělte data na trénovací a testovací sadu (80% trénování, 20% testování).
-
-2. **Vytvoření modelu:**
- - Použijte Recurrentní_neuronovou_síť (RNN) k vytvoření model
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Strojové učení.
