@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Molekulární biologie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:24:03
+
+Úkol 1: Popište strukturu DNA a RNA a vysvětle jejich biologické funkce.
+
+Úkol 2: Porovnejte primary a sekundární strukturu dvou různých proteinů a vysvětle jejich role v biologických procesech.
+
+Úkol 3: Popište proces transkripce a vysvětlete, jak se genetický kód překládá na aminokyselinový řetězec.
+
+Úkol 4: Vyjmenujte a popište hlavní typy genetických mutací a vysvětle jejich důsledky na molekulární úrovni.
+
+Úkol 5: Popište mechanismus polymerázové řetězové reakce (PCR) a vysvětle její použití v molekulární biologii.
+
+Úkol 6: Porovnejte a vysvětle rozdíly mezi homologními a paralogními geny v rámci jedné a mezi dvěma druhy.
+
+Úkol 7: Vyjmenujte a popište hlavní typy genetických technik, jako je klonování, transgenóza a genová editace, a vysvětle jejich použití v molekulární biologii.
+
+Úkol 8: Popište strukturu a funkci ribozomu a vysvětle jeho roli v překládání genetického kódu na aminokyselinový řetězec.
+
+Úkol 9: Porovnejte a vysvětle rozdíl mezi centromerovou a telomerovou stabilizací genetického materiálu během buněčného cyklu.
+
+Úkol 10: Vyjmenujte a popište hlavní typy epigenetických mechanismů, jako je metylace DNA a histonů, a vysvětle jejich roli v regulaci genové exprese.
