@@ -1,5 +1,5 @@
 # Řešení úkolů pro předmět: Správní právo
-# Vygenerováno: AI
+# Vygenerováno: Fallback
 # Datum: 2025-09-15 23:51:46
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 

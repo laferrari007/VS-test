@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Správní právo
-# Vygenerováno: AI
+# Vygenerováno: Fallback
 # Datum: 2025-09-15 23:51:46
 
-Úkol 1: Popiš rozdíly mezi správními a trestními pokutami.
+Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Správní právo
 
-Úkol 2: Vyjasni rozdíl mezi správní žalobou a žalobou na ochranu veřejného mínění.
+Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Správní právo
 
-Úkol 3: Popiš principy správního soudnictví a jejich vztah k soudnímu řádu.
+Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Správní právo
 
-Úkol 4: Analyzujte rozhodnutí Ústavního soudu ČR k rozkladnosti veřejné správy a jejich dopad na praxi.
+Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Správní právo
 
-Úkol 5: Diskutujte o výhodách a nevýhodách institutu správního soudního přezkoumání v ČR.
+Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Správní právo
 
-Úkol 6: Napište rozbor zákonného ustanovení týkajícího se pravomoci správních orgánů k vydávání rozhodnutí o povolení nebo neudělení konkrétního správního titulu (např. licenci, povolení k podnikání).
+Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Správní právo
 
-Úkol 7: Analyzujte rozhodovací praxi Nejvyššího správního soudu ČR v oblasti správního soudnictví a její vliv na vyřešení právních sporů.
+Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Správní právo
 
-Úkol 8: Popiš procesní postupy správních orgánů při vyřizování stížností na porušování práv fyzických a právnických osob v oblasti veřejné správy.
+Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Správní právo
 
-Úkol 9: Diskutujte o problémech a dopadech nesouladu mezi právy a povinnostmi v oblasti veřejné správy a jejich dopad na práva fyzických a právnických osob.
+Úkol 9: Interpretujte data souvisejí s tématem z předmětu Správní právo
 
-Úkol 10: Napište kritický rozbor institutu správního rozhodování v oblasti veřejné správy s ohledem na principy spravedlnosti, transparentnosti a účelnosti.
+Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Správní právo
