@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Hermeneutika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:59:37
+# Datum: 2025-09-15 23:59:38
 
-Úkol 1: Analyzujte textový fragment ze spisu Martin Heideggera "Byt a čas" a vysvětlujte, jakými způsobem se v něm dostavuje hermeneutický princip průniku skutečnosti a interpretace.
+Úkol 1: Analyzujte textová díla F. Schleiermacha "Hermeneutika" a popsme, jak autorem představený pojem "hermeneutického kruhu" reprezentuje proces interpretace textů.
 
-Úkol 2: Použijte teorii Paul Ricœura o "času a příběhu" a popište, jak se vztahuje k konceptu "žijícího času" od Martin Heideggera.
+Úkol 2: Porovnejte a srovnajte dva různé hermeneutické přístupy (například Schleiermacha a Gadamera) a diskutujte o jejich rozdílech a podobnostech.
 
-Úkol 3: Diskutujte, zda je hermeneutika jako filosofická disciplína schopna poskytnout univerzální metodologii pro analýzu textu. Uveďte příklady pro a proti.
+Úkol 3: Vyberte si textový fragment (například pasáž z díla Friedricha Nietzscheho "Kritika takovétnosti") a aplikujte na něj hermeneutický kruh F. Schleiermacha. Popsme proces interpretace a identifikujte možné problémy a komplikace.
 
-Úkol 4: Zvolte textový fragment ze spisu Friedricha Schleiermachera "Díl o hermeneutice" a analyzujte, jak se v něm projevuje jeho pojetí hermeneutiky jako disciplíny soustředící se na interpretaci.
+Úkol 4: Analyzujte roli kontextu ve hermeneutickém procesu interpretace. Jak kontext ovlivňuje naše pochopení textu? Jaké jsou možné problémy, pokud kontext chybí nebo je nejasný?
 
-Úkol 5: Použijte teorii Hans-Georga Gadamera o "pojmovém jazyce" a popište, jak se vztahuje k konceptu "interpretace jako přetvoření" od Waltera Benjamina.
+Úkol 5: Představit si hermeneutický kruh jako cyklus. Jak se jednotlivé fáze kruhu ovlivňují navzájem? Jaká je role předsunutosti (protivády) v hermeneutickém procesu?
 
-Úkol 6: Diskutujte, zda je hermeneutika jako filosofická disciplína schopna poskytnout univerzální metodologii pro analýzu kulturních fenoménů. Uveďte příklady pro a proti.
+Úkol 6: Diskutujte o tom, jak hermeneutika souvisí s dalšími filozofickými disciplínami (například epistemologií, etikou, filozofií jazyka). Jaké jsou možné vztahy a závislosti mezi nimi?
 
-Úkol 7: Analyzujte textový fragment ze spisu Paul Ricœura "Na hranicích reality a fikce" a vysvětlujte, jakými způsobem se v něm dostavuje hermeneutický princip průniku reality a fikce.
+Úkol 7: Vyberte si dva různé hermeneutické přístupy k interpretaci textu a diskutujte o tom, jakými metodami a nástroji se liší. Jaké jsou výhody a nevýhody každého z nich?
 
-Úkol 8: Použijte teorii Jürgena Habermase o "kritické teorií" a popište, jak se vztahuje k konceptu "hermeneutického cyklu" od Hans-Georga Gadamera.
+Úkol 8: Analyzujte roli předsunutosti (protivády) v hermeneutickém procesu. Jak se protivády ovlivňují interpretace textu a jaká je jejich role v procesu hermeneutického kruhu?
 
-Úkol 9: Diskutujte, zda je hermeneutika jako filosofická disciplína schopna poskytnout univerzální metodologii pro analýzu historických událostí. Uveďte příklady pro a proti.
+Úkol 9: Představit si hermeneutický kruh jako dynamický proces, jehož výsledky jsou neustále prověřovány a přeřazené. Jaký je přínos tohoto pojetí hermeneutiky pro naše pochopení textu a kultury?
 
-Úkol 10: Zvolte textový fragment ze spisu Jacquesa Derridy "Grafy přítomnosti" a analyzujte, jak se v něm projevuje jeho pojetí hermeneutiky jako disciplíny soustředící se na dekonstrukci tradice.
+Úkol 10: Diskutujte o tom, jak hermeneutika souvisí s problémy současné společnosti (například globalizací, multikulturalitou, postmodernitou). Jaké jsou možné konkrétní aplikace hermeneutiky v těchto kontextech?
