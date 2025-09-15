@@ -2,24 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:35:12
 
-Zde jsou 10 univerzitních úkolů pro předmět "Telekomunikační technika":
+Úkol 1: Prozkoumejte vlastnosti a aplikace digitální modulace ASK (Amplitude Shift Keying) ve vybrané telekomunikační technice.
 
-Úkol 1: Popište základní principy fungování digitální komunikace a zdůvodněte proč je nutné používání kódování při přenosu digitální informace.
+Úkol 2: Popište principy a funkce vybrané komunikační protokoly (například TCP/IP) a vysvětlejte jeho význam v současné telekomunikační infrastruktuře.
 
-Úkol 2: Seznamte se s typy kabelů, které se používají v telekomunikacích (coaxiální, opticální, twisted pair), a popsalmateř jejich charakteristik a použití.
+Úkol 3: Vypočtěte a porovnejte chybovou úroveň pro dva různé typy modulace: FSK (Frequency Shift Keying) a PSK (Phase Shift Keying) při stejné úrovně signálu.
 
-Úkol 3: Vypočítejte a zdůvodněte, proč je důležitá vzdálenost a úhel dopadu signálu v optické komunikaci.
+Úkol 4: Analyzujte přenosovou kapacitu vybrané telekomunikační sítě (například sítě 5G) a porovnejte ji s přenosovou kapacitou starších sítí.
 
-Úkol 4: Popište a vyhodnoťte principy fungování modulačních technik (ASK, FSK, PSK) a zdůvodněte jejich použití v různých aplikacích.
+Úkol 5: Uveďte hlavní rozdíly mezi analogovými a digitálními komunikačními systémy a vysvětlejte úskalí při implementaci digitálních komunikačních systémů.
 
-Úkol 5: Seznamte se s typy chybových kódů (parity, CRC) a popsalmateř jejich použití v telekomunikacích.
+Úkol 6: Popište principy a funkce vybrané techniky digitální modulace (například QAM - Quadrature Amplitude Modulation) a vysvětlejte její aplikaci v současné telekomunikační infrastruktuře.
 
-Úkol 6: Vypočítejte a zdůvodněte, proč je důležitá charakteristika signálu (amplituda, frekvence, fáze) v modulační technice.
+Úkol 7: Zpracujte analýzu přenosové rychlosti a odolnosti proti šumu pro vybraný typ digitální modulace (například 64 QAM) a porovnejte ji s jinými typy modulací.
 
-Úkol 7: Popište a vyhodnoťte principy fungování vybraných typů přenosových technik (modifikace signálu, kódování, dekódování) a zdůvodněte jejich použití v různých aplikacích.
+Úkol 8: Zpracujte případovou studii implementace vybrané telekomunikační technologie (například Wi-Fi) v reálném světě a vysvětlejte její výhody a nevýhody.
 
-Úkol 8: Seznamte se s typy rozptylu signálu (multiplexní rozptyl, rozptyl prostředí, rozptyl časový) a popsalmateř jejich vliv na kvalitu signálu.
+Úkol 9: Uveďte a porovnejte hlavní vlastnosti a aplikace vybraných typů komunikace (například komunikace s využitím signálu laserového paprsku a komunikace s využitím signálu rádiového paprsku).
 
-Úkol 9: Vypočítejte a zdůvodněte, proč je důležitá charakteristika prostředí (absorpce, difuzní rozptyl, odraz) v telekomunikacích.
-
-Úkol 10: Popište a vyhodnoťte principy fungování vybraných typů komunikačních sítí (přenos dat, hlas, video) a zdůvodněte jejich architekturu a použití v různých aplikacích.
+Úkol 10: Zpracujte návrh a implementaci vybraného komunikačního systému s využitím softwarového definovaného rádiového rozhraní (SDR) a vysvětlejte jeho výhody a nevýhody.
