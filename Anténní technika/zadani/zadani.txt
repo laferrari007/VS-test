@@ -1,0 +1,33 @@
+# Zadání úkolů pro předmět: Anténní technika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:35:29
+
+Úkol 1: 
+Vypočtěte rovnováhu čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce 0,5 λ.
+
+Úkol 2: 
+Popište principy fungování monopólového anténního systému a uveďte jeho nevýhody oproti dipolovému anténnímu prvku.
+
+Úkol 3: 
+Vyberte vhodnou anténní techniku pro komunikaci v oblasti 5G a vysvětlujte její principy.
+
+Úkol 4: 
+Sestrojte a popište vlastnosti anténního systému složeného z paralelně spojených dipolů o rovných délkách.
+
+Úkol 5: 
+Porovnejte vlastnosti čárkovitého a šroubovitě zúženého anténního systému (až 3 λ) a určíte, při jakých parametrech jsou nejvhodnější pro aplikaci.
+
+Úkol 6: 
+Analyzujte a porovnejte vlastnosti anténních systémů sestrojených z dipolů a monopólových antén v rovině a v prostoru.
+
+Úkol 7: 
+Vypočtěte charakteristické impedance čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce λ.
+
+Úkol 8: 
+Popište principy fungování anténního systému sestrojeného z paralelně spojených čárkovitých antén.
+
+Úkol 9: 
+Analyzujte a porovnejte vlastnosti anténních systémů sestrojených z dipolů a šroubovitě zúžených antén v oblasti vysokých frekvencí.
+
+Úkol 10: 
+Sestrojte a popsme vlastnosti anténního systému složeného z série spojených dipolů o nerovných délkách.

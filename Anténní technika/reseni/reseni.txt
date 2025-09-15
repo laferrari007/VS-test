@@ -1,0 +1,83 @@
+# Řešení úkolů pro předmět: Anténní technika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:35:29
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vypočtěte rovnováhu čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce 0,5 λ.
+
+Čárkovité anténní systémy jsou jedním z typů anténních systémů, které se používají v různých aplikacích. Rovnováha čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce 0,5 λ se dá vypočítat pomocí následujících kroků:
+
+1. Vypočtěte délku dipolového anténního prvku: délka = λ/2 (kde λ je vlnová délka)
+2. Vypočtěte délku šroubovitě zúženého pruhu: délka = 0,5 λ
+3. Vypočtěte rovnováhu čárkovitého anténního systému:
+
+Rovnováha čárkovitého anténního systému je dán vzorcem:
+
+R = (1 + (dipolová délka) / (šroubovitě zúžená délka)) / (1 - (dipolová délka) / (šroubovitě zúžená délka))
+
+Kde:
+- R je rovnováha čárkovitého anténního systému
+- dipolová délka je délka dipolového anténního prvku (λ/2)
+- šroubovitě zúžená délka je délka šroubovitě zúženého pruhu (0,5 λ)
+
+Vložením hodnot do vzorce:
+
+R = (1 + (λ/2) / (0,5 λ)) / (1 - (λ/2) / (0,5 λ))
+R = (1 + 1/2) / (1 - 1/2)
+R = 3/2 / (1/2)
+R = 3
+
+Tlak čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce 0,5 λ je tedy 3.
+
+Řešení 2: Popište principy fungování monopólového anténního systému a uveďte jeho nevýhody oproti dipolovému anténnímu prvku.
+
+Monopólový anténní systém je typ anténního systému, který využívá jednu polovinu dipolového anténního prvku, tj. jednu polovinu vlnové délky. Princip fungování monopólového anténního systému je následující:
+
+1. Monopólový anténní systém funguje jako polovina dipolového anténního prvku, tj. polovina vlnové délky.
+2. Monopólový anténní systém se obvykle používá na ploše nebo na stromě, aby se snížila úroveň odrazů.
+3. Monopólový anténní systém má nižší rovnováhu než dipolový anténní prvok, což může vést ke snížení účinnosti anténního systému.
+
+Nevýhody monopólového anténního systému oproti dipolovému anténnímu prvku:
+
+1. Nižší rovnováha
+2. Snížená účinnost
+3. Vyžaduje větší plochu pro instalaci
+
+Řešení 3: Vyberte vhodnou anténní techniku pro komunikaci v oblasti 5G a vysvětlujte její principy.
+
+Pro komunikaci v oblasti 5G je vhodnou anténní technikou MIMO (Multiple-Input Multiple-Output) anténní technika. Principy MIMO anténní techniky jsou následující:
+
+1. MIMO anténní technika využívá několik anténních systémů, které pracují současně.
+2. Každý anténní systém posílá a přijímá rádiové vlny současně.
+3. MIMO anténní technika umožňuje zvýšit rychlost komunikace a spolehlivost sítě.
+
+V oblasti 5G se MIMO anténní technika používá pro následující úlohy:
+
+1. Zvýšení rychlosti komunikace
+2. Zvýšení spolehlivosti sítě
+3. Zvýšení kapacity sítě
+
+Řešení 4: Sestrojte a popište vlastnosti anténního systému složeného z paralelně spojených dipolů o rovných délkách.
+
+Anténní systém složený z paralelně spojených dipolů o rovných délkách se dá sestrojit následovně:
+
+1. Dipoly o rových délkách se spojí paralelně.
+2. Dipoly se spojí tak, aby jejich délky byly stejnou.
+
+Vlastnosti anténního systému složeného z paralelně spojených dipolů o rovných délkách:
+
+1. Rovnováha anténního systému je vyšší než u dipolového anténního prvku.
+2. Účinnost anténního systému je vyšší než u dipolového anténního prvku.
+3. Anténní systém má vyšší impedance než dipolový anténní prvok.
+
+Řešení 5: Porovnejte vlastnosti čárkovitého a šroubovitě zúženého anténního systému (až 3 λ) a určíte, při jakých parametrech jsou nejvhodnější pro aplikaci.
+
+Porovnání vlastností čárkovitého a šroubovitě zúženého anténního systému:
+
+1. Čárkovité anténní systémy mají vyšší rovnováhu než šroubovitě zúžené anténní systémy.
+2. Čárkovité anténní systémy mají nižší impedance než šroubovitě zúžené anténní systémy.
+3. Šroubovitě zúžené anténní systémy mají vyšší účinnost než čárkovité anténní systémy.
+
+Parametry, při kterých jsou čárkovité anténní systémy nejvhodnější pro aplikaci:
+
+1
