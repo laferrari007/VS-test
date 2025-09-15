@@ -1,23 +1,25 @@
 # Zadání úkolů pro předmět: Podnikové finance
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:44:06
+# Datum: 2025-09-15 23:44:07
 
-Úkol 1: Porovnejte a diskutujte o rozdílech mezi akciovou a dluhovou kapitálou a zdůvodněte, proč jsou obě forma kapitálu důležité pro podnikání.
+Zde jsou 10 univerzitních úkolů pro předmět "Podnikové finance":
 
-Úkol 2: Rozhodněte se, zda by vaše firma měla použít investiční banku nebo crowdfunding pro získání financí. Popište výhody a nevýhody obou přístupů.
+Úkol 1: Vytvořte grafickou prezentaci, která porovná základní ukazatele finanční situace dvou firem v různých odvětvích (např. automobilový průmysl a potravinářský průmysl). Použijte alespoň 5 různých ukazatelů (např. ziskovost, návratnost investic, likvidita).
 
-Úkol 3: Analyzujte finanční situaci firmy a určte, zda by měla provést dividendovou politiku. Popište faktory, které by měly být zváženy při rozhodování o dividendách.
+Úkol 2: Popište proces tvorby rozpočtu pro malý podnik. Vysvětlete, jak se rozpočet vztahuje k obchodní strategii a jakým způsobem je využíván k řízení nákladů a výnosů.
 
-Úkol 4: Napište případovou studii o bankrotu známé firmy a kriticky analyzujte příčiny a důsledky tohoto bankrotu.
+Úkol 3: Analyzujte finanční situaci firmy pomocí ukazatelů finanční stability (např. poměr kurzovosti, poměr úvěrů, míra splácení dluhu). Vysvětlete, jak se tyto ukazatele vztahují k rizikům a příležitostem podnikání.
 
-Úkol 5: Vyžádejte si údaje o finanční situaci dvou různých firem z různých odvětví a porovnejte jejich finanční ukazatele. Popište, jaký vliv mají tyto ukazatele na jejich finanční stabilitu.
+Úkol 4: Vytvořte případový studijní projekt, který analyzuje financování podnikání pomocí různých zdrojů financování (např. vklady akcionářů, úvěry, mezzanine financování). Vysvětlete, které zdroje financování jsou nejvhodnější pro různé typy podniků.
 
-Úkol 6: Rozhodněte se, zda by vaše firma měla použít finanční deriváty pro řízení rizik. Popište výhody a nevýhody použití finančních derivátů.
+Úkol 5: Popište proces tvorby finanční zprávy pro akcionáře (rozvaha, zpráva o výsledcích hospodaření). Vysvětlete, jak se finanční zpráva vztahuje k požadavkům legislativy a jakým způsobem je využívána k informování investorů.
 
-Úkol 7: Vyvořte model finančního řízení zásob pro firma z výrobního odvětví a analýzujte, jak by měl být model použit v různých scénářích.
+Úkol 6: Analyzujte finanční situaci firmy pomocí ukazatelů výkonnosti (např. míra návratnosti na investici, míra růstu tržeb). Vysvětlete, jak se tyto ukazatele vztahují k úspěšnosti podnikání a jakým způsobem je využíván k řízení podnikání.
 
-Úkol 8: Analyzujte finanční situaci firmy a určte, zda by měla provést akvizici jiné firmy. Popište faktory, které by měly být zváženy při rozhodování o akvizici.
+Úkol 7: Vytvořte komplexní finanční model podniku, který zahrnuje prognózy tržeb, nákladů, úvěrů a návratnosti investic. Vysvětlete, jak se finanční model vztahuje k podnikové strategii a jakým způsobem je využíván k řízení podnikání.
 
-Úkol 9: Vyžádejte si údaje o finanční situaci firmy a vytvořte model finančního plánování, který by měl být použit pro stanovení cílových ukazatelů finanční stability.
+Úkol 8: Popište proces výběru investičních projektů pomocí finančních indicatorů (např. vnitřní návratnost, míra návratnosti). Vysvětlete, jak se finanční indicatorji vztahují k rizikům a příležitostem podnikání a jakým způsobem je využíván k rozhodování o investicích.
 
-Úkol 10: Napište rozsáhlou kritickou analýzu financování startupů a diskutujte o různých formách financování, které jsou k dispozici pro startupy. Popište výhody a nevýhody každé formy financování.
+Úkol 9: Analyzujte finanční situaci firmy pomocí ukazatelů likvidity (např. poměr kurzovosti, poměr úvěrů, míra splácení dluhu). Vysvětlete, jak se tyto ukazatele vztahují k rizikům a příležitostem podnikání a jakým způsobem je využíván k řízení likvidity.
+
+Úkol 10: Vytvořte komplexní projekt týkající se financování mezinárodního podnikání (např. úvěry, mezzanine financování, akvizice). Vysvětlete, jak se finanční instrumenty vztahují k podnikové strategii a jakým způsobem je využíván k financování mezinárodních aktivit.
