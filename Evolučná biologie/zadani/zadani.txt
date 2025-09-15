@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Evolučná biologie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:26:02
+
+Úkol 1: Popište rozdíl mezi homologními a analogovými strukturami v kontextu evoluční biologie. Uveďte příklady obou typů struktur.
+
+Úkol 2: Vyberte tři příklady evolučních adaptací a vysvětlete, jak se tyto adaptace vyvinuly v response na environmentální tlak.
+
+Úkol 3: Porovnejte tři různé modely evoluce (Darwinovský výběr, Lamarckův mechanismus a Genový drift) a vysvětlete jejich výhody a nevýhody.
+
+Úkol 4: Popište proces horizontalního přenosu genů a uveďte příklady, kdy se tento proces projevuje v přírodě.
+
+Úkol 5: Analyzujte evoluční historii čeledi ptáků a vysvětlete, jak se vyvinuly od jejich prapředků.
+
+Úkol 6: Vyberte dva příklady evolučních konvergenčních přizpůsobování a vysvětlete, proč se tyto organismy vyvinuly podobným způsobem.
+
+Úkol 7: Uveďte příklady evolučních adaptací v mikroorganismech a vysvětlete, jak se tyto adaptace vyvinuly v response na environmentální tlak.
+
+Úkol 8: Porovnejte evoluční historii dvou různých taxonů (například primátů a savců) a vysvětlete, jak se vyvinuly od svých společných predků.
+
+Úkol 9: Analyzujte efektivní strategie pro zachování genetické rozmanitosti v malých populacech, a uveďte příklady, kdy se tyto strategie projevují v přírodě.
+
+Úkol 10: Uveďte příklad evoluční syntézy a vysvětlete, jak kombinuje principy evoluční biologie a molekulární biologie na vysvětlení komplexních biologických procesů.
