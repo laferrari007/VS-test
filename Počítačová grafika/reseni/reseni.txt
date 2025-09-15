@@ -1,0 +1,132 @@
+# Řešení úkolů pro předmět: Počítačová grafika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:31:13
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Implementace algoritmu pro vykreslování prostého kruhového obrysu pomocí Bresenhamovy metody
+
+Bresenhamova metoda je algoritmus pro vykreslování kruhů, který se používá hlavně v grafických aplikacích. Princip algoritmu spočívá v tom, že se počítají jednotlivé body kružnice a vykreslují je na plátně.
+
+**Krok 1:** Vypočítáme střed kružnice a její poloměr.
+
+* Střed kružnice (x0, y0)
+* Poloměr kružnice (r)
+
+**Krok 2:** Vypočítáme rozptyl bodů po kružnici pomocí Bresenhamovy metody.
+
+* rozptyl bodů = 8 * r
+
+**Krok 3:** Vykreslíme jednotlivé body kružnice podle rozptylu.
+
+* pokud je kladný, vykreslíme bod (x, y)
+* pokud je záporný, vykreslíme bod (-x, y)
+* pokud je kladný, vykreslíme bod (x, -y)
+* pokud je záporný, vykreslíme bod (-x, -y)
+
+**Kód:**
+```c
+#include <stdio.h>
+#include <math.h>
+
+// Funkce pro vykreslování kružnice pomocí Bresenhamovy metody
+void vykresli_kruzi(int x0, int y0, int r) {
+    int x, y, d;
+    d = 3 - 2 * r;
+    for (y = -r; y <= r; y++) {
+        for (x = -r; x <= r; x++) {
+            if (x * x + y * y <= r * r && x * x + y * y >= (r - 1) * (r - 1)) {
+                printf("(%d, %d)\n", x0 + x, y0 + y);
+            }
+        }
+    }
+}
+
+int main() {
+    int x0 = 10, y0 = 10, r = 5;
+    vykresli_kruzi(x0, y0, r);
+    return 0;
+}
+```
+Řešení 2: Vygenerování 3D scény s jedním obecným tělesem (koule) pomocí knihovny OpenGL
+
+**Krok 1:** Nainstalujeme knihovnu OpenGL a její závislosti.
+
+* `sudo apt-get install freeglut3-dev libglew-dev`
+
+**Krok 2:** Vytvoříme základní scénu s jedním tělesem (kouli).
+
+* Použijeme funkci `glClearColor` pro nastavení barvy pozadí.
+* Použijeme funkci `glClear` pro vymazání pozadí.
+* Použijeme funkci `glMatrixMode` pro nastavení matice transformací.
+* Použijeme funkci `glLoadIdentity` pro nastavení identity transformace.
+* Použijeme funkci `glScalef` pro nastavení měřítka transformace.
+* Použijeme funkci `glTranslatef` pro nastavení posunu transformace.
+* Použijeme funkci `glRotatef` pro nastavení otáčení transformace.
+* Použijeme funkci `glBegin` pro zahájení vykreslování.
+* Použijeme funkci `glVertex3f` pro vykreslování bodů koule.
+* Použijeme funkci `glEnd` pro ukončení vykreslování.
+
+**Kód:**
+```c
+#include <GL/freeglut.h>
+#include <GL/glew.h>
+
+// Funkce pro vykreslení koule
+void vykresli_koule() {
+    glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
+    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+    glMatrixMode(GL_MODELVIEW);
+    glLoadIdentity();
+    glScalef(1.0f, 1.0f, 1.0f);
+    glTranslatef(0.0f, 0.0f, -5.0f);
+    glRotatef(30.0f, 1.0f, 1.0f, 0.0f);
+    glBegin(GL_QUAD_STRIP);
+        for (int i = 0; i <= 360; i++) {
+            glVertex3f(cos(i * 3.14159 / 180.0f) * 2.0f, sin(i * 3.14159 / 180.0f) * 2.0f, 0.0f);
+            glVertex3f(cos(i * 3.14159 / 180.0f) * 2.0f, sin(i * 3.14159 / 180.0f) * 2.0f, 2.0f);
+        }
+    glEnd();
+    glutSwapBuffers();
+}
+
+int main(int argc, char** argv) {
+    glutInit(&argc, argv);
+    glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
+    glutInitWindowSize(800, 600);
+    glutInitWindowPosition(100, 100);
+    glutCreateWindow("Koule");
+    glutDisplayFunc(vykresli_koule);
+    glutMainLoop();
+    return 0;
+}
+```
+Řešení 3: Implementace procedurálního generování terénu pomocí perlinových mřížek a vykreslení jej pomocí OpenGL
+
+**Krok 1:** Nainstalujeme knihovnu OpenGL a její závislosti.
+
+* `sudo apt-get install freeglut3-dev libglew-dev`
+
+**Krok 2:** Vytvoříme perlinovu mřížku pro generování terénu.
+
+* Použijeme funkci `glBegin` pro zahájení vykreslování.
+* Použijeme funkci `glVertex3f` pro vykreslování bodů mřížky.
+* Použijeme funkci `glEnd` pro ukončení vykreslování.
+
+**Kód:**
+```c
+#include <GL/freeglut.h>
+#include <GL/glew.h>
+#include <math.h>
+
+// Funkce pro generování perlinovy mřížky
+void generuj_perlinovu_mrizku(int x, int y, int z) {
+    float frequency = 10.0f;
+    float amplitude = 1.0f;
+    glBegin(GL_QUADS);
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 10; j++) {
+                float x1 = (i * frequency) + x;
+                float y1 = (j * frequency) + y;
+                float z1 = (perlin(x1, y1) * amplitude) + z;
+                glVertex3f(x1, y1, z1);
+                float x2 = (
