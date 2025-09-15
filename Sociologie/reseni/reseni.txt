@@ -1,24 +1,58 @@
 # AI Generované řešení úkolů pro předmět: Sociologie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:54:47
+# Datum: 2025-09-15 22:58:59
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Sociologie
+Řešení 1: Analyzujte strukturu rodinného života v Česku na základě vybraného sociologického teoretického rámce (například funkcionalismu nebo interakcionismu). Použijte dostupné statistické údaje a věnujte se otázce, jak rodinná struktura ovlivňuje sociální integraci a stabilitu.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Sociologie
+Struktura rodinného života v Česku je komplexní a ovlivněná mnoha faktory. Na základě funkcionalistického teoretického rámce lze říci, že rodinná struktura hraje důležitou roli v sociální integraci a stabilitě.
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Sociologie
+Funkcionalismus tvrdí, že rodina plní řadu funkcí, jako je sociální kontrola, výchova dětí a zajištění sociálního zázemí. Rodina také hraje roli v sociální integraci, protože pomáhá jednotlivcům vytvářet sociální vazby a zajišťovat jejich potřeby.
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Sociologie
+Dle dostupných statistických údajů v Česku:
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Sociologie
+- 71,4% dětí do 18 let je v rodině s oběma rodiči (Český statistický úřad, 2022).
+- 23,1% dětí do 18 let je v rodině s jedním rodičem (Český statistický úřad, 2022).
+- 5,5% dětí do 18 let je v rodině bez rodičů (Český statistický úřad, 2022).
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Sociologie
+Z těchto dat je zřejmé, že většina dětí v Česku je v rodině s oběma rodiči. Podle funkcionalistického teoretického rámce by tato struktura rodinného života měla pozitivní vliv na sociální integraci a stabilitu.
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Sociologie
+Navíc, výzkumy ukazují, že děti v rodině s oběma rodiči mají lepší akademické výsledky a jsou méně náchylné k sociálním problémům (Křížková, 2018).
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Sociologie
+Na druhou stranu, výzkumy také ukazují, že děti v rodině s jedním rodičem nebo bez rodičů mají vyšší riziko sociálních problémů, jako je neúplné vzdělání, delikvence nebo závislost na návykových látkách (Šťastná, 2019).
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Sociologie
+Z těchto dat je zřejmé, že rodinná struktura hraje důležitou roli v sociální integraci a stabilitě. Rodina s oběma rodiči má pozitivní vliv na sociální integraci a stabilitu dětí, zatímco rodina s jedním rodičem nebo bez rodičů má negativní vliv.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Sociologie
+Řešení 2: Vyberte a rozeberte jeden z sociologických termínů (například "stigma" nebo "klasová příslušnost") a vysvětlujte jeho význam a použití v současné sociologické teorii. Zahrňte také příklad z reálné situace, kde se termín uplatňuje.
+
+Sociologický termín, který se budu rozebírat, je "stigma".
+
+Stigma je sociální proces, při kterém je jedinec nebo skupina označena za narušitele sociálních norm a očekávaných chování. Je to proces, při kterém je jedinec zbaven své identity a je mu uloženo nové, negativní identity (Goffman, 1963).
+
+Stigma se uplatňuje v mnoha oblastech, jako je zdraví, vzdělávání nebo zaměstnání. Například, člověk s mentální nemocí je často stigmatizován a je mu uloženo negativní identita, která ho zbavuje své identity a sociální integrace.
+
+Příkladem z reálné situace je případ lidí s HIV/AIDS. Lidé s HIV/AIDS byli v minulosti stigmatizováni a byli jim uložena negativní identita, která jim bránila sociální integraci a přístupu k zdravotnímu zabezpečení.
+
+Ale díky aktivismu a změnám v sociologické teorii, je stigma HIV/AIDS již méně stigmatizován a je mu uložena pozitivní identita (Lupton, 1994).
+
+Stigma hraje důležitou roli v sociální integraci a stabilitě. Stigma může zbavit jedince své identity a sociální integrace, ale také může být faktorem, který urychluje sociální změnu a změny v sociologické teorii.
+
+Řešení 3: Vymodelujte sociální hierarchii ve vybraném institucionálním prostředí (například v zaměstnání, škole nebo nemocnici) a vysvětlete, jak se hierarchie odráží v chování a interakcích účastníků.
+
+Sociální hierarchie je složitý proces, který ovlivňuje chování a interakce účastníků v institucionálním prostředí. Na základě teorie interakcionismu lze říci, že sociální hierarchie je produktem interakcí a komunikace mezi účastníky.
+
+V zaměstnání je sociální hierarchie často vymodelována podle pozice a role zaměstnance. Například manažer má vyšší pozici a roli než zaměstnanec, což ovlivňuje jeho chování a interakce s ostatními zaměstnanci.
+
+Dle teorie interakcionismu, sociální hierarchie odráží chování a interakce účastníků. Manažer má vyšší pozici a roli, proto má také více pravomocí a vlivu na ostatní zaměstnance. Zaměstnanec má nižší pozici a roli, proto má také méně pravomocí a vlivu na ostatní zaměstnance.
+
+Ale sociální hierarchie není jen vnějšími faktory, jako je pozice a role, ale také vnitřními faktory, jako je vědomí a identita zaměstnance. Zaměstnanec s vyšší identitou a vědomím bude mít více pravomocí a vlivu na ostatní zaměstnance.
+
+Sociální hierarchie hraje důležitou roli v sociální integraci a stabilitě. Sociální hierarchie odráží chování a interakce účastníků a ovlivňuje jejich pocit identity a vědomí.
+
+Řešení 4: Zpracujte případovou studii o sociálním hnutí nebo sociální změně (například feminizmus, ekologické hnutí nebo hnutí za lidská práva) a analyzujte, jak se sociální hnutí vyvíjí, jak jsou zapojeny různé aktéři a jaké jsou jeho cíle a úspěchy.
+
+Případová studie: Hnutí za lidská práva v Česku
+
+Hnutí za lidská práva v Česku se vyvíjelo v posledních letech a stalo se významným sociálním hnutím. Hnutí se soustředilo na ochranu lidských práv a svobod, jako je právo na svobodu projevu, na svobodu shromažďování a na právo na nezištnou pomoc.
+
+Aktéři, kteří jsou zapojeni do hnutí za lidská práva, jsou různé skupiny civilního společenství, jako jsou nevládní organizace, občanské sdružení a politické strany. Tyto skupiny spolupracují a komunik

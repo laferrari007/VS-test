@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Sociologie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:54:47
+# Datum: 2025-09-15 22:58:59
 
-Úkol 1: Analyzujte sociologický koncept "klasifikace" a vysvětlete, jak se projevuje v oblasti vzdělání. Použijte příklad školy, kde jsou studenti rozděleni do několika skupin podle akademických úspěchů.
+Úkol 1: Analyzujte strukturu rodinného života v Česku na základě vybraného sociologického teoretického rámce (například funkcionalismu nebo interakcionismu). Použijte dostupné statistické údaje a věnujte se otázce, jak rodinná struktura ovlivňuje sociální integraci a stabilitu.
 
-Úkol 2: Porovnejte a srovnajte teoretické koncepty Maxe Webera (klasová struktura) a Karla Marxe (klasová boje). Jak se tyto koncepty liší v oblasti sociologické teorie?
+Úkol 2: Vyberte a rozeberte jeden z sociologických termínů (například "stigma" nebo "klasová příslušnost") a vysvětlujte jeho význam a použití v současné sociologické teorii. Zahrňte také příklad z reálné situace, kde se termín uplatňuje.
 
-Úkol 3: Studie sociálního kapitalu ukazuje, že lidé s více sociálním kapitálem mají lepší karierní opportunities. Vyberte si případ, kde se sociální kapitál projevuje v zaměstnání a vysvětlete, jak se lidé s větším sociálním kapitálem liší od lidí s menším.
+Úkol 3: Vymodelujte sociální hierarchii ve vybraném institucionálním prostředí (například v zaměstnání, škole nebo nemocnici) a vysvětlete, jak se hierarchie odráží v chování a interakcích účastníků.
 
-Úkol 4: Zkritizujte teoretický koncept "černého pasažéra" v sociologii. Jaký vliv má tento koncept na naše chápání sociálních nerovností a jak by se měl koncept změnit v současné době?
+Úkol 4: Zpracujte případovou studii o sociálním hnutí nebo sociální změně (například feminizmus, ekologické hnutí nebo hnutí za lidská práva) a analyzujte, jak se sociální hnutí vyvíjí, jak jsou zapojeny různé aktéři a jaké jsou jeho cíle a úspěchy.
 
-Úkol 5: Zvolte si jeden z sociologických teoretiků (například Émile Durkheim, Karl Marx, Max Weber) a vysvětlujte jejich hlavní myšlenky a teoretické koncepty. Jaké přínosy a nevýhody jejich teorií vidíte v současné době?
+Úkol 5: Vyžadujte kritické zhodnocení současné sociologické teorie na základě vybraného kritického přístupu (například kritické teorii nebo poststrukturalismu). Zahrňte argumenty pro a proti dané teorie a diskutujte o jejím vlivu na naše pochopení sociálních fenoménů.
 
-Úkol 6: Analyzujte sociologické trendy v oblasti rodinné dynamiky. Jaké změny se projevily v posledních dekádách a jak ovlivňují rodinnou dynamiku?
+Úkol 6: Zpracujte diskusi o tom, jak se sociální nerovnosti (například rozdíly v příjmech, vzdělání nebo zdravotním stavu) odrážejí v sociálním zabezpečení a sociální politice v Česku. Analyzujte, jak se sociální politika snaží tyto nerovnosti snižovat a jaké jsou její současné výsledky.
 
-Úkol 7: Zvolte si jeden z sociologických konceptů (například sociální kontrola, sociální izolace nebo sociální kapitalismus) a vysvětlujte, jak se projevuje v současné době. Jaké jsou příčiny a důsledky tohoto konceptu?
+Úkol 7: Vyberte a analyzujte jeden ze sociálních konfliktů (například konflikt mezi generacemi, konflikt mezi kulturami nebo konflikt mezi zájmy jednotlivce a společností). Diskutujte o příčinách a důsledcích konfliktu a zvažte možnosti jeho řešení.
 
-Úkol 8: Porovnejte a srovnajte dva různá sociální instituce (například škola a nemocnice). Jaké jsou hlavní rozdíly mezi nimi a jak se projevují v našich životech?
+Úkol 8: Zpracujte případovou studii o sociální integraci a asimilaci v České republice (například integrace imigrantů nebo asimilace Romů). Analyzujte, jak se sociální integrace a asimilace vyvíjí, jaké jsou faktory, které ovlivňují proces integrace, a jaké jsou výsledky integrace.
 
-Úkol 9: Analyzujte sociologické aspekty environmentální krisy. Jak se projevuje environmentální krisa v našich životech a jak se ovlivňuje naše chápání sociálních nerovností?
+Úkol 9: Kriticky zhodnoťte vliv sociálních médií na současné společenské vztahy a identitu jednotlivců. Analyzujte, jak sociální média ovlivňují komunikaci, sociální interakce a vnímání reality, a diskutujte o pozitivních i negativních důsledcích jejich používání.
 
-Úkol 10: Zvolte si jeden z sociologických konceptů (například sociální konstrukce reality nebo sociální konstrukce identity) a vysvětlujte, jak se projevuje v současné době. Jaké jsou příčiny a důsledky tohoto konceptu a jak může být použito v sociologické analýze?
+Úkol 10: Vymodelujte sociální transformaci v České republice v posledním století a analyzujte, jak se společnost vyvíjela, jaké byly hlavní faktory, které ji ovlivňovaly, a jaké byly důsledky této transformace pro současné české společnosti.
