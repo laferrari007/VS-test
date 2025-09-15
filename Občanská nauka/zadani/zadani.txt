@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Občanská nauka
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:58:52
+# Zadání úkolů pro předmět: Občanská nauka
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:08:58
 
-Úkol 1: Základní úkol z předmětu Občanská nauka - úroveň 1
+Úkol 1: Napište krátký text, ve kterém popíšete význam a účel občanské nauky v současném světě.
 
-Úkol 2: Základní úkol z předmětu Občanská nauka - úroveň 2
+Úkol 2: Vyberte tři klíčové pojmy z oblasti občanské nauky (např. demokracie, solidarita, spravedlnost) a vysvětlete jejich vzájemné vztahy.
 
-Úkol 3: Základní úkol z předmětu Občanská nauka - úroveň 3
+Úkol 3: Porovnejte tři různé modely státní správy (např. parlamentní, prezidentská, konstituční) a popište jejich přednosti a zápasy.
 
-Úkol 4: Základní úkol z předmětu Občanská nauka - úroveň 4
+Úkol 4: Napište článek, ve kterém diskutujete o roli občanské společnosti v prosazování lidských práv a svobod.
 
-Úkol 5: Základní úkol z předmětu Občanská nauka - úroveň 5
+Úkol 5: Vypracujte projekt, který navrhuje inovativní způsob zapojení občanů do rozhodování ve veřejné správě.
 
-Úkol 6: Základní úkol z předmětu Občanská nauka - úroveň 6
+Úkol 6: Analyzujte vztah mezi občanskou participací a kvalitou života ve vybrané zemi.
 
-Úkol 7: Základní úkol z předmětu Občanská nauka - úroveň 7
+Úkol 7: Napište kritický článek o problémech a příležitostech, které spojují občanskou nauku a ekologii.
 
-Úkol 8: Základní úkol z předmětu Občanská nauka - úroveň 8
+Úkol 8: Zpracujte výzkumnou otázku: "Jakobčanská nauka ovlivňuje vnímání a chování občanů v krizových situacích?"
 
-Úkol 9: Základní úkol z předmětu Občanská nauka - úroveň 9
+Úkol 9: Vypracujte návrh vzdělávání pro občanskou nauku na středních školách, včetně metod a materiálů pro učitelé.
 
-Úkol 10: Základní úkol z předmětu Občanská nauka - úroveň 10
+Úkol 10: Napište disertační práci: "Vliv občanských vzdělávacích programů na občanskou participaci v demokratických systémech."
