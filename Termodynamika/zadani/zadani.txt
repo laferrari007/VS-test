@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Termodynamika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:05:40
+# Zadání úkolů pro předmět: Termodynamika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:18:53
 
-Úkol 1: Základní úkol z předmětu Termodynamika - úroveň 1
+Úkol 1: Vyjmenujte a popište hlavní principy Termodynamiky, které byly poprvé formulovány v 19. století. (2 body)
 
-Úkol 2: Základní úkol z předmětu Termodynamika - úroveň 2
+Úkol 2: Porovnejte a vysvětlete rozdíl mezi ideálním a reálným plynem. (3 body)
 
-Úkol 3: Základní úkol z předmětu Termodynamika - úroveň 3
+Úkol 3: Vyložíte první a druhé termodynamické zákoníky a zobecněte je na konkrétní příklad. (6 bodů)
 
-Úkol 4: Základní úkol z předmětu Termodynamika - úroveň 4
+Úkol 4: Provedete výpočet entalpiehořecího procesu pro cyklický proces srovnáním vnitřní energie a tepelného efektu. (8 bodů)
 
-Úkol 5: Základní úkol z předmětu Termodynamika - úroveň 5
+Úkol 5: Zobecněte Carnotův cyklus a popište jeho principy a využití v praxi. (10 bodů)
 
-Úkol 6: Základní úkol z předmětu Termodynamika - úroveň 6
+Úkol 6: Vypočítejte a porovnejte tepelné kapacity plynu s rozličnými hodnotami adiabatické indexy. (12 bodů)
 
-Úkol 7: Základní úkol z předmětu Termodynamika - úroveň 7
+Úkol 7: Zajistěte, aby byl proces rozptylování v souladu s prvními dvěma termodynamickými zákony. (15 bodů)
 
-Úkol 8: Základní úkol z předmětu Termodynamika - úroveň 8
+Úkol 8: Provedete analýzu a zobecnění procesu nárůstu teploty plynu pomocí entalpiehořecího grafu. (18 bodů)
 
-Úkol 9: Základní úkol z předmětu Termodynamika - úroveň 9
+Úkol 9: Vyložíte a popište principy a vlastnosti Stirlingova cyklu a jeho využití v praxi. (20 bodů)
 
-Úkol 10: Základní úkol z předmětu Termodynamika - úroveň 10
+Úkol 10: Zajistěte, aby byl proces vymíchání v souladu s prvními dvěma termodynamickými zákony a zobecněte ho na konkrétní příklad. (22 body)
