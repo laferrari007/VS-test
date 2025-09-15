@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Český jazyk a literatura
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:45:27
+# Datum: 2025-09-15 22:50:49
 
-Úkol 1: Popiš rozdíl mezi slovesem v přítomném a minulém času v jednom ze slovanských jazyků a uveď příklad.
+Úkol 1: Popište rozdíl mezi pojmy "příběh" a "děj". Uveďte příklady obou pojmů z české literatury.
 
-Úkol 2: Analyzujte význam a použití výrazu "české sloveso" ve výzkumu a uveďte tři důležité studie o této tématice.
+Úkol 2: Vyberte tři charakteristiky vypravěčství v české literatuře a vysvětlejte je na konkrétních příkladech.
 
-Úkol 3: Rozumějte a interpretojte rozdíl mezi konceptem "slovanské jazykové rodiny" a "slovanská jazyková skupina" a uveďte dva příklady jazyků, které patří do každé z těchto kategorií.
+Úkol 3: Porovnejte stylistiku dvou českých básníků (například K. H. Borovského a V. Holana) a vysvětlejte jejich zvláštnosti.
 
-Úkol 4: Popsat vývoj slovanských jazyků v raném středověku, který vedl k vzniku několika hlavních jazykových skupin.
+Úkol 4: Analyzujte postupy autora při popisování přírody v české literatuře (například v dílech A. Jiráska, B. Němcové). Vysvětlejte vztah mezi popisem přírody a celkovým účinkem textu.
 
-Úkol 5: Analyzujte význam a funkci výrazu "česká literatura" v kontextu kulturního a historického vývoje ČR a uveďte pět významných děl, které jsou považovány za zásadní pro českou literární tradici.
+Úkol 5: Vyberte dvě české hry (například "Vodník" A. Jiráska a "Kamenný most" O. Březiny) a porovnejte jejich struktury a tematické zápletky.
 
-Úkol 6: Porovnejte a srovnajte strukturu a syntax českého a slovenského jazyka, s ohledem na podobnosti a rozdíly v jejich gramatické struktuře.
+Úkol 6: Zabýváte se tématem vyobcování v české literatuře. Vybírejte tři příklady a vysvětlejte, jak se toto téma vyjadřuje v jednotlivých dílech.
 
-Úkol 7: Popsat význam a funkce dialektů v českém jazyce a uveďte tři příklady dialektů a jejich charakteristiky.
+Úkol 7: Vyberte tři české básníky z období národního obrození a porovnejte jejich básnické styly. Vysvětlejte, jak se jejich styly liší a jaký je jejich společný jmenovatel.
 
-Úkol 8: Analyzujte vztah mezi jazykem a identitou a uveďte dvě studie, které zkoumají vztah mezi češtinou a českou identitou.
+Úkol 8: Analyzujte vztah mezi postavami v české literatuře (například vztah mezi Otakarem a Františkem v "Povídkách malostranských" A. Jiráska). Vysvětlejte, jak tento vztah ovlivňuje celkovou tematickou stránku díla.
 
-Úkol 9: Porovnejte a srovnajte českou a polskou literaturu v kontextu historického a kulturního vývoje obou zemí a uveďte tři významné díla, která jsou považována za zásadní pro obě literární tradice.
+Úkol 9: Porovnejte dvě české literární díla z různých obdobích (například "Povídky malostranské" A. Jiráska a "Život pro život" J. Škvoreckého). Vysvětlejte, jak se líší jejich stylistika, téma a postupy vypravěčství.
 
-Úkol 10: Popsat vývoj české národní identity v 19. století, který se odrazil v jazyce a literatuře a uveďte tři důležité osobnosti, které sehrály klíčovou roli v tomto procesu.
+Úkol 10: Zabýváte se tématem identity v české literatuře. Vybírejte tři příklady a vysvětlejte, jak se toto téma vyjadřuje v jednotlivých dílech a jaký je jeho vztah k národní identitě.
