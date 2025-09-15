@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Geologie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:27:27
+
+Úkol 1: Popište a vysvětlíte pojmy "geologický čas" a "geologická epocha". Vysvětlíte rozložení geologického času a popíšete hlavní epochy v rámci geologické historie Země.
+
+Úkol 2: Vysvětlíte rozdíl mezi sedimentárními a magmatickými horninami. Popíšete procesy vzniku obou typů hornin a uvedete příklady jejich výskytu v přírodě.
+
+Úkol 3: Popište procesy vzniku a přeměny metamorfních hornin. Vysvětlíte vliv tlaku a teploty na vznik těchto hornin a uvedete příklady jejich výskytu v přírodě.
+
+Úkol 4: Vysvětlíte pojmy "tektonika oceánských podložek" a "tektonická aktivita". Popíšete procesy, které ovlivňují pohyb oceánských podložek a vysvětlíte jejich vliv na vznik zemětřesení.
+
+Úkol 5: Popište a vysvětlíte procesy vzniku a přeměny uhelných ložisek. Uvedete příklady jejich výskytu v přírodě a vysvětlíte jejich ekonomický význam.
+
+Úkol 6: Vysvětlíte rozdíl mezi kontinentálními a oceánskými pánvemi. Popíšete procesy vzniku a přeměny obou typů pánví a uvedete příklady jejich výskytu v přírodě.
+
+Úkol 7: Popište a vysvětlíte procesy vzniku a přeměny vulkanických hornin. Vysvětlíte vliv tlaku a teploty na vznik těchto hornin a uvedete příklady jejich výskytu v přírodě.
+
+Úkol 8: Vysvětlíte pojmy "geomorfologie" a "geomorfozóna". Popíšete procesy, které ovlivňují vývoj zemského povrchu a vysvětlíte jejich vliv na vznik reliefu.
+
+Úkol 9: Popište a vysvětlíte procesy vzniku a přeměny ledovcových ložisek. Uvedete příklady jejich výskytu v přírodě a vysvětlíte jejich ekonomický význam.
+
+Úkol 10: Vysvětlíte vztah mezi geologickou aktivitou a životem na Zemi. Popíšete, jak se geologická aktivita odráží v ekosystémech a vysvětlíte vliv na vznik a vývoj života na Zemi.
