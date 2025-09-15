@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Urgentní medicína
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:49:45
+# Datum: 2025-09-15 23:49:52
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Urgentní medicína
 
