@@ -1,78 +1,63 @@
 # AI Generované řešení úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:45:41
+# Datum: 2025-09-15 22:51:05
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vyberte tři věty z textu a přeložte je do češtiny. Použijte překlady z internetu nebo slovník a ujasněte si, zda překlady jsou přesné.
+Řešení 1: Krátká esej o výhodách a nevýhodách používání anglického jazyka v práci a ve vzdělávání
 
-Text: "The road not taken" od Roberta Frosta
+Používání anglického jazyka v práci a ve vzdělávání má mnoho výhod i nevýhod. Jednou z hlavních výhod je zlepšení komunikace a spolupráce mezi lidmi z různých zemí a kultur. Angličtina je totiž lingua franca, která je používána v mnoha odvětvích a oborech. To umožňuje lidem komunikovat a spolupracovat efektivněji, což vede ke zlepšení produktivity a efektivnosti.
 
-1. "Two roads diverged in a yellow wood, And sorry I could not travel both..." (česky: "Dvě cesty se rozdělily v žlutém lese, A omlouvám se, že jsem se nemohl dostat na obě..." )
-- překlady z internetu: http://www.robertfrost.cz/prace/cesta-nerozjedena/
-- překlady z Slovníku: http://slovnik.hnonline.sk/slovnik/prijateslo.php?h=Prijate&vzor=prijateslo&str=&slov=cesta+nerozjedena&vyraz=cesta+nerozjedena
+Další výhodou je možnost přístupu k rozsáhlé literatuře a informacím v angličtině. To umožňuje studentům a profesionálům přístup k nejnovějším znalostem a zkušenostem z celého světa. To je zejména důležité v dnešní době, kdy je svět propojen a globální ekonomika je velmi citlivá na změny v různých částech světa.
 
-2. "And looked down one as far as I could. To where it bent in the undergrowth;" (česky: "A podíval jsem se dolů jednu, pokud jsem se mohl. Do místa, kde se ohýbala v podrostu;" )
-- překlady z internetu: http://www.robertfrost.cz/prace/cesta-nerozjedena/
-- překlady z Slovníku: http://slovnik.hnonline.sk/slovnik/prijateslo.php?h=Prijate&vzor=prijateslo&str=&slov=cesta+nerozjedena&vyraz=cesta+nerozjedena
+Nicméně, používání anglického jazyka má také některé nevýhody. Jednou z nich je tlak na studenty a profesionály, aby se naučili angličtinu, i když to není jejich mateřský jazyk. To může být náročné a časově náročné, a někteří lidé se mohou cítit nepříjemně, pokud nejsou schopni komunikovat efektivně v angličtině.
 
-3. "Then took the other, as just as fair, And having perhaps the better claim," (česky: "Potom jsem se obrátil na druhou, která byla možná stejně dobrá, A snad měla lepší nárok;" )
-- překlady z internetu: http://www.robertfrost.cz/prace/cesta-nerozjedena/
-- překlady z Slovníku: http://slovnik.hnonline.sk/slovnik/prijateslo.php?h=Prijate&vzor=prijateslo&str=&slov=cesta+nerozjedena&vyraz=cesta+nerozjedena
+Další nevýhodou je také riziko ztráty národní identity a kulturního dědictví. Používání angličtiny jako lingua franca může vést k zániku národních jazyků a kultury. To je zejména důležité v případech, kdy národní jazyk je úzce spjatý s národní identitou a kulturou lidí.
 
-Řešení 2: Najděte v textu tři synonyma k slovu "přátelství". Použijte slovníky nebo webové stránky a ujasněte si, význam a rozdíl mezi synonymy.
+V důsledku výše uvedených výhod a nevýhod je důležité, aby bylo používání anglického jazyka v práci a ve vzdělávání dobře řízeno a kontrolováno. To by mohlo pomoci snížit nevýhody a zvýšit výhody používání anglického jazyka.
 
-Slovníky: http://slovnik.hnonline.sk/slovnik/prijateslo.php?h=Prijate&vzor=prijateslo&str=&slov=prijatelstvi&vyraz=prijatelstvi
-- přátelství: vztah mezi dvěma osobami, který je založen na důvěře, respektu a lásce
-- synonyma: 
-  1. přátelství: vztah mezi dvěma osobami, který je založen na důvěře, respektu a lásce
-  2. přátelství: vztah mezi dvěma osobami, který je založen na důvěře, respektu a lásce
-  3. přátelství: vztah mezi dvěma osobami, který je založen na důvěře, respektu a lásce
+Řešení 2: Překlad úryvku z anglické knihy do češtiny
 
-Rozdíl mezi synonymy: žádné rozdíly
+"Příroda se vynořila z tmy. Slunce zářilo svými paprsky na čistý modrý nebe. Ptáci zpívali své jemné melodie, a mírný vítr se zmírnil listy stromů."
 
-Webové stránky: https://cs.wikipedia.org/wiki/Prijatelstvi
-- přátelství: vztah mezi dvěma osobami, který je založen na důvěře, respektu a lásce
-- synonyma: 
-  1. přátelství: vztah mezi dvěma osobami, který je založen na důvěře, respektu a lásce
-  2. přátelství: vztah mezi dvěma osobami, který je založen na důvěře, respektu a lásce
-  3. přátelství: vztah mezi dvěma osobami, který je založen na důvěře, respektu a lásce
+(Original: "The sun was shining brightly in the clear blue sky. The birds were singing their sweet melodies, and the gentle breeze rustled the leaves of the trees.")
 
-Rozdíl mezi synonymy: žádné rozdíly
+Řešení 3: Vybraná slova z anglické frazeologie a jejich vysvětlení
 
-Řešení 3: Napište krátký text (5-7 vět) o nějaké aktuální události v anglicky mluvících zemích. Použijte zdroje z internetu a ujasněte si, zda informace jsou přesné.
+1. "Break a leg!" - To znamená "dostaneš se dobře!". Používá se jako přání štěstí před představením nebo jiným důležitým okamžikem.
+2. "Cost an arm and a leg" - To znamená "stojí hodně peněz". Používá se pro popis věcí nebo služeb, které jsou příliš drahé.
+3. "Cut to the chase" - To znamená "jdi přímo k věci". Používá se pro popsaní situace, kdy je třeba se vyhnout nepodstatným detailům a jít přímo k podstatě věci.
+4. "Give someone the cold shoulder" - To znamená "odmítnout někoho, aby se s tebou setkal". Používá se pro popis situace, kdy někdo odmítl někoho, aby se s ním setkal.
+5. "Rain on someone's parade" - To znamená "rozbít někoho". Používá se pro popis situace, kdy někdo rozbil plány nebo představení někoho jiného.
 
-Aktuální událost: Brexit
+Řešení 4: Analýza a porovnání dvou anglických textů na téma environmentální ochrana
 
-https://cs.wikipedia.org/wiki/Brexit
-- Brexit je proces odchodu Spojeného království ze Spojených států amerických.
-- Dne 31. ledna 2020 se Spojené království stalo nezávislým státem.
-- Brexit má významné dopady na ekonomiku a politiku Spojeného království.
-- Brexit také má vliv na vztahy mezi Spojeným královstvím a ostatními zeměmi Evropské unie.
+Text 1: "The Earth is our home, and we must protect it from harm. We must reduce our waste, use renewable energy, and preserve our natural resources. Only then can we ensure a healthy and sustainable future for ourselves and our children."
 
-Řešení 4: Vyberte tři anglické slovesa a vysvětlete, jak se používají v různých časových rozdílech (např. minulý čas, přítomný čas, budoucí čas). Použijte slovníky nebo webové stránky a ujasněte si, zda jsou vaše vysvětlení přesná.
+Text 2: "Climate change is one of the most pressing issues of our time. It is caused by human activities, such as the burning of fossil fuels and deforestation. We must take immediate action to reduce our carbon footprint and transition to renewable energy sources. Only then can we mitigate the effects of climate change and ensure a safe and healthy future for generations to come."
 
-1. sloveso: "to run"
-- přítomný čas: "I run" (já běhám)
-- minulý čas: "I ran" (já běžel/a)
-- budoucí čas: "I will run" (já budu běhat)
+Porovnání obou textů ukazuje, že Text 2 je více detailní a specifickejší, než Text 1. Text 2 uvádí konkrétní příklady způsobů, jak snížit vliv na klima, zatímco Text 1 je spíše obecnější. Text 2 je také více emotivní a snaží se vyvolat u čtenáře pocit naléhavosti a povinnosti k akci.
 
-2. sloveso: "to eat"
-- přítomný čas: "I eat" (já jím)
-- minulý čas: "I ate" (já jsem jedl/a)
-- budoucí čas: "I will eat" (já budu jíst)
+Řešení 5: Krátký rozhovor o tom, jak jsem se naučil anglický jazyk a jaký mám pocit o své kompetenci
 
-3. sloveso: "to learn"
-- přítomný čas: "I learn" (já se učí)
-- minulý čas: "I learned" (já jsem se učil/a)
-- budoucí čas: "I will learn" (já budu se učit)
+Rozhovor:
 
-Slovníky: http://slovnik.hnonline.sk/slovnik/prijateslo.php?h=Prijate&vzor=prijateslo&str=&slov=to+run&vyraz=to+run
-- sloveso: "to run"
-- přítomný čas: "I run" (já běhám)
-- minulý čas: "I ran" (já běžel/a)
-- budoucí čas: "I will run" (já budu běhat)
+Rozhovorca: Jak dlouho jste se učil anglický jazyk?
+Já: Asi rok a půl.
+Rozhovorca: A jak jste se naučil?
+Já: Studoval jsem angličtinu ve škole a také jsem se učil sám, pomocí různých materiálů a aplikací.
+Rozhovorca: A jaký máte pocit o své kompetenci v angličtině?
+Já: Myslím, že mám dobrou kompetenci, ale stále mám příležitosti k dalšímu rozvoji. Často se snažím číst anglickou literaturu, poslouchat anglický jazyk a hovořit s lidmi, kteří mluví anglicky.
 
-Webové stránky: https://cs.wikipedia.org/wiki/Prijatelske_dopady
-- sloveso: "to run"
-- přítomný čas: "I run" (já běhám)
-- minulý čas
+Řešení 6: Překlad anglických frazeologických spojení do češtiny
+
+1. "Break a leg!" -> "Dostaneš se dobře!"
+2. "Cost an arm and a leg" -> "Stojí hodně peněz"
+3. "Cut to the chase" -> "Jdi přímo k věci"
+4. "Give someone the cold shoulder" -> "Odmítnout někoho, aby se s tebou setkal"
+5. "Rain on someone's parade" -> "Rozbít někoho"
+
+Řešení 7: Analýza a porovnání tří anglických textů o tématu mezinárodních vztahů
+
+Text 1: "The world is a global village, and we must work together to address the challenges of the 21st century. We must cooperate on issues such as climate change, economic inequality, and social justice."
+
+Text 2: "The rise of globalization has created new opportunities for cooperation and collaboration between nations. We must take advantage of these opportunities to build a more peaceful and prosperous world

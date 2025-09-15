@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:45:41
+# Datum: 2025-09-15 22:51:05
 
-Úkol 1: Vyberte tři věty z textu a přeložte je do češtiny. Použijte překlady z internetu nebo slovník a ujasněte si, zda překlady jsou přesné.
+Úkol 1: Napiš krátkou esej o výhodách a nevýhodách používání anglického jazyka v práci a ve vzdělávání. (cca 150 slov)
 
-Úkol 2: Najděte v textu tři synonyma k slovu "přátelství". Použijte slovníky nebo webové stránky a ujasněte si význam a rozdíl mezi synonymy.
+Úkol 2: Přeložte následující úryvek z anglické knihy do češtiny: „The sun was shining brightly in the clear blue sky. The birds were singing their sweet melodies, and the gentle breeze rustled the leaves of the trees.“ (cca 50 slov)
 
-Úkol 3: Napište krátký text (5-7 vět) o nějaké aktuální události v anglicky mluvících zemích. Použijte zdroje z internetu a ujasněte si, zda informace jsou přesné.
+Úkol 3: Vyberte pět slov z anglické frazeologie a vysvětlete jejich význam a použití v konkrétním kontextu. (cca 150 slov)
 
-Úkol 4: Vyberte tři anglické slovesa a vysvětlete, jak se používají v různých časových rozdílech (např. minulý čas, přítomný čas, budoucí čas). Použijte slovníky nebo webové stránky a ujasněte si, zda jsou vaše vysvětlení přesná.
+Úkol 4: Úkolem je analyzovat a porovnat dva různé anglické texty na téma environmentální ochrana. Vyberte dva texty, jejichž autor je známý a oceňovaný, a porovnejte jejich stylistiku, argumentaci a použití jazyka. (cca 200 slov)
 
-Úkol 5: Napište krátkou analýzu anglické básně (např. "The Road Not Taken" od Roberta Frosta). Použijte interpretace z internetu a ujasněte si, zda vaše analýza je přesná.
+Úkol 5: Napiš krátký rozhovor o tom, jak jste se naučil/a anglický jazyk a jaký máte pocit o své kompetenci. (cca 150 slov)
 
-Úkol 6: Vyberte tři anglické výrazy idiomatizace a vysvětlete, co znamenají a jak se používají v běžném hovoru. Použijte slovníky nebo webové stránky a ujasněte si, zda jsou vaše vysvětlení přesná.
+Úkol 6: Přeložte anglické frazeologické spojení do češtiny a vysvětlete jejich význam a použití v konkrétním kontextu. Například: "Break a leg!" (cca 100 slov)
 
-Úkol 7: Napište krátký esej (10-12 vět) o tématu "Role jazyka v komunikaci". Použijte zdroje z internetu a ujasněte si, zda informace jsou přesné.
+Úkol 7: Úkolem je analyzovat a porovnat tři různé anglické texty o tématu mezinárodních vztahů. Vyberte tři texty, jejichž autor je známý a oceňovaný, a porovnejte jejich stylistiku, argumentaci a použití jazyka. (cca 250 slov)
 
-Úkol 8: Vyberte tři anglické texty z různých oblastí (např. literatura, věda, politika) a analyzujte, jak se v nich používají různé styly psaní. Použijte slovníky nebo webové stránky a ujasněte si, zda vaše analýza je přesná.
+Úkol 8: Napiš krátkou kritiku anglické knihy s názvem "To Kill a Mockingbird". Bude součástí kritiky analýza hlavních postav a jejich motivace. (cca 250 slov)
 
-Úkol 9: Napište krátký překlad textů (10-12 vět) z češtiny do angličtiny. Použijte překladové slovníky nebo webové stránky a ujasněte si, zda překlad je přesný.
+Úkol 9: Úkolem je napsat anglický text o tématu současného světa, který by mohl být použit jako prezentace na konferenci. Text by měl být stručný, přehledný a obsahovat relevantní informace. (cca 300 slov)
 
-Úkol 10: Vyberte tři anglické texty z různých oblastí (např. literatura, věda, politika) a vytvořte krátkou kritiku, jak se v nich používají různé stylistické prvky. Použijte slovníky nebo webové stránky a ujasněte si, zda vaše kritika je přesná.
+Úkol 10: Úkolem je napsat a představit projekt na téma rozvoje anglického jazyka v České republice. Projekt by měl obsahovat analýzu současného stavu, návrh opatření a předpokládané výsledky. (cca 500 slov)
