@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Počítačové sítě
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:30:06
+# Datum: 2025-09-15 23:30:07
 
-Úkol 1: Popiš rozdíly mezi TCP a UDP protokoly a stručně zdůvodni, který z nich je vhodný pro kterou aplikaci.
+Úkol 1: Proveďte konverzi IP adresy 192.168.1.1 do čísla šestnáctkové reprezentace.
 
-Úkol 2: Vysvětle mechanismus přepínače v přepínaných sítích a popiš jeho role v provozu sítě.
+Úkol 2: Vysvětle rozdíl mezi IPv4 a IPv6 adresami a udělejte seznam hlavních výhod IPv6 oproti IPv4.
 
-Úkol 3: Rozlož si síťovou topologii kanceláře se 10 stanicemi a 2 přepínači, a vysvětle, jak by fungovala komunikace mezi nimi.
+Úkol 3: Vyjadřte rozsah adres IPv4 v číselné formě a udělejte seznam možných rozsahů.
 
-Úkol 4: Vysvětle, jak funguje algoritmus RIP (Routing Information Protocol) a popiš jeho výhody a nevýhody.
+Úkol 4: Popište proces konfigurace statické IP adresy na počítači s operačním systémem Windows.
 
-Úkol 5: Zajistě, aby dva počítače, spojené přes lokální síť, komunikovali pomocí protokolu SSH (Secure Shell).
+Úkol 5: Vytvořte síťový diagram pro síť s 16 počítači a 2 routerama. Pojmy, které diagram musí obsahovat, jsou: switch, router, síťová karta a počítač.
 
-Úkol 6: Popiš, jak funguje síťová segmentace a vysvětle, proč je nezbytná pro správu velké sítě.
+Úkol 6: Proveďte analýzu síťové konfigurace pomocí nástroje Wireshark. Naleznete požadované informace o síťovém provozu.
 
-Úkol 7: Implementujte a vysvětle funkci NAT (Network Address Translation) na routeru a vysvělte jeho roli v provozu sítě.
+Úkol 7: Vysvělte rozdíl mezi MAC adresou a IP adresou a udělejte seznam situací, kdy jsou tyto informace používány.
 
-Úkol 8: Porovnejte a porovnejte výhody a nevýhody routerů a přepínačů v provozu síťového provozu.
+Úkol 8: Implementujte protokol DHCP na počítači s operačním systémem Linux. Konfigurujte DHCP server tak, aby vydelal 50 IP adres z rozsahu 192.168.1.0/24.
 
-Úkol 9: Zpracujte návrh a implementaci síťové bezpečnosti pomocí protokolu SSL/TLS pro webový server.
+Úkol 9: Vypracujte návrh síťové architektury pro organizaci s 1000 uživatelů a 10 serverovými počítači.
 
-Úkol 10: Zajistě, aby počítač komunikoval s serverem pomocí protokolu HTTPS (Hypertext Transfer Protocol Secure) a vysvělte mechanismus šifrování dat.
+Úkol 10: Proveďte implementaci protokolu BGP (Border Gateway Protocol) na simulátoru síťového provozu. Navodněte směrování provozu mezi dvěma autonomními systémy.

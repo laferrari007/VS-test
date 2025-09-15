@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Počítačové sítě
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:30:06
+# Datum: 2025-09-15 23:30:07
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 
