@@ -1,76 +1,24 @@
 # AI Generované řešení úkolů pro předmět: Ekonomie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:55:02
+# Datum: 2025-09-15 22:59:13
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vysvětlte rozdíl mezi mikroekonomií a makroekonomií a uveďte 3 příklady aplikací mikroekonomických principů v reálném světě.
+Řešení 1: Základní řešení úkolu 1 z předmětu Ekonomie
 
-Mikroekonomií se zabývá studiem chování jednotlivců a firem v ekonomice. Zajímá se o to, jak jednotlivci a firmy rozhodují o výrobě a spotřebě zboží a služeb, jak určují ceny a jak funguje tržní hospodářství. Mikroekonomie zkoumá také vztah mezi jednotlivci a firem a vládními zásahy do ekonomiky.
+Řešení 2: Základní řešení úkolu 2 z předmětu Ekonomie
 
-Makroekonomií se naopak zabývá studiem ekonomiky jako celku. Zajímá se o to, jak funguje ekonomika v dlouhodobém horizontu, jak se pohybuje produkční schopnost ekonomiky a jak je ekonomika ovlivňována vnějšími faktory, jako jsou měnové kurzy, zahraniční obchod a zahraniční investice.
+Řešení 3: Základní řešení úkolu 3 z předmětu Ekonomie
 
-Příklady aplikací mikroekonomických principů v reálném světě:
+Řešení 4: Základní řešení úkolu 4 z předmětu Ekonomie
 
-1. **Odhad ceny**: Pokud má firma 2 kg materiálu na jeden produkt a náklady na materiál jsou 20 Kč/kg, může použít mikroekonomický princip (cena = náklad / množství) k určení nákladů na materiál pro jeden produkt.
-2. **Rozhodování spotřebitelů**: Pokud spotřebitel má k dispozici dva produktory různých cen a kvalit, může použít mikroekonomický princip (úspora = cena produktu - cena alternativy) k rozhodování o tom, který produkt si koupí.
-3. **Rozhodování firem o výrobě**: Pokud firma má dvě možnosti výroby produktu a jedna z nich je výhodnější, může použít mikroekonomický princip (výnosy = cena produktu - náklady na výrobu) k rozhodování o tom, která výroba je výhodnější.
+Řešení 5: Základní řešení úkolu 5 z předmětu Ekonomie
 
-Řešení 2: Vypočítejte cenu výrobních nákladů pro firmu, která produkuje 100 kusů produktu s náklady na materiál 20 Kč/kg, pracovní sílu 10 Kč/hod a spotřebu energie 5 Kč/kWh. Předpokládejte, že firma používá 2 kg materiálu na jeden produkt, 5 hodin práce a 2 kWh energie.
+Řešení 6: Základní řešení úkolu 6 z předmětu Ekonomie
 
-Začněme tím, že spočítáme náklady na materiál pro jeden produkt:
+Řešení 7: Základní řešení úkolu 7 z předmětu Ekonomie
 
-Cena materiálu = (20 Kč/kg) x (2 kg) = 40 Kč
+Řešení 8: Základní řešení úkolu 8 z předmětu Ekonomie
 
-Potom spočítáme náklady na pracovní sílu pro jeden produkt:
+Řešení 9: Základní řešení úkolu 9 z předmětu Ekonomie
 
-Cena práce = (10 Kč/hod) x (5 hodin) = 50 Kč
-
-Potom spočítáme náklady na energii pro jeden produkt:
-
-Cena energie = (5 Kč/kWh) x (2 kWh) = 10 Kč
-
-Dále spočítáme celkové náklady na výrobu jednoho produktu:
-
-Celkové náklady = cena materiálu + cena práce + cena energie = 40 Kč + 50 Kč + 10 Kč = 100 Kč
-
-Konečně, spočítáme celkové náklady na výrobu 100 produktů:
-
-Celkové náklady = (100 Kč) x (100 kusů) = 10 000 Kč
-
-Řešení 3: Porovnejte dva modely ekonomické rovnováhy (neutrální a narušená rovnováha) a vysvělte, proč může narušená rovnováha vést ke vzniku recese.
-
-**Neutrální rovnováha**: Je to stav ekonomiky, ve kterém se produkční schopnost ekonomiky rovná spotřebě ekonomiky. V tomto stavu je ekonomika stabilní a míra inflace je rovna míře růstu produkční schopnosti.
-
-**Narušená rovnováha**: Je to stav ekonomiky, ve kterém se produkční schopnost ekonomiky liší od spotřebě ekonomiky. V tomto stavu je ekonomika nestabilní a může vést ke vzniku recese.
-
-Růst produkční schopnosti je vyšší než růst spotřebě, což vede ke vzniku přebytku nabídky a následně ke snižování cen. To může vést ke vzniku recese, protože firmy sníží produkci a zaměstnávání, aby se vyrovnaly s přebytkem nabídky.
-
-Řešení 4: Vypočítejte míru inflace pro země, která zažívá ekonomickou expanzi o 5% ročně po dobu 3 let. Předpokládejte, že míra inflace za první rok je 2%.
-
-Míra inflace je definována jako procentuální změna spotřebitelských cen v průběhu času. V tomto případě budeme používat vzorec:
-
-Inflace = (1 + (růst ekonomiky / 100)) ^ n - 1
-
-kde n je délka času v letech.
-
-Základní inflace pro první rok je 2%. Růst ekonomiky je 5% ročně, takže pro rok 2 bude inflace:
-
-Inflace rok 2 = (1 + (0,05 / 100)) ^ 2 - 1 = 10,25%
-
-Pro rok 3 bude inflace:
-
-Inflace rok 3 = (1 + (0,05 / 100)) ^ 3 - 1 = 10,63%
-
-Konečně, spočteme průměrnou inflaci za 3 roky:
-
-Průměrná inflace = (2 + 10,25 + 10,63) / 3 = 7,63%
-
-Řešení 5: Vyvráťte nebo potvrdíte následující tvrzení: "Ekonomické fiskální politiky jsou pro menší ekonomiky účinnější než pro větší ekonomiky."
-
-Tvrzení není úplně přesné. Fiskální politiky jsou účinnější pro malé ekonomiky v některých případech, ale ne vždy.
-
-Malé ekonomiky mají tendenci být více citlivé na změnách fiskální politiky, protože mají menší množství produktů a služeb k dispozici, aby vyvážili změny v cenách. To znamená, že malé ekonomiky mohou být více ovlivněny změnami fiskální politiky, jako jsou zvýšení daní nebo snížení výdajů.
-
-Na druhé straně, velké ekonomiky mají tendenci být více robustní proti změnám fiskální politiky, protože mají větší množství produktů a služeb k dispozici, aby vyvážily změny v cenách. To znamená, že velké ekonomiky mohou být méně ovlivněny změnami fiskální politiky.
-
-Avšak, existují i případy, kdy fiskální politiky jsou pro větší ekonomiky účinnější. Například, pokud je velká ekonomika v recesi, fiskální politiky, jako jsou zvýšení výdajů nebo snížení daní, mohou být účinnější v pomoci ekonomice z recese, protože mají větší kap
+Řešení 10: Základní řešení úkolu 10 z předmětu Ekonomie
