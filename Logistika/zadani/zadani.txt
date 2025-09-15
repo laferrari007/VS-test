@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Logistika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:43:29
+
+Úkol 1: Rozvrhněte trasu pro nákladní automobil, který musí přepravovat zboží z pražského nádraží do Brna. Zjistěte, jakou trasu má vůz najet, aby se co nejkratší cestou dostal ke cíli a využili jste pouze dálnicích.
+
+Úkol 2: Předložte návrh systému pro sledování a řízení zásob v maloobchodní síti. Vypočítejte náklady na implementaci systému a zvažte jeho návratnost v investici.
+
+Úkol 3: Vyberte typ dopravního prostředku, který by se nejvhodněji používal pro přepravu nákladů z přístavu do vnitrozemí. Zvažte faktory jako kapacita, spolehlivost a ceny.
+
+Úkol 4: Zpracujte studii o vlivu logistické efektivnosti na ziskovost podniku. Uvažujte vlivy jako jsou nákladové úspory, zrychlení dodávek a zlepšení služeb zákazníků.
+
+Úkol 5: Navrhnete systém pro optimální lokalizaci skladů z hlediska nákladů na dopravu, skladování a údržbu. Zvažte faktory jako odstupnost, přístupnost a dostupnost infrastruktury.
+
+Úkol 6: Předložte návrh strategie pro optimalizaci distribuce zboží v síti dodavatelů. Zvažte faktory jako kapacita, náklady a kvalita služeb.
+
+Úkol 7: Zpracujte analýzu o vlivu kybernetických hrozeb na logistické organizace. Uvažujte možnosti ochrany proti útokům a ztrátám spojeným s kybernetickými útoky.
+
+Úkol 8: Vyberte typ logistické strategie pro podnikání v mezinárodních trzích. Zvažte faktory jako náklady, zisky, rizika a příležitosti.
+
+Úkol 9: Zpracujte studii o vlivu zavedení ekologických řešení v logistice na environmentální kvalitu a ziskovost podniků. Uvažujte možnosti jako jsou elektrifikované vozidla, nízkoemisní technologie a recyklování.
+
+Úkol 10: Předložte návrh systému pro efektivní řízení zásob v reálném čase. Zvažte faktory jako aktualizace dat, vyčíslování rizik a analýzu trendů.
