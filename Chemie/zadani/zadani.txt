@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Chemie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:47:32
+# Datum: 2025-09-15 22:57:24
 
-Úkol 1: Základní úkol z předmětu Chemie - úroveň 1
+Úkol 1: Vyjmenujte a definujte základní pojmy v oblasti chemie, jako je atom, molekula, element a chemická sloučenina.
 
-Úkol 2: Základní úkol z předmětu Chemie - úroveň 2
+Úkol 2: Popište rozdíl mezi iontovým a molekulárním vázaním. Použijte příklady a vysvětlete mechanismy.
 
-Úkol 3: Základní úkol z předmětu Chemie - úroveň 3
+Úkol 3: Vysvětlte principy a mechanismy chemické reakce, včetně reakcí spalování a oxidace.
 
-Úkol 4: Základní úkol z předmětu Chemie - úroveň 4
+Úkol 4: Přeložte a interpretojte chemické vzorce pro jednoduché sloučeniny, jako je voda (H2O), kyslík (O2) nebo uhelný oxid (CO).
 
-Úkol 5: Základní úkol z předmětu Chemie - úroveň 5
+Úkol 5: Vyjmenujte a popište hlavní skupiny prvků v periodické tabulce, včetně jejich fyzikálních a chemických vlastností.
 
-Úkol 6: Základní úkol z předmětu Chemie - úroveň 6
+Úkol 6: Vysvětlte principy a mechanismy fotosyntézy, včetně role světla, chlorofylu a oxidu uhličitého.
 
-Úkol 7: Základní úkol z předmětu Chemie - úroveň 7
+Úkol 7: Přeložte a interpretojte chemické vzorce pro složitější sloučeniny, jako je uhlovodík (CH4), kyslíková sloučenina (Na2O) nebo fosforečnan vápenatý (Ca3(PO4)2).
 
-Úkol 8: Základní úkol z předmětu Chemie - úroveň 8
+Úkol 8: Vyjmenujte a popište hlavní typy chemických reakcí, včetně kombinací, rozkladů a výměn, a vysvětlete jejich mechanismy.
 
-Úkol 9: Základní úkol z předmětu Chemie - úroveň 9
+Úkol 9: Vysvětlte principy a mechanismy chemické syntézy, včetně rolí katalyzátorů a podmínek prostředí.
 
-Úkol 10: Základní úkol z předmětu Chemie - úroveň 10
+Úkol 10: Přeložte a interpretojte komplexní chemické vzorce pro organické sloučeniny, jako je benzén (C6H6) nebo acetanhydrid (CH3COOCCH3), a vysvětlete jejich strukturu a vlastnosti.
