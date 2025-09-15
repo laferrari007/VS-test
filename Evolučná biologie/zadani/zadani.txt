@@ -2,22 +2,32 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:26:02
 
-Úkol 1: Popište rozdíl mezi homologními a analogovými strukturami v kontextu evoluční biologie. Uveďte příklady obou typů struktur.
+Úkol 1: 
+Popište rozdíl mezi mikroevolucí a makroevolucí. Uveďte příklady, které ilustrují tyto dva procesy.
 
-Úkol 2: Vyberte tři příklady evolučních adaptací a vysvětlete, jak se tyto adaptace vyvinuly v response na environmentální tlak.
+Úkol 2: 
+Vyberte jednu z evolučních teorií (například teorie přirozeného výběru) a zdůvodněte, proč je považována za jednu z nejdůležitějších v oblasti evoluční biologie.
 
-Úkol 3: Porovnejte tři různé modely evoluce (Darwinovský výběr, Lamarckův mechanismus a Genový drift) a vysvětlete jejich výhody a nevýhody.
+Úkol 3: 
+Popište proces homologizace a ilustrováním příkladů vysvětlete, jak se používá v evoluční biologii.
 
-Úkol 4: Popište proces horizontalního přenosu genů a uveďte příklady, kdy se tento proces projevuje v přírodě.
+Úkol 4: 
+Popište genetický materiál a jeho roli v evoluční biologii. Uveďte příklady, které demonstrují, jak genetická variabilita ovlivňuje evoluci.
 
-Úkol 5: Analyzujte evoluční historii čeledi ptáků a vysvětlete, jak se vyvinuly od jejich prapředků.
+Úkol 5: 
+Popište proces diverzifikace a zdůvodněte, proč je důležitý v evoluční biologii. Uveďte příklady, které ilustrují tento proces v různých skupinách organismů.
 
-Úkol 6: Vyberte dva příklady evolučních konvergenčních přizpůsobování a vysvětlete, proč se tyto organismy vyvinuly podobným způsobem.
+Úkol 6: 
+Vyhledejte a popište příklad konvergentní evoluce ve skupině organismů. Uveďte argumenty, proč je tento proces důležitý pro naše pochopení evoluce.
 
-Úkol 7: Uveďte příklady evolučních adaptací v mikroorganismech a vysvětlete, jak se tyto adaptace vyvinuly v response na environmentální tlak.
+Úkol 7: 
+Vyberte jednu z evolučních teorií (například teorie evolučních kladů) a zdůvodněte, proč je považována za jednu z nejdůležitějších v oblasti evoluční biologie. Uveďte příklady, které ilustrují použitelnost této teorie na konkrétní skupinu organismů.
 
-Úkol 8: Porovnejte evoluční historii dvou různých taxonů (například primátů a savců) a vysvětlete, jak se vyvinuly od svých společných predků.
+Úkol 8: 
+Popište roli genetické driftu v evoluční biologii. Uveďte příklady, které demonstrují vliv této síly na evoluci malých populací.
 
-Úkol 9: Analyzujte efektivní strategie pro zachování genetické rozmanitosti v malých populacech, a uveďte příklady, kdy se tyto strategie projevují v přírodě.
+Úkol 9: 
+Vyhledejte a popište příklad, kde se evoluce organismu ovlivňuje interakce s jejich prostředím. Uveďte argumenty, proč je tento proces důležitý pro naše pochopení evoluce.
 
-Úkol 10: Uveďte příklad evoluční syntézy a vysvětlete, jak kombinuje principy evoluční biologie a molekulární biologie na vysvětlení komplexních biologických procesů.
+Úkol 10: 
+Vyberte skupinu organismů (například rostliny nebo savce) a pomocí evolučních teorií (například teorie přirozeného výběru) vysvětlete, proč se vyvinuly do své současné formy. Uveďte příklady, které ilustrují použitelnost těchto teorií na konkrétní skupinu organismů.
