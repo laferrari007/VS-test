@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Hydraulika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:36:53
+# Datum: 2025-09-15 23:37:04
 
-Úkol 1: Vypočítejte tlak v potrubí s vnitřním průměrem 10 mm a délkou 5 m, pokud proudí skrze něj 0,05 m³/s voda s hustotou 1000 kg/m³.
+Úkol 1: Pokuste se definovat základní pojmy hydrauliky, jako je tlak, průtok, objem a rychlost kapaliny. Vysvětlejme, jak se tyto pojmy vzájemně ovlivňují a jak jsou důležité pro popis a analýzu hydraulických systémů.
 
-Úkol 2: Vyvěste diagram vyrovnávající tlak v potrubí s úhlem sklonu. Záznamy: tlak 5 bar, úhel sklonu 30°, hustota vody 1000 kg/m³, vnitřní průměr potrubí 20 mm.
+Úkol 2: Určete hustotu kapalin (voda, olej, etc.) a jejich viskozitu. Zajistěte, aby tyto parametry byly relevantní pro reálné hydraulické aplikace.
 
-Úkol 3: Určete charakteristiku potrubí (Q-H a Q-P) pro potrubí s vnitřním průměrem 50 mm a délkou 10 m, pokud proudí skrze něj voda s hustotou 1000 kg/m³. Použijte Bernoullův zákon.
+Úkol 3: Rozeberte mechanismy přenosu energie v hydraulických systémech. Seznamte se s principy tlakových čerpadel, ventilů a dalších důležitých komponent.
 
-Úkol 4: Vypočítejte energii ztracenou na jednom ohybu potrubí s vnitřním průměrem 30 mm a úhlem ohybu 90°, pokud proudí skrze něj voda s hustotou 1000 kg/m³ a rychlostí 5 m/s. Použijte vztah pro energii ztracenou na jednom ohybu.
+Úkol 4: Vyberte si typ čerpadla (centrické, axiální, etc.) a vysvětlejme jeho princip činnosti. Vyjmenujte jeho výhody a nevýhody oproti jiným typům čerpadel.
 
-Úkol 5: Navrhněte a vyvěste diagram vyrovnávající tlak v potrubí s teplotou vody. Záznamy: tlak 10 bar, teplota 20°C, hustota vody 1000 kg/m³, vnitřní průměr potrubí 40 mm.
+Úkol 5: Určete charakteristiky hydraulického okruhu, jako je např. maximální tlak, minimální tlak, průtok, rozdílný tlak a jeho účinky na výkon čerpadla.
 
-Úkol 6: Určete kritické rychlosti pro proudění vody v potrubí s vnitřním průměrem 60 mm a délkou 15 m, pokud proudí skrze něj voda s hustotou 1000 kg/m³. Použijte vztah pro kritické rychlosti.
+Úkol 6: Vysvětlejme principy hydraulických měřicích přístrojů (tlakové čidlo, rychloměr, objemový snímač, etc.). Seznamte se s jejich funkcí a aplikacemi v různých hydraulických systémech.
 
-Úkol 7: Vypočítejte množství vody, které proudí skrze potrubí s vnitřním průměrem 25 mm a délkou 8 m, pokud je napájeno vodou s tlakem 15 bar a hustotou 1000 kg/m³. Použijte Bernoullův zákon.
+Úkol 7: Zajistěte, aby se studenti seznámili s principy projektování hydraulických systémů. Vyjmenujte nejdůležitější faktory, které se na projektování podílejí (např. tlak, průtok, hmotnost, atd.).
 
-Úkol 8: Navrhněte a vyvěste diagram vyrovnávající tlak v potrubí s úhlem sklonu a vnitřním průměrem. Záznamy: tlak 20 bar, úhel sklonu 60°, vnitřní průměr potrubí 35 mm, hustota vody 1000 kg/m³.
+Úkol 8: Určete optimální parametry hydraulického čerpadla pro konkrétní aplikaci (např. zvedání materiálu, tahání vozidla, atd.). Zajistěte, aby tyto parametry byly uzpůsobeny účelu čerpadla.
 
-Úkol 9: Určete charakteristiku potrubí (Q-H a Q-P) pro potrubí s vnitřním průměrem 70 mm a délkou 12 m, pokud proudí skrze něj voda s hustotou 1000 kg/m³ a tlakem 25 bar. Použijte vztah pro charakteristiku potrubí.
+Úkol 9: Vyžádejte si od studentů návrh a projektování komplexního hydraulického systému. Zajistěte, aby návrh zahrnoval všechny důležité komponenty (čerpadla, ventily, měřicí přístroje, atd.) a aby byl uzpůsoben konkrétní aplikaci.
 
-Úkol 10: Vypočítejte energii ztracenou na jednom ohybu potrubí s vnitřním průměrem 45 mm a úhlem ohybu 120°, pokud proudí skrze něj voda s hustotou 1000 kg/m³ a rychlostí 8 m/s. Použijte vztah pro energii ztracenou na jednom ohybu.
+Úkol 10: Úkolem studentů je vyhodnotit a porovnat parametry a výkonnost různých hydraulických čerpadel. Seznamte se s jejich výhodami a nevýhodami, jejich aplikacemi a ekonomickými aspekty.
