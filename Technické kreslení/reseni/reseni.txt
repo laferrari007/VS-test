@@ -1,24 +1,104 @@
-# AI Generované řešení úkolů pro předmět: Technické kreslení
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:59:21
+# Řešení úkolů pro předmět: Technické kreslení
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:09:14
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Technické kreslení
+Řešení 1: Nákresy základních tvarů
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Technické kreslení
+K vytvoření nákresů základních tvarů budeme potřebovat následující programy:
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Technické kreslení
+- Autocad (nebo jiný program pro technické kreslení)
+- Papír a tužku (pokud chcete nákresy vyhotovit ručně)
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Technické kreslení
+**Krok 1: Vytvoření kruhů, oblouků a kružnic**
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Technické kreslení
+- Otevřete Autocad a vyberte nástroj pro kreslení kruhů (obvykle označovaný jako "Cílový kruh").
+- Zvolte velikost kruhu (například 10 mm) a umístěte ho na pracovní plochu.
+- Pro vytvoření kružnice, přetáhněte okraj kruhu směrem nahoru nebo dolů.
+- Pro vytvoření oblouku, přetáhněte okraj kruhu směrem dovnitř nebo ven.
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Technické kreslení
+**Krok 2: Vytvoření ovalu**
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Technické kreslení
+- Otevřete Autocad a vyberte nástroj pro kreslení ovalu (obvykle označovaný jako "Oval").
+- Zvolte velikosti ovalu (například 10 mm x 20 mm) a umístěte ho na pracovní plochu.
+- Pro úpravu rozměrů ovalu, použijte nástroje pro změnu velikosti nebo pro přibližování/průměrování.
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Technické kreslení
+**Krok 3: Vytvoření čtverce**
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Technické kreslení
+- Otevřete Autocad a vyberte nástroj pro kreslení čtverce (obvykle označovaný jako "Čtvereček").
+- Zvolte velikost čtverce (například 10 mm x 10 mm) a umístěte ho na pracovní plochu.
+- Pro úpravu rozměrů čtverce, použijte nástroje pro změnu velikosti nebo pro přibližování/průměrování.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Technické kreslení
+**Krok 4: Vytvoření trojúhelníku**
+
+- Otevřete Autocad a vyberte nástroj pro kreslení trojúhelníku (obvykle označovaný jako "Trojúhelník").
+- Zvolte velikost trojúhelníku (například 10 mm x 10 mm x 10 mm) a umístěte ho na pracovní plochu.
+- Pro úpravu rozměrů trojúhelníku, použijte nástroje pro změnu velikosti nebo pro přibližování/průměrování.
+
+**Krok 5: Vytvoření rovnoběžníku**
+
+- Otevřete Autocad a vyberte nástroj pro kreslení rovnoběžníku (obvykle označovaný jako "Rovnoběžník").
+- Zvolte velikost rovnoběžníku (například 10 mm x 20 mm) a umístěte ho na pracovní plochu.
+- Pro úpravu rozměrů rovnoběžníku, použijte nástroje pro změnu velikosti nebo pro přibližování/průměrování.
+
+**Krok 6: Vytvoření měřítek**
+
+- Otevřete Autocad a vyberte nástroj pro kreslení měřítek (obvykle označovaný jako "Měřítko").
+- Zvolte velikost měřítka (například 1:10) a umístěte ho na pracovní plochu.
+- Pro úpravu měřítka, použijte nástroje pro změnu velikosti nebo pro přibližování/průměrování.
+
+Nákresy základních tvarů jsou nyní hotové.
+
+Řešení 2: Provedení měřítek
+
+**Krok 1: Zadání měřítek**
+
+- Rozměry Vašeho pokoje:
+ + Délka: 5 metrů
+ + Šířka: 3 metry
+ + Výška: 2,5 metru
+
+**Krok 2: Vytvoření měřítek**
+
+- Otevřete Autocad a vyberte nástroj pro kreslení měřítek (obvykle označovaný jako "Měřítko").
+- Zvolte měřítko 1:10 a umístěte ho na pracovní plochu.
+- Pro úpravu měřítka, použijte nástroje pro změnu velikosti nebo pro přibližování/průměrování.
+
+**Krok 3: Přidání rozměrů**
+
+- Přidejte rozměry Vašeho pokoje na měřítko:
+ + Délka: 50 cm (5 metrů x 1:10)
+ + Šířka: 30 cm (3 metry x 1:10)
+ + Výška: 25 cm (2,5 metru x 1:10)
+
+**Krok 4: Přidání dalších informací**
+
+- Přidejte další informace o Vašem pokoji, jako jsou okna, dveře, atd.
+
+**Krok 5: Uložení práce**
+
+- Uložte Vaši práci do souboru a uložte ho v požadovaném formátu (například DWG nebo DXF).
+
+Měřítko Vašeho pokoje je nyní hotové.
+
+Řešení 3: Kreslení rovnoramenných trojúhelníků
+
+**Krok 1: Vytvoření rovnoramenného trojúhelníku**
+
+- Otevřete Autocad a vyberte nástroj pro kreslení trojúhelníku (obvykle označovaný jako "Trojúhelník").
+- Zvolte velikost trojúhelníku (například 10 mm x 10 mm x 10 mm) a umístěte ho na pracovní plochu.
+- Pro úpravu rozměrů trojúhelníku, použijte nástroje pro změnu velikosti nebo pro přibližování/průměrování.
+
+**Krok 2: Přidání vodorovné osy**
+
+- Přidejte vodorovnou osu na trojúhelník:
+ + Použijte nástroj pro kreslení čáry (obvykle označovaný jako "Čára").
+ + Vyberte velikost čáry (například 0,5 mm).
+ + Umístěte čáru na pracovní plochu.
+
+**Krok 3: Přidání svislé osy**
+
+- Přidejte svislou osu na trojúhelník:
+ + Použijte nástroj pro kreslení čáry (obvykle označovaný jako "Čára").
+ + Vyberte velikost čáry (například 0,5 mm).
+ + Umístěte čáru na

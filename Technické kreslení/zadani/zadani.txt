@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Technické kreslení
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:59:21
+# Zadání úkolů pro předmět: Technické kreslení
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:09:14
 
-Úkol 1: Základní úkol z předmětu Technické kreslení - úroveň 1
+Úkol 1: Nákresy základních tvarů - Vytvořte nákresy základních tvarů (kruh,oval, čtverec, trojúhelník, rovnoběžník) s různými rozměry a provedete jejich měřítková zobrazení.
 
-Úkol 2: Základní úkol z předmětu Technické kreslení - úroveň 2
+Úkol 2: Provedení měřítek - Zadáte si měřítková čísla pro váš vlastní pokoj a naskete tyto měřítková čísla v jednom z počítačových programů, jako jsou Autodesk, SolidWorks, atd. a potom si prohlédněte výsledky.
 
-Úkol 3: Základní úkol z předmětu Technické kreslení - úroveň 3
+Úkol 3: Kreslení rovnoramenných trojúhelníků - Nákres rovnoramenných trojúhelníků se stejnými rozměry, jejich vodorovné a svislé osu, včetně označování rozměrů a měřítek.
 
-Úkol 4: Základní úkol z předmětu Technické kreslení - úroveň 4
+Úkol 4: Kreslení šestiúhelníku - Vytvořte nákres šestouhelníku a jeho rozměry, včetně označování rozměrů a měřítek.
 
-Úkol 5: Základní úkol z předmětu Technické kreslení - úroveň 5
+Úkol 5: Kreslení úsečky a její úsečné zahrnutí - Nákres úsečky s jejími úsečnými zahrnutím, jako jsou úsečné zahrnutí, úsečné spojení a úsečné prodloužení.
 
-Úkol 6: Základní úkol z předmětu Technické kreslení - úroveň 6
+Úkol 6: Kreslení os - Vytvořte nákres os a jejich složky na kresbě s označením jejich rozměrů a měřítek.
 
-Úkol 7: Základní úkol z předmětu Technické kreslení - úroveň 7
+Úkol 7: Kreslení bodů - Vytvořte nákres bodů na kresbě s jejich rozměry a jejich zobrazení na kresbě.
 
-Úkol 8: Základní úkol z předmětu Technické kreslení - úroveň 8
+Úkol 8: Kreslení oblouků - Nákres oblouků s jejich rozměry a jejich rozbor na kresbě.
 
-Úkol 9: Základní úkol z předmětu Technické kreslení - úroveň 9
+Úkol 9: Kreslení ploch - Vytvořte nákres ploch s jejich rozměry a jejich rozbor na kresbě, včetně jejich měřítek.
 
-Úkol 10: Základní úkol z předmětu Technické kreslení - úroveň 10
+Úkol 10: Kreslení 3D modelů - Nákres 3D modelu s jeho rozměry a jejich rozbor na kresbě, včetně jejich měřítek a rozboru.
