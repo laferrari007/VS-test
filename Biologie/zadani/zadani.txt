@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Biologie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:47:18
+# Datum: 2025-09-15 22:57:08
 
-Úkol 1: Porovnejte strukturu buněčné membrány a plazmatu a vysvětlte jejich funkce v buněčném metabolismu.
+Úkol 1: Základní úkol z předmětu Biologie - úroveň 1
 
-Úkol 2: Popište proces fotosyntézy a vysvětlte role chlorofylu v této reakci. Jaké jsou hlavní produkty fotosyntézy?
+Úkol 2: Základní úkol z předmětu Biologie - úroveň 2
 
-Úkol 3: Vysvětlte rozdíl mezi homeostázou a adaptační reakcí. Jaké jsou příklady každého z těchto mechanismů v organismu?
+Úkol 3: Základní úkol z předmětu Biologie - úroveň 3
 
-Úkol 4: Porovnejte charakteristiky fotosyntetických a respiračních buněk v rostlinách. Jaké jsou hlavní rozdíly mezi nimi?
+Úkol 4: Základní úkol z předmětu Biologie - úroveň 4
 
-Úkol 5: Vysvětlte principy Mendelovy genetiky a popište, jak se projevují genotype a fenotyp v organismu.
+Úkol 5: Základní úkol z předmětu Biologie - úroveň 5
 
-Úkol 6: Popište proces evoluce a vysvětlte, jak se vyvíjela druhová rozmanitost na Zemi. Jaké jsou hlavní faktory, které ovlivňují evoluci?
+Úkol 6: Základní úkol z předmětu Biologie - úroveň 6
 
-Úkol 7: Vysvětlte funkci a strukturu DNA, včetně její replikace a transcriptionu. Jaký je vztah mezi genotypem a fenotypem?
+Úkol 7: Základní úkol z předmětu Biologie - úroveň 7
 
-Úkol 8: Porovnejte charakteristiky symbiotických a parazitických vztahů v přírodě. Jaké jsou hlavní rozdíly mezi nimi?
+Úkol 8: Základní úkol z předmětu Biologie - úroveň 8
 
-Úkol 9: Vysvětlte principy ekologické genetiky a popište, jak se genetická variabilita ovlivňuje ekologickou adaptabilitu organizmů.
+Úkol 9: Základní úkol z předmětu Biologie - úroveň 9
 
-Úkol 10: Popište proces speciací a vysvětlte, jak se vyvíjely nové druhy v přírodě. Jaké jsou hlavní faktory, které ovlivňují speciaci?
+Úkol 10: Základní úkol z předmětu Biologie - úroveň 10
