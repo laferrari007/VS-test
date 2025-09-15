@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Hydraulika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:36:53
+
+Úkol 1: Vypočítejte tlak v potrubí s vnitřním průměrem 10 mm a délkou 5 m, pokud proudí skrze něj 0,05 m³/s voda s hustotou 1000 kg/m³.
+
+Úkol 2: Vyvěste diagram vyrovnávající tlak v potrubí s úhlem sklonu. Záznamy: tlak 5 bar, úhel sklonu 30°, hustota vody 1000 kg/m³, vnitřní průměr potrubí 20 mm.
+
+Úkol 3: Určete charakteristiku potrubí (Q-H a Q-P) pro potrubí s vnitřním průměrem 50 mm a délkou 10 m, pokud proudí skrze něj voda s hustotou 1000 kg/m³. Použijte Bernoullův zákon.
+
+Úkol 4: Vypočítejte energii ztracenou na jednom ohybu potrubí s vnitřním průměrem 30 mm a úhlem ohybu 90°, pokud proudí skrze něj voda s hustotou 1000 kg/m³ a rychlostí 5 m/s. Použijte vztah pro energii ztracenou na jednom ohybu.
+
+Úkol 5: Navrhněte a vyvěste diagram vyrovnávající tlak v potrubí s teplotou vody. Záznamy: tlak 10 bar, teplota 20°C, hustota vody 1000 kg/m³, vnitřní průměr potrubí 40 mm.
+
+Úkol 6: Určete kritické rychlosti pro proudění vody v potrubí s vnitřním průměrem 60 mm a délkou 15 m, pokud proudí skrze něj voda s hustotou 1000 kg/m³. Použijte vztah pro kritické rychlosti.
+
+Úkol 7: Vypočítejte množství vody, které proudí skrze potrubí s vnitřním průměrem 25 mm a délkou 8 m, pokud je napájeno vodou s tlakem 15 bar a hustotou 1000 kg/m³. Použijte Bernoullův zákon.
+
+Úkol 8: Navrhněte a vyvěste diagram vyrovnávající tlak v potrubí s úhlem sklonu a vnitřním průměrem. Záznamy: tlak 20 bar, úhel sklonu 60°, vnitřní průměr potrubí 35 mm, hustota vody 1000 kg/m³.
+
+Úkol 9: Určete charakteristiku potrubí (Q-H a Q-P) pro potrubí s vnitřním průměrem 70 mm a délkou 12 m, pokud proudí skrze něj voda s hustotou 1000 kg/m³ a tlakem 25 bar. Použijte vztah pro charakteristiku potrubí.
+
+Úkol 10: Vypočítejte energii ztracenou na jednom ohybu potrubí s vnitřním průměrem 45 mm a úhlem ohybu 120°, pokud proudí skrze něj voda s hustotou 1000 kg/m³ a rychlostí 8 m/s. Použijte vztah pro energii ztracenou na jednom ohybu.

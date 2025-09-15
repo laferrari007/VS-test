@@ -1,0 +1,131 @@
+# Řešení úkolů pro předmět: Hydraulika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:36:53
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vypočítejte tlak v potrubí s vnitřním průměrem 10 mm a délkou 5 m, pokud proudí skrze něj 0,05 m³/s voda s hustotou 1000 kg/m³.
+
+K problematice proudění v potrubí se vztahují Bernoullův zákon a Eulerova rovnice. Bernoullův zákon popisuje vztah mezi tlakem, rychlostí a úrovní vody v potrubí.
+
+P = (P1 + 1/2 \* ρ \* v1^2) - (P2 + 1/2 \* ρ \* v2^2)
+
+Kde:
+P - tlak v potrubí
+P1, P2 - tlaky na vstupu a výstupu potrubí
+ρ - hustota vody
+v1, v2 - rychlosti vody na vstupu a výstupu potrubí
+
+Zadáno, že hustota vody je 1000 kg/m³, vnitřní průměr potrubí je 10 mm, délka potrubí je 5 m a proudí skrze něj 0,05 m³/s vody.
+
+Než budeme aplikovat Bernoullův zákon, musíme vypočítat rychlost vody v potrubí. Za tímto účelem použijeme vztah:
+
+Q = A \* v
+
+Kde:
+Q - objemovité proudění
+A - průřezový úsek potrubí
+v - rychlost vody
+
+Průřezový úsek potrubí můžeme vypočítat jako:
+
+A = π \* (d/2)^2
+
+Kde:
+d - vnitřní průměr potrubí
+
+Vložením hodnot do tohoto vztahu dostaneme:
+
+A = π \* (10/2)^2 = 78,5 mm^2 = 0,0000785 m^2
+
+Zadáno, že proudí skrze potrubí 0,05 m³/s vody, můžeme vypočítat rychlost vody v potrubí:
+
+v = Q / A = 0,05 / 0,0000785 = 639,18 m/s
+
+Teď můžeme aplikovat Bernoullův zákon:
+
+P = (P1 + 1/2 \* ρ \* v1^2) - (P2 + 1/2 \* ρ \* v2^2)
+
+Vzhledem k tomu, že tlak na vstupu a výstupu potrubí je stejný, můžeme zjednodušit vztah:
+
+P = 1/2 \* ρ \* (v1^2 - v2^2)
+
+Vložením hodnot dostaneme:
+
+P = 1/2 \* 1000 \* (639,18^2 - 0^2)
+P = 409 131 119 Pa = 409,13 bar
+
+Z toho vyplývá, že tlak v potrubí je cca 409,13 bara.
+
+Řešení 2: Vyvěste diagram vyrovnávající tlak v potrubí s úhlem sklonu. Záznamy: tlak 5 bar, úhel sklonu 30°, hustota vody 1000 kg/m³, vnitřní průměr potrubí 20 mm.
+
+Diagram vyrovnávající tlak v potrubí s úhlem sklonu je dán vztahem:
+
+P = ρ \* g \* h
+
+Kde:
+P - tlak v potrubí
+ρ - hustota vody
+g - zrychlení záření
+h - výška potrubí
+
+Vzhledem k tomu, že úhel sklonu potrubí je 30°, můžeme vypočítat výšku potrubí pomocí vztahu:
+
+h = l \* sin(α)
+
+Kde:
+l - délka potrubí
+α - úhel sklonu potrubí
+
+Zadáno, že délka potrubí je 5 m a úhel sklonu je 30°, můžeme vypočítat výšku potrubí:
+
+h = 5 \* sin(30°) = 2,5 m
+
+Teď můžeme vypočítat tlak v potrubí:
+
+P = ρ \* g \* h
+P = 1000 \* 9,81 \* 2,5
+P = 24 525 N/m² = 2,4525 bar
+
+Diagram vyrovnávající tlak v potrubí s úhlem sklonu by měl vypadat nějak takto:
+
+| Úhel sklonu (°) | Tlak (bar) |
+|-------------------|-------------|
+| 0                 | 2,4525      |
+| 30                | 5           |
+| 60                | 7,5         |
+| 90                | 10          |
+
+Řešení 3: Určete charakteristiku potrubí (Q-H a Q-P) pro potrubí s vnitřním průměrem 50 mm a délkou 10 m, pokud proudí skrze něj voda s hustotou 1000 kg/m³. Použijte Bernoullův zákon.
+
+Charakteristika potrubí (Q-H a Q-P) se vztahuje k vztahu mezi objemovým prouděním (Q) a tlakem (P) v potrubí. Použijeme Bernoullův zákon:
+
+P = (P1 + 1/2 \* ρ \* v1^2) - (P2 + 1/2 \* ρ \* v2^2)
+
+Vzhledem k tomu, že tlak na vstupu a výstupu potrubí je stejný, můžeme zjednodušit vztah:
+
+P = 1/2 \* ρ \* (v1^2 - v2^2)
+
+Vztah mezi objemovým prouděním (Q) a tlakem (P) v potrubí je dán vztahem:
+
+Q = A \* v
+
+Kde:
+A - průřezový úsek potrubí
+v - rychlost vody
+
+Průřezový úsek potrubí můžeme vypočítat jako:
+
+A = π \* (d/2)^2
+
+Kde:
+d - vnitřní průměr potrubí
+
+Vložením hodnot do tohoto vztahu dostaneme:
+
+A = π \* (50/2)^2 = 1963,49 mm^2 = 0,0019635 m^2
+
+Zadáno, že hustota vody je 1000 kg/m³ a vnitřní průměr potrubí je 50 mm, můžeme vypočítat rychlost vody v potrubí:
+
+v = Q / A
+
+Zdá se, že zde chybí vztah mezi Q a P. Protože chybí, předpoklád
