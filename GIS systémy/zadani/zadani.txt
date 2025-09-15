@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: GIS systémy
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:28:54
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:28:59
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu GIS systémy
+Úkol 1: Použijte GIS systém QGIS, aby jste vytvořili mapu s vyznačeným místním parkem v Praze. Použijte data z Otevřených dat města Prahy a doplňte mapu o informace o délce cest mezi jednotlivými body v parku.
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu GIS systémy
+Úkol 2: Vyberte si město a použijte GIS systém ArcGIS Online k vytvoření mapy s vyznačeným rozvrstem dopravních cest. Použijte data z Otevřených dat České republiky a vytvořte si vlastní pravidla pro rozvrstvení cest.
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu GIS systémy
+Úkol 3: Použijte GIS systém QGIS k analýze demografických dat pro obec. Zjistěte, které části obce mají nejvyšší počet obyvatel a vytvořte si mapu s vyznačením těchto oblastí.
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu GIS systémy
+Úkol 4: Použijte GIS systém ArcGIS Online k analýze ekonomických dat pro stát. Zjistěte, které oblasti státu mají nejvyšší HDP (Hrubý domácí produkt) a vytvořte si mapu s vyznačením těchto oblastí.
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu GIS systémy
+Úkol 5: Použijte GIS systém QGIS k analýze environmentálních dat pro národní park. Zjistěte, kde se nacházejí oblasti s nejvyšší biodiverzitou a vytvořte si mapu s vyznačením těchto oblastí.
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu GIS systémy
+Úkol 6: Použijte GIS systém ArcGIS Online k analýze sociálních dat pro město. Zjistěte, které části města mají nejvyšší míru chudoby a vytvořte si mapu s vyznačením těchto oblastí.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu GIS systémy
+Úkol 7: Použijte GIS systém QGIS k analýze meteorologických dat pro oblast. Zjistěte, která část oblasti má nejvyšší srážkovou úhrnu a vytvořte si mapu s vyznačením těchto oblastí.
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu GIS systémy
+Úkol 8: Použijte GIS systém ArcGIS Online k analýze epidemiologických dat pro stát. Zjistěte, které oblasti státu mají nejvyšší míru prevalence nemoci a vytvořte si mapu s vyznačením těchto oblastí.
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu GIS systémy
+Úkol 9: Použijte GIS systém QGIS k analýze geologických dat pro oblast. Zjistěte, kde se nacházejí oblasti s nejnižší úrovní znečištění půdy a vytvořte si mapu s vyznačením těchto oblastí.
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu GIS systémy
+Úkol 10: Použijte GIS systém ArcGIS Online k analýze kombinovaných dat pro město. Zjistěte, které oblasti města mají nejvyšší míru prosperity a vytvořte si mapu s vyznačením těchto oblastí. Použijte více datových zdrojů, jako jsou data sociálních, ekonomických a environmentálních faktorů.
