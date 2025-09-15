@@ -1,23 +1,57 @@
 # Zadání úkolů pro předmět: Kontrolling
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:45:10
+# Datum: 2025-09-15 23:45:17
 
-Úkol 1: Vyberte typy nákladů, které jsou důležité pro kalkulaci nákladů v rámci procesního managementu v podniku. Převést jejich popis do tabulky a vysvětlit, jak se používají v praxi.
+Úkol 1: Rozvíjejte definici konceptu "řízení" a popište jeho význam pro podnikání. Zajistěte, aby váš popis byl krátký a přehledný.
 
-Úkol 2: Zadání je představeno účetní jednotkou konsolidační zóny, která plánuje založit nové dceřiné společnosti. Potřebuje pomoci vybrat optimální účetní metodu pro její založení. Seznamte ji se základními účetními metodami a vysvětlit její výhody a nevýhody.
+Úkol 2: V případě, že máte k dispozici následující informace o výdajích:
+- Výdaj na mzdy: 500 000 Kč
+- Výdaj na materiál: 300 000 Kč
+- Výdaj na energie: 100 000 Kč
+- Celkový výdaj: 900 000 Kč
 
-Úkol 3: Předložte případovou studii o vybraném podniku, který se snaží zavést efektivní systém kontroly nákladů. Analyzujte jeho současné náklady a navrhněte změny, které by vedly ke snížení nákladů a zlepšení efektivity.
+Vyjadřete výdaje jako procenta z celkového výdaje. Použijte výpočetní metodu.
 
-Úkol 4: Zajistěte, aby účetní jednotka mohla efektivně vyhodnocovat své účetní závěrky pomocí vybraných ukazatelů. Seznamte ji se základními ukazateli, jako je EBITDA, návratnost investic atd., a vysvětlete, jak je používat pro vyhodnocení podnikání.
+Úkol 3: Představte si, že máte k dispozici následující rozpočet na investice:
+- Investice do vybavení: 150 000 Kč
+- Investice do nemovitostí: 200 000 Kč
+- Investice do software: 100 000 Kč
+- Celkový rozpočet: 450 000 Kč
 
-Úkol 5: Předložte návrh systému kontroly nákladů pro malý podnik. Vyberte několik nákladů a navrhněte, jak je monitorovat a kontrolovat, aby se zamezilo zbytečným nákladům.
+Vypočtěte procentní podíl každého typu investice v rámci celkového rozpočtu.
 
-Úkol 6: Zadání je účetní jednotkou, která plánuje zavést nový produkt na trh. Potřebuje pomoci vybrat optimální metodu pro odhad ceny nového produktu. Seznamte ji se základními metodami a vysvětlit její výhody a nevýhody.
+Úkol 4: Napište popis procesu kontroly rozpočtování v podnikání. Uveďte důležité kroky a fáze tohoto procesu.
 
-Úkol 7: Předložte analýzu současného stavu hospodaření účetní jednotky pomocí vybraných ukazatelů. Analyzujte její současné náklady a navrhněte změny, které by vedly ke snížení nákladů a zlepšení efektivity.
+Úkol 5: V případě, že máte k dispozici následující informace o prodejních trzích:
+- Trh A: 100 000 Kč
+- Trh B: 200 000 Kč
+- Trh C: 50 000 Kč
+- Celkový prodej: 350 000 Kč
 
-Úkol 8: Vyberte několik typů kontrolních procesů a předložte jejich přehled. Seznamte se jejich účelem, rozsahem a důsledky neefektivnosti.
+Vypočtěte procentní podíl každého trhu v rámci celkového prodeje.
 
-Úkol 9: Předložte návrh systému kontroly nákladů pro velké podnik. Vyberte několik nákladů a navrhněte, jak je monitorovat a kontrolovat, aby se zamezilo zbytečným nákladům.
+Úkol 6: Představte si, že máte k dispozici následující údaje o zisku:
+- Zisk před zdaněním: 250 000 Kč
+- Zisk po zdanění: 200 000 Kč
+- Zatížení: 50 000 Kč
 
-Úkol 10: Zadání je účetní jednotkou, která plánuje zavést nový projekt. Potřebuje pomoci vybrat optimální metodu pro odhad nákladů nového projektu. Seznamte ji se základními metodami a vysvětlit její výhody a nevýhody, a také navrhněte, jak bude monitorován a kontrolován během jeho průběhu.
+Vyjadřete zisk před zdaněním jako procento z celkového tržního obratu.
+
+Úkol 7: Rozvíjejte teorii o kontrolním cyklu, včetně jeho fází a důležitých kroků. Uveďte příklady z reálného světa.
+
+Úkol 8: V případě, že máte k dispozici následující informace o zásobách:
+- Zásoba A: 100 kusů
+- Zásoba B: 200 kusů
+- Celková zásoba: 300 kusů
+
+Vypočtěte procentní podíl každého typu zásoby v rámci celkové zásoby.
+
+Úkol 9: Představte si, že máte k dispozici následující údaje o investicích:
+- Investice do vybavení: 150 000 Kč
+- Investice do nemovitostí: 200 000 Kč
+- Investice do software: 100 000 Kč
+- Celkový rozpočet: 450 000 Kč
+
+Vyjadřete investice do vybavení jako procento z celkového rozpočtu.
+
+Úkol 10: Napište popis významu a cíle rozpočtového systému v podnikání. Uveďte důležité prvky a charakteristiky tohoto systému.
