@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Klimatologie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:28:26
+# Datum: 2025-09-15 23:28:38
 
-Úkol 1: Porovnejte teplotní rozdíly v různých částech Země v závislosti na ročním období. Použijte dostupné klimatické údaje a vysvětlete příčiny těchto rozdílů.
+Úkol 1: Popište hlavní typy srážkových procesů na Zemi a jejich vztahem k větrnému režimu.
 
-Úkol 2: Vyberte oblast s výraznými sezonními změnami a popište její klimatické charakteristiky. Uveďte typy vegetace a živočišstva, která zde žijí.
+Úkol 2: Vyberte typ srážkové oblačnosti a popište její charakteristické rysy, jako je např. výška, typ a intenzita srážek.
 
-Úkol 3: Použijte data z klimatických modelů a porovnejte odhady teplotních změn v budoucnu v závislosti na úrovni emisí skleníkových plynů. Uveďte hlavní zdroje rozdílů mezi modely.
+Úkol 3: Porovnejte rozdíly mezi kontinentální a oceánickou srážkovou zónou a vysvětlete, jak to ovlivňuje místní klima.
 
-Úkol 4: Analyzujte účinek změněných srážek na hydrologický cyklus v určitém regionu. Uveďte dopad na vodní zdroje a životní prostředí.
+Úkol 4: Vysvětlejme koncept globálního oteplování a popište hlavní faktory, které ho způsobují, jako jsou emise skleníkových plynů a změny v albedo.
 
-Úkol 5: Studujte vliv lidské činnosti na globální oteplování. Uveďte hlavní zdroje emisí skleníkových plynů a popište možná řešení pro snížení jejich výtěžku.
+Úkol 5: Vyberte jednu ze změn klimatu v 21. století (např. zvyšování teploty moří, pokles sněhové pokrývky atd.) a popsme její důsledky pro ekosystémy a lidské komunity.
 
-Úkol 6: Porovnejte klimatické charakteristiky různých typů ekosystémů na Zemi (například tropické deštné pralesy, polární tundra, savany). Uveďte typy organismů, které v nich žijí.
+Úkol 6: Vypracujte přehled o hlavních mechanismech, které ovlivňují šíření srážek a srážkových úhrnů v různých regionech planety.
 
-Úkol 7: Použijte data z meteorologických stanic a analyzujte vzory teplotních a srážkových událostí v určitém regionu v závislosti na ročním období. Uveďte možné příčiny těchto vzorů.
+Úkol 7: Porovnejte vlivy troposférických a stratosférických procesů na vznik a šíření srážkových systémů a vysvětlejme, jak to ovlivňuje místní klima.
 
-Úkol 8: Studujte vztah mezi globálním oteplováním a výskytem extrémních počasí (například tornáda, hurikány, přílivové vlny). Uveďte možné příčiny a dopady těchto událostí.
+Úkol 8: Popsme procesy, které vedou k vzniku a rozvoji monsunů v různých regionech planety a vysvětlete, jak to ovlivňuje místní klima a zemědělství.
 
-Úkol 9: Vyberte klimatickou změnu, která má největší dopad na lidskou společnost (například sucho, povodně, přílivová vlna). Popište příčiny, dopady a možná řešení problému.
+Úkol 9: Vypracujte model srážkové zóny v rámci modelu globálního klimatu (např. HadGEM, ECHAM atd.) a popište, jak to ovlivňuje předpovídání změn klimatu.
 
-Úkol 10: Analyzujte dopad globálního oteplování na biodiverzitu na Zemi. Uveďte typy organismů, které jsou nejvíce ohroženy, a popište možná řešení pro jejich záchranu.
+Úkol 10: Vyberte jednu ze změn klimatu v 21. století a analyzujte, jak by mohla ovlivnit místní klima a ekonomiku v určitém regionu, včetně dopadů na zemědělství, vodní zdroje atd.
