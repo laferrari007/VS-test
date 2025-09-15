@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Trestní právo
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:51:25
+# Datum: 2025-09-15 23:51:27
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Trestní právo
 
