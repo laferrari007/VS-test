@@ -1,23 +1,25 @@
 # Zadání úkolů pro předmět: Elektroenergetika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:15:05
+# Datum: 2025-09-15 23:15:06
 
-Úkol 1: Vypočítejte výkon elektrárny s plynovým spalovacím motorem, který má nominální výkon 100 MW a efektivitu 35%.
+Níže jsou 10 univerzitních úkolů pro předmět "Elektroenergetika":
 
-Úkol 2: Vyjmenujte a popište druhy transformátorů používaných v elektrických sítích a jejich základní vlastnosti.
+Úkol 1: Vypočtěte napětí a proud v elektrickém obvodu, který obsahuje rezistor 10 Ω a zdrojový odpor 5 Ω. Zdrojový napětí je 12 V.
 
-Úkol 3: Zkuste vyřešit jednoduchý problém elektrostatického rozptylu elektrického náboje pomocí Coulombova zákona.
+Úkol 2: Vyjmenujte a popište hlavní typy transformátorů používaných v elektroenergetických sítích a vysvětlete jejich funkce.
 
-Úkol 4: Porovnejte a vyjmenujte rozdíly mezi jednotlivými typy elektrických rozvodů (rozvod 3fázový, rozvod 2fázový).
+Úkol 3: Pro elektrické rozvody s napětím do 1 kV proveďte přehled o typových charakteristikách izolačních materiálu a jejich použití pro izolaci elektrických vedení.
 
-Úkol 5: Zkuste navrhnout a popsat jednoduchou elektrárnu s plynovým čerpadlem, která vyprodukuje elektrickou energii pro malý dům.
+Úkol 4: Vypočtěte energii, která je spotřebována v elektrické síti o napětí 230 V a proud 5 A po dobu 2 hodin.
 
-Úkol 6: Vyjmenujte a popište základní prvky elektrického vedení (transformátor, přenosová linka, rozvodna) a jejich funkce v elektrickém systému.
+Úkol 5: Vyjasněte rozdíl mezi pojmy "stabilita" a "stabilizace" v elektroenergetice a udělejte přehled o technických prostředcích používaných pro stabilizaci elektroenergetických systémů.
 
-Úkol 7: Zkuste vyřešit problém optimalizace přenosové kapacity v elektrické síti pomocí metod Line Search a Gradient Descent.
+Úkol 6: Vypočtěte hodnotu účiníku ve třífázovém elektrickém obvodu s napětími 400 V/√3 a proudy 10 A/√3. Zjištěný účiník musí být v souladu s požadavkem na účiník pro rozvodnou soustavu.
 
-Úkol 8: Navrhněte a popište elektrický systém pro nabíjení elektromobilu pomocí nabíjecí stanice a elektřiny z elektrické sítě.
+Úkol 7: Pro systém regulace elektrického výkonu v turbínové elektrárně popsate, jak se mění výkon a frekvence elektrického výkonu v případě zmenšení vstupního tlaku a zvýšení teploty turbíny.
 
-Úkol 9: Vyjmenujte a popište druhy elektrických zdrojů energie (jádrová elektrárna, solární elektrárna, větrná elektrárna) a jejich výhody a nevýhody.
+Úkol 8: Porovnejte rozdíly mezi systémy připojení elektrických soustav do sítě (zlepšení stability a spolehlivosti) a systémy oddělené práce elektrických soustav (zlepšení energetické účinnosti).
 
-Úkol 10: Zkuste vyřešit problém optimalizace výkonu elektrárny pomocí metod dynamického modelování a optimalizace.
+Úkol 9: Vypracujte přehled o možnostech a výhodách implementace inteligentních sítí (smart grid) v elektroenergetice a udělejte návrh na jejich nasazení v současnosti běžící elektrické síti.
+
+Úkol 10: Vypočtěte výkon a účinnost elektrického generátoru s jmenovitou výkonností 10 MW a jmenovitou účinností 95% při skutečném výkonu 9,5 MW.
