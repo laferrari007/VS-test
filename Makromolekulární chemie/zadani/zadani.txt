@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Makromolekulární chemie
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:23:24
+
+Úkol 1: Vyvažte chemickou rovnici souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 2: Vypočítejte molární hmotnost souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 3: Určete koncentraci roztoku souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 4: Řešte úkol ze stechiometrie souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 5: Navrhněte syntézu sloučeniny souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 6: Určete oxidační čísla souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 7: Vypočítejte pH roztoku souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 8: Řešte rovnováhu reakce souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 9: Určete typ chemické vazby souvisejí s tématem z předmětu Makromolekulární chemie
+
+Úkol 10: Vypočítejte výtěžek reakce souvisejí s tématem z předmětu Makromolekulární chemie
