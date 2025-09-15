@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Psychologie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:54:27
+# Datum: 2025-09-15 22:58:39
 
-Úkol 1: Popište rozdíl mezi instinktivní a učeními chováním. Uveďte příklady obou typů chování.
+Úkol 1: Základní úkol z předmětu Psychologie - úroveň 1
 
-Úkol 2: Porovnejte teorii podmíněného reflektu (Ivan Pavlov) a teorii operančního učení (B.F. Skinner). Uveďte příklady aplikací obou teorií v psychologii.
+Úkol 2: Základní úkol z předmětu Psychologie - úroveň 2
 
-Úkol 3: Popište procesy spojené s pocitem strachu a jeho důsledky na lidské chování. Uveďte příklady terapeutických strategií pro ovlivnění strachu.
+Úkol 3: Základní úkol z předmětu Psychologie - úroveň 3
 
-Úkol 4: Analyzujte role osobnostních vlastností (např. extraverze, introverze) v souvislosti s sociálním chováním. Uveďte příklady studií, které podporují nebo popírají vztah mezi osobnostními vlastnostmi a sociálním chováním.
+Úkol 4: Základní úkol z předmětu Psychologie - úroveň 4
 
-Úkol 5: Porovnejte koncepty "vědomí sebe sama" a "identita". Uveďte příklady výzkumů, které přispívají k pochopení těchto konceptů.
+Úkol 5: Základní úkol z předmětu Psychologie - úroveň 5
 
-Úkol 6: Popište vztah mezi kognitivní disonancí a procesy rozhodování. Uveďte příklady studií, které demonstrovat, jak kognitivní disonance ovlivňuje lidská rozhodnutí.
+Úkol 6: Základní úkol z předmětu Psychologie - úroveň 6
 
-Úkol 7: Analyzujte vliv emocí na pozornost a paměť. Uveďte příklady experimentů, které demonstrovat, jak emocionální stav ovlivňuje pozornost a paměť.
+Úkol 7: Základní úkol z předmětu Psychologie - úroveň 7
 
-Úkol 8: Porovnejte modely osobnostního rozvoje (např. model Maslowa, Eriksonův model). Uveďte příklady výzkumů, které podporují nebo popírají tyto modely.
+Úkol 8: Základní úkol z předmětu Psychologie - úroveň 8
 
-Úkol 9: Popište vztah mezi stresovými reakcemi a fyziologickými změnami v těle. Uveďte příklady studií, které demonstrovat, jak stres ovlivňuje fyziologické procesy.
+Úkol 9: Základní úkol z předmětu Psychologie - úroveň 9
 
-Úkol 10: Analyzujte role kognitivních Distorsí v procesu myšlení. Uveďte příklady studií, které demonstrovat, jak kognitivní distorsí ovlivňují lidské myšlení a chování.
+Úkol 10: Základní úkol z předmětu Psychologie - úroveň 10
