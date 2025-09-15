@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Robotika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:37:39
+# Datum: 2025-09-15 23:37:46
 
-Úkol 1: Implementujte jednoduchý robotický algoritmus, který umožňuje robotu pohybovat se po rovném povrchu pomocí servo motorů. Robot by měl být schopen překonat překážky v podobě malých překážek na jeho cestě.
+Úkol 1: Navrhněte a popište jednoduchý robotický systém pro pohyb po rovném povrchu. Zahrňte alespoň tři pohybové členy (například páky, převodovky) a vysvětlí, jak fungují.
 
-Úkol 2: Použijte knihovnu ROS (Robot Operating System) a implementujte jednoduchý robota, který je schopen měřit vzdálenost a úhel mezi dvěma body na 2D ploše.
+Úkol 2: Vytvořte simulaci jednoduchého robotického systému pro pohyb po kruhu. Použijte programovací jazyk (například C++, Python) a popište proces synchronizace pohybu jednotlivých členů systému.
 
-Úkol 3: Vyberte si jednoduchý robotický projekt (například robota, který umí rovně chodit nebo se otočit) a implementujte ho pomocí mikrokontroléru (například Arduino) a senzorů (například ultrazvukového senzoru).
+Úkol 3: Použijte algoritmus A* (A-Star) pro navigaci robotického systému v 2D prostoru. Navrhněte a implementujte příslušnou funkci pro vyhledávání cesty od počátečního bodu k cílovému bodu.
 
-Úkol 4: Implementujte algoritmus pro navigaci robota v prostorné místnosti pomocí lidaru nebo jiného senzoru pro detekci překážek.
+Úkol 4: Vytvořte a implementujte robotický systém pro manipulaci s předměty. Použijte kinematické modelování a zajišťujte stabilitu systému během manipulace.
 
-Úkol 5: Použijte knihovnu OpenCV a implementujte algoritmus pro rozpoznávání objektů na obrazu z kamerového systému robota.
+Úkol 5: Navrhněte a implementujte kontrolní systém pro regulaci pohybu robotického systému. Použijte regulátor PID (Proportionalní-Integrovní-Derivativní) a zahrňte korekci pro odchylky.
 
-Úkol 6: Implementujte algoritmus pro synchronizaci pohybů dvou nebo více robotů, aby se mohli pohybovat současně a synchronizovaně.
+Úkol 6: Vytvořte a implementujte robotický systém pro navigaci v 3D prostoru. Použijte algoritmus SLAM (Simultaneous Localization and Mapping) pro vytváření mapy okolního prostoru.
 
-Úkol 7: Vyberte si jednoduchý robotický projekt (například robota, který umí chytit nebo držet objekt) a implementujte ho pomocí mikrokontroléru (například Arduino) a mechanických komponentů (například servo motorů).
+Úkol 7: Použijte algoritmus Deep Learning (například CNN) pro rozpoznávání a klasifikaci předmětů pomocí robotického systému. Implementujte a popište proces trénování a testování modelu.
 
-Úkol 8: Použijte knihovnu ROS a implementujte komplexní robota, který je schopen měřit vzdálenost a úhel mezi dvěma body na 3D ploše.
+Úkol 8: Navrhněte a implementujte robotický systém pro spolupráci více robotů. Zahrňte komunikaci mezi roboty a koordinaci akcí pro splnění společného cíle.
 
-Úkol 9: Implementujte algoritmus pro autonomní navigaci robota v prostorné místnosti s přítomností dalších objektů a překážek.
+Úkol 9: Vytvořte a implementujte robotický systém pro navigaci a manipulaci v neznámém prostředí. Použijte kombinaci algoritmů SLAM a A* pro optimalizaci pohybu a manipulace.
 
-Úkol 10: Použijte knihovnu OpenCV a implementujte algoritmus pro rozpoznávání objektů na obrazu z kamerového systému robota v reálném čase, při zachování vysoké přesnosti a rychlosti.
+Úkol 10: Navrhněte a implementujte komplexní kontrolní systém pro robotický systém, který obsahuje kombinaci regulátorů PID a algoritmů Deep Learning. Zahrňte korekci pro odchylky a adaptivitu systému na měnící se podmínky.

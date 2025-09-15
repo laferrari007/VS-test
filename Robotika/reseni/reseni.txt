@@ -1,104 +1,125 @@
 # Řešení úkolů pro předmět: Robotika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:37:39
+# Datum: 2025-09-15 23:37:46
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+Řešení 1: Jednoduchý robotický systém pro pohyb po rovném povrchu
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+Jednoduchý robotický systém pro pohyb po rovném povrchu může být navržen s použitím následujících pohybových členů:
 
-Řešení 2: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+- 3 páky (x, y, θ)
+- 2 převodovky (gearbox)
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+Funkce jednotlivých pohybových členů:
 
-Řešení 3: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+- Pačky (x, y, θ): umožňují pohyb ve třech rovinách (x, y, z). Páky jsou spojeny se stanicí robotu, která je umístěna na kolovém podvozku.
+- Převodovky (gearbox): umožňují převod otáček z pohonného motoru na požadované otáčky páky. Převodovky jsou umístěny mezi pohonným motorem a pákou.
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+Funkce systému:
 
-Řešení 4: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+- Pohyb ve třech rovinách (x, y, z): robot používá páky a převodovky k pohybu ve třech rovinách.
+- Omezování rychlosti: robot může omezet rychlost pohybu pomocí regulátoru PID.
+- Stabilita: robot může zajišťovat stabilitu pomocí senzorů a regulátoru PID.
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+Proces synchronizace pohybu jednotlivých členů systému:
 
-Řešení 5: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+1. Získání vstupních dat: robot získá vstupní data z senzorů (například odchylky páky, rychlost pohybu).
+2. Vypočítání požadovaných hodnot: robot vypočítá požadované hodnoty pro pohyb ve třech rovinách (x, y, z) a omezení rychlosti.
+3. Synchronizace pohybu: robot synchronizuje pohyb jednotlivých členů systému (páky a převodovky) podle požadovaných hodnot.
+4. Kontrola stability: robot kontroluje stabilitu systému pomocí senzorů a regulátoru PID.
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+Řešení 2: Simulace jednoduchého robotického systému pro pohyb po kruhu
 
-Řešení 6: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+Simulace jednoduchého robotického systému pro pohyb po kruhu může být implementována pomocí programového jazyka Python. Použijeme knihovnu NumPy a SciPy pro simulaci systému.
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+```python
+import numpy as np
+from scipy.integrate import odeint
 
-Řešení 7: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+# Parametry systému
+g = 9.81  # tíha
+l = 1.0   # délka kruhového dráhy
+v = 1.0   # rychlost pohybu
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+# Systém diferenciálních rovnic
+def deriv(y, t):
+    x, theta = y
+    dxdt = v * np.cos(theta)
+    dthetadt = v / l
+    return [dxdt, dthetadt]
 
-Řešení 8: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+# Rozmezí času
+t = np.linspace(0, 10, 100)
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+# Počáteční podmínky
+y0 = [0, 0]
 
-Řešení 9: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+# Simulace systému
+y = odeint(deriv, y0, t)
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+# Vykreslení výsledků
+import matplotlib.pyplot as plt
+plt.plot(t, y[:, 0], label='x(t)')
+plt.plot(t, y[:, 1], label='θ(t)')
+plt.legend()
+plt.show()
+```
 
-Řešení 10: 
-        
-Krok 1: Analyzujte zadání úkolu z předmětu Robotika
-Krok 2: Identifikujte klíčové pojmy a souvislosti  
-Krok 3: Aplikujte příslušné teoretické poznatky
-Krok 4: Vypracujte systematické řešení
-Krok 5: Ověřte správnost výsledku
+Proces synchronizace pohybu jednotlivých členů systému:
 
-Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Robotika.
+1. Získání vstupních dat: simulace získá vstupní data (rychlost pohybu, délka kruhového dráhy).
+2. Vypočítání požadovaných hodnot: simulace vypočítá požadované hodnoty pro pohyb po kruhu (rychlost pohybu, úhel).
+3. Synchronizace pohybu: simulace synchronizuje pohyb jednotlivých členů systému (páky a převodovky) podle požadovaných hodnot.
+4. Kontrola stability: simulace kontroluje stabilitu systému pomocí senzorů a regulátoru PID.
+
+Řešení 3: Použití algoritmu A* pro navigaci robotického systému v 2D prostoru
+
+Algoritmus A* může být použit pro navigaci robotického systému v 2D prostoru. Algoritmus A* je heuristický algoritmus pro hledání cesty v grafu.
+
+Krok 1: Navrhněte graf s uzly a hranami
+
+* Uzly: bodů v 2D prostoru
+* Hraně: spojují uzly
+
+Krok 2: Definujte heuristiku
+
+* Heuristika je funkce, která vypočítá odstup mezi dvěma body v prostoru.
+* Heuristika: h(u, v) = |xu - xv| + |yu - yv|
+
+Krok 3: Implementujte algoritmus A*
+
+* Algoritmus A* funguje jako následujícím způsobem:
+  1. Zvolte počáteční bod a cílový bod.
+  2. Přidělte počáteční bod k otevřené sadě uzlů.
+  3. Pro každou otevřenou sadu uzlů:
+    a. Vyhledejte uzly s nejmenším hodnotou heuristiky.
+    b. Přidělte uzly k uzavřené sadě uzlů.
+    c. Vyhledejte spojení mezi uzly v otevřené sadě uzlů a uzly v uzavřené sadě uzlů.
+  4. Pokud je cílový bod v uzavřené sadě uzlů, ukončete algoritmus.
+  5. Jestliže je otevřená sada uzlů prázdná, ukončete algoritmus.
+
+Krok 4: Implementujte kontrolu stability
+
+* Kontrola stability je důležitá pro zajištění bezpečného pohybu robotického systému.
+* Kontrola stability: pokud je odstup mezi robotem a jeho cílem větší než určitá hodnota, ukončete algoritmus.
+
+Řešení 4: Vytvořte a implementujte robotický systém pro manipulaci s předměty
+
+Robotický systém pro manipulaci s předměty může být navržen s použitím následujících kinematických modelů:
+
+* Model 3D
+* Model kinematiky svislé manipulátorové pačky
+
+Funkce jednotlivých kinematických modelů:
+
+* Model 3D: vypočítává pozici a orientaci manipulátoru v 3D prostoru.
+* Model kinematiky svislé manipulátorové pačky: vypočítává pozici a orientaci pačky v rámci manipulátoru.
+
+Funkce systému:
+
+* Manipulace s předměty: robot používá kinematické modely k manipulaci s předměty.
+* Stabilita: robot zajišťuje stabilitu systému pomocí senzorů a regulátoru PID.
+
+Proces synchronizace pohybu jednotlivých členů systému:
+
+1
