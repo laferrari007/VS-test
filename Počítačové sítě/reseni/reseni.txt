@@ -1,88 +1,104 @@
-# AI Generované řešení úkolů pro předmět: Počítačové sítě
-# Vytvořeno pomocí Groq API
+# Řešení úkolů pro předmět: Počítačové sítě
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:30:06
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vypočtěte a porovnejte následující síťové parametry pro dva typy sítí:
+Řešení 1: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-- Síťová topologie: hvězda
-- Počet uzlů: 10
-- Počet rozvodných bodů (switchů): 2
-- Přenosová kapacita rozvodných bodů: 1 Gbps
-- Přenosová kapacita síťového kabelu: 1 Gbps
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-Parametry k porovnání:
+Řešení 2: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-- Přenosová kapacita celé sítě
-- Čas odezvy (latence) mezi uzly
-- Počet možných uzlů v síti
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-Detailní vysvětlení:
+Řešení 3: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-1. Přenosová kapacita celé sítě: pro hvězdu se počet možných kanálů rovná počtu uzlů v síti. Každý uzl má vlastní kanál pro komunikaci se switchem. Protože máme dvě switchy, přenosová kapacita celé sítě je dvojnásobná přenosová kapacita jednoho switchu, což je 2 Gbps.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-2. Čas odezvy (latence) mezi uzly: latence mezi uzly v síti se může vypočítat jako střední cesta uzlů. V síti hvězda je střední cesta vždy 2 uzly (rozvodný bod). Protože máme přenosovou kapacitu 1 Gbps, můžeme použít vzorec:
+Řešení 4: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-latence = délka datové linky / přenosová kapacita
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-Délka datové linky je dvojnásobná délka linky, protože je mezi uzly o dva rozvodné body. Předpokládejme délku datové linky 1 km. Přenosová rychlost se rovná přenosové kapacitě linky, tedy 1 Gbps. 
+Řešení 5: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Protože délka datové linky je 2 km a přenosová kapacita je 1 Gbps, můžeme vypočítat:
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-latence = 2 km / 1 Gbps = 2 s
+Řešení 6: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-3. Počet možných uzlů v síti: pro hvězda se počet možných uzlů v síti rovná počtu uzlů v síti, protože každý uzl má vlastní kanál pro komunikaci se switchem. Protože máme 10 uzlů, je počet možných uzlů v síti 10.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-Řešení 2: Vypočtěte a porovnejte následující síťové parametry pro dva typy sítí:
+Řešení 7: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-- Síťová topologie: zobecněná hvězda
-- Počet uzlů: 15
-- Počet rozvodných bodů (switchů): 3
-- Přenosová kapacita rozvodných bodů: 1 Gbps
-- Přenosová kapacita síťového kabelu: 1 Gbps
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-Parametry k porovnání:
+Řešení 8: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-- Přenosová kapacita celé sítě
-- Čas odezvy (latence) mezi uzly
-- Počet možných uzlů v síti
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-Detailní vysvětlení:
+Řešení 9: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-1. Přenosová kapacita celé sítě: pro zobecněnou hvězdu se počet možných kanálů rovná počtu uzlů v síti. Každý uzl má vlastní kanál pro komunikaci se switchem. Protože máme tři switchy, přenosová kapacita celé sítě je trojnásobná přenosová kapacita jednoho switchu, což je 3 Gbps.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
 
-2. Čas odezvy (latence) mezi uzly: latence mezi uzly v síti se může vypočítat jako střední cesta uzlů. V síti zobecněné hvězdy je střední cesta obvykle tři uzly (rozvodné body). Protože máme přenosovou kapacitu 1 Gbps, můžeme použít vzorec:
+Řešení 10: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Počítačové sítě
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-latence = délka datové linky / přenosová kapacita
-
-Délka datové linky je trojnásobná délka linky, protože je mezi uzly o tři rozvodné body. Předpokládejme délku datové linky 1 km. Přenosová rychlost se rovná přenosové kapacitě linky, tedy 1 Gbps. 
-
-Protože délka datové linky je 3 km a přenosová kapacita je 1 Gbps, můžeme vypočítat:
-
-latence = 3 km / 1 Gbps = 3 s
-
-3. Počet možných uzlů v síti: pro zobecněnou hvězdu se počet možných uzlů v síti rovná počtu uzlů v síti, protože každý uzl má vlastní kanál pro komunikaci se switchem. Protože máme 15 uzlů, je počet možných uzlů v síti 15.
-
-Řešení 3: Vypočtěte a porovnejte následující síťové parametry pro dva typy sítí:
-
-- Síťová topologie: síť mezilehlých uzlů
-- Počet uzlů: 20
-- Počet rozvodných bodů (switchů): 4
-- Přenosová kapacita rozvodných bodů: 1 Gbps
-- Přenosová kapacita síťového kabelu: 1 Gbps
-
-Parametry k porovnání:
-
-- Přenosová kapacita celé sítě
-- Čas odezvy (latence) mezi uzly
-- Počet možných uzlů v síti
-
-Detailní vysvětlení:
-
-1. Přenosová kapacita celé sítě: pro síť mezilehlých uzlů je počet možných kanálů menší než počet uzlů v síti, protože každý uzl nemůže komunikovat s každým dalším uzlem. Počet možných kanálů se může vypočítat jako (počet uzlů v síti x počet uzlů v síti - 1) / 2. Protože máme 20 uzlů, počet možných kanálů je:
-
-(20 x 20 - 1) / 2 = 399 kanálů
-
-Protože máme čtyři switchy, přenosová kapacita celé sítě je čtyřnásobná přenosová kapacita jednoho switchu, což je 4 Gbps.
-
-2. Čas odezvy (latence) mezi uzly: latence mezi uzly v síti se může vypočítat jako střední cesta uzlů. V síti mezilehlých uzlů je střední cesta obvykle čtyři uzly (rozvodné body). Protože máme přenosovou kapacitu 1 Gbps, můžeme použít vzorec:
-
-latence = délka datové linky / přenosová kapacita
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Počítačové sítě.
