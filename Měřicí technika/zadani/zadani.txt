@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Měřicí technika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:02:04
+# Zadání úkolů pro předmět: Měřicí technika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:14:34
 
-Úkol 1: Popište rozdíly mezi analogovými a digitálními měřícími přístroji a uveďte alespoň tři příklady aplikací každé skupiny.
+Úkol 1: Navrhnutí jednoduchého měřicího systému pro měření teploty v domácnosti.
 
-Úkol 2: Vysvětlete princip funkce převodníků jednotek v měřicích přístrojích a udělejte schéma jejich obvodů.
+Úkol 2: Vysvětlení principu a rozdílu mezi analogovými a digitálními měřicími přístroji.
 
-Úkol 3: Nastavte a použijte měřicí přístroj k měření stejnosměrného napětí nebo proudu. Zapište a porovnejte výsledky s teoretickými hodnotami.
+Úkol 3: Vyobrazení a popis funkce měřicího cívkového transformátoru a jeho použití v elektrickém měřicím přístroji.
 
-Úkol 4: Vypočtěte a porovnejte chyby měření stejnosměrného napětí nebo proudu pomocí měřicího přístroje s teoretickými hodnotami. Uveďte vliv faktorů jako je kalibrace přístroje nebo kvalita měřených hodnot.
+Úkol 4: Návrh měřicího systému pro monitorování a regulaci teploty v laboratoři, včetně výběru odpovídající měřicí techniky.
 
-Úkol 5: Uveďte a vysvětlěte principy měření frekvence a fázového posunu v měřicích přístrojích. Uveďte jejich aplikace v reálných systémech.
+Úkol 5: Popis a vysvětlení principu funkce měřicího proudu a proudu v obvodu s měřicími přístroji.
 
-Úkol 6: Navrhněte a popište měřicí systém pro měření teploty v průmyslovém prostředí. Uveďte požadavky na přístroje a materiály, které by měly být použity.
+Úkol 6: Porovnání a analýza dvou různých měřicích systémů pro měření tlaku ve vodovodním systému a vyhodnocení jejich účinnosti.
 
-Úkol 7: Popište a vysvětlěte principy měření úbytku plynu v měřicích přístrojích. Uveďte jejich aplikace v reálných systémech.
+Úkol 7: Návrh a návrh měřicího systému pro měření a vyhodnocení kvality elektrické energie, včetně výběru odpovídajích měřicích technik.
 
-Úkol 8: Uveďte a vysvětlěte rozdíl mezi měřením impulsů a měřením průtoku plynu v měřicích přístrojích. Uveďte jejich aplikace v reálných systémech.
+Úkol 8: Vypracování programu v programu Simulink pro simulaci a analýzu chování analogového měřicího systému pro měření teploty.
 
-Úkol 9: Navrhněte a popište měřicí systém pro měření vibrations v průmyslovém prostředí. Uveďte požadavky na přístroje a materiály, které by měly být použity.
+Úkol 9: Navrhnutí a návrh komplexního měřicího systému pro monitorování a kontrolu procesů v průmyslovém prostředí, včetně integrace několika měřicích technik.
 
-Úkol 10: Vysvětlěte a popište principy měření rozptylu světla v měřicích přístrojích. Uveďte jejich aplikace v reálných systémech, jako je například měření rychlosti proudů kapalin.
+Úkol 10: Vypracování a analýza měřicího systému pro měření a vyhodnocení vibrací v mechanických systémech, včetně vyhodnocení účinnosti a spolehlivosti systému.
