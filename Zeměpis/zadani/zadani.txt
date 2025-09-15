@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Zeměpis
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:47:17
+# Datum: 2025-09-15 22:41:39
 
-Úkol 1: Seznamte se s konceptem geografické informace a popsali, jakým způsobem je používáno v moderní geografii.
+Úkol 1: Základní úkol z předmětu Zeměpis - úroveň 1
 
-Úkol 2: Porovnejte a srovnajte dva různé typy klimatických zón (například tropický a kontinentální) a diskutujte, jak se liší v rámci geografických podmínek.
+Úkol 2: Základní úkol z předmětu Zeměpis - úroveň 2
 
-Úkol 3: Zpracujte mapu a identifikujte a definujte hlavní geografické prvky v daném regionu (například řeky, hory, moře).
+Úkol 3: Základní úkol z předmětu Zeměpis - úroveň 3
 
-Úkol 4: Analyzujte a interpretujte data vztahující se ke změnám klimatu na Zemi, a diskutujte o dopadům na lidské společnosti.
+Úkol 4: Základní úkol z předmětu Zeměpis - úroveň 4
 
-Úkol 5: Zpracujte geografický portrét daného státu (například ekonomické, demografické, politické) a hodnotíte jeho integraci do mezinárodního systému.
+Úkol 5: Základní úkol z předmětu Zeměpis - úroveň 5
 
-Úkol 6: Zpracujte projekt týkající se geografického výzkumu daného regionu (například studium rozvoje měst, vlivu lidského faktoru na přírodní prostředí).
+Úkol 6: Základní úkol z předmětu Zeměpis - úroveň 6
 
-Úkol 7: Analyzujte a porovnejte ekonomické regiony na základě jejich geografických charakteristik (například přírodní zdroje, obchod, cestovní ruch).
+Úkol 7: Základní úkol z předmětu Zeměpis - úroveň 7
 
-Úkol 8: Vypracujte studijní případ o vlivu geografických faktorů na ekonomický rozvoj daného státu nebo regionu.
+Úkol 8: Základní úkol z předmětu Zeměpis - úroveň 8
 
-Úkol 9: Zpracujte geografickou studii dopadů přírodních katastrof (například zemětřesení, povodně, hurikány) na lidskou společnost (ekonomické, sociální, politické dopady).
+Úkol 9: Základní úkol z předmětu Zeměpis - úroveň 9
 
-Úkol 10: Vypracujte komplexní analýzu vztahu mezi geografickými faktory a lidským životem (ekonomické, politické, sociální) v daném regionu, s důrazem na mezinárodní souvislosti.
+Úkol 10: Základní úkol z předmětu Zeměpis - úroveň 10

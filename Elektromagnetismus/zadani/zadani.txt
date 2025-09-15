@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Elektromagnetismus
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:05:56
+
+Úkol 1: Prozkoumejte vztah mezi elektrickým a magnetickým polem v prostoru. Popište, jak se tyto pole vzájemně ovlivňují a jaké jsou jejich charakteristické vlastnosti.
+
+Úkol 2: Vyjadřete Maxwellovy rovnice, které popisují elektromagnetické jevy. Uvétněte jednotlivé složky těchto rovnic a vysvětlete jejich význam.
+
+Úkol 3: Zjistěte, jak se vyvíjí elektrické pole kolem vodiče, když proud prochází přes něj. Použijte Coulombov zákon a vysvětlete, proč se pole nezmění, pokud je proud konstantní.
+
+Úkol 4: Zajistěte, aby se elektrický proud pohyboval po kruhové dráze v magneticickém poli. Zvolte vhodný typ dráhy a vysvětlete, proč se proud pohybuje tímto způsobem.
+
+Úkol 5: Porovnejte elektrické a magnetické pole v blízkosti elektricky nabitého tělesa. Popište, jak se pole vyvíjí a jaké jsou jejich charakteristické vlastnosti.
+
+Úkol 6: Vyjasněte vztah mezi indukčním napětím a změnou magnetického pole v indukčním obvodu. Uvétněte vzorec pro indukční napětí a vysvětlete jeho význam.
+
+Úkol 7: Proveďte analýzu elektromagnetického pole v blízkosti elektromagnetické vlnového zdroje. Popište, jak se pole vyvíjí a jaké jsou jeho charakteristické vlastnosti.
+
+Úkol 8: Vyviněte a popište experiment k měření indukčního napětí v indukčním obvodu. Zvolte vhodné měřicí přístroje a vysvětlete, proč jsou potřebné pro měření.
+
+Úkol 9: Zajistěte, aby se elektromagnetické vlny odkláněly v blízkosti magnetického pole. Zvolte vhodný typ dráhy a vysvětlete, proč se vlny odklánějí tímto způsobem.
+
+Úkol 10: Porovnejte elektromagnetické pole v blízkosti elektricky nabitého tělesa s magnetickým polem v blízkosti elektricky neutrálního tělesa. Popište, jak se pole vyvíjí a jaké jsou jejich charakteristické vlastnosti.

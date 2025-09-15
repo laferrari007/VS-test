@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Matematika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:45:36
+# Datum: 2025-09-15 22:39:56
 
-Úkol 1: Rozpočítáme si 12 koláčů mezi 4 kamarády tak, aby každý dostal stejný počet koláčů. Kolik koláčů dostanou na každého?
+Úkol 1: Vypočtěte, kolik má čtverec o straně 5 cm obvod.
 
-Úkol 2: Vybavte si, že máte 15 štítků, a chcete je rozdělit do tří skupin. Kolik štítků dostanou do každé skupiny?
+Úkol 2: Napište počet stran v jednom šestiúhelníku.
 
-Úkol 3: Můžeme mít 18 kuliček do hracího kostky, které jsou rozděleny do tří barev. Počet kuliček ve všech třech barevách je stejný. Kolika kuliček bude ve každé barevné skupině?
+Úkol 3: Vypočtěte, kolik má trojúhelník s délkami stran 3 cm, 4 cm a 5 cm obvod.
 
-Úkol 4: Chcete rozdělit 24 šálky mezi čtyři kolegy tak, aby každý dostal stejný počet šálek. Kolik šálek dostanou do každého šálku?
+Úkol 4: Vypočtěte, kolik má čtverec o straně 8 cm obsah.
 
-Úkol 5: Do tří skřínek chcete uložit 27 kuliček do hracího kostky. Počet kuliček ve všech třech skříňkách je stejný. Kolik kuliček bude ve každé skříňce?
+Úkol 5: Vypočtěte, kolik má trojúhelník s délkami stran 5 cm, 6 cm a 7 cm obsah.
 
-Úkol 6: 36 balíčků cukrovinek chcete rozdělit do čtyř skupin tak, aby každá skupina dostala stejný počet balíčků. Kolik balíčků dostanou do každé skupiny?
+Úkol 6: Napište, zda je rovnoběžník a rovnoramenný.
 
-Úkol 7: Máme 48 kuliček do hracího kostky, které chcete rozdělit do tří barev. Počet kuliček ve všech třech barevách je stejný. Kolik kuliček bude ve každé barevné skupině?
+Úkol 7: Vypočtěte, kolik má čtyřúhelník s délkami stran 3 cm, 4 cm, 5 cm a 6 cm obvod.
 
-Úkol 8: Chcete rozdělit 54 šálky mezi čtyři kolegy tak, aby každý dostal stejný počet šálek. Kolik šálek dostanou do každého šálku?
+Úkol 8: Vypočtěte, kolik má mnohoúhelník o 6 stranách a straně 5 cm obsah.
 
-Úkol 9: Do tří skřínek chcete uložit 63 kuliček do hracího kostky. Počet kuliček ve všech třech skříňkách je stejný. Kolik kuliček bude ve každé skříňce?
+Úkol 9: Napište rovnici pro přímku procházející středem strany a bodem o 3 cm nad středem strany.
 
-Úkol 10: 72 balíčků cukrovinek chcete rozdělit do čtyř skupin tak, aby každá skupina dostala stejný počet balíčků. Kolik balíčků dostanou do každé skupiny?
+Úkol 10: Vypočtěte, kolik má mnohoúhelník o 5 stranách a stranách dlouhých 5 cm, 6 cm, 7 cm, 8 cm a 9 cm obsah.

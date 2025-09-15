@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Částicová fyzika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:07:19
+
+Úkol 1: Vyjmenuj a popiš hlavní rozdělení částic ve fyzice, včetně jejich charakteristik a příkladů.
+
+Úkol 2: Popiš rozdíl mezi kvantovou mechanikou a klasickou mechanikou. Uveď příklady, kde se tyto koncepce liší.
+
+Úkol 3: Vysvětlíš principy a mechanismy, které vedou k rozptylu světla při průchodu materiály. Použij Schrödingerovu rovnici, pokud je to relevantní.
+
+Úkol 4: Porovnej a srovnaj vlastnosti a chování elektronů ve vodivém materiálu a v izolátoru. Uveď příklady různých materiálů a jejich elektronické vlastnosti.
+
+Úkol 5: Přepiš a vysvětlíš Heisenbergovu neurčitostní princip. Uveď příklady, kde tento princip platí.
+
+Úkol 6: Vyjmenuj a popiš hlavní komponenty, které tvoří atomový orbitál. Vysvětlíš, jak tyto komponenty ovlivňují chování elektronů v atomu.
+
+Úkol 7: Porovnej a srovnaj chování částic v kvantovém systému a klasickém systému za stejných podmínek. Uveď příklady, kde rozdíl je zřetelný.
+
+Úkol 8: Vysvětlíš principy a mechanismy, které vedou k kvantovému jevu tunelování. Uveď příklady, kde je tento jev pozorován.
+
+Úkol 9: Přepiš a vysvětlíš Schrödingerovu rovnici pro jednoduchý kvantový systém. Uveď příklady, kde tato rovnice je relevantní.
+
+Úkol 10: Vyjmenuj a popiš hlavní součásti, které tvoří Hamiltonián pro komplexní kvantový systém. Vysvětlíš, jak tyto součásti ovlivňují chování systému.

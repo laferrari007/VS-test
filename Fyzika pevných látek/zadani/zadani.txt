@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Fyzika pevných látek
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:06:51
+
+Úkol 1: Rozložte jednoduchý spektrum elektronů v atomu vodíku podle pravidel Pauliho exkluzivity a určete počet možných stavů.
+
+Úkol 2: Představte si jednoduchou křižovatku v systému s jedním elektronem a určete pravděpodobnost přechodu elektronu ze stavu n = 2 na n = 1.
+
+Úkol 3: Rozložte teplotní závislost specifickej tepelné kapacity materiálu s jednoduchým spektrum elektronů (n = 1, 2, 3) podle modelu Drudeho.
+
+Úkol 4: Porovnejte efektivní tepelnou vodivost materiálu v závislosti na teplotě a přítomnosti impurek, které způsobují rozptyl elektronů do vyšších stavů.
+
+Úkol 5: Představte si jednoduchý systém se dvěma elektrony a určete pravděpodobnost přechodu jednoho elektronu ze stavu n = 2 na n = 1, pokud druhý elektron je v stavu n = 1.
+
+Úkol 6: Rozložte tepelnou vodivost materiálu v závislosti na přítomnosti impurek a jejich energetické hladině, která způsobuje rozptyl elektronů do vyšších stavů.
+
+Úkol 7: Porovnejte teplotní závislost elektrickým odporu materiálu s jednoduchým spektrum elektronů (n = 1, 2, 3) a materiálu s komplikovanějším spektrum elektronů (n = 1, 2, 3, 4).
+
+Úkol 8: Představte si jednoduchý systém se třemi elektrony a určete počet možných stavů, které jsou splněny podle pravidel Pauliho exkluzivity.
+
+Úkol 9: Rozložte efektivní tepelnou kapacitu materiálu v závislosti na přítomnosti impurek a jejich energetické hladině, která způsobuje rozptyl elektronů do vyšších stavů.
+
+Úkol 10: Porovnejte teplotní závislost elektrickým odporu materiálu s jednoduchým spektrum elektronů (n = 1, 2, 3) a materiálu s přítomností spinového rozptylu, který vzniká kvůli přítomnosti magnetických impurek.

@@ -1,0 +1,33 @@
+# AI Generované zadání úkolů pro předmět: Biochemie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:09:18
+
+Úkol 1: 
+Vysvětlit rozdíl mezi strukturou a funkcí enzymů a jejich aktivních center.
+
+Úkol 2: 
+Popsat, jak se tvoří a fungují membránové transportní proteiny a jejich role v regulaci koncentrace látek v buňce.
+
+Úkol 3: 
+Rozběhnout syntézu ATP uvnitř mitochondrií a vysvětlet, jak se mění energetická forma uvnitř buněčných membrán.
+
+Úkol 4: 
+Popsat mechanismus fosforylace uvnitř buněčných membrán a jeho vliv na aktivitu enzymů.
+
+Úkol 5: 
+Vysvětlit, jak se tvoří a přemísťují lipidy uvnitř buněčných membrán a jaký je jejich význam v buněčné signalizaci.
+
+Úkol 6: 
+Vyjmenovat a popsat hlavní typy antioxidantů a jejich roli v omezení škodlivého účinku volných radikálů na buněčné molekuly.
+
+Úkol 7: 
+Popsat mechanismus biosyntézy aminokyselin a jejich význam pro bílkovinné syntézu uvnitř buněk.
+
+Úkol 8: 
+Vysvětlit rozdíl mezi glykogenolýzou a glycogenu syntézou a jejich roli v regulaci hladiny glukózy v krvi.
+
+Úkol 9: 
+Vysvětlit mechanismus biosyntézy lipidů a jejich význam pro buněčnou strukturu a funkci.
+
+Úkol 10: 
+Popsat mechanismus regulace transkripčního faktoru pro bílkovinnou syntézu a vliv na buněčné procesy.

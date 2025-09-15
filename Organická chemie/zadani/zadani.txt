@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Organická chemie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:08:20
+
+Úkol 1: Seznamte se s typy vazeb v organické chemii a popište rozdíly mezi sigma a pi vazbou.
+
+Úkol 2: Seznamte se s principem substituční nereaktivnosti a popište příklady, kde dochází k této nereaktivitě.
+
+Úkol 3: Vyřešte syntézu cykloheksanu z acetaldehydu metodou katalytické hydrogenace.
+
+Úkol 4: Popište mechanismus reakce aldolové kondenzace a diskutujte o výhodách a nevýhodách této metody.
+
+Úkol 5: Seznamte se s typy substituentů v organické chemii a popište vliv substituentů na elektronegativitu a polarity vazeb.
+
+Úkol 6: Vyřešte syntézu benzylalkoholu z benzenmethylaminu metodou redukční aminování.
+
+Úkol 7: Popište principy stereochémie v organické chemii a diskutujte o důsledcích stereoselektivity v praxi.
+
+Úkol 8: Seznamte se s typy heterocyclických sloučenin a popište chemické a fyzikální vlastnosti některých z nich.
+
+Úkol 9: Vyřešte syntézu 2,4-dinitroanisolu z nitrobenzenem a methanol metodou Friedel-Craftsovy acylace.
+
+Úkol 10: Popište principy fotochemie v organické chemii a diskutujte o aplikacích a omezeních této metody.

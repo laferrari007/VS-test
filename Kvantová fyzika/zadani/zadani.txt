@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Kvantová fyzika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:06:23
+
+Úkol 1: Vysvětle rozdíl mezi vlnovou a částicovou interpretací skutečnosti v kvantové fyzice.
+
+Úkol 2: Proveď Heisenberho nerovnost pro jednoduchý systém, kde je kvantový stav popsán vlnovou funkcí ψ(x).
+
+Úkol 3: Porovnej Hamiltonián pro systém dvou částic v potenciálu V(x) s Hamiltoniánem pro systém jedné částice v potenciálu 2V(x).
+
+Úkol 4: Ujasněte vztah mezi očekávanou hodnotou energie a Hamiltoniánem pro kvantový stav ψ(x) v jednoduchém jednorozměrném případě.
+
+Úkol 5: Proveď Schrödingerovu rovnici pro systém dvou částic v potenciálu V(x) a diskutujte výsledky.
+
+Úkol 6: Diskutujte vlastnosti entanglementu v kvantové mechanice a zopakujte jeho experimentální pozorování.
+
+Úkol 7: Ujasněte princip superpozice a zobecněte jej na systém s více stavovými vlnami.
+
+Úkol 8: Proveď aplikaci Pauliho principu výjimečnosti na jednoduchý systém s několika částicemi a diskutujte jeho důsledky.
+
+Úkol 9: Zpracujte Schrödingerovu rovnici pro systém, kde jsou kvantové stavy popsány v rámci Hartree-Fockovy aproximace.
+
+Úkol 10: Studujte a interpretujte výsledky experimentu Bellův test, který ověřuje existenci kvantového světla.

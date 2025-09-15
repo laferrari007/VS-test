@@ -1,102 +1,95 @@
 # AI Generované řešení úkolů pro předmět: Matematika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:45:36
+# Datum: 2025-09-15 22:39:56
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Úkol 1 - Rozdělit 12 koláčů mezi 4 kamarády
+Řešení 1: Vypočtěte, kolik má čtverec o straně 5 cm obvod.
 
-Chceme rozdělit 12 koláčů mezi 4 kamarády tak, aby každý dostal stejný počet koláčů. Abychom to udělali, dělíme celkovou počet koláčů (12) počtem kamarádů (4):
+Chceme vypočítat obvod čtverce o straně 5 cm. Obvod čtverce se vypočítá jako násobek délky strany a počtu stran. V tomto případě je délka strany 5 cm a počet stran v čtverci je 4.
 
-12 ÷ 4 = 3
+Obvod = délka strany × počet stran
+Obvod = 5 cm × 4
+Obvod = 20 cm
 
-Každý kamarád tedy dostane 3 koláče.
+Řešení 2: Napište počet stran v jednom šestiúhelníku.
 
-Řešení 2: Úkol 2 - Rozdělit 15 štítků do tří skupin
+Šestiúhelník je speciální případ mnohoúhelníku, který má šest vrcholů a šest stran. Protože je to mnohoúhelník, můžeme říci, že počet stran v šestiúhelníku je 6.
 
-Chceme rozdělit 15 štítků do tří skupin. Abychom to udělali, dělíme celkový počet štítků (15) počtem skupin (3):
+Řešení 3: Vypočtěte, kolik má trojúhelník s délkami stran 3 cm, 4 cm a 5 cm obvod.
 
-15 ÷ 3 = 5
+Chceme vypočítat obvod trojúhelníku s délkami stran 3 cm, 4 cm a 5 cm. Obvod trojúhelníku se vypočítá jako součet délky stran.
 
-Každá skupina tedy dostane 5 štítků.
+Obvod = 3 cm + 4 cm + 5 cm
+Obvod = 12 cm
 
-Řešení 3: Úkol 3 - Rozdělit 18 kuliček do tří barev
+Řešení 4: Vypočtěte, kolik má čtverec o straně 8 cm obsah.
 
-Chceme rozdělit 18 kuliček do tří barev. Abychom to udělali, dělíme celkový počet kuliček (18) počtem barev (3):
+Chceme vypočítat obsah čtverce o straně 8 cm. Obsah čtverce se vypočítá jako násobek délky strany a délky strany.
 
-18 ÷ 3 = 6
+Obsah = délka strany × délka strany
+Obsah = 8 cm × 8 cm
+Obsah = 64 cm²
 
-Každá barevná skupina tedy dostane 6 kuliček.
+Řešení 5: Vypočtěte, kolik má trojúhelník s délkami stran 5 cm, 6 cm a 7 cm obsah.
 
-Řešení 4: Úkol 4 - Rozdělit 24 šálky mezi 4 kolegy
+Chceme vypočítat obsah trojúhelníku s délkami stran 5 cm, 6 cm a 7 cm. Obsah trojúhelníku se vypočítá pomocí Heronovy formuly:
 
-Chceme rozdělit 24 šálky mezi 4 kolegy tak, aby každý dostal stejný počet šálek. Abychom to udělali, dělíme celkový počet šálek (24) počtem kolegy (4):
+Obsah = √(s × (s - a) × (s - b) × (s - c))
 
-24 ÷ 4 = 6
+kde s je poloměr obvodu a a, b, c jsou délky stran.
 
-Každý kolega tedy dostane 6 šálek.
+Poloměr obvodu s = (a + b + c) / 2
+= (5 cm + 6 cm + 7 cm) / 2
+= 9 cm
 
-Řešení 5: Úkol 5 - Rozdělit 27 kuliček do tří skřínek
+Obsah = √(9 cm × (9 cm - 5 cm) × (9 cm - 6 cm) × (9 cm - 7 cm))
+= √(9 cm × 4 cm × 3 cm × 2 cm)
+= √(216 cm²)
+= 14,7 cm²
 
-Chceme rozdělit 27 kuliček do tří skřínek. Abychom to udělali, dělíme celkový počet kuliček (27) počtem skřínek (3):
+Řešení 6: Napište, zda je rovnoběžník a rovnoramenný.
 
-27 ÷ 3 = 9
+Rovnoběžník je mnohoúhelník, který má dvě strany stejné délky a dvě strany shodné úhly. Rovnoramenný mnohoúhelník je mnohoúhelník, který má všechny strany stejné délky.
 
-Každá skříňka tedy dostane 9 kuliček.
+Rovnoběžník a rovnoramenný mnohoúhelník nejsou si rovni. Rovnoběžník má dvě strany stejné délky a dvě strany shodné úhly, zatímco rovnoramenný mnohoúhelník má všechny strany stejné délky.
 
-Řešení 6: Úkol 6 - Rozdělit 36 balíčků cukrovinek do čtyř skupin
+Řešení 7: Vypočtěte, kolik má čtyřúhelník s délkami stran 3 cm, 4 cm, 5 cm a 6 cm obvod.
 
-Chceme rozdělit 36 balíčků cukrovinek do čtyř skupin tak, aby každá skupina dostala stejný počet balíčků. Abychom to udělali, dělíme celkový počet balíčků (36) počtem skupin (4):
+Chceme vypočítat obvod čtyřúhelníku s délkami stran 3 cm, 4 cm, 5 cm a 6 cm. Obvod čtyřúhelníku se vypočítá jako součet délky stran.
 
-36 ÷ 4 = 9
+Obvod = 3 cm + 4 cm + 5 cm + 6 cm
+Obvod = 18 cm
 
-Každá skupina tedy dostane 9 balíčků.
+Řešení 8: Vypočtěte, kolik má mnohoúhelník o 6 stranách a straně 5 cm obsah.
 
-Řešení 7: Úkol 7 - Rozdělit 48 kuliček do tří barev
+Chceme vypočítat obsah mnohoúhelníku o 6 stranách a straně 5 cm. Obsah mnohoúhelníku se vypočítá pomocí Heronovy formuly:
 
-Chceme rozdělit 48 kuliček do tří barev. Abychom to udělali, dělíme celkový počet kuliček (48) počtem barev (3):
+Obsah = √(s × (s - a) × (s - b) × (s - c))
 
-48 ÷ 3 = 16
+kde s je poloměr obvodu a a, b, c jsou délky stran.
 
-Každá barevná skupina tedy dostane 16 kuliček.
+Poloměr obvodu s = (a + b + c + d + e + f) / 2
+= (5 cm + 5 cm + 5 cm + 5 cm + 5 cm + 5 cm) / 2
+= 7,5 cm
 
-Řešení 8: Úkol 8 - Rozdělit 54 šálky mezi 4 kolegy
+Obsah = √(7,5 cm × (7,5 cm - 5 cm) × (7,5 cm - 5 cm) × (7,5 cm - 5 cm) × (7,5 cm - 5 cm) × (7,5 cm - 5 cm))
+= √(7,5 cm × 2,5 cm × 2,5 cm × 2,5 cm × 2,5 cm × 2,5 cm)
+= √(78 125 cm²)
+= 279,7 cm²
 
-Chceme rozdělit 54 šálky mezi 4 kolegy tak, aby každý dostal stejný počet šálek. Abychom to udělali, dělíme celkový počet šálek (54) počtem kolegy (4):
+Řešení 9: Napište rovnici pro přímku procházející středem strany a bodem o 3 cm nad středem strany.
 
-54 ÷ 4 = 13,5
+Chceme napsat rovnici pro přímku, která prochází středem strany a bodem o 3 cm nad středem strany. Středem strany je bod (x1, y1), kde x1 je střední bod x a y1 je střední bod y. Bod o 3 cm nad středem strany je (x1, y1 + 3).
 
-Ještě jednou se vrátíme k úloze a najdeme, že 13,5 nelze rozdělit rovným dílem. Protože máme pouze dvě možnost (13 a 14), vezmeme dvě nejbližší celá čísla (13 a 14) a použijeme algoritmus dělení sestupnou posloupností. 
+Rovnice přímky je:
 
-13,5 = 13 + 0,5
-0,5 = 0,5
-13 + 0,5 = 13,5
+y - y1 = (y1 + 3 - y1) / (x1 - x1)
+y - y1 = 3
 
-Takže se můžeme vrátit k našemu původnímu problému a použít následující krok: 13,5 = 13 + 0,5. Zde použijeme algoritmus dělení sestupnou posloupností.
-0,5 = 0,5
-13 + 0,5 = 13,5
+Rovnice přímky je tedy:
 
-Protože jsme použili algoritmus sestupnou posloupnosti a 0,5 se rovná 1/2, můžeme nyní rozdělit 13,5 na 13 a 0,5. Pro 13 použijeme algoritmus dělení sestupnou posloupností.
-13 = 13
-Druhý krok: 13 = 13. 
-Druhý krok: 13 = 13. 
+y = y1 + 3
 
-Protože jsme použili algoritmus sestupnou posloupnosti a 13 se rovná 13/1, můžeme nyní rozdělit 13 na 13/1. 
+Řešení 10: Vypočtěte, kolik má mnohoúhelník o 5 stranách a stranách dlouhých 5 cm, 6 cm, 7 cm, 8 cm a 9 cm obsah.
 
-Protože máme pouze dvě možnost (13 a 14), vezmeme 13 a 14 jako dvě nejbližší celá čísla.
-Protože jsme použili algoritmus sestupnou posloupnosti a 13,5 se rovná 13 + 0,5, můžeme nyní rozdělit 13,5 na 13 a 0,5.
-Protože jsme použili algoritmus sestupnou posloupnosti a 13 se rovná 13/1, můžeme nyní rozdělit 13 na 13/1.
-
-Zbytek 0,5 je menší než 1, proto rozdělíme 13 kroků, 3, 2, 1.
-Rozdělit 13 kroků: 
-1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 13
-Rozdělit 1 kroku: 
-1 = 1
-Zbytek 12 kroků je menší než 1, proto rozdělíme 3 kroky: 
-1 + 1 + 1 = 3
-Zbytek 9 kroků je menší než 1, proto rozdělíme 2 kroky: 
-1 + 1 = 2
-Zbytek je menší než 1, proto rozdělíme 1 krok: 
-1 = 1
-
-Protože máme pouze dvě možnost (13 a 14), vezmeme 13 a 14 jako dvě nejbližší celá čísla.
-Protože jsme použili algoritmus sestupnou posloupnosti a 13,5 se rovná
+Chceme vypočítat obsah mnohoúhelníku o 5 stranách a stranách dlouhých 5 cm, 6 cm, 7 cm, 8 cm a 9 cm. Obsah mnohoúheln

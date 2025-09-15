@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:58:39
+# Datum: 2025-09-15 22:40:27
 
-Úkol 1: Napsat krátkou esej o svém oblíbeném spisovateli nebo autovi, který je známý svými díly v angličtině (cca 150 slov). 
+Úkol 1: Nalezte a opravte chyby v následujícím textu: "Mám ráda čaj, protože je dobrý pro zdraví."
 
-Úkol 2: Přepisovat text o nějaké aktuální události z anglického webového článku do češtiny, snažit se zachovat původní význam a strukturu textu (cca 250 slov). 
+Úkol 2: Přeložte na angličtinu následující český text: "V létě je pěkně počasí na koupání."
 
-Úkol 3: Vybrat tři klíčová slova z daného anglického článku a vymyslet jejich české ekvivalenty, vysvětlet, proč byly vybrány jako klíčová slova a jak se vztahují k tématu článku (cca 200 slov).
+Úkol 3: Na základě následujících vět vytvořte jeden správný text: "Včera jsem šel na procházku. Byla to dobrá chuť."
 
-Úkol 4: Napsat krátký rozhovor v angličtině mezi dvěma postavami, které řeší aktuální téma, jako je například environmentální problematika nebo technologie (cca 150 slov).
+Úkol 4: Analyzujte a diskutujte o významu pojmu "metafora" v anglickém jazyce. Uveďte několik příkladů a vysvětlit, jak je používána.
 
-Úkol 5: Přeložit a analyzovat anglický básnický text, který obsahuje metaforické a symbolické prvky, a vysvětlit jejich význam a účel v básni (cca 250 slov).
+Úkol 5: Vyberte 5 článků z časopisu "The New York Times" a analyzujte jejich strukturu a jazykovou náladu. Uveďte příklady zvláštních jazykových postupů, které jsou používány v článku.
 
-Úkol 6: Napsat krátkou kritiku anglického filmu nebo seriálu, která obsahuje stručnou informaci o obsahu a tématu, a také hodnocení filmu nebo seriálu (cca 200 slov).
+Úkol 6: Přeložte na angličtinu následující český rozhovor o tématu "zdravý životní styl": "Jsem ráda na své zdraví. Jsem aktivní a jíst zdravé jídlo."
 
-Úkol 7: Vybrat dva anglické texty z různých období (například 16. století a 21. století) a porovnat jejich jazykový styl, gramatické struktury a slovní zásobu (cca 300 slov).
+Úkol 7: Zpracujte analýzu anglických idiomů a frází, které jsou používány v předmětu "Anglický jazyk". Uveďte příklady a vysvětlit jejich význam a použití.
 
-Úkol 8: Napsat ústní zkoušku v anglickém jazyce, kde budou studenti požádáni o diskusi o aktuálním tématu, jako je například vzdělávání nebo politika (cca 5 minut).
+Úkol 8: Napište esej na téma "význam angličtiny v dnešní době". Uveďte argumenty pro a proti úloze angličtiny v mezinárodní komunikaci.
 
-Úkol 9: Přeložit anglický článek o nějaké aktuální události do češtiny a poté napsat krátkou analýzu, kde budou vysvětlena hlavní myšlenka článku a její relevance ke současnému dění (cca 300 slov).
+Úkol 9: Přeložte na angličtinu následující český text z oblasti podnikání: "Naše firma je specializována na výrobu kvalitních produktů."
 
-Úkol 10: Napsat dlouhou esej o anglickém spisovateli nebo autovi, který je známý svými díly v angličtině, a který se zabývá aktuálními tématy, jako je například sociální spravedlnost nebo environmentální problematika (cca 500 slov).
+Úkol 10: Zpracujte případovou studii o úspěšném projektu anglického jazyka ve školství. Uveďte informace o cílech projektu, metodách a výsledcích.

@@ -1,0 +1,120 @@
+# AI Generované řešení úkolů pro předmět: Elektromagnetismus
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:05:56
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Prozkoumejte vztah mezi elektrickým a magnetickým polem v prostoru.
+
+Elektrické a magnetické pole v prostoru se vzájemně ovlivňují prostřednictvím Maxwellových rovnic. Tyto rovnice popisují vztah mezi elektrickým a magnetickým polem, jakož i jeho závislost na času a prostoru.
+
+Maxwellovy rovnice jsou:
+
+1. Gaussova rovnice pro magnetické pole: ∇⋅B = 0
+2. Gaussova rovnice pro elektrické pole: ∇⋅E = ρ/ε0
+3. Faradayův zákon indukce: ∇×E = -∂B/∂t
+4. Ampérova toroidální zákon: ∇×B = μ₀J + μ₀ε₀∂E/∂t
+
+Z těchto rovnice je vidět, že elektrické a magnetické pole se vzájemně ovlivňují prostřednictvím indukce a změny magnetického pole. Elektrické pole indukuje magnetické pole a naopak.
+
+Charakteristické vlastnosti elektrického pole jsou:
+
+* Sila elektrického pole je přímo úměrná náboji a odvráceně úměrná čtverci vzdálenosti.
+* Elektrické pole se šíří v prostoru s rychlostí světla.
+
+Charakteristické vlastnosti magnetického pole jsou:
+
+* Sila magnetického pole je přímo úměrná intenzitě proudu a odvráceně úměrná čtverci vzdálenosti.
+* Magnetické pole se šíří v prostoru s rychlostí světla.
+
+Řešení 2: Vyjadřete Maxwellovy rovnice, které popisují elektromagnetické jevy.
+
+Maxwellovy rovnice jsou čtyři základní rovnice, které popisují elektromagnetické jevy v prostoru. Jsou to:
+
+1. Gaussova rovnice pro magnetické pole: ∇⋅B = 0
+2. Gaussova rovnice pro elektrické pole: ∇⋅E = ρ/ε0
+3. Faradayův zákon indukce: ∇×E = -∂B/∂t
+4. Ampérova toroidální zákon: ∇×B = μ₀J + μ₀ε₀∂E/∂t
+
+K jednotlivým složkám těchto rovnic:
+
+* ∇ je operátor gradientu, který označuje změnu v prostoru.
+* B a E jsou skalární veličiny, které popisují magnetické a elektrické pole v prostoru.
+* ρ je hustota náboje v prostoru.
+* μ₀ je magnetická permeabilita vakuu.
+* ε₀ je dielektrická permitivita vakuu.
+* J je proudová hustota v prostoru.
+
+Tyto rovnice popisují vztah mezi elektrickým a magnetickým polem, jakož i jeho závislost na času a prostoru.
+
+Řešení 3: Zjistěte, jak se vyvíjí elektrické pole kolem vodiče, když proud prochází přes něj.
+
+Elektrické pole kolem vodiče se vyvíjí díky Coulombovu zákonu. Tento zákon říká, že elektrické pole kolem vodiče je úměrné náboji a odvráceně úměrné čtverci vzdálenosti:
+
+E = k \* q / r²
+
+kde:
+
+* E je elektrické pole v bodě vzdáleném r od vodiče.
+* q je náboj vodiče.
+* r je vzdálenost od vodiče.
+
+Pokud proud prochází přes vodič, náboj se rozloží po celé délce vodiče. Elektrické pole se vyvíjí kolem vodiče a je největší na povrchu vodiče.
+
+Pokud je proud konstantní, náboj se nezmění a tedy ani elektrické pole. Elektrické pole se vyvíjí stabilně kolem vodiče.
+
+Řešení 4: Zajistěte, aby se elektrický proud pohyboval po kruhové dráze v magneticickém poli.
+
+Elektrický proud se pohybuje po kruhové dráze v magneticickém poli díky Lorentzově síle. Tato síla se vyvíjí, když elektrický proud prochází magnetickým polem a je úměrná produktu intenzity proudu a intenzity magnetického pole:
+
+F = q \* v \* B
+
+kde:
+
+* F je Lorentzova síla.
+* q je náboj částice.
+* v je rychlost částice.
+* B je magnetické pole.
+
+Pokud je magnetické pole konstantní, částice se pohybují po kruhové dráze. Toto je základem funkce magnetických zářičů a dalších elektromagnetických zařízení.
+
+Řešení 5: Porovnejte elektrické a magnetické pole v blízkosti elektricky nabitého tělesa.
+
+Elektrické pole v blízkosti elektricky nabitého tělesa se vyvíjí podle Coulombovho zákona. Magnetické pole se vyvíjí podle Ampérovy toroidální zákonné.
+
+Elektrické pole je úměrné náboji a odvráceně úměrné čtverci vzdálenosti:
+
+E = k \* q / r²
+
+Magnetické pole je úměrné intenzitě proudu a odvráceně úměrné čtverci vzdálenosti:
+
+B = μ₀ \* J / r²
+
+kde:
+
+* E a B jsou elektrické a magnetické pole v blízkosti elektricky nabitého tělesa.
+* q je náboj tělesa.
+* r je vzdálenost od tělesa.
+* μ₀ je magnetická permeabilita vakuu.
+* J je proudová hustota v tělese.
+
+Řešení 6: Vyjasněte vztah mezi indukčním napětím a změnou magnetického pole v indukčním obvodu.
+
+Indukční napětí v indukčním obvodu se vyvíjí podle Faradayova zákona indukce. Tento zákon říká, že indukční napětí je úměrné změně magnetického pole:
+
+ε = -N \* ∂φ / ∂t
+
+kde:
+
+* ε je indukční napětí.
+* N je počet obvodů indukčního obvodu.
+* φ je magnetický útes indukčního obvodu.
+* t je čas.
+
+Změna magnetického pole se vyvíjí podle Ampérovy toroidální zákonné:
+
+∇×B = μ₀J + μ₀ε₀∂E/∂t
+
+kde:
+
+* ∇×B je změna magnetického pole.
+* μ₀ je magnetická permeabilita vakuu
