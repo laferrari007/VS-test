@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Termomechanika
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:36:37
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:36:42
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 

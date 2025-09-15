@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Termomechanika
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:36:37
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:36:42
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Termomechanika
+Úkol 1: Vyřešte jednoduchou tepelnou rovnováhu pro jednoduchý objekt s konstantní teplotou vnějšího prostředí. Použijte Heislerovu teorii o tepelném přenosu.
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Termomechanika
+Úkol 2: Rozměrná cihla o rozměrech 0,5 m x 0,5 m x 1 m je ohřívána na teplotu 500 °C. Pokud se rozptyl tepelného toku odhaduje podle Newtonova zákona o tepelném přenosu, urči teplotu na povrchu cihly za 10 minut.
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Termomechanika
+Úkol 3: Představte si, že máte malý úzký válec s konstantní rychlostí, který prochází skrze roztavený kov. Vypočítejte teplotní rozdíl mezi povrchem válce a roztaveným kovem, pokud válec měří 0,1 m a roztavený kov má teplotu 1800 °C.
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Termomechanika
+Úkol 4: Vypočítejte tepelný tok, který je přenesen mezi dvěma plochými plochami o velikosti 1 m x 1 m, pokud teplotní rozdíl mezi nimi je 50 °C, a pokud se plochy oddělují vzduchem s konstantní teplotou 20 °C a hustotou 1,2 kg/m³. Předpokládejte, že konvekční tok je zanedbatelný.
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Termomechanika
+Úkol 5: Studujte jednoduchý model tepelné výměny mezi dvěma roztoky a dvě ploché desky. Pokud jsou roztoky roztavený kov a voda, které se pohybují s konstantní rychlostí 0,1 m/s, a teplotní rozdíl mezi nimi je 800 °C, vypočítejte rychlost výměny teplot.
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Termomechanika
+Úkol 6: Představte si, že máte malý objem roztaveného kovu o objemu 0,01 m³, který se zahřívá o konstantní rychlostí 100 W. Pokud má kov specifickou tepelnou kapacitu 500 J/kg°C, vypočítejte změnu jeho teploty za 30 minut.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Termomechanika
+Úkol 7: Vypočítejte tepelný tok, který je přenesen mezi dvěma plochými plochami o velikosti 0,1 m x 0,1 m, pokud teplotní rozdíl mezi nimi je 50 °C, a pokud se plochy oddělují vzduchem s konstantní teplotou 20 °C a hustotou 1,2 kg/m³. Předpokládejte, že konvekční tok je zanedbatelný.
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Termomechanika
+Úkol 8: Představte si, že máte malý válec o průměru 0,1 m a délce 0,1 m, který se pohybuje s konstantní rychlostí 0,1 m/s a prochází skrze roztavený kov o teplotě 1800 °C. Vypočítejte teplotní rozdíl mezi povrchem válce a roztaveným kovem.
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu Termomechanika
+Úkol 9: Studujte jednoduchý model tepelné výměny mezi dvěma roztoky a dvě ploché desky. Pokud jsou roztoky roztavený kov a voda, které se pohybují s konstantní rychlostí 0,1 m/s, a teplotní rozdíl mezi nimi je 800 °C, vypočítejte rychlost výměny teplot.
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Termomechanika
+Úkol 10: Představte si, že máte malý objem roztaveného kovu o objemu 0,01 m³, který se zahřívá o konstantní rychlostí 100 W. Pokud má kov specifickou tepelnou kapacitu 500 J/kg°C, vypočítejte změnu jeho teploty za 60 minut.
