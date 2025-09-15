@@ -1,24 +1,99 @@
-# AI Generované řešení úkolů pro předmět: Databáze SŠ
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:01:16
+# Řešení úkolů pro předmět: Databáze SŠ
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:13:38
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Databáze SŠ
+Řešení 1: Navrhněte databázový design pro školní informační systém
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Databáze SŠ
+Databázový design pro školní informační systém by měl zahrnovat následující tabulky:
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Databáze SŠ
+1. **studenti**: obsahuje informace o studentech (ID, jméno, příjmení, email, telefon)
+2. **učitelská_seda**: obsahuje informace o učitelích (ID, jméno, příjmení, email, telefon)
+3. **předměty**: obsahuje informace o předmětech (ID, název, popis)
+4. **hodnocení**: obsahuje hodnocení studentů (ID, student_id, předmět_id, hodnocení)
+5. **semestry**: obsahuje informace o semestrech (ID, název, datum začátku, datum konce)
+6. **studenti_semestry**: obsahuje informace o účasti studentů na semestrech (ID, student_id, semestr_id, hodnocení)
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Databáze SŠ
+Tento design umožňuje uložit informace o studentech, učitelích, předmětech, hodnocení a semestrech. Vlastnosti tabulek jsou:
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Databáze SŠ
+- **studenti**: ID je primární klíč, jméno a příjmení jsou nepovinné, email a telefon jsou nepovinné ale užitečné
+- **učitelská_seda**: ID je primární klíč, jméno a příjmení jsou nepovinné, email a telefon jsou nepovinné ale užitečné
+- **předměty**: ID je primární klíč, název a popis jsou nepovinné
+- **hodnocení**: ID je primární klíč, student_id a předmět_id jsou odkazovací klíče na tabulky studenti a předměty, hodnocení je nepovinné
+- **semestry**: ID je primární klíč, název, datum začátku a datum konce jsou nepovinné
+- **studenti_semestry**: ID je primární klíč, student_id a semestr_id jsou odkazovací klíče na tabulky studenti a semestry, hodnocení je nepovinné
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Databáze SŠ
+Tento design umožňuje snadnou manipulaci s daty a jejich vyhledávání.
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Databáze SŠ
+Řešení 2: Vyberte vhodný typ databázového modelu pro uložení dat o knihách v knihovně
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Databáze SŠ
+Vhodný typ databázového modelu pro uložení dat o knihách v knihovně je objektově-relační model. Tento model umožňuje uložit informace o knihách, jejich autorovi, vydavateli, vydání a stavu.
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Databáze SŠ
+Objektově-relační model zahrnuje následující tabulky:
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Databáze SŠ
+1. **knihy**: obsahuje informace o knize (ID, název, isbn, autor_id, vydavatel_id)
+2. **autoři**: obsahuje informace o autorovi (ID, jméno, příjmení)
+3. **vydavatelé**: obsahuje informace o vydavateli (ID, jméno, příjmení)
+4. **vydání**: obsahuje informace o vydání (ID, kniha_id, datum vydání)
+5. **stav_knih**: obsahuje informace o stavu knihy (ID, kniha_id, stav)
+
+Tento design umožňuje uložit informace o knihách, jejich autorovi, vydavateli, vydání a stavu. Vlastnosti tabulek jsou:
+
+- **knihy**: ID je primární klíč, název, isbn, autor_id a vydavatel_id jsou nepovinné
+- **autoři**: ID je primární klíč, jméno a příjmení jsou nepovinné
+- **vydavatelé**: ID je primární klíč, jméno a příjmení jsou nepovinné
+- **vydání**: ID je primární klíč, kniha_id je odkazovací klíč na tabulku knihy, datum vydání je nepovinné
+- **stav_knih**: ID je primární klíč, kniha_id je odkazovací klíč na tabulku knihy, stav je nepovinné
+
+Tento design umožňuje snadnou manipulaci s daty a jejich vyhledávání.
+
+Řešení 3: Navrhněte dotaz na vyhledání všech studentů, kteří mají průměrnou známku vyšší než 80% ve všech předmětech
+
+Dotaz na vyhledání všech studentů, kteří mají průměrnou známku vyšší než 80% ve všech předmětech je:
+
+```sql
+SELECT s.*
+FROM studenti s
+JOIN (
+  SELECT student_id, AVG(hodnotenie) AS avg_hodnotenie
+  FROM hodnocení
+  GROUP BY student_id
+) avgh ON s.id = avgh.student_id
+WHERE avgh.avg_hodnotenie > 80;
+```
+
+Tento dotaz spojuje tabulku studenti s tabulkou hodnocení pomocí joinu. Potom se vypočítá průměrná známka pro každého studenta pomocí funkce AVG. Nakonec se vybírají studenti, kteří mají průměrnou známku vyšší než 80%.
+
+Řešení 4: Seznamte se s pojmem "normalizace" v kontextu databází a vysvětlete, jak funguje proces normalizace a proč je důležité v praxi
+
+Normalizace je proces, který zajišťuje, aby data v databázi byly uložena efektivně a účinně. Cílem normalizace je vytvořit databázový design, který eliminuje závislosti mezi tabulkami a zajišťuje, aby data byly uložena v samostatných tabulkách.
+
+Proces normalizace zahrnuje následující kroky:
+
+1. **První normalizace**: vymazání závislosti mezi řádky ve stejné tabulce
+2. **Druhá normalizace**: vymazání závislosti mezi řádky ve různých tabulkách
+3. **Třetí normalizace**: vymazání závislosti mezi atributy ve stejné tabulce
+4. **Čtvrtá normalizace**: vymazání závislosti mezi tabulkami
+
+Normalizace je důležité v praxi proto, že:
+
+* Eliminuje závislosti mezi tabulkami a zajišťuje, aby data byly uložena v samostatných tabulkách
+* Zajišťuje, aby data byly uložena efektivně a účinně
+* Snadné manipulaci s daty a jejich vyhledávání
+
+Řešení 5: Upravte existující databázový vzor tak, aby vyhovoval podmínkám, které vyžadují, aby každý záznam mohl mít pouze jeden referenční klíč
+
+Existující databázový vzor:
+```sql
+CREATE TABLE studenti (
+  id INT,
+  jméno VARCHAR(50),
+  příjmení VARCHAR(50),
+  email VARCHAR(100),
+  telefon VARCHAR(20)
+);
+
+CREATE TABLE předměty (
+  id INT,
+  název VARCHAR(100),
+  popis

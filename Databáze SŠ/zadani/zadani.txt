@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Databáze SŠ
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:01:16
+# Zadání úkolů pro předmět: Databáze SŠ
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:13:38
 
-Úkol 1: Základní úkol z předmětu Databáze SŠ - úroveň 1
+Úkol 1: Navrhněte databázový design pro školní informační systém, který zahrnuje informace o studentech, vyučujících, předmětech a hodnocení studentů.
 
-Úkol 2: Základní úkol z předmětu Databáze SŠ - úroveň 2
+Úkol 2: Vyberte vhodný typ databázového modelu (relační, objektově-relační, hvězdicový) pro uložení dat o knihách v knihovně a vysvětlíte, proč jste takový model zvolili.
 
-Úkol 3: Základní úkol z předmětu Databáze SŠ - úroveň 3
+Úkol 3: Navrhněte dotaz na vyhledání všech studentů, kteří mají průměrnou známku vyšší než 80% ve všech předmětech.
 
-Úkol 4: Základní úkol z předmětu Databáze SŠ - úroveň 4
+Úkol 4: Seznamte se s pojmem "normalizace" v kontextu databází a vysvětlete, jak funguje proces normalizace a proč je důležité v praxi.
 
-Úkol 5: Základní úkol z předmětu Databáze SŠ - úroveň 5
+Úkol 5: Upravte existující databázový vzor tak, aby vyhovoval podmínkám, které vyžadují, aby každý záznam mohl mít pouze jeden referenční klíč.
 
-Úkol 6: Základní úkol z předmětu Databáze SŠ - úroveň 6
+Úkol 6: Zpracujte dotaz, který vrátí seznam všech studentů, kteří se zúčastnili alespoň jednoho semestru a jejich průměrné hodnocení z tohoto semestru.
 
-Úkol 7: Základní úkol z předmětu Databáze SŠ - úroveň 7
+Úkol 7: Vytvořte relační databázi pro správu knih a uživatelů v knihovně. Navrhněte také vkládání a výběr dat z této databáze.
 
-Úkol 8: Základní úkol z předmětu Databáze SŠ - úroveň 8
+Úkol 8: Porovnejte výkonnost dvou různých dotazů na stejný datový sadu, jedním z nich použijete indexování, druhý nebude.
 
-Úkol 9: Základní úkol z předmětu Databáze SŠ - úroveň 9
+Úkol 9: Navrhněte optimální datový model pro úložiště dat o zákaznících a objednávkách e-shopu. Uvétněte také proces normalizace tohoto modelu.
 
-Úkol 10: Základní úkol z předmětu Databáze SŠ - úroveň 10
+Úkol 10: Vyřešte problém s únikem citlivých dat v databázi školní informatiky, kde se únikem dat stala osobní identifikace studentů a jejich kontaktová data.
