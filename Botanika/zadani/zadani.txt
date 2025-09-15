@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Botanika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:25:11
+# Datum: 2025-09-15 23:25:12
 
-Úkol 1: Popiš rozdíl mezi jednoduchým a složeným listem, včetně příkladů rostlin, na nichž tyto typy listů jsou pozorovatelné.
+Úkol 1: Popiš rozmístění a funkci šupin na listech dřevin ze třídy Magnoliopsida. Rozbujte na jednotlivé kategorie (šupiny přítomné, šupiny chybějící, šupinky, chybějící šupinky).
 
-Úkol 2: Porovnejte vlastnosti chlorofylu a carotenu, včetně jejich struktury a funkce v procesu fotosyntézy.
+Úkol 2: Vyber jeden zástupce čeledi Fabaceae a popiš jeho morfologické znaky, včetně počtu a tvary květů, listů a plodů. Uveďte také příklady blízce příbuzných rostlin.
 
-Úkol 3: Popište a vysvětlěte proces fotosyntézy, včetně rovnice, která ukazuje, jak se v ní tvoří glukóza a kyslík.
+Úkol 3: Porovnejte strukturní složení listových epiderm a sekundární kůry stromů z různých biologických řádu (například Pinopsida a Magnoliopsida).
 
-Úkol 4: Popište a porovnejte vlastnosti dvou typů kořenů: vláknitých a hlízovitých, včetně jejich funkcí a forem.
+Úkol 4: Vysvětlete principy fotosyntézy a popisujte hlavní biochemické reakce, které se účastní. Uveďte také role různých sloučenin a enzymů v tomto procesu.
 
-Úkol 5: Vysvětlte rozdíl mezi symetrickými a nesymetrickými květy, včetně příkladů rostlin, na nichž tyto typy květu jsou pozorovatelné.
+Úkol 5: Vypracujte přehled fylogenetické historie vývojových linií rostlin z různých skupin (například magnoliopsidů, pinopsidů, gymnospermen).
 
-Úkol 6: Popište a vysvětlěte proces transpirace, včetně faktorů, které ji ovlivňují, a důsledků pro rostliny.
+Úkol 6: Popište mechanismy přenosu vody a solí v rostlinách, včetně rotačních a transpiračních proudů, a jejich vztah k transpirační ztrátě.
 
-Úkol 7: Porovnejte vlastnosti dvou typů stonků: oddělujících a nepřezdílných, včetně jejich funkcí a forem.
+Úkol 7: Vyberte 3-4 typy fotosyntetických pigmentů a porovnejte jejich vlnové délky maximální absorpce a jejich role v procesu fotosyntézy.
 
-Úkol 8: Vysvětlte rozdíl mezi rostlinami monokotylonními a dikotylonními, včetně příkladů rostlin, na nichž tyto typy jsou pozorovatelné.
+Úkol 8: Zvažte, jak změna prostředí (například teplota, srážky, CO2) ovlivňuje růst a produkci rostlin. Uveďte 2-3 příklady rostlin, které jsou citlivé na tyto faktory.
 
-Úkol 9: Popište a vysvětlěte proces sekundárního růstu dřeviny, včetně faktorů, které ho ovlivňují, a výsledků pro strom.
+Úkol 9: Vysvětlete procesy, které umožňují rostlinám přizpůsobit se změnám v jejich prostředí (například adaptační fenomény v reakci na změnu teploty, srážek, světla). Uveďte příklady rostlin, které tyto adaptační mechanismy využívají.
 
-Úkol 10: Vysvětlte rozdíl mezi adaptacemi rostlin na suché a vlhké prostředí, včetně příkladů rostlin, na nichž tyto adaptace jsou pozorovatelné.
+Úkol 10: Vypracujte článek o roli rostlin ve stabilizaci globálního klimatu. Popište hlavní mechanismy, které rostliny používají k absorpci CO2 a uveďte příklady rostlin, které jsou účinné v této oblasti.
