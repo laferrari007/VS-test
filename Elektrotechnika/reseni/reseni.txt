@@ -1,74 +1,131 @@
-# AI Generované řešení úkolů pro předmět: Elektrotechnika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:00:06
+# Řešení úkolů pro předmět: Elektrotechnika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:10:06
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vypočítejte napětí na konci 10m drátu s odporovým odporem 0,2 ohmů a proudem 2 Ampéry.
+Řešení 1: Vypočítejte odpornou rezistivitu vedení o délce 2 m a průměru 1 mm, pokud má materiál rezistivitu 1,5 × 10^(-8) Ωm.
 
-Zákon Ohmův je dán vztahem: U = R \* I, kde U je napětí, R je odpor a I je proud.
+K výpočtu odporné rezistivitu použijeme vzorec:
 
-V tomto případě máme odpor R = 0,2 ohmů a proud I = 2 Ampéry. Chceme vypočítat napětí U na konci 10m drátu.
+ρ = R / l
 
-Nejprve potřebujeme odpor drátu v ohmech. Odpor drátu je dán vztahem: R = ρ \* l / A, kde ρ je elektrický odpor materiálu, l je délka drátu a A je jeho povrchová plocha.
+kde ρ je rezistivita materiálu, R je odporná rezistivita vedení a l je délka vedení.
 
-Pro běžný drát s elektrickým odporem materiálu ρ = 1,8 \* 10^(-8) Ωm, délku 10m a průřez 1 mm, můžeme vypočítat odpor:
+Zadané hodnoty jsou:
 
-R = ρ \* l / A = 1,8 \* 10^(-8) \* 10 / (π \* (1/2)^2) = 0,0028 Ω
+- délka vedení l = 2 m
+- průměr vedení d = 1 mm = 0,001 m
+- rezistivita materiálu ρ = 1,5 × 10^(-8) Ωm
 
-Nyní můžeme použít zákon Ohmův k vypočítání napětí:
+Vzorec pro výpočet odporné rezistivuty vedení je:
 
-U = R \* I = 0,0028 \* 2 = 0,0056 V
+R = ρ \* l / A
 
-Řešení 2: Popište principy funkce transformátoru a vysvěltejte rozdíl mezi sériovým a paralelním zapojením primární a sekundární obvodu.
+kde A je plocha průřezu vedení. Plocha průřezu vedení se vypočítá jako:
 
-Transformátor je elektrotechnický přístroj, který převádí napětí a proud mezi dvěma obvody. Princip jeho funkce je založen na indukčním účinku, kdy se napětí indukuje v obvodu v důsledku změny magnetického pole.
+A = π \* d^2 / 4
 
-Primární obvod transformátoru je obvod, který je spojený s zdroj napětí a proudem. Sekundární obvod je obvod, který je spojený s zařízením, které má být napájené.
+Vstupní hodnoty jsou:
 
-Sériové zapojení primárního a sekundárního obvodu znamená, že jsou obě obvody spojeny v řetězce. V tomto případě se napětí a proud přenáší z primárního obvodu do sekundárního obvodu současně.
+- průměr vedení d = 1 mm = 0,001 m
+- plocha průřezu vedení A = π \* (0,001 m)^2 / 4 = 7,854 × 10^(-7) m^2
 
-Paralelní zapojení primárního a sekundárního obvodu znamená, že jsou obě obvody spojeny paralelně. V tomto případě se napětí přenáší z primárního obvodu do sekundárního obvodu současně, ale proud je větší než v sériovém zapojení.
+Nyní můžeme vypočítat odpornou rezistivitu vedení:
 
-Řešení 3: Vypočítejte hodnotu rezistoru, který má zúžit proud 5 Ampér do 2 Ampéru při napětí 15 Voltů.
+R = (1,5 × 10^(-8) Ωm) \* (2 m) / (7,854 × 10^(-7) m^2) = 0,38 Ω
 
-Použijeme zákon Ohmův k vypočítání odporu rezistoru:
+Řešení 2: Nákreslete a vypočítejte charakteristickou hodnotu filtru RC, jehož kapacita je 0,01 μF a odporná rezistiva je 10 kΩ.
 
-U = R \* I
+Charakteristická hodnota filtru RC se vypočítá jako:
 
-V tomto případě máme napětí U = 15 V a proud I1 = 5 A a I2 = 2 A. Chceme vypočítat odpor R:
+τ = R \* C
 
-R = U / (I2 - I1) = 15 / (2 - 5) = 15 / (-3) = -5 Ω
+kde R je odporná rezistivita a C je kapacita.
 
-Ještě se však musíme vypořádat s negativním výsledkem. Odpor nemůže být záporný, proto použijeme úpravu:
+Zadané hodnoty jsou:
 
-R = 15 / (5 - 2) = 15 / 3 = 5 Ω
+- kapacita C = 0,01 μF = 10 × 10^(-12) F
+- odporná rezistivita R = 10 kΩ = 10 × 10^4 Ω
 
-To znamená, že rezistor musí mít hodnotu 5 Ω.
+Nyní můžeme vypočítat charakteristickou hodnotu filtru RC:
 
-Řešení 4: Vysvěltejte rozdíl mezi RC a RL filtry a popište jejich použití v praxi.
+τ = (10 × 10^4 Ω) \* (10 × 10^(-12) F) = 0,1 s
 
-RC filtr je elektronický filtr, který používají k odstranění nebo eliminaci určitých frekvencí z elektrického signálu. Je tvořen kombinací rezistoru a kondenzátoru. Funkce RC filtru je založena na vlastnostech kondenzátoru, který má vysoké impedance při nízkých frekvencích a nízkou impedance při vysokých frekvencích.
+Řešení 3: Zjistěte úroveň napětí na konci vedení o délce 10 m a průměru 5 mm, pokud má napájecí zdroj napětí 220 V a proud 5 A.
 
-RL filtr je elektronický filtr, který používají k odstranění nebo eliminaci určitých frekvencí z elektrického signálu. Je tvořen kombinací rezistoru a indukční rezistence. Funkce RL filtru je založena na vlastnostech indukční rezistence, která má vysoké impedance při vysokých frekvencích a nízkou impedance při nízkých frekvencích.
+K vypočítání úrovně napětí na konci vedení použijeme vzorec:
 
-RC filtry jsou používány v aplikacích, jako jsou:
+U = I \* R
 
-- Odstraňování šumu z elektrických signálů
-- Eliminace určitých frekvencí z elektrických signálů
-- Regulace napětí v elektrických obvodech
+kde U je úroveň napětí, I je proud a R je odporná rezistivita.
 
-RL filtry jsou používány v aplikacích, jako jsou:
+Zadané hodnoty jsou:
 
-- Odstraňování šumu z elektrických signálů
-- Eliminace určitých frekvencí z elektrických signálů
-- Regulace proudů v elektrických obvodech
+- proud I = 5 A
+- délka vedení l = 10 m
+- průměr vedení d = 5 mm = 0,005 m
 
-Řešení 5: Rozhodněte, zda je možné nahradit tranzistor NPN 2N2222A tranzistorem PNP 2N2907A. Vysvěltejte důvody svého rozhodnutí.
+Vzorec pro výpočet odporné rezistivuty vedení je:
 
-Tranzistor NPN 2N2222A a tranzistor PNP 2N2907A jsou dva různé typy tranzistorů. Tranzistor NPN je tranzistor, který se používá jako výstupní tranzistor, zatímco tranzistor PNP je tranzistor, který se používá jako vstupní tranzistor.
+R = ρ \* l / A
 
-Důvody, proč nelze nahradit tranzistor NPN 2N2222A tranzistorem PNP 2N2907A, jsou:
+kde ρ je rezistivita materiálu a A je plocha průřezu vedení. Plocha průřezu vedení se vypočítá jako:
 
-- Různé typy tranzistorů: Tranzistor NPN 2N2222A a tranzistor PNP 2N2907A jsou dva různé typy tranzistorů, které se používají k různým účelům.
-- Různé vlastnosti: Tranzistor NPN 2N2222A a tranzistor PNP 2N2907A mají různé vlastnosti, jako je odpor báze-emitor, odpor kolektoru-emitor a výstupní napětí.
-- Různé aplikace: Tranzistor NPN 2N2222A a tranzistor PNP 2N2907A jsou používány v různých aplikacích, jako jsou výstupní obvody a vstupní ob
+A = π \* d^2 / 4
+
+Vstupní hodnoty jsou:
+
+- průměr vedení d = 5 mm = 0,005 m
+- plocha průřezu vedení A = π \* (0,005 m)^2 / 4 = 1,963 × 10^(-5) m^2
+
+Nyní můžeme vypočítat odpornou rezistivitu vedení:
+
+R = (ρ) \* (10 m) / (1,963 × 10^(-5) m^2)
+
+Použijeme rezistivitu materiálu z předešlého úkolu:
+ρ = 1,5 × 10^(-8) Ωm
+
+R = (1,5 × 10^(-8) Ωm) \* (10 m) / (1,963 × 10^(-5) m^2) = 76,5 Ω
+
+Nyní můžeme vypočítat úroveň napětí na konci vedení:
+
+U = (5 A) \* (76,5 Ω) = 382,5 V
+
+Řešení 4: Proveďte analýzu obvodu se zdrojem DC o napětí 24 V, odpornou rezistivitou 10 Ω a napěťovým zesilovačem s úrovní zesílení 10.
+
+Analyzujeme obvod se zdrojem DC, odpornou rezistivitou a napěťovým zesilovačem. Zdroj DC o napětí 24 V je připojen mezi uzlem A a uzlem B.
+
+Napěťový zesilovač s úrovní zesílení 10 je připojen mezi uzlem A a uzlem C. Odporná rezistivita 10 Ω je připojena mezi uzlem B a uzlem C.
+
+K analýze obvodu použijeme následující schéma:
+
++--------+---------------+---------------+
+|  Zdroj  |  Odporná      |  Napěťový    |
+|  DC    |  rezistivita  |  zesilovač    |
++--------+---------------+---------------+
+|  A     |  B           |  C           |
++--------+---------------+---------------+
+
+Zdroj DC o napětí 24 V je připojen mezi uzlem A a uzlem B. Odporná rezistivita 10 Ω je připojena mezi uzlem B a uzlem C. Napěťový zesilovač s úrovní zesílení 10 je připojen mezi uzlem A a uzlem C.
+
+K analýze obvodu použijeme následující vzorce:
+
+I = V / R
+
+kde I je proud, V je napětí a R je odporná rezistivita.
+
+I = (24 V) / (10 Ω) = 2,4 A
+
+Nyní můžeme vypočítat úroveň napětí na uzlu C:
+
+U_C = I \* R
+
+kde U_C je úroveň napětí na uzlu C, I je proud a R je odporná rezistivita.
+
+U_C = (2,4 A) \* (10 Ω) = 24 V
+
+Nyní můžeme vypočítat úroveň napětí na uzlu A:
+
+U_A = U_C \* (10 - 1)
+
+kde U_A je úroveň napětí na uzlu A, U_C je

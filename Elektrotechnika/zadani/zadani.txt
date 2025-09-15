@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Elektrotechnika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:00:06
+# Zadání úkolů pro předmět: Elektrotechnika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:10:06
 
-Úkol 1: Vypočítejte napětí na konci 10m drátu s odporovým odporem 0,2 ohmů a proudem 2 Ampéry. Použijte zákon Ohmův.
+Úkol 1: Vypočítejte odpornou rezistivitu vedení o délce 2 m a průměru 1 mm, pokud má materiál rezistivitu 1,5 × 10^(-8) Ωm.
 
-Úkol 2: Popište principy funkce transformátoru a vysvětlejte rozdíl mezi sériovým a paralelním zapojením primární a sekundární obvodu.
+Úkol 2: Nákreslete a vypočítejte charakteristickou hodnotu filtru RC, jehož kapacita je 0,01 μF a odporná rezistiva je 10 kΩ.
 
-Úkol 3: Vypočítejte hodnotu rezistoru, který má zúžit proud 5 Ampér do 2 Ampér při napětí 15 Voltů.
+Úkol 3: Zjistěte úroveň napětí na konci vedení o délce 10 m a průměru 5 mm, pokud má napájecí zdroj napětí 220 V a proud 5 A.
 
-Úkol 4: Vysvětlejte rozdíl mezi RC a RL filtry a popište jejich použití v praxi.
+Úkol 4: Proveďte analýzu obvodu se zdrojem DC o napětí 24 V, odpornou rezistivitou 10 Ω a napěťovým zesilovačem s úrovní zesílení 10.
 
-Úkol 5: Úloha: Rozhodněte, zda je možné nahradit tranzistor NPN 2N2222A tranzistorem PNP 2N2907A. Vysvětlejte důvody svého rozhodnutí.
+Úkol 5: Vypočítejte účinnou hodnotu transformátoru s primární napájecí hodnotou 230 V a sekundární napájecí hodnotou 12 V.
 
-Úkol 6: Vypočítejte hodnotu napětí na bázi tranzistoru, pokud proudem prochází základna-emitor 10mA a rezistorem R1 o hodnotě 1kΩ.
+Úkol 6: Proveďte rozbor obvodu s aktivní rezistivitou 10 Ω, kapacitou 0,1 μF a induktivitou 10 mH.
 
-Úkol 7: Popište principy funkce indukčních rezistorů a vysvětlejte jejich použití v praxi.
+Úkol 7: Zjistěte napětí na konci vedení o délce 50 m a průměru 2 mm, pokud má napájecí zdroj napětí 500 V a proud 10 A.
 
-Úkol 8: Úloha: Proveďte analýzu obvodu sestaveného z tranzistoru, rezistorů a kondenzátorů, včetně výpočtu napětí na jednotlivých uzlech a proudů procházejících tranzistorem.
+Úkol 8: Vypočítejte hodnotu napětí na vstupu obvodu s aktivní rezistivitou 20 Ω, kapacitou 1 μF a napěťovým zesilovačem s úrovní zesílení 20.
 
-Úkol 9: Vypočítejte hodnotu napětí na sekundární straně transformátoru, pokud je primární napětí 230V a sekundární napětí 12V a primární proud 2A.
+Úkol 9: Proveďte analýzu obvodu se zdrojem AC o napětí 230 V, aktivní rezistivitou 50 Ω a kapacitou 0,01 μF.
 
-Úkol 10: Úloha: Navrhněte obvod pro regulaci napětí zdroje 12V pomocí regulátoru 7805, který je navázán na vstupní napětí 15V. Vysvětlejte principy funkce regulátoru a jeho použití v praxi.
+Úkol 10: Zjistěte účinnou hodnotu transformátoru s primární napájecí hodnotou 400 V a sekundární napájecí hodnotou 24 V, pokud má účinnost 80%.
