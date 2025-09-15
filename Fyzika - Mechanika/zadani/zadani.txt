@@ -1,0 +1,9 @@
+# AI Generované zadání úkolů pro předmět: Fyzika - Mechanika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:49:40
+
+Úkol 1: 
+Napíšte stručnou definici pojmu "konzervace energie" a uveďte tři příklady, kde se tento princip uplatňuje v reálném světě.
+
+Úkol 2: 
+Máte loď s hmotností 1000 kg, která se pohybuje rychlostí 5 m/s v rovném poledníku. Pokud zúžte vzdálenost mezi lodí a středem Země na polovinu, jak se změní rychlost lodě? Rozhodněte se pro použitou fyzikální zásadu a uveďte potřebné rovnice, které jste použili k řešení úkolu.

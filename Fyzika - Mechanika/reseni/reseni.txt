@@ -1,0 +1,54 @@
+# AI Generované řešení úkolů pro předmět: Fyzika - Mechanika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:49:40
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Konservace energie
+
+Konzervace energie je fyzikální princip, který říká, že celkový množství energie ve uzavřené nebo izolované systému se nemění s časem. V případě, že je energie převedena z jedné formy na jinou, celkový úhrn energie zůstává stejný.
+
+Níže jsou tři příklady, kde se princip konzervace energie uplatňuje v reálném světě:
+
+1. **Elektrárna s vodní Kaplanovou turbínou**: Voda z jezera nebo řeky spadne do turbíny, která ji odbourává a zvedá jej na vysokou rychlost. Energie vody se přemění na mechanickou energii, která pohání generátor a produkuje elektrický proud.
+
+2. **Bike**: Pokud jste sedíte na kole a jedete po kopci, váš potenciální energie (energie pohybu) se přemění na kinetickou energii (energie pohybu). Pokud jste na konci kopce a máte vysokou rychlost, vaše energie se přemění na kinetickou energii.
+
+3. **Železniční souprava**: Pokud je železniční souprava v pohybu, její kinetická energie (energie pohybu) se přemění na potenciální energii (energie pohybu) při stoupání a opačným způsobem při klesání.
+
+Řešení 2: Změna rychlosti lodě
+
+Pro řešení tohoto úkolu použijeme fyzikální zásadu konzervace energie a princip gravitace. Předpokládejme, že loď má hmotnost 1000 kg a pohybuje se rychlostí 5 m/s v rovném poledníku.
+
+Pokud zúžeme vzdálenost mezi lodí a středem Země na polovinu, její potenciální energie se změní. Potenciální energie (E) je dána vztahem:
+
+E = m × g × h
+
+kde m je hmotnost, g je zrychlení svobodného pádu a h je výška.
+
+Předpokládejme, že výška je 10 000 m. Potenciální energie před a po změně vzdálenosti je stejná, takže můžeme použít zásadu konzervace energie:
+
+E před = E po
+
+m × g × h před = m × g × h po
+
+Pokud zúžeme vzdálenost na polovinu, výška se změní na polovinu. Zde je výpočet:
+
+h po = h před / 2 = 10 000 / 2 = 5000 m
+
+Dále použijeme zásadu, že energie se přemění z potenciální na kinetickou:
+
+E před = E po
+
+m × g × h před = m × v^2 / 2
+
+kde v je nová rychlost lodě. Zde je výpočet:
+
+1000 × 9,8 × 10 000 = 1000 × v^2 / 2
+
+v^2 = 2 × (1000 × 9,8 × 10 000) ≈ 98 000 000
+
+v ≈ √98 000 000 ≈ 9944,9 m/s
+
+Nová rychlost lodě je přibližně 9944,9 m/s.
+
+Poznámka: Tento výpočet je aproximován, jelikož se nepočítá s dalšími faktory, jako je odpor vzduchu a voda.
