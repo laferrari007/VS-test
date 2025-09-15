@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Teoretická elektrotechnika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:33:08
+
+Úkol 1: Vypočítejte impedance vedení pro vedení o délce 10 m a průřezu 1 mm² s hodnotou impedance 50 Ω. Zjistěte, zda je vedení charakterizováno jako lineární nebo ne-lineární.
+
+Úkol 2: Vypočítejte charakteristickou délku vedení o délce 20 m, impedance 75 Ω a rozptylovém činiteli 0,05. Zjistěte, zda je vedení vhodné pro použití v mezifrekvenčních aplikacích.
+
+Úkol 3: Provedněte analýzu a vypočítejte hodnoty napětí a proudů v rozvaděči napájení v závislosti na zatížení a charakteristikách zdroje. Předpokládejte, že napětí zdroje je sinusoidální se střední hodnotou 230 V a periodou 50 ms.
+
+Úkol 4: Zajistěte, aby výkonový faktor transformátoru dosáhl hodnoty 0,95 při zatížení 80 % maximálního výkonu. Vypočítejte požadované parametry transformátoru, včetně počtu vrstev, množství izolace, a hodnoty magneticky aktivovaného výkonu.
+
+Úkol 5: Zajistěte, aby vodiče o průřezu 2,5 mm² a délce 30 m byly chráněny proti požáru a elektrolytické korozi. Zajistěte, aby byly splněny požadavky na bezpečný provoz elektrických instalací.
+
+Úkol 6: Vypočítejte hodnotu rezonanční frekvence LC obvodu s hodnotami indukce 100 μH a kapacity 100 nF. Zjistěte, zda je možné použít toto LC obvodu jako rezonanční filtry v mezifrekvenčních aplikacích.
+
+Úkol 7: Analyzujte a vypočítejte hodnoty napětí a proudů v elektrické síti s frekvencí 50 Hz a napětím 230 V. Předpokládejte, že síť je tvořena kombinací lineárních a ne-lineárních komponent.
+
+Úkol 8: Vypočítejte hodnotu účiníku elektrického motoru o výkonu 5 kW a účinnosti 0,8. Zjistěte, zda je možné použít tento motor v aplikacích, kde je požadován vysoký účiník.
+
+Úkol 9: Provedněte analýzu a vypočítejte hodnoty napětí a proudů v elektrostatickém kondensátoru o hodnotě kapacity 100 μF a napětí 500 V. Předpokládejte, že kondensátor je používán jako filtr v mezifrekvenčních aplikacích.
+
+Úkol 10: Vypočítejte hodnotu magnetického toku v elektrickém motoru o výkonu 10 kW a účinnosti 0,9. Zjistěte, zda je možné použít tento motor v aplikacích, kde je požadován vysoká účinnost.
