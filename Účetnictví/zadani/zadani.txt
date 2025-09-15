@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Účetnictví
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:41:10
+
+Úkol 1: Popište hlavní rozdíly mezi účetní knihou a účetním dokladem.
+
+Úkol 2: Seznamte se s principy účetního výkaznictví a vysvětlete jejich význam pro podnikání.
+
+Úkol 3: Využijte účetní standardní zásady (IAS, IFRS) a popište, jak se vypořádávají rozdíly v hodnotě aktiva mezi počátečním a koncovým stavem.
+
+Úkol 4: Vyberte si podnik a popište jeho účetní politiku pro rozpoznávání a uznávání tržeb.
+
+Úkol 5: Rozdělte aktiva podniku na hmotná a nepojmová aktiv a vysvětlete, jak se jejich hodnoty vypočítávají v účetnictví.
+
+Úkol 6: Vypořádejte si příklad účetní transakce a vysvětlete, jak se promítne do účetní knihy a účetního výkazu.
+
+Úkol 7: Seznamte se s principy účetního výkazu a popište, jak se vypočítávají a interpretují hlavní ukazatele podniku.
+
+Úkol 8: Využijte účetní standardní zásady (IAS, IFRS) a popište, jak se vypořádávají rozdíly v hodnotě závazků mezi počátečním a koncovým stavem.
+
+Úkol 9: Vyberte si podnik a popište jeho účetní politiku pro rozpoznávání a uznávání nákladů.
+
+Úkol 10: Vypořádejte si případné znehodnocení dlouhodobého aktiva a vysvětlete, jak se promítne do účetní knihy a účetního výkazu.
