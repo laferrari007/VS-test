@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Kontrolling
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:45:10
+
+Úkol 1: Vyberte typy nákladů, které jsou důležité pro kalkulaci nákladů v rámci procesního managementu v podniku. Převést jejich popis do tabulky a vysvětlit, jak se používají v praxi.
+
+Úkol 2: Zadání je představeno účetní jednotkou konsolidační zóny, která plánuje založit nové dceřiné společnosti. Potřebuje pomoci vybrat optimální účetní metodu pro její založení. Seznamte ji se základními účetními metodami a vysvětlit její výhody a nevýhody.
+
+Úkol 3: Předložte případovou studii o vybraném podniku, který se snaží zavést efektivní systém kontroly nákladů. Analyzujte jeho současné náklady a navrhněte změny, které by vedly ke snížení nákladů a zlepšení efektivity.
+
+Úkol 4: Zajistěte, aby účetní jednotka mohla efektivně vyhodnocovat své účetní závěrky pomocí vybraných ukazatelů. Seznamte ji se základními ukazateli, jako je EBITDA, návratnost investic atd., a vysvětlete, jak je používat pro vyhodnocení podnikání.
+
+Úkol 5: Předložte návrh systému kontroly nákladů pro malý podnik. Vyberte několik nákladů a navrhněte, jak je monitorovat a kontrolovat, aby se zamezilo zbytečným nákladům.
+
+Úkol 6: Zadání je účetní jednotkou, která plánuje zavést nový produkt na trh. Potřebuje pomoci vybrat optimální metodu pro odhad ceny nového produktu. Seznamte ji se základními metodami a vysvětlit její výhody a nevýhody.
+
+Úkol 7: Předložte analýzu současného stavu hospodaření účetní jednotky pomocí vybraných ukazatelů. Analyzujte její současné náklady a navrhněte změny, které by vedly ke snížení nákladů a zlepšení efektivity.
+
+Úkol 8: Vyberte několik typů kontrolních procesů a předložte jejich přehled. Seznamte se jejich účelem, rozsahem a důsledky neefektivnosti.
+
+Úkol 9: Předložte návrh systému kontroly nákladů pro velké podnik. Vyberte několik nákladů a navrhněte, jak je monitorovat a kontrolovat, aby se zamezilo zbytečným nákladům.
+
+Úkol 10: Zadání je účetní jednotkou, která plánuje zavést nový projekt. Potřebuje pomoci vybrat optimální metodu pro odhad nákladů nového projektu. Seznamte ji se základními metodami a vysvětlit její výhody a nevýhody, a také navrhněte, jak bude monitorován a kontrolován během jeho průběhu.
