@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Druhý cizí jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:46:04
+# Datum: 2025-09-15 22:56:24
 
-Úkol 1: Přeložte do svého druhého cizího jazyka (například francouzštině, němčině apod.) větu "Dnes je krásné počasí." a vysvětlete, jak se v daném jazyce vyjádří časování přísloví.
+Úkol 1: Přeložte do druhého cizího jazyka (například angličtina) krátkou citaci z literatury, která obsahuje 10 slov.
 
-Úkol 2: Přepište do svého druhého cizího jazyka textový fragment z novin nebo časopisu o aktuálním tématu. Úkolem je zachovat původní význam a strukturu textu.
+Úkol 2: Napiš krátkou autorskou stati o svém názoru na téma "Důležnost studia cizího jazyka" ve druhém cizím jazyce (například angličtina). Stať by měla mít délku asi 100 slov.
 
-Úkol 3: Seznamte se s rozdíly v užití subjektů "já" a "on/ona/ono" v různých druhových časem v daném jazyku. Přeložte věty "Já mluvím francouzsky." a "On mluví francouzsky." do přítomného, minulého a budoucího času.
+Úkol 3: Přeložte do druhého cizího jazyka (například němčina) krátký rozhovor o svém týdnu, který obsahuje 50 slov.
 
-Úkol 4: Vyberte textový fragment z literatury v daném jazyce a přeložte ho do svého mateřského jazyka. Úkolem je zachovat původní význam a styl textu.
+Úkol 4: Napiš krátký rozhovor o svém oblíbeném filmu ve druhém cizím jazyce (například francouzština). Rozhovor by měl mít délku asi 150 slov.
 
-Úkol 5: Přeložte do svého druhého cizího jazyka rozhovor dvou osob o aktuálním tématu. Úkolem je zachovat původní rozhovor a přeložit ho do daného jazyka.
+Úkol 5: Přeložte do druhého cizího jazyka (například španělština) krátký text o svém oblíbeném městě, který obsahuje 100 slov.
 
-Úkol 6: Seznamte se s rozdíly v užití kondicionálu v daném jazyce. Přeložte větu "Já bych chtěl jet do Paříže, kdybych měl více peněz." do daného jazyka a vysvětlete, jak se v něm kondicionál vystavuje.
+Úkol 6: Napiš krátký článek o významu a úloze mezinárodních organizací ve druhém cizím jazyce (například italština). Článek by měl mít délku asi 250 slov.
 
-Úkol 7: Vyberte textový fragment z novin nebo časopisu o aktuálním tématu a přeložte ho do svého druhého cizího jazyka. Úkolem je zachovat původní význam a strukturu textu a použít vhodné formy a věty.
+Úkol 7: Přeložte do druhého cizího jazyka (například ruština) krátký text o svém oblíbeném umělcovi, který obsahuje 150 slov.
 
-Úkol 8: Seznamte se s rozdíly v užití imperativu v různých druhových časem v daném jazyce. Přeložte větu "Mluvte francouzsky!" do přítomného, minulého a budoucího času.
+Úkol 8: Napiš krátký akademický článek o tématu "Kultura a jazyk ve světě" ve druhém cizím jazyce (například dánština). Článek by měl mít délku asi 300 slov.
 
-Úkol 9: Přeložte do svého druhého cizího jazyka článek o aktuálním tématu. Úkolem je zachovat původní význam a strukturu textu a použít vhodné formy a věty.
+Úkol 9: Přeložte do druhého cizího jazyka (například portugalština) krátký text o svém oblíbeném městě a jeho kultuře, který obsahuje 200 slov.
 
-Úkol 10: Seznamte se s rozdíly v užití různých druhů přísloví v daném jazyce. Přeložte věty "Dnes je krásné počasí." a "Dnes je krásné, že je slunečno." do daného jazyka a vysvětlete, jak se v něm různé druhy přísloví vystavují.
+Úkol 10: Napiš krátký esej o tématu "Důležnost komunikace ve světě" ve druhém cizím jazyce (například švédština). Esej by měl mít délku asi 400 slov.
