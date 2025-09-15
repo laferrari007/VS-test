@@ -1,23 +1,33 @@
 # Zadání úkolů pro předmět: Počítačová grafika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:31:13
+# Datum: 2025-09-15 23:31:15
 
-Úkol 1: Implementujte algoritmus pro vykreslování prostého kruhového obrysu pomocí Bresenhamovy metody.
+Úkol 1: 
+Nakreslete jednoduchou 2D postavu (nejlépe člověka) pomocí vektorového modelování. Použijte pouze základní prvky, jako jsou křivky, linie a body.
 
-Úkol 2: Vygenerujte 3D scénu s jedním obecným tělesem (například kouli nebo válcem) pomocí knihovny OpenGL.
+Úkol 2: 
+Vytvořte jednoduchou animaci pohybu 2D objektu (nejlépe kuličky) pomocí programu Blender. Animace by měla mít délku 10 sekund a obsahovat 30 snímků.
 
-Úkol 3: Implementujte procedurální generování terénu pomocí perlinových mřížek a vykreslete jej pomocí OpenGL.
+Úkol 3: 
+Nakreslete 3D objekt (nejlépe kouli) pomocí programu Blender a použijte různé techniky, jako je extrudace, rotace a úprava.
 
-Úkol 4: Nasaďte interaktivní rozhraní pro ovládání 3D scény pomocí klávesnice a myši pomocí knihovny GLUT.
+Úkol 4: 
+Vytvořte jednoduchý shader v jazyce Cg pro úpravu barvy 3D objektu. Použijte funkce, jako je normal mapping a speculární mapping.
 
-Úkol 5: Implementujte algoritmus pro vykreslování 3D bodů na plátně pomocí zobrazení pohledu ze strany.
+Úkol 5: 
+Nakreslete 2D obrázek pomocí algoritmu ray casting. Použijte jednoduchou geometrii, jako jsou kruh, oval a trojúhelník.
 
-Úkol 6: Vygenerujte 3D scénu s několika tělesy (například koule, válec a kyvadlo) a implementujte jejich interakce pomocí Newtonovy mechaniky.
+Úkol 6: 
+Vytvořte jednoduchou 3D simulaci fyziky pomocí programu PhysX. Použijte objekt, jako je koule nebo válec, a simulujte jeho pohyb a interakce s okolím.
 
-Úkol 7: Implementujte procedurální generování textur pomocí algoritmu Perlin a vykreslete je na 3D scéně pomocí OpenGL.
+Úkol 7: 
+Nakreslete 3D scény pomocí programu Blender a použijte technikou renderingu, jako je ray tracing nebo path tracing.
 
-Úkol 8: Nasaďte efekt rozptylu světla pomocí algoritmu Cooka-Torrence a vykreslete jej na 3D scéně pomocí OpenGL.
+Úkol 8: 
+Vytvořte jednoduchý program pro generování 2D obrázků pomocí fractalů (nejlépe Mandelbrota). Použijte knihovny, jako je OpenCV nebo Pygame.
 
-Úkol 9: Implementujte algoritmus pro generování animace 3D scény pomocí keyframe techniky a vykreslete ji pomocí OpenGL.
+Úkol 9: 
+Vytvořte jednoduchý shader v jazyce GLSL pro úpravu textury 3D objektu. Použijte funkce, jako je bump mapping a normal mapping.
 
-Úkol 10: Vygenerujte komplexní 3D scénu včetně prostředí, objektů a animace a implementujte efekt rozptylu světla, procedurální textury a interaktivní rozhraní pomocí knihovny OpenGL.
+Úkol 10: 
+Nakreslete komplexní 3D scénu pomocí programu Blender a použijte techniky, jako je lighting, shading a texturace. Scéna by měla obsahovat několik objektů a interaktivní prvky.
