@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Elektroenergetika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:02:31
+# Zadání úkolů pro předmět: Elektroenergetika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:15:05
 
-Úkol 1: Vypočítejte výkon proudového zdroje s nominální hodnotou 12 V a proudem 1,5 A.
+Úkol 1: Vypočítejte výkon elektrárny s plynovým spalovacím motorem, který má nominální výkon 100 MW a efektivitu 35%.
 
-Úkol 2: Popište principy provozu jaderné elektrárny a uveďte její hlavní části.
+Úkol 2: Vyjmenujte a popište druhy transformátorů používaných v elektrických sítích a jejich základní vlastnosti.
 
-Úkol 3: Rozložte síťový proud podle zákona Ohma pro elektrický obvod s následujícími parametry: R1 = 100 Ω, R2 = 200 Ω, Vcc = 12 V.
+Úkol 3: Zkuste vyřešit jednoduchý problém elektrostatického rozptylu elektrického náboje pomocí Coulombova zákona.
 
-Úkol 4: Vypočítejte účinnost transformátoru s primární indukčností 100 mH, sekundární indukčností 10 mH a napájecím napětím 230 V.
+Úkol 4: Porovnejte a vyjmenujte rozdíly mezi jednotlivými typy elektrických rozvodů (rozvod 3fázový, rozvod 2fázový).
 
-Úkol 5: Uveďte typy elektrických generátorů a jejich výhody a nevýhody.
+Úkol 5: Zkuste navrhnout a popsat jednoduchou elektrárnu s plynovým čerpadlem, která vyprodukuje elektrickou energii pro malý dům.
 
-Úkol 6: Vypočítejte aktivní a reaktivní výkon v elektrickém obvodu s napětím 220 V, proudem 10 A a fázovým posuvem 30°.
+Úkol 6: Vyjmenujte a popište základní prvky elektrického vedení (transformátor, přenosová linka, rozvodna) a jejich funkce v elektrickém systému.
 
-Úkol 7: Popište principy provozu fotovoltaické elektrárny a uveďte její hlavní části.
+Úkol 7: Zkuste vyřešit problém optimalizace přenosové kapacity v elektrické síti pomocí metod Line Search a Gradient Descent.
 
-Úkol 8: Vypočítejte indukčnost transformátoru s primární proudem 2 A, sekundárním proudem 10 A a napájecím napětím 230 V.
+Úkol 8: Navrhněte a popište elektrický systém pro nabíjení elektromobilu pomocí nabíjecí stanice a elektřiny z elektrické sítě.
 
-Úkol 9: Uveďte typy elektrických ochran a jejich použití v elektrických sítích.
+Úkol 9: Vyjmenujte a popište druhy elektrických zdrojů energie (jádrová elektrárna, solární elektrárna, větrná elektrárna) a jejich výhody a nevýhody.
 
-Úkol 10: Vypočítejte účinnost elektrického generátoru s efektivním výkonem 100 kW, skutečným výkonem 90 kW a účinností 0,9.
+Úkol 10: Zkuste vyřešit problém optimalizace výkonu elektrárny pomocí metod dynamického modelování a optimalizace.
