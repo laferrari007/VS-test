@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Robotika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:37:39
+
+Úkol 1: Implementujte jednoduchý robotický algoritmus, který umožňuje robotu pohybovat se po rovném povrchu pomocí servo motorů. Robot by měl být schopen překonat překážky v podobě malých překážek na jeho cestě.
+
+Úkol 2: Použijte knihovnu ROS (Robot Operating System) a implementujte jednoduchý robota, který je schopen měřit vzdálenost a úhel mezi dvěma body na 2D ploše.
+
+Úkol 3: Vyberte si jednoduchý robotický projekt (například robota, který umí rovně chodit nebo se otočit) a implementujte ho pomocí mikrokontroléru (například Arduino) a senzorů (například ultrazvukového senzoru).
+
+Úkol 4: Implementujte algoritmus pro navigaci robota v prostorné místnosti pomocí lidaru nebo jiného senzoru pro detekci překážek.
+
+Úkol 5: Použijte knihovnu OpenCV a implementujte algoritmus pro rozpoznávání objektů na obrazu z kamerového systému robota.
+
+Úkol 6: Implementujte algoritmus pro synchronizaci pohybů dvou nebo více robotů, aby se mohli pohybovat současně a synchronizovaně.
+
+Úkol 7: Vyberte si jednoduchý robotický projekt (například robota, který umí chytit nebo držet objekt) a implementujte ho pomocí mikrokontroléru (například Arduino) a mechanických komponentů (například servo motorů).
+
+Úkol 8: Použijte knihovnu ROS a implementujte komplexní robota, který je schopen měřit vzdálenost a úhel mezi dvěma body na 3D ploše.
+
+Úkol 9: Implementujte algoritmus pro autonomní navigaci robota v prostorné místnosti s přítomností dalších objektů a překážek.
+
+Úkol 10: Použijte knihovnu OpenCV a implementujte algoritmus pro rozpoznávání objektů na obrazu z kamerového systému robota v reálném čase, při zachování vysoké přesnosti a rychlosti.
