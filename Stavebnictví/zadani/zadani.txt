@@ -2,22 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:15:56
 
-Úkol 1: Vyčíslete počet kroků potřebných k vytvoření schématu budovy na základě jejího půdorysu a výšky.
+Úkol 1: Vypočtěte a stručně popište jednotlivé fáze výstavby dřevěného mostu, včetně přípravných prací, konstrukce mostu a jeho zajištění.
 
-Úkol 2: Použijte teorii o statickém zatížení a vyčíslujte sílu, kterou musí strop odolávat, na základě hmotnosti budovy a předpokládané zatížení oken a dveří.
+Úkol 2: Proveďte přehled hlavních typů staveb z betonu, včetně jejich rozdílů a výhod v porovnání s ostatními stavebními materiály.
 
-Úkol 3: Navrhněte a vyčíslujte materiál pro zajištění stability stropu v případě, že je budova postavena na nepevném podloží.
+Úkol 3: Vysvětlete význam a účel stavebního plánu a jeho různé složky, včetně měřítek a údajů.
 
-Úkol 4: Vypracujte projektovou dokumentaci pro výstavbu jednoduchého železničního mostu se zajištěním stability a odolnosti proti zemětřesení.
+Úkol 4: Rozdělte stavební proces na jednotlivé fáze a popište jejich cíle, úkoly a odpovědnosti v rámci výstavby rezidenčního domu.
 
-Úkol 5: Vyčíslete energetické náklady na vytápění a chlazení budovy s ohledem na její tvar, velikost a umístění na mapě.
+Úkol 5: Porovnejte a srovnávejte materiály používané pro stavbu zděných i dřevěných domů, včetně jejich vlastností a nákladů.
 
-Úkol 6: Použijte stavební kód na vyhodnocení požární bezpečnosti budovy a navrhněte opatření pro minimalizaci rizik požáru.
+Úkol 6: Vytvořte tabulku s přehledem různých typů stavebních konstrukcí, včetně jejich výhod a nevýhod, a stručně je popište.
 
-Úkol 7: Vypracujte návrh systému kanalizačního systému pro budovu s ohledem na její velikost, počet uživatelů a místní zákony.
+Úkol 7: Proveďte analýzu stavebního procesu při výstavbě moderního skyscraperu, včetně projektování, výstavby a zajištění stavby.
 
-Úkol 8: Použijte teoretické znalosti o mechanice pevných látek na vyčíslení napětí v konstrukcích mostu a navrhněte opatření pro snižování této hodnoty.
+Úkol 8: Vysvětlete a popište rozdíl mezi statickými a dynamickými zatíženími v konstrukci mostů a jejich vliv na návrh konstrukce.
 
-Úkol 9: Vypracujte projektovou dokumentaci pro výstavbu komplexního systému únikových cest a nouzových východů v budově se zajištěním plnění zákonných požadavků.
+Úkol 9: Navrhněte a popište návrh systému stavební bezpečnosti pro stavbu vysokorychlostního vlakového tunelu, včetně identifikace možných rizik a jejich eliminace.
 
-Úkol 10: Vyčíslete ekonomické náklady na stavbu budovy s ohledem na použité materiály, pracovní sílu a technické vybavení a navrhněte opatření pro maximalizaci efektivity a minimalizaci nákladů.
+Úkol 10: Rozhodněte, zda je vhodnější pro stavbu vodního díla použít stlačený beton nebo beton s póry, a zdůvodněte svůj výběr.
