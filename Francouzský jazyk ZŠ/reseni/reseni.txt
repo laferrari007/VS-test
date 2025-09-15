@@ -1,86 +1,48 @@
 # AI Generované řešení úkolů pro předmět: Francouzský jazyk ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:44:30
+# Datum: 2025-09-15 22:55:27
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: 
+Řešení 1: Přeložte francouzský text: "Bonjour, comment ça va?" do češtiny.
 
-Je můj oblíbený čaj. Čaj je můj nejoblíbenější nápoj, který si rád vypiji každý den. Obvykle ho piju ráno, abych se probudil a připrivil se na nový den. Čaj je také velmi dobrý pro moji tělo, protože obsahuje mnoho vitamínů a minerálů.
+Františkovský pozdrav "Bonjour" se překládá jako "Dobrý den". Další část věty "comment ça va?" znamená " jak se máš?" nebo "jak se máte?". Proto přeložená věta vypadá takto: "Dobrý den, jak se máte?"
 
-Řešení 2: 
+Řešení 2: Zapište francouzské číslovky od 1 do 5 a jejich česky ekvivalenty.
 
-Můj kamarád jezdí à vélo. Překlad slova "kole" do francouzštiny je "vélo".
+- 1: un (jeden)
+- 2: deux (dva)
+- 3: trois (tři)
+- 4: quatre (čtyři)
+- 5: cinq (pět)
 
-Řešení 3: 
+Řešení 3: Přeložte frázi: "Je suis fatigué, je vais me coucher." do češtiny.
 
-Je mi líto, ale nemám nic konkrétního na tuto příčku. Mám však plán na svůj týden. Během týdne budu navštěvovat školu, hrát fotbal s kamarády a trávit volný čas s rodinou.
+Přeložená věta: "Jsem unavený, půjdu se spát." První část věty "Je suis fatigué" znamená "jsem unavený" a druhá část věty "je vais me coucher" znamená "půjdu se spát".
 
-- Pondělí: Škola a domov
-- Úterý: Škola a fotbal
-- Středa: Škola a rodina
-- Čtvrtek: Škola a přátelé
-- Pátek: Škola a volný čas
-- Sobota: Rodina a volný čas
-- Neděle: Rodina a volný čas
+Řešení 4: Použijte francouzské přídavné jméno "grand" a přeložte text: "Le chien est grand." do češtiny.
 
-Řešení 4: 
+Přídavné jméno "grand" znamená "velký" nebo "veliký". Proto přeložená věta vypadá takto: "Pes je velký." První část věty "Le chien" znamená "pes" a druhá část věty "est grand" znamená "je velký".
 
-- Mám un grand amour pour le thé. 
-- Mon père travaille dans la ville.
-- Mon frère est à l'école.
+Řešení 5: Napište francouzskou větu: "J'aime manger des baguettes avec du fromage." a její česky ekvivalent.
 
-Řešení 5: 
+Přeložená věta: "Miluji jíst bagety sýrem." První část věty "J'aime" znamená "Miluji" a druhá část věty "manger des baguettes" znamená "jíme bagety". Třetí část věty "avec du fromage" znamená "sýrem".
 
-1. Le chien est gentil.
-2. La chatte est belle.
-3. Le renard est rapide.
-4. Le cheval est fort.
-5. Le cygne est élégant.
+Řešení 6: Přeložte francouzskou frázi: "Je vais à la plage avec mes amis." do češtiny.
 
-Řešení 6: 
+Přeložená věta: "Půjdu na pláž se svými přáteli." První část věty "Je vais" znamená "půjdu" a druhá část věty "à la plage" znamená "na pláž". Třetí část věty "avec mes amis" znamená "se svými přáteli".
 
-Hier, j'ai allé au parc et je suis rencontré mon ami. Il y avait aussi un chien et son maître.
+Řešení 7: Použijte francouzský podstatný název "école" a přeložte text: "Je vais à l'école demain." do češtiny.
 
-Řešení 7: 
+Podstatný název "école" znamená "škola". Proto přeložená věta vypadá takto: "Půjdu na školu zítra." První část věty "Je vais" znamená "půjdu" a druhá část věty "à l'école" znamená "na školu".
 
-Rozhovor mezi dvěma přáteli:
+Řešení 8: Napište francouzskou větu: "La ville est belle, n'est-ce pas?" a její česky ekvivalent.
 
-A: Bonjour, comment vas-tu?
-B: Je vais bien, merci. Je suis un peu fatigué.
-A: Je suis désolé, je ne sais pas si je suis fatigué ou non.
-B: C'est vrai, je ne sais pas non plus.
+Přeložená věta: "Město je krásné, není to pravda?" První část věty "La ville" znamená "město" a druhá část věty "est belle" znamená "je krásné". Třetí část věty "n'est-ce pas" je francouzská konjunkce, která znamená "není to pravda?".
 
-A: Je voudrais aller à Paris pour la prochaine vacance.
-B: Je ne sais pas, je voudrais aller à Lyon.
-A: Lyon est une belle ville, mais Paris est la capitale.
-B: Je sais, mais Lyon est plus proche de chez moi.
+Řešení 9: Přeložte francouzský text: "Je suis heureux de te rencontrer." do češtiny a použijte správné francouzské přídavné jméno "heureux".
 
-A: Je voudrais aller à Paris pour la prochaine vacance.
-B: Je suis d'accord, mais je voudrais y aller avec toi.
+Přídavné jméno "heureux" znamená "šťastný" nebo "šťastná". Proto přeložená věta vypadá takto: "Jsem šťastný, že vás znám." První část věty "Je suis heureux" znamená "jsem šťastný" a druhá část věty "de te rencontrer" znamená "že vás znám".
 
-Řešení 8: 
+Řešení 10: Napište francouzskou větu: "Le professeur nous a donné une tâche difficile." a její česky ekvivalent.
 
-Chaque semaine, je vais au parc et je veux rencontrer de nouvelles personnes. Mon ami aussi va au parc, mais il ne connait personne d'autre.
-
-Řešení 9: 
-
-Scénář:
-
-Já: Je suis v prázdninách a chci jít na dovolenou. Myslíš, že bychom měli jít do Paříže?
-Můj kamarád: Ne, myslím, že bychom měli jít do Marseille. Je to krásné město.
-Já: To je pravda, ale já mám rád Paříž. Je to krásné město a má mnoho zajímavých věcí.
-Můj kamarád: To je pravda, ale mě moc nebaví. Můžeme jít do Lyonu? Je to krásné město a má mnoho jídla.
-
-Já: To je dobrá myšlenka. Můžeme jít do Lyonu a poté do Paříže. Tak by budeme moci vidět obě města.
-
-Můj kamarád: To je dobrá myšlenka. Můžeme jet do Paříže a poté do Lyonu. Tak by budeme moci vidět obě města.
-
-Já: Fajn, budeme jet do Paříže a poté do Lyonu.
-
-Řešení 10: 
-
-Můj otec a já jsme rádi na dovolené. Chceme vidět nový hrad a prozkoumat město. Můj bratr si však myslí, že bychom měli jít do moře.
-
-Překlad:
-
-Mon père et moi sommes heureux en vacances. Nous voulons voir un château nouveau et explorer la ville. Mon frère pense pourtant que nous devrions aller à la mer.
+Přeložená věta: "Naši učitel nás dal nesnadnou práci." První část věty "Le professeur" znamená "našemu učitele" a druhá část věty "nous a donné" znamená "nás dal". Třetí část věty "une tâche difficile" znamená "nesnadnou práci".

@@ -1,29 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Francouzský jazyk ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:44:30
+# Datum: 2025-09-15 22:55:27
 
-Úkol 1: Napiš krátkou větu o svém oblíbeném jídle. Použij frázi "Je mou rána" nebo "Je můj nejoblíbenější" a popiš jídlo.
+Úkol 1: Přeložte francouzský text: "Bonjour, comment ça va?" do češtiny.
 
-Úkol 2: Přelož frázi "Moje kamarádka jezdí na kole" do francouzštiny.
+Úkol 2: Zapište francouzské číslovky od 1 do 5 a jejich česky ekvivalenty.
 
-Úkol 3: Napsat krátkou příčku o svém týdnu, včetně dní a činností, které provedeš. Použij francouzské názvy dní a měsíců.
+Úkol 3: Přeložte frázi: "Je suis fatigué, je vais me coucher." do češtiny.
 
-Úkol 4: Přelož následující fráze do francouzštiny: 
-- Mám ráda čaj.
-- Můj otec pracuje ve městě.
-- Můj bratr je ve škole.
+Úkol 4: Použijte francouzské přídavné jméno "grand" a přeložte text: "Le chien est grand." do češtiny.
 
-Úkol 5: Vytvoř seznam 5 francouzských zvířat a napiš krátkou větu o každém z nich, např. "Le chien est gentil."
+Úkol 5: Napište francouzskou větu: "J'aime manger des baguettes avec du fromage." a její česky ekvivalent.
 
-Úkol 6: Přelož následující text do francouzštiny:
-"Včera jsem šel do parku a potkal mého přítele. Byl tam také pes a jeho pán."
+Úkol 6: Přeložte francouzskou frázi: "Je vais à la plage avec mes amis." do češtiny.
 
-Úkol 7: Napiš krátký rozhovor mezi dvěma přáteli, jedním Francouzem a jedním Čechem, který se zajímá o Francii. Použij příslovce a fráze "Je vrai que...", "Je faux que...".
+Úkol 7: Použijte francouzský podstatný název "école" a přeložte text: "Je vais à l'école demain." do češtiny.
 
-Úkol 8: Přelož následující text do francouzštiny:
-"Každý týden jsem v parku a chci poznat nové lidi. Můj kamarád také chodí do parku, ale on nezná nikoho jiného."
+Úkol 8: Napište francouzskou větu: "La ville est belle, n'est-ce pas?" a její česky ekvivalent. Zahrni také správné použití francouzské konjunkce "n'est-ce pas".
 
-Úkol 9: Vytvoř krátký scénář, kde dva přátelé navrhují, kam půjdou na dovolenou. Použij francouzské pojmy pro místa, např. "Paris", "Marseille" a "Lyon".
+Úkol 9: Přeložte francouzský text: "Je suis heureux de te rencontrer." do češtiny a použijte správné francouzské přídavné jméno "heureux".
 
-Úkol 10: Přelož následující text do francouzštiny:
-"Můj otec a já jsme rádi na dovolené. Chceme vidět nový hrad a prozkoumat město. Můj bratr si však myslí, že bychom měli jít do moře."
+Úkol 10: Napište francouzskou větu: "Le professeur nous a donné une tâche difficile." a její česky ekvivalent. Zahrni také správné použití francouzského příčestí minulého času "donné".
