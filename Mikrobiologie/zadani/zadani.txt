@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Mikrobiologie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:24:54
+
+Úkol 1: Popiš tři hlavní metody, které mikrobiologové používají k izolaci a identifikaci bakterií ze vzorků životního prostředí.
+
+Úkol 2: Porovnej a vysvětli rozdíl mezi bakteriálními spory a vegetativními formami. Jaké jsou hlavní rysy těchto forem?
+
+Úkol 3: Seznamte se s typy látek, které mikrobiologové používají jako inhibitory růstu (AGAR, inhibitory růstu bakterií, inhibitory růstu hub). Popiš jejich použití a výhody.
+
+Úkol 4: Popiš proces syntézy a degradace uhličitanu vápenatého (CaCO3) ve vodním prostředí, včetně mikrobiálního přispění.
+
+Úkol 5: Seznamte se s hlavními typy mikrobiálních metabolických procesů (aerobní, anaerobní, chemolithotrofní) a popiš každou ze zvlášť.
+
+Úkol 6: Popiš rozdíl mezi mikrobiálními syntetickými a degradativními procesy a udělejte příklad každého ze zvlášť.
+
+Úkol 7: Porovnej a vysvětli rozdíl mezi gram-pozitivními a gram-negativními bakteriemi, včetně jejich morfologie, biokemických vlastností a fyziologické vlastnosti.
+
+Úkol 8: Seznamte se s hlavními typy virů, včetně struktury, genetické informace a mechanismů replikace.
+
+Úkol 9: Popiš procesy, které mikrobiologové používají k identifikaci a charakterizaci mikroorganismů, včetně sérologie, biochemických testů a fyziologických testů.
+
+Úkol 10: Diskutujte o významu mikrobiálního metabolismu pro biotechnologické aplikace, včetně produkce biolátek, bioremediace a biotechnologické výroby bioenergií.
