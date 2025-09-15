@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Jaderná fyzika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:20:37
+# Datum: 2025-09-15 23:20:38
 
-Úkol 1: Vyberte vhodný model potence jádra v závislosti na jeho kompozici a popište jeho hlavní parametry.
+Úkol 1: Vyjmenujte a popište základní fyzikální principy, které jsou založeny na jaderné fyzice. (úroveň: základní)
 
-Úkol 2: Porovnejte rozptyl neutronů v jádru vodíku a deuteria pomocí klasického rozptylu a rozptylu podle Gamova. Zjistěte, jak se rozptyl mění s energií neutronů.
+Úkol 2: Použijte klasický model atomu a objasněte vztah mezi energií elektronu a jeho vzdáleností od jádra. (úroveň: základní)
 
-Úkol 3: Použijte kvadrupolový model jádra a vyřešte rovnici Schrödingerovy pro stacionární stav jádra s nultí energií. Zjistěte, jak se vyvíjí potence jádra v závislosti na poloze neutronu.
+Úkol 3: Porovnejte a porovnejte vlastnosti alfa-, beta- a gama-záření. (úroveň: středně pokročilý)
 
-Úkol 4: Rozšířte kvadrupolový model jádra o deformaci podle formy rotačního jádra. Vyřešte rovnici Schrödingerovy pro stacionární stav jádra s nultí energií a porovnejte výsledky s experimentálními daty.
+Úkol 4: Popište mechanismus jádrového rozpadu a stručně popište jeho typy (bezpečnostní, radioaktivní, termojaderný). (úroveň: středně pokročilý)
 
-Úkol 5: Použijte teoretický model rozptylu neutronů v jádru a zjistěte, jak se rozptyl mění s energií neutronů a kompozicí jádra. Porovnejte výsledky s experimentálními daty.
+Úkol 5: Vysvětlejte rozdíl mezi termoreaktorem a reaktorem s tepelnou kmitočtovou charakteristikou. (úroveň: středně pokročilý)
 
-Úkol 6: Zjistěte, jak se mění stabilita jádra v závislosti na počtu neutronů a protonů. Použijte teoretický model rozptylu neutronů a rozptylu protonů a porovnejte výsledky s experimentálními daty.
+Úkol 6: Popište principy jaderného spalování a stručně popište jeho typy (plynový, vodní, jaderný reaktor s tekutým měděným chlazením). (úroveň: pokročilý)
 
-Úkol 7: Použijte Monte Carlo simulaci k analýze rozptylu neutronů v jádru. Zjistěte, jak se rozptyl mění s energií neutronů a kompozicí jádra.
+Úkol 7: Zvolte typ jaderného reaktoru a použijte neutron-reaktivní rovnice k určení kritické hmotnosti a kritické délky reaktoru. (úroveň: pokročilý)
 
-Úkol 8: Zjistěte, jak se mění potence jádra v závislosti na poloze neutronu v jádru s nultí energií. Použijte kvadrupolový model jádra a rozšiřte ho o deformaci podle formy rotačního jádra.
+Úkol 8: Porovnejte a porovnejte různé metody ochrany jaderných reaktorů před tepelnými a mechanickými účinky. (úroveň: pokročilý)
 
-Úkol 9: Použijte teoretický model rozptylu neutronů v jádru a zjistěte, jak se rozptyl mění s energií neutronů a kompozicí jádra v různých hmotnostních číslech. Porovnejte výsledky s experimentálními daty.
+Úkol 9: Popište principy jaderné fyziky, které jsou založeny na kvantové mechanice a stručně popište její aplikace v jaderné fyzice. (úroveň: pokročilý)
 
-Úkol 10: Zjistěte, jak se mění stabilita jádra v závislosti na počtu neutronů a protonů v jádru s nultí energií. Použijte kvadrupolový model jádra a rozšiřte ho o deformaci podle formy rotačního jádra.
+Úkol 10: Navrhnete experimentální setup k měření rozptylu neutrálních neutronů v reaktoru a stručně popište jeho principy a výsledky experimentu. (úroveň: velmi pokročilý)
