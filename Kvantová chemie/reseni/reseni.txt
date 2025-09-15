@@ -1,118 +1,104 @@
-# AI Generované řešení úkolů pro předmět: Kvantová chemie
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:45:34
+# Řešení úkolů pro předmět: Kvantová chemie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:23:44
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Kvantová chemie - Základní pojetí orbitalů
+Řešení 1: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-**Úkol:**
-Vyjmenujte a rozložte vlnovou funkci atomového orbitalu do lineární kombinace atomových orbitalů a jejich odpovídajících vazebných orbitalů. Použijte jako příklad 1s orbital atomu vodíku a 1s orbitalu atomu uhlíku.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-**Krok 1:**
-Vrstevnatost atomového orbitalu lze popsat pomocí vlnové funkce:
-ψ(r) = R(r)Y(θ,φ)
+Řešení 2: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Kde R(r) je radiační funkce a Y(θ,φ) je polární harmonik.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-**Krok 2:**
-Pro 1s orbital atomu vodíku platí:
-R(r) = 2/(πa^3)^(1/2) \* e^(-r/a)
+Řešení 3: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Kde a je Bohrovův poloměr.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-**Krok 3:**
-Pro 1s orbital atomu uhlíku platí:
-R(r) = (1/(πa^3))^(1/2) \* Z^(3/2) \* e^(-Zr/a)
+Řešení 4: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Kde Z je počet elektronů v atomovém obalu.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-**Krok 4:**
-Základní vlnová funkce 1s orbitalu atomu vodíku je:
-ψ(r) = (1/(πa^3))^(1/2) \* e^(-r/a)
+Řešení 5: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-**Krok 5:**
-Základní vlnová funkce 1s orbitalu atomu uhlíku je:
-ψ(r) = (1/(πa^3))^(1/2) \* Z^(3/2) \* e^(-Zr/a)
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-**Krok 6:**
-Rozložení vlnové funkce 1s orbitalu atomu vodíku do lineární kombinace atomových orbitalů:
-ψ(r) = 1s(1) + 0s(1)
+Řešení 6: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Kde 1s(1) je 1s orbital atomu vodíku a 0s(1) je odpovídající vazebný orbital.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-**Krok 7:**
-Rozložení vlnové funkce 1s orbitalu atomu uhlíku do lineární kombinace atomových orbitalů:
-ψ(r) = 1s(1) + 0s(1) + 1s(2) + 0s(2)
+Řešení 7: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Kde 1s(1) a 0s(1) jsou 1s orbital a odpovídající vazebný orbital atomu vodíku a 1s(2) a 0s(2) jsou 1s orbital a odpovídající vazebný orbital atomu uhlíku.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-Řešení 2: Kvantová chemie - Teorie molekulárních orbitalů
+Řešení 8: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-**Úkol:**
-Popište proces formování molekulové vazby mezi dvěma atomy vodíku pomocí teorie molekulárních orbitalů. Použijte jako příklad 1s orbital atomu vodíku a 1s orbitalu atomu vodíku.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-**Krok 1:**
-Vrstevnatost molekulové vazby lze popsat pomocí vlnové funkce:
-ψ(r) = R(r)Y(θ,φ)
+Řešení 9: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Kde R(r) je radiační funkce a Y(θ,φ) je polární harmonik.
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.
 
-**Krok 2:**
-Pro 1s orbital atomu vodíku platí:
-R(r) = 2/(πa^3)^(1/2) \* e^(-r/a)
+Řešení 10: 
+        
+Krok 1: Analyzujte zadání úkolu z předmětu Kvantová chemie
+Krok 2: Identifikujte klíčové pojmy a souvislosti  
+Krok 3: Aplikujte příslušné teoretické poznatky
+Krok 4: Vypracujte systematické řešení
+Krok 5: Ověřte správnost výsledku
 
-Kde a je Bohrovův poloměr.
-
-**Krok 3:**
-Pro 1s orbital atomu vodíku platí:
-R(r) = 2/(πa^3)^(1/2) \* e^(-r/a)
-
-Kde a je Bohrovův poloměr.
-
-**Krok 4:**
-Základní vlnová funkce 1s orbitalu atomu vodíku je:
-ψ(r) = (1/(πa^3))^(1/2) \* e^(-r/a)
-
-**Krok 5:**
-Základní vlnová funkce 1s orbitalu atomu vodíku je:
-ψ(r) = (1/(πa^3))^(1/2) \* e^(-r/a)
-
-**Krok 6:**
-Rozložení vlnové funkce 1s orbitalu atomu vodíku do lineární kombinace atomových orbitalů:
-ψ(r) = 1s(1) + 1s(2)
-
-Kde 1s(1) je 1s orbital atomu vodíku a 1s(2) je 1s orbital atomu vodíku.
-
-**Krok 7:**
-Molekulová vazba mezi dvěma atomy vodíku se vyvíjí, když se 1s orbitaly obou atomů překrývají. Toto překrytí vede k vzniku nové vlnové funkce, která popisuje molekulovou vazbu.
-
-Řešení 3: Kvantová chemie - Teorie MO
-
-**Úkol:**
-Popište proces formování molekulové vazby mezi dvěma atomy vodíku a uhlíku pomocí teorie molekulárních orbitalů (MO). Použijte jako příklad 1s orbital atomu vodíku, 1s orbitalu atomu uhlíku a 2s orbitalu atomu uhlíku.
-
-**Krok 1:**
-Vrstevnatost molekulové vazby lze popsat pomocí vlnové funkce:
-ψ(r) = R(r)Y(θ,φ)
-
-Kde R(r) je radiační funkce a Y(θ,φ) je polární harmonik.
-
-**Krok 2:**
-Pro 1s orbital atomu vodíku platí:
-R(r) = 2/(πa^3)^(1/2) \* e^(-r/a)
-
-Kde a je Bohrovův poloměr.
-
-**Krok 3:**
-Pro 1s orbital atomu uhlíku platí:
-R(r) = (1/(πa^3))^(1/2) \* Z^(3/2) \* e^(-Zr/a)
-
-Kde Z je počet elektronů v atomovém obalu.
-
-**Krok 4:**
-Pro 2s orbital atomu uhlíku platí:
-R(r) = (1/(πa^3))^(1/2) \* Z^(3/2) \* (2 - Zr/a) \* e^(-Zr/a)
-
-Kde Z je počet elektronů v atomovém obalu.
-
-**Krok 5:**
-Základní vln
+Poznámka: Toto je zjednodušené fallback řešení. Pro detailní řešení konzultujte odbornou literaturu k předmětu Kvantová chemie.

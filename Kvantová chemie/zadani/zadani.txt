@@ -1,9 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Kvantová chemie
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-14 03:45:34
+# Zadání úkolů pro předmět: Kvantová chemie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:23:44
 
-Úkol 1: Vypočítejte energii vazby v molekule H2+ pomocí metody Hartree-Focka a vypočítejte její hodnotu pro různé vzdálenosti nukleonů.
+Úkol 1: Vyjmenujte a vysvětlíte tři hlavní pojmy, které charakterizují kvantovou chemii: schránkovou teorii, molekulární orbitaly a Pauliho princip.
 
-Úkol 2: Porovnejte výsledky výpočtu chemických vlastností methanu (CH4) pomocí aproximací Hartree-Focka a post-Hartree-Focka (např. MP2). Jaké jsou hlavní rozdíly mezi těmito aproximacemi a jaké jsou jejich výhody a nevýhody?
+Úkol 2: Vysvětlte rozdíl mezi orbitaly a molekulárními orbitalami a uveďte příklady jejich použití v kvantové chemii.
 
-Úkol 3: Vyrobte a vizualizujte molekulový orbitální diagram ethanu (C2H6) pomocí metod computačních chemických metod (např. DFT, MP2). Analyzujte jeho chemické vlastnosti a porovnejte je s experimentálními údaji.
+Úkol 3: Použijte Hartreeho-Fockovu metodu, aby se určilo elektronová hustota a elektronová hustotová mapa pro vodík.
+
+Úkol 4: Porovnejte a srovnejte výsledky získané pomocí Hartreeho-Fockovy metody a Density Functional Theory (DFT) pro vodík.
+
+Úkol 5: Uveďte příklad aplikace kalcita, který obsahuje kovy a sloučeniny, a vysvětlte, jak se v něm projevuje efekt kovového iontu.
+
+Úkol 6: Použijte metodu kalcita, aby se určilo elektronové spektrum a chemické vlastnosti kyanidu sodného.
+
+Úkol 7: Navrhněte a vysvětlte experimentální návrh, aby se studovaly interakce mezi molekulami vodíku a deuteria v kvantovém stavu.
+
+Úkol 8: Vyjmenujte a porovnejte různé postupy, které jsou používány pro kvantování chemických procesů, a vysvětlete jejich výhody a nevýhody.
+
+Úkol 9: Použijte kvantový popis, aby se studovaly vlastnosti a chování molekul v kondenzovaných fázích.
+
+Úkol 10: Navrhněte a vysvětlte kvantitativní model, který by popsal chování a vlastnosti komplexních molekul s více elektronovými konfiguracemi.
