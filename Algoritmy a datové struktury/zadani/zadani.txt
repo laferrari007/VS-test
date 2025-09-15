@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Algoritmy a datové struktury
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:29:13
+# Datum: 2025-09-15 23:29:15
 
-Úkol 1: Implementujte lineární vyhledávání v poli pomocí rekurentního průchodu. Porovnejte efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.
+Úkol 1: Implementujte binární vyhledávací strom (BST) a implementujte funkci pro vkládání nových prvků. Uložte každý prvek jako objekt do stromu a při vkládání prvků, zajistěte, aby strom zůstal BST.
 
-Úkol 2: Vytvořte funkci, která vrátí index prvku v seznamu, pokud je tento prvek v seznamu. Použijte binární vyhledávání.
+Úkol 2: Implementujte třídou Stack pomocí dvou dynamických polí (pole pro data a pole pro ukazatele). Implementujte metody push, pop a peek.
 
-Úkol 3: Implementujte dynamické zklidňování seznamu, aby se zmenšil jeho velikost, když jsou některé prvky odstraněny.
+Úkol 3: Implementujte funkci pro zjištění největšího pravidelného podmnožiny v daném seznamu prvků. Vstupem funkce bude seznam prvků a výstupem bude velikost největšího pravidelného podmnožiny.
 
-Úkol 4: Použijte algoritmus Merge Sort, aby se řadilo pole. Porovnejte jeho efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.
+Úkol 4: Implementujte funkci pro zjištění největšího pravidelného podmnožiny v daném grafu. Vstupem funkce bude seznam hran a velikost grafu a výstupem bude velikost největšího pravidelného podmnožiny.
 
-Úkol 5: Implementujte data strukturu Set, která obsahuje pouze unikátní prvky. Použijte binární vyhledávání.
+Úkol 5: Implementujte funkce pro zjištění největšího spřaženého podgrafu v daném grafu. Vstupem funkce bude seznam hran a velikost grafu a výstupem bude velikost největšího spřaženého podgrafu.
 
-Úkol 6: Implementujte data strukturu Stack nebo Queue pomocí dynamické zdrojové paměti. Použijte algoritmus Insert, Delete, Peek.
+Úkol 6: Implementujte funkci pro zjištění nejkratší cesty mezi dvěma Body v grafu. Vstupem funkce bude seznam hran a velikost grafu, počáteční a koncové vrchol a výstupem bude seznam vrcholů reprezentující nejkratší cestu.
 
-Úkol 7: Použijte algoritmus Depth-First Search (DFS) nebo Breadth-First Search (BFS) na graf, který je uložen v poli navazů. Porovnejte jejich efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.
+Úkol 7: Implementujte funkci pro zjištění nejkratší cesty mezi dvěma Body v grafu s omezením velikosti balíku. Vstupem funkce bude seznam hran a velikost grafu, počáteční a koncový vrchol a limit velikosti balíku a výstupem bude seznam vrcholů reprezentující nejkratší cestu.
 
-Úkol 8: Implementujte data strukturu Heap, která umožňuje efektivně přidávat prvky a odečítat největší prvek. Použijte algoritmus Insert, Delete.
+Úkol 8: Implementujte funkci pro zjištění maximální délky souvislého podgrafu v daném grafu. Vstupem funkce bude seznam hran a velikost grafu a výstupem bude délka maximálního souvislého podgrafu.
 
-Úkol 9: Použijte algoritmus K-D Tree, aby se rychle vyhledávaly entity v prostoru. Porovnejte jeho efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.
+Úkol 9: Implementujte funkci pro zjištění maximální délky souvislého podgrafu v daném grafu s omezením velikosti balíku. Vstupem funkce bude seznam hran a velikost grafu, limit velikosti balíku a výstupem bude délka maximálního souvislého podgrafu.
 
-Úkol 10: Implementujte data strukturu Trie, která umožňuje efektivně vyhledávat řetězce. Použijte algoritmus Insert, Search.
+Úkol 10: Implementujte funkci pro zjištění komplexnosti algoritmu pro řešení problému TSP (Problém cestovního ruchu) pomocí aproximace metodou 2-opt. Vstupem funkce bude seznam vrcholů a výstupem bude komplexnost algoritmu.

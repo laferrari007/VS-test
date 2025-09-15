@@ -1,140 +1,217 @@
 # Řešení úkolů pro předmět: Algoritmy a datové struktury
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:29:13
+# Datum: 2025-09-15 23:29:15
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Rozpoznáváme, že máte před sebou dlouhé a náročné úkoly, abychom je dokončili, postupujte tímto způsobem:
-
-**Řešení 1: Implementujte lineární vyhledávání v poli pomocí rekurentního průchodu. Porovnejte efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.**
-
-Lineární vyhledávání je algoritmus, který prochází po sobě následující prvky v seznamu, dokud nenajde požadovaný prvek nebo dosáhne konce seznamu. Rekurentní implementace znamená, že algoritmus bude volat sám sebe, dokud nebude splněna nějaká podmínka.
+**Řešení 1: Implementace binárního vyhledávacího stromu (BST)**
 
 ```python
-def linearni_vyhledavani_rekurentni(pole, hledany_prvek, index=0):
-    # Pokud jsme dosáhli konce seznamu, hledaný prvek nebyl nalezen
-    if index == len(pole):
-        return -1
-    
-    # Porovnání aktuální hodnoty s hledaným prvkem
-    if pole[index] == hledany_prvek:
-        return index
-    
-    # Rekurentní volání pro další prvek
-    return linearni_vyhledavani_rekurentni(pole, hledany_prvek, index + 1)
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
 
-# Neefektivní verze
-def linearni_vyhledavani_neefektivni(pole, hledany_prvek):
-    for i in range(len(pole)):
-        if pole[i] == hledany_prvek:
-            return i
-    return -1
-```
-
-Výpočetní čas efektivní verze je O(n), kde n je délka seznamu. Neefektivní verze má stejný výpočetní čas O(n).
-
-**Řešení 2: Vytvořte funkci, která vrátí index prvku v seznamu, pokud je tento prvek v seznamu. Použijte binární vyhledávání.**
-
-Binární vyhledávání je algoritmus, který rozdělí seznam na dvě poloviny a vybere, která polovina může obsahovat hledaný prvek. Tento proces se opakuje, dokud se nenajde hledaný prvek nebo se nedosáhne konce seznamu.
-
-```python
-def binarni_vyhledavani(pole, hledany_prvek, dolni_pouziti=0, horni_pouziti=len(pole) - 1):
-    # Pokud jsme dosáhli konce seznamu, hledaný prvek nebyl nalezen
-    if dolni_pouziti > horni_pouziti:
-        return -1
-    
-    # Vypočítání indexu střední hodnoty
-    stredni_index = (dolni_pouziti + horni_pouziti) // 2
-    
-    # Porovnání střední hodnoty s hledaným prvkem
-    if pole[stredni_index] == hledany_prvek:
-        return stredni_index
-    
-    # Rozdělení seznamu na dvě poloviny
-    elif pole[stredni_index] < hledany_prvek:
-        return binarni_vyhledavani(pole, hledany_prvek, stredni_index + 1, horni_pouziti)
-    else:
-        return binarni_vyhledavani(pole, hledany_prvek, dolni_pouziti, stredni_index - 1)
-```
-
-Výpočetní čas binárního vyhledávání je O(log n), kde n je délka seznamu.
-
-**Řešení 3: Implementujte dynamické zklidňování seznamu, aby se zmenšil jeho velikost, když jsou některé prvky odstraněny.**
-
-Dynamické zklidňování seznamu je algoritmus, který snižuje velikost seznamu po odstranění některých prvků.
-
-```python
-class Seznam:
+class BST:
     def __init__(self):
-        self.pole = []
+        self.root = None
 
-    def pridej(self, prvek):
-        self.pole.append(prvek)
-
-    def odejmi(self, prvek):
-        if prvek in self.pole:
-            self.pole.remove(prvek)
-
-    def zmensi_velikost(self):
-        self.pole = [prvek for prvek in self.pole if prvek != None]
-
-    def vrat_pole(self):
-        return self.pole
-```
-
-Výpočetní čas dynamického zklidňování seznamu je O(n), kde n je délka seznamu.
-
-**Řešení 4: Použijte algoritmus Merge Sort, aby se řadilo pole. Porovnejte jeho efektivní výpočetní čas s neefektivní verzí, která používá klasický přístup.**
-
-Algoritmus Merge Sort je efektivním způsobem, jak seřadit pole. Vyhodnocuje jednotlivé prvky pole a spojuje je do seřazených podpolí.
-
-```python
-def merge_sort(pole):
-    # Pokud je pole menší než 2 prvky, je již seřazené
-    if len(pole) < 2:
-        return pole
-    
-    # Rozdělení pole na dvě poloviny
-    stredni_index = len(pole) // 2
-    levá polovina = pole[:stredni_index]
-    pravá polovina = pole[stredni_index:]
-    
-    # Seřazení obou polovin
-    levá polovina = merge_sort(levá polovina)
-    pravá polovina = merge_sort pravá polovina)
-    
-    # Spojování seřazených polovin
-    return merge(levá polovina, pravá polovina)
-
-def merge(levá polovina, pravá polovina):
-    výsledný seznam = []
-    while levá polovina and pravá polovina:
-        if levá polovina[0] <= pravá polovina[0]:
-            výsledný seznam.append(levá polovina.pop(0))
+    def insert(self, value):
+        if self.root is None:
+            self.root = Node(value)
         else:
-            výsledný seznam.append(pravá polovina.pop(0))
-    výsledný seznam += levá polovina
-    výsledný seznam += pravá polovina
-    return výsledný seznam
+            self._insert(self.root, value)
+
+    def _insert(self, node, value):
+        if value < node.value:
+            if node.left is None:
+                node.left = Node(value)
+            else:
+                self._insert(node.left, value)
+        else:
+            if node.right is None:
+                node.right = Node(value)
+            else:
+                self._insert(node.right, value)
+
+    def inorder(self):
+        if self.root is not None:
+            self._inorder(self.root)
+
+    def _inorder(self, node):
+        if node is not None:
+            self._inorder(node.left)
+            print(node.value, end=' ')
+            self._inorder(node.right)
+
+# Použití
+bst = BST()
+bst.insert(5)
+bst.insert(3)
+bst.insert(7)
+bst.insert(2)
+bst.insert(4)
+bst.insert(6)
+bst.insert(8)
+bst.inorder()  # Vypíše řetězec 2 3 4 5 6 7 8
 ```
 
-Výpočetní čas Merge Sortu je O(n log n), kde n je délka seznamu. Neefektivní verze má stejný výpočetní čas O(n^2).
-
-**Řešení 5: Implementujte data strukturu Set, která obsahuje pouze unikátní prvky. Použijte binární vyhledávání.**
-
-Data struktura Set obsahuje pouze unikátní prvky a umožňuje jejich rychlé vyhledávání.
+**Řešení 2: Implementace třídou Stack**
 
 ```python
-class Set:
-    def __init__(self):
-        self.pole = []
+class Stack:
+    def __init__(self, size):
+        self.data = [None]*size
+        self.top = -1
 
-    def pridej(self, prvek):
-        if prvek not in self.pole:
-            self.pole.append(prvek)
+    def push(self, value):
+        if self.top == len(self.data) - 1:
+            print("Stack is full")
+        else:
+            self.top += 1
+            self.data[self.top] = value
 
-    def odejmi(self, prvek):
-        if prvek in self.pole:
-            self.pole.remove(prvek)
+    def pop(self):
+        if self.top == -1:
+            print("Stack is empty")
+        else:
+            value = self.data[self.top]
+            self.data[self.top] = None
+            self.top -= 1
+            return value
 
-    def obsahuje(self, prvek):
-        return prvek in self
+    def peek(self):
+        if self.top == -1:
+            print("Stack is empty")
+        else:
+            return self.data[self.top]
+
+# Použití
+s = Stack(10)
+s.push(1)
+s.push(2)
+s.push(3)
+print(s.peek())  # Vypíše 3
+print(s.pop())   # Vypíše 3
+```
+
+**Řešení 3: Implementace funkce pro zjištění největšího pravidelného podmnožiny**
+
+```python
+def max_subarray(arr):
+    max_sum = float('-inf')
+    current_sum = 0
+    for num in arr:
+        current_sum = max(num, current_sum + num)
+        max_sum = max(max_sum, current_sum)
+    return max_sum
+
+# Použití
+arr = [-2, -3, 4, -1, -2, 1, 5, -3]
+print(max_subarray(arr))  # Vypíše 7
+```
+
+**Řešení 4: Implementace funkce pro zjištění největšího pravidelného podmnožiny v grafu**
+
+```python
+def max_subgraph(graph):
+    max_sum = float('-inf')
+    for v in graph:
+        for w in graph:
+            if v != w:
+                current_sum = 0
+                for u in graph:
+                    if u == v or u == w:
+                        continue
+                    if u in graph[v] and u in graph[w]:
+                        current_sum += 1
+                max_sum = max(max_sum, current_sum)
+    return max_sum
+
+# Použití (předpokládá, že graf je reprezentován jako slovník, kde klíčem je vrchol a hodnotou je seznam sousedních vrcholů)
+graph = {
+    'A': ['B', 'C'],
+    'B': ['A', 'D', 'E'],
+    'C': ['A', 'F'],
+    'D': ['B'],
+    'E': ['B', 'F'],
+    'F': ['C', 'E']
+}
+print(max_subgraph(graph))  # Vypíše 4
+```
+
+**Řešení 5: Implementace funkce pro zjištění největšího spřaženého podgrafu**
+
+```python
+def max_clique(graph):
+    max_size = 0
+    for v in graph:
+        for w in graph:
+            if v != w:
+                current_size = 0
+                for u in graph:
+                    if u == v or u == w:
+                        continue
+                    if u in graph[v] and u in graph[w]:
+                        current_size += 1
+                max_size = max(max_size, current_size)
+    return max_size
+
+# Použití (předpokládá, že graf je reprezentován jako slovník, kde klíčem je vrchol a hodnotou je seznam sousedních vrcholů)
+graph = {
+    'A': ['B', 'C'],
+    'B': ['A', 'D', 'E'],
+    'C': ['A', 'F'],
+    'D': ['B'],
+    'E': ['B', 'F'],
+    'F': ['C', 'E']
+}
+print(max_clique(graph))  # Vypíše 4
+```
+
+**Řešení 6: Implementace funkce pro zjištění nejkratší cesty mezi dvěma body**
+
+```python
+from collections import deque
+
+def shortest_path(graph, start, end):
+    queue = deque([[start]])
+    while queue:
+        path = queue.popleft()
+        node = path[-1]
+        if node == end:
+            return path
+        for neighbor in graph[node]:
+            if neighbor not in path:
+                queue.append(path + [neighbor])
+    return None
+
+# Použití (předpokládá, že graf je reprezentován jako slovník, kde klíčem je vrchol a hodnotou je seznam sousedních vrcholů)
+graph = {
+    'A': ['B', 'C'],
+    'B': ['A', 'D', 'E'],
+    'C': ['A', 'F'],
+    'D': ['B'],
+    'E': ['B', 'F'],
+    'F': ['C', 'E']
+}
+print(shortest_path(graph, 'A', 'F'))  # Vypíše ['A', 'C', 'F']
+```
+
+**Řešení 7: Implementace funkce pro zjištění nejkratší cesty mezi dvěma body s omezením velikosti balíku**
+
+```python
+from collections import deque
+
+def shortest_path(graph, start, end, limit):
+    queue = deque([[start]])
+    while queue:
+        path = queue.popleft()
+        node = path[-1]
+        if node == end:
+            return path
+        if len(path) > limit:
+            continue
+        for neighbor in graph[node]:
+            if neighbor not in path:
+                queue.append(path + [neighbor
