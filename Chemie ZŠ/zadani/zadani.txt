@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Chemie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:42:14
+# Datum: 2025-09-15 22:53:07
 
-Úkol 1: Seznamte se s prvky periodické soustavy. Seznamte pět prvků z první periody a jejich nejčastějšími izolovanými sloučeninami.
+Úkol 1: Seznamte se s prvky periodické soustavy. Seznamte se s prvními 10 prvky a jejich názvy, symbole a charakteristikami.
 
-Úkol 2: Popište rozpad radioaktivního izotopu ²³⁵U. Co je radioaktivní rozpad a jak se odvíjí?
+Úkol 2: Popište vlastnosti vodíku a heliumu, jejich sloučeniny a použití v každodenním životě.
 
-Úkol 3: Vypočtěte molekulovou hmotnost oxidu uhličitého (CO2) a oxidu dusnatého (NO2).
+Úkol 3: Vyjasněte rozdíl mezi chemickými sloučeninami a chemickými sloučeninami. Uveďte příklady pro každou skupinu.
 
-Úkol 4: Porovnejte vlastnosti vodíku a helia. Jaký je rozdíl v jejich fyzikálních vlastnostech?
+Úkol 4: Popište proces oxidace a redukce. Uveďte příklady reakcí, ve kterých se oxidace a redukce vyskytují.
 
-Úkol 5: Vypočtěte množství kyslíku (O2) v 1 m³ vzduchu při normálních atmosferických podmínkách.
+Úkol 5: Seznamte se s termínem chemická reakce. Uveďte typy chemických reakcí a stručně popište, jak se vyskytují v každodenním životě.
 
-Úkol 6: Seznamte se s termochemií. Co je entalpie a která reakce má nejvyšší entalpiu?
+Úkol 6: Uveďte příklady chemických reakcí s vodou, včetně rozkladu a vývoje. Uveďte jejich chemické rovnice a stručně popište proces.
 
-Úkol 7: Porovnejte vlastnosti vod a jejich sloučenin s vodíkem. Jaký je rozdíl v jejich chemických vlastnostech?
+Úkol 7: Seznamte se s pojmem chemický rovnice. Uveďte příklady chemických rovnic a popište, jak se používají k popisu chemických reakcí.
 
-Úkol 8: Popište chemické reakci mezi vápníkem (Ca) a chlorovodíkem (HCl). Co je výsledkem reakce?
+Úkol 8: Uveďte příklady chemických reakcí s kyselinami a zásadami. Uveďte jejich chemické rovnice a stručně popište procesy.
 
-Úkol 9: Seznamte se s elektrolytickou roztavenou alkalickou solí (NaOH). Popište její vlastnosti a použití.
+Úkol 9: Seznamte se s pojmem chemická rovnováha. Uveďte příklady chemických rovnováh a popište, jak se vyskytují v přírodě.
 
-Úkol 10: Vypočtěte množství energie uvolněné při spalování 1 kg černého uhlí. Jaký je účinek této energie na životní prostředí?
+Úkol 10: Uveďte příklady chemických reakcí, které se vyskytují v živých organismech, včetně procesů, jako je respiace, fotosyntéza a metabolismus. Uveďte jejich chemické rovnice a stručně popište procesy.

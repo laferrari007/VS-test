@@ -1,113 +1,117 @@
 # AI Generované řešení úkolů pro předmět: Chemie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:42:14
+# Datum: 2025-09-15 22:53:07
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Seznamte se s prvky periodické soustavy. Seznamte pět prvků z první periody a jejich nejčastějšími izolovanými sloučeninami.
+Řešení 1: Seznamte se s prvky periodické soustavy. Seznamte se s prvními 10 prvky a jejich názvy, symbole a charakteristikami.
 
-Periodická soustava je systematická organizace chemických prvků podle jejich atomových hmotností a podobných chemických vlastností. První periody obsahují prvky z 1. skupiny (alkály) a 2. skupiny (alkalické zeminy).
+Prvky periodické soustavy jsou chemické prvky, které jsou uspořádány do periodické tabulky podle jejich atomového počtu a chemických vlastností. První 10 prvky jsou:
 
-Pět prvků z první periody a jejich nejčastější izolované sloučeniny jsou:
+1. Hydrogen (H)
+ - Název: Hydrogen
+ - Symbol: H
+ - Číslo atomu: 1
+ - Atomová hmotnost: 1,00794 g/mol
+ - Vlastnosti: Látky, které obsahují hydrogen, jsou často hořlavé a snadno spalitelné.
 
-- Li (Litium) - HCl (chlorid lithný)
-- Be (Beryllium) - BeO (oxid beryllia)
-- B (Bor) - B2O3 (oxid borový)
-- C (Uhel) - CO2 (oxid uhličitý)
-- N (Dusík) - N2 (dušičitán)
+2. Hélium (He)
+ - Název: Hélium
+ - Symbol: He
+ - Číslo atomu: 2
+ - Atomová hmotnost: 4,002602 g/mol
+ - Vlastnosti: Hélium je nehořlavý a nepolární plyn.
 
-Tyto sloučeniny jsou často používané v různých oblastech chemie a technologie.
+3. Lithium (Li)
+ - Název: Lithium
+ - Symbol: Li
+ - Číslo atomu: 3
+ - Atomová hmotnost: 6,941 g/mol
+ - Vlastnosti: Lithium je křehký a hořlavý kov.
 
-Řešení 2: Popište rozpad radioaktivního izotopu ²³⁵U. Co je radioaktivní rozpad a jak se odvíjí?
+4. Beryllium (Be)
+ - Název: Beryllium
+ - Symbol: Be
+ - Číslo atomu: 4
+ - Atomová hmotnost: 9,012182 g/mol
+ - Vlastnosti: Beryllium je křehký a hořlavý kov.
 
-Radioaktivní rozpad je proces, při kterém atom vybuchne a přemění se na jiný atom, uvolňující energii ve formě záření. Izotop ²³⁵U (Uran-235) je radioaktivní a podléhá rozpadu.
+5. Bor (B)
+ - Název: Bor
+ - Symbol: B
+ - Číslo atomu: 5
+ - Atomová hmotnost: 10,811 g/mol
+ - Vlastnosti: Bor je křehký a hořlavý prvek.
 
-Rozpad ²³⁵U probíhá následovně:
+6. Uhlík (C)
+ - Název: Uhlík
+ - Symbol: C
+ - Číslo atomu: 6
+ - Atomová hmotnost: 12,0107 g/mol
+ - Vlastnosti: Uhlík je křehký a hořlavý prvek.
 
-²³⁵U → ²³⁸U + α (alfa partikla)
-²³⁸U → ²³⁴Th + β (beta partikla)
-²³⁴Th → ²³⁰Pa + α (alfa partikla)
-²³⁰Pa → ²²⁶Ac + α (alfa partikla)
+7. Azot (N)
+ - Název: Azot
+ - Symbol: N
+ - Číslo atomu: 7
+ - Atomová hmotnost: 14,0067 g/mol
+ - Vlastnosti: Azot je nehořlavý a nepolární plyn.
 
-Radioaktivní rozpad se odvíjí podle zákona rozpadu (zákona rozpadové aktivity), který říká, že rozpadová aktivita (počet rozpadů za jednotku času) je úměrná počtu atomů v rodném stavu a konstantě rozpadu.
+8. Křemík (Si)
+ - Název: Křemík
+ - Symbol: Si
+ - Číslo atomu: 14
+ - Atomová hmotnost: 28,0855 g/mol
+ - Vlastnosti: Křemík je křehký a hořlavý prvek.
 
-Řešení 3: Vypočtěte molekulovou hmotnost oxidu uhličitého (CO2) a oxidu dusnatého (NO2).
+9. Chlor (Cl)
+ - Název: Chlor
+ - Symbol: Cl
+ - Číslo atomu: 17
+ - Atomová hmotnost: 35,453 g/mol
+ - Vlastnosti: Chlor je hořlavý a toxicitní plyn.
 
-Molekulová hmotnost je součet hmotností všech atomů v molekule.
+10. Argon (Ar)
+ - Název: Argon
+ - Symbol: Ar
+ - Číslo atomu: 18
+ - Atomová hmotnost: 39,9483 g/mol
+ - Vlastnosti: Argon je nehořlavý a nepolární plyn.
 
-Oxid uhličitý (CO2) má molekulovou hmotnost:
+Řešení 2: Popište vlastnosti vodíku a heliumu, jejich sloučeniny a použití v každodenním životě.
 
-- Uhlík (C): 12,01 g/mol
-- Dušíc (O): 16,00 g/mol
-- Dušíc (O): 16,00 g/mol
-- Dušíc (O): 16,00 g/mol
+Vodík (H) je nejméně hmotný a nejméně reaktivní plyn. Je hořlavý a spaluje se v kontaktu s kyslíkem. Vodík se používá jako palivo pro motory, jako zdroj energie v elektrolytických článcích a jako plyn pro udržení kvality vzduchu v uzavřených prostorech.
 
-Celková molekulová hmotnost CO2 = 12,01 + 16,00 + 16,00 + 16,00 = 60,01 g/mol
+Helium (He) je nejméně hmotný a nejméně reaktivní plyn. Je nehořlavý a nepolární plyn. Helium se používá jako plyn pro balóny, jako chladicí médium pro superchladicí systémy a jako médium pro lékařské procedury.
 
-Oxid dusnatý (NO2) má molekulovou hmotnost:
+Sloučeniny vodíku:
 
-- Dusík (N): 14,01 g/mol
-- Dušíc (O): 16,00 g/mol
-- Dušíc (O): 16,00 g/mol
+- Vodík je součástí mnoha sloučenin, jako je voda (H2O), kyselina fosforečná (H3PO4) a amoniak (NH3).
+- Vodík se také používá jako redukční činidlo v chemických reakcích.
 
-Celková molekulová hmotnost NO2 = 14,01 + 16,00 + 16,00 = 46,01 g/mol
+Sloučeniny heliumu:
 
-Řešení 4: Porovnejte vlastnosti vodíku a helia. Jaký je rozdíl v jejich fyzikálních vlastnostech?
+- Helium je součást mnoha sloučenin, jako je helium-3 (He3), který se používá jako palivo pro jaderné reaktory.
+- Helium se také používá jako chladicí médium pro superchladicí systémy.
 
-Vodík (H) a helium (He) jsou dva prvky, které patří do skupiny plynů.
+Použití v každodenním životě:
 
-Vlastnosti vodíku:
+- Vodík se používá jako palivo pro motory, jako zdroj energie v elektrolytických článcích a jako plyn pro udržení kvality vzduchu v uzavřených prostorech.
+- Helium se používá jako plyn pro balóny, jako chladicí médium pro superchladicí systémy a jako médium pro lékařské procedury.
 
-- Teplota varu: -252,88 °C
-- Hustota: 0,0899 kg/m³
-- Tlak: 1,01325 bar
+Řešení 3: Vyjasněte rozdíl mezi chemickými sloučeninami a chemickými sloučeninami. Uveďte příklady pro každou skupinu.
 
-Vlastnosti helia:
+Chemické sloučeniny jsou látky, které vznikají z kombinace dvou nebo více chemických prvků. Chemické sloučeniny se obvykle označují názvem prvku, který tvoří největší část sloučeniny, následován názvem dalšího prvku a číslem, které označuje poměr, ve kterém se prvky kombinují.
 
-- Teplota varu: -268,93 °C
-- Hustota: 0,1786 kg/m³
-- Tlak: 0,0773 bar
+Příklady chemických sloučenin:
 
-Rozdíl mezi vodíkem a heliem je v jejich teplotě varu a hustotě. Vodík má nižší teplotu varu a vyšší hustotu než helium.
+- Voda (H2O) je sloučenina vodíku a kyslíku.
+- Kyselina fosforečná (H3PO4) je sloučenina vodíku, fosforu a kyslíku.
 
-Řešení 5: Vypočtěte množství kyslíku (O2) v 1 m³ vzduchu při normálních atmosferických podmínkách.
+Chemické sloučeniny jsou látky, které vznikají z reakce dvou nebo více chemických prvků. Chemické sloučeniny se obvykle označují názvem prvku, který tvoří největší část sloučeniny, následován názvem dalšího prvku a číslem, které označuje poměr, ve kterém se prvky kombinují.
 
-Normální atmosferické podmínky definují vzduch jako směs 78% dusíku (N2), 21% kyslíku (O2) a 1% dalších plynů.
+Příklady chemických sloučenin:
 
-Množství kyslíku (O2) v 1 m³ vzduchu je:
+- Amoniak (NH3) je sloučenina vodíku, dusíku a kyslíku.
+- Silicium (Si) je sloučenina křemíku a kyslíku.
 
-- 1 m³ vzduchu = 1 m³ (N2 + O2 + ostatní plyny)
-- Množství N2 v 1 m³ vzduchu = 0,78 m³
-- Množství ostatní plynů v 1 m³ vzduchu = 0,01 m³
-- Množství O2 v 1 m³ vzduchu = 1 - 0,78 - 0,01 = 0,21 m³
-
-Řešení 6: Seznamte se s termochemií. Co je entalpie a která reakce má nejvyšší entalpiu?
-
-Termochemie je obor chemie, který se zabývá energií a jejími změnami během chemických reakcí. Enthalpie je měřitelnou hodnotou tepelné energie, která se mění během chemické reakce.
-
-Enthalpie je definována jako:
-
-ΔH = Q / n
-
-kde Q je tepelná energie, která se mění během reakce, a n je počet molů reakčních látek.
-
-Reakce, která má nejvyšší entalpiu, je obvykle reakce s největší změnou teploty nebo s největší změnou energie.
-
-Řešení 7: Porovnejte vlastnosti vod a jejich sloučenin s vodíkem. Jaký je rozdíl v jejich chemických vlastnostech?
-
-Voda (H2O) a její sloučeniny jsou chemicky odlišné od vodíku (H).
-
-Vlastnosti vody:
-
-- Hustota: 1,00 g/cm³
-- Teplota varu: 100 °C
-- Tlak: 1,01325 bar
-
-Vlastnosti vodíku:
-
-- Hustota: 0,0899 kg/m³
-- Teplota varu: -252,88 °C
-- Tlak: 1,01325 bar
-
-Rozdíl mezi vodou a vodíkem je v jejich chemických vlastnostech. Voda je kapalina, zatímco vodík je plyn. Voda má také vyšší hustotu a teplotu varu než vodík.
-
-Řešení 8: Popište chemickou reakci mezi vápníkem (Ca) a chlorovodíkem (HCl). Co je
+Rozdíl mezi chemickými sloučeninami a chemickými sloučeninami je v tom, že chemické sloučeniny jsou látky, které vznikají z kombinace dvou nebo více chemických prvků, zatímco chemické sloučeniny jsou látky, které vznikají z reakce
