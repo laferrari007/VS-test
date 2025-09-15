@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Elektromagnetismus
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:19:09
+# Datum: 2025-09-15 23:19:10
 
-Úkol 1: Vypočítejte sílu elektromotorického výkonu elektromotoru, který je poháněn proudem 2A a má vnitřní odpor 5 ohmů, když je napájen zdrojem napětí 10V.
+Úkol 1: Použijte Coulombovu zákon, aby jste vyhodnotili sílu mezi dvěma vodivými vodiči s náboji 5 μC a 3 μC, umístěnými 2 m od sebe.
 
-Úkol 2: Vyjmenujte a popište hlavní fyzikální veličiny, které popisují elektromagnetické pole ve vakuu.
+Úkol 2: Představte si elektrický proud 0,5 A, který prochází 5 m dlouhým vodivým vodičem. Určete napětí na vodiči na obou koncích.
 
-Úkol 3: Pokud máte dva vodiče s délkou 10cm a průřezem 1mm, vypočítejte jejich vzájemný odpor.
+Úkol 3: Použijte zákon o indukci, aby jste vyhodnotili změnu magnetického pole v uzavřeném obvodu, pokud se v něm objeví elektrický proud 10 A.
 
-Úkol 4: Vysvětlete rozdíl mezi indukčností a kapacitivitou a ukázejte příklady, kde se obě veličiny používají.
+Úkol 4: Představte si dipolový zdroj magnetického pole s momentem 5 A·m². Určete sílu na 10 cm vzdáleném bodě, kdy polosoustředěná osa dipolu prochází tímto bodem.
 
-Úkol 5: Popište proces indukce elektromagnetického pole v přívodním vodiči, pokud se změní proud.
+Úkol 5: Použijte Faradayův zákon, aby jste vyhodnotili indukovanou napětí v uzavřeném obvodu, pokud se v něm objeví magnetické pole 0,5 T.
 
-Úkol 6: Pokud máte tři vodiče s délkou 5cm, průřezem 2mm a materiálem kov, vypočítejte jejich vzájemný odpor.
+Úkol 6: Představte si elektrický proud 5 A, který prochází 10 m dlouhým vodivým vodičem s elektrickou odporovostí 20 Ω. Určete tepelný odpor vodiče.
 
-Úkol 7: Vysvětlete princip fungování indukční brzdy a ukázejte její použití v reálném světě.
+Úkol 7: Použijte zákon o indukci, aby jste vyhodnotili závislost indukovaného napětí na rychlosti změny magnetického pole v uzavřeném obvodu.
 
-Úkol 8: Vypočítejte sílu elektromagnetického pole v místě, kde je proud 5A a délka vodiče 20cm.
+Úkol 8: Představte si elektromotorový generátor s konstantním magnetickým polem 0,1 T a konstantním elektrickým proudem 10 A. Určete indukovaný napětí v obvodu.
 
-Úkol 9: Popište zákon Ampéreho-Maxwella a ukázejte jeho použití v elektromagnetismu.
+Úkol 9: Použijte Maxwellovy rovnice, aby jste vyhodnotili závislost elektrického pole na vzdálenosti od elektrického dipolu.
 
-Úkol 10: Vysvětlete princip fungování magnetických rezonancí a ukázejte jejich použití v lékařství.
+Úkol 10: Představte si elektrického proud 20 A, který prochází 50 m dlouhým vodivým vodičem s elektrickou odporovostí 10 Ω a teplem 5 W/m. Určete tepelný výkon vodiče a závislost elektrického napětí na vzdálenosti od zdroje.

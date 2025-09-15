@@ -1,104 +1,125 @@
 # Řešení úkolů pro předmět: Elektromagnetismus
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:19:09
+# Datum: 2025-09-15 23:19:10
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1:
-Úkol 1: Vypočítejte sílu elektromotorického výkonu elektromotoru, který je poháněn proudem 2A a má vnitřní odpor 5 ohmů, když je napájen zdrojem napětí 10V.
+Řešení 1: 
+Pro první úkol použijeme Coulombov zákon, který popisuje sílu mezi dvěma náboji. Fórmula pro Coulombov zákon je:
 
-Síla elektromotorického výkonu elektromotoru se vypočítá pomocí vzorce:
+F = k * (q1 * q2) / r^2
 
-P = U * I
+kde:
+- F je síla mezi dvěma náboji (v newtonech)
+- k je Coulombova konstanta (cca 8,99 x 10^9 N·m^2/C^2)
+- q1 a q2 jsou náboje obou vodičů (v coulomech)
+- r je vzdálenost mezi náboji (v metrech)
 
-kde P je síla elektromotorického výkonu, U je napětí a I je proud.
+Zadané hodnoty:
+- q1 = 5 μC = 5 x 10^(-6) C
+- q2 = 3 μC = 3 x 10^(-6) C
+- r = 2 m
 
-P = 10V * 2A = 20W
+Zaměříme se na výpočet síly mezi dvěma vodivými vodiči s náboji 5 μC a 3 μC, umístěnými 2 m od sebe.
 
-Dále je nutno zjistit, zda elektromotor pracuje na plný úvazek. Úvazek lze vypočítat pomocí vzorce:
+F = k * (q1 * q2) / r^2
+= 8,99 x 10^9 N·m^2/C^2 * (5 x 10^(-6) C * 3 x 10^(-6) C) / (2 m)^2
+= 8,99 x 10^9 N·m^2/C^2 * 15 x 10^(-12) C^2 / 4 m^2
+= 33,735 x 10^(-3) N
+= 33,735 mN
 
-R = U / I
+Síla mezi dvěma vodivými vodiči s náboji 5 μC a 3 μC, umístěnými 2 m od sebe, je přibližně 33,735 mN.
 
-kde R je vnitřní odpor elektromotoru a U je napětí.
+Řešení 2: 
+Pro druhý úkol použijeme Ohmův zákon, který popisuje závislost elektrického napětí na elektrickém proudě a elektrické odporovosti. Fórmula pro Ohmův zákon je:
 
-R = 10V / 2A = 5 ohmů
+U = R * I
 
-Úvazek se vypočítá jako:
+kde:
+- U je elektrické napětí (v voltách)
+- R je elektrická odporovost (v ohmech)
+- I je elektrický proud (v amperech)
 
-Uvazek = U / R = 10V / 5 ohmů = 2 A
+Zadané hodnoty:
+- R = 20 Ω (elektrická odporovost vodiče)
+- I = 5 A (elektrický proud)
 
-Kvůli vnitřnímu odporu elektromotoru nebude pracovat na plný úvazek, ale na úvazek 2 A. Protože je odpor 5 ohmů a napětí 10V, elektromotor pracuje na úvazek 2A.
+Zaměříme se na výpočet elektrického napětí na vodiči na obou koncích.
 
-Síla elektromotorického výkonu elektromotoru je tedy 20W.
+U = R * I
+= 20 Ω * 5 A
+= 100 V
 
-Řešení 2:
-Úkol 2: Vyjmenujte a popište hlavní fyzikální veličiny, které popisují elektromagnetické pole ve vakuu.
+Elektrické napětí na vodiči na obou koncích je přibližně 100 V.
 
-Hlavní fyzikální veličiny, které popisují elektromagnetické pole ve vakuu jsou:
+Řešení 3: 
+Pro třetí úkol použijeme zákon o indukci, který popisuje závislost magnetického pole na elektrickém proudu a počtu obvodů v uzavřeném obvodu. Fórmula pro zákon o indukci je:
 
-- Elektrické pole E (V/m)
-- Magnetické pole B (T)
-- Elektrická indukce D (C/m²)
-- Magnetická indukce H (A/m)
+ε = -N * dΦ/dt
 
-Elektrické pole E popisuje sílu, kterou elektromagnetické pole vyvíjí na náboj. Magnetické pole B popisuje sílu, kterou elektromagnetické pole vyvíjí na pohyblivý náboj. Elektrická indukce D popisuje proud, který je indukován elektromagnetickým polem. Magnetická indukce H popisuje sílu, kterou elektromagnetické pole vyvíjí na pohyblivý vodič.
+kde:
+- ε je indukovaná napětí (v voltách)
+- N je počet obvodů v uzavřeném obvodu
+- dΦ/dt je rychlost změny magnetického pole (v teslách za sekundu)
+- Φ je magnetické pole (v weberách)
 
-Řešení 3:
-Úkol 3: Pokud máte dva vodiče s délkou 10cm a průřezem 1mm, vypočítejte jejich vzájemný odpor.
+Zadané hodnoty:
+- I = 10 A (elektrický proud)
+- N = 1 (počet obvodů v uzavřeném obvodu)
+- dΦ/dt = ? (rychlost změny magnetického pole)
 
-Vzorový odpor dvou vodičů se vypočítá pomocí vzorce:
+Zaměříme se na výpočet závislosti indukovaného napětí na rychlosti změny magnetického pole v uzavřeném obvodu.
 
-R = ρ * l / A
+ε = -N * dΦ/dt
+= -1 * dΦ/dt
 
-kde R je vzorový odpor, ρ je specificke rezistivita materiálu, l je délka vodiče a A je průřez.
+Indukované napětí je přímo úměrné rychlosti změny magnetického pole.
 
-Specificke rezistivita materiálu (obvykle měděného drátu) je přibližně 1,6 × 10^(-8) Ωm.
+Řešení 4: 
+Pro čtvrtý úkol použijeme teorii dipolového zdroje magnetického pole, který popisuje závislost magnetického pole na vzdálenosti od dipola. Fórmula pro teorii dipolového zdroje magnetického pole je:
 
-A = π * (d/2)^2 = π * (0,001/2)^2 = 7,85 × 10^(-7) m^2
+B = μ0 * (m / (4πr^3))
 
-R = ρ * l / A = (1,6 × 10^(-8) Ωm) * (0,1 m) / (7,85 × 10^(-7) m^2) = 0,2 Ω
+kde:
+- B je magnetické pole (v teslách)
+- μ0 je magnetická konstanta (cca 4π x 10^(-7) H/m)
+- m je moment magnetického pole (v ampérech·metry)
+- r je vzdálenost od dipola (v metrech)
 
-Poznámka: Tento výpočet je přibližný, protože specificke rezistivita materiálu může variovat v závislosti na teplotě a jiných faktorech.
+Zadané hodnoty:
+- m = 5 A·m² (moment magnetického pole)
+- r = 0,1 m (vzdálenost od dipola)
 
-Řešení 4:
-Úkol 4: Vysvětlete rozdíl mezi indukčností a kapacitivitou a ukázejte příklady, kde se obě veličiny používají.
+Zaměříme se na výpočet síly na 10 cm vzdáleném bodě, kdy polosoustředěná osa dipolu prochází tímto bodem.
 
-Indukčnost (L) je veličina, která popisuje schopnost obvodu absorbovat nebo generovat elektromagnetické pole v závislosti na změně proudu. Kapacitivita (C) je veličina, která popisuje schopnost obvodu uchovávat elektromagnetické pole v závislosti na napětí.
+B = μ0 * (m / (4πr^3))
+= 4π x 10^(-7) H/m * (5 A·m² / (4π(0,1 m)^3))
+= 4π x 10^(-7) H/m * (5 A·m² / 0,001 m^3)
+= 4π x 10^(-7) H/m * 5000 A/m^2
+= 6,28 x 10^(-4) T
 
-Indukčnost se používá v obvodech, jako jsou indukční brzdy, které jsou používány k regulaci rychlosti vozidel nebo strojů. Kapacitivita se používá v obvodech, jako jsou kondenzátory, které jsou používány k filtrování elektrické energie nebo jako součást filtrování signálu.
+Síla na 10 cm vzdáleném bodě, kdy polosoustředěná osa dipolu prochází tímto bodem, je přibližně 6,28 x 10^(-4) T.
 
-Příklady použití indukčnosti:
+Řešení 5: 
+Pro pátý úkol použijeme Faradayův zákon, který popisuje závislost indukovaného napětí na rychlosti změny magnetického pole v uzavřeném obvodu. Fórmula pro Faradayův zákon je:
 
-- Indukční brzda na kolech vozidla
-- Elektromotor s indukční brzdou
+ε = -N * dΦ/dt
 
-Příklady použití kapacitivita:
+kde:
+- ε je indukované napětí (v voltách)
+- N je počet obvodů v uzavřeném obvodu
+- dΦ/dt je rychlost změny magnetického pole (v teslách za sekundu)
+- Φ je magnetické pole (v weberách)
 
-- Filtraci elektrické energie v elektronických obvodech
-- Filtrování signálu v elektronických obvodech
+Zadané hodnoty:
+- N = 1 (počet obvodů v uzavřeném obvodu)
+- dΦ/dt = 0,5 T/s (rychlost změny magnetického pole)
 
-Řešení 5:
-Úkol 5: Popište proces indukce elektromagnetického pole v přívodním vodiči, pokud se změní proud.
+Zaměříme se na výpočet indukovaného napětí v uzavřeném obvodu.
 
-Proces indukce elektromagnetického pole v přívodním vodiči je následující:
+ε = -N * dΦ/dt
+= -1 * 0,5 T/s
+= -0,5 V
 
-1. Když se změní proud v přívodním vodiči, vznikne změny magnetického pole v jeho okolí.
-2. Magnetické pole indukuje elektrické pole v přívodním vodiči.
-3. Elektrické pole indukuje proud v přívodním vodiči.
-4. Proud v přívodním vodiči indukuje magnetické pole v jeho okolí.
+Indukované napětí v uzavřeném obvodu je přibližně -0,5 V.
 
-Tento proces je známý jako indukční efekt. On je zásadní pro pracuje elektromotoru, generatoru, dynamo a dalších zařízení.
-
-Řešení 6:
-Úkol 6: Pokud máte tři vodiče s délkou 5cm, průřezem 2mm a materiálem kov, vypočítejte jejich vzájemný odpor.
-
-Vzorový odpor tří vodičů se vypočítá pomocí vzorce:
-
-R = ρ * l / A
-
-kde R je vzorový odpor, ρ je specificke rezistivita materiálu, l je délka vodiče a A je průřez.
-
-Specificke rezistivita materiálu (obvykle měděného drátu) je přibližně 1,6 × 10^(-8) Ωm.
-
-A = π * (d/2)^2 = π * (0,002/2)^2 = 1,57 × 10^(-5) m^2
-
-R = ρ * l / A = (1,6 × 10^(-8) Ωm) * (0,05 m) / (1,57 × 10^(-5) m^2) = 0,05 Ω
+Ř
