@@ -2,22 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:43:29
 
-Úkol 1: Rozvrhněte trasu pro nákladní automobil, který musí přepravovat zboží z pražského nádraží do Brna. Zjistěte, jakou trasu má vůz najet, aby se co nejkratší cestou dostal ke cíli a využili jste pouze dálnicích.
+Úkol 1: Popište základní koncepty logistiky a rozdelte je do jednotlivých kategorií (zásobování, přeprava, úložiště, skladování) s uvedením příkladů jejich použití v praxi.
 
-Úkol 2: Předložte návrh systému pro sledování a řízení zásob v maloobchodní síti. Vypočítejte náklady na implementaci systému a zvažte jeho návratnost v investici.
+Úkol 2: Vyberte zadané firmy a porovnejte jejich logistické strategie s ohledem na typy produktů, které prodávají, a jejich cílové cíle (čas, cena, kvalita).
 
-Úkol 3: Vyberte typ dopravního prostředku, který by se nejvhodněji používal pro přepravu nákladů z přístavu do vnitrozemí. Zvažte faktory jako kapacita, spolehlivost a ceny.
+Úkol 3: Analyzujte náklady na logistiku pro zadaný výrobce (například z výrobního procesu až po dodávku zboží). Zkuste identifikovat oblasti pro zlepšení.
 
-Úkol 4: Zpracujte studii o vlivu logistické efektivnosti na ziskovost podniku. Uvažujte vlivy jako jsou nákladové úspory, zrychlení dodávek a zlepšení služeb zákazníků.
+Úkol 4: Vyberte vhodnou metodu optimalizace dopravy (například metoda nejkratší cesty, metoda nejkratší cesty s omezeními) a použijte ji k optimalizaci logistické sítě dané firmy.
 
-Úkol 5: Navrhnete systém pro optimální lokalizaci skladů z hlediska nákladů na dopravu, skladování a údržbu. Zvažte faktory jako odstupnost, přístupnost a dostupnost infrastruktury.
+Úkol 5: Zjistěte, jak může být použita analýza dat v oblasti logistiky (například analýza cestování zboží, analýza zásob) a jak může být tento přístup zlepšován.
 
-Úkol 6: Předložte návrh strategie pro optimalizaci distribuce zboží v síti dodavatelů. Zvažte faktory jako kapacita, náklady a kvalita služeb.
+Úkol 6: Popište principy a metody zajišťování kvality ve výrobní logistice. Zkuste identifikovat oblasti pro zlepšení v závislosti na zadaných výrobních podmínkách.
 
-Úkol 7: Zpracujte analýzu o vlivu kybernetických hrozeb na logistické organizace. Uvažujte možnosti ochrany proti útokům a ztrátám spojeným s kybernetickými útoky.
+Úkol 7: Vyberte vhodnou strategii zajišťování dodávek (například strategie Just in Time, strategie ekonomie množství) a použijte ji k analýze efektivity logistických procesů dané firmy.
 
-Úkol 8: Vyberte typ logistické strategie pro podnikání v mezinárodních trzích. Zvažte faktory jako náklady, zisky, rizika a příležitosti.
+Úkol 8: Zkuste navrhnout a implementovat systém efektivní správy zásobování a skladování, včetně optimalizace skladových zásob a zajištění efektivní distribuce zboží.
 
-Úkol 9: Zpracujte studii o vlivu zavedení ekologických řešení v logistice na environmentální kvalitu a ziskovost podniků. Uvažujte možnosti jako jsou elektrifikované vozidla, nízkoemisní technologie a recyklování.
+Úkol 9: Analyzujte dopad změn v globální ekonomice na logistické procesy dané firmy a zkuste navrhnout strategie pro adaptaci na tyto změny.
 
-Úkol 10: Předložte návrh systému pro efektivní řízení zásob v reálném čase. Zvažte faktory jako aktualizace dat, vyčíslování rizik a analýzu trendů.
+Úkol 10: Vyberte vhodný typ logistické analýzy (například analýza nákladů, analýza efektivnosti, analýza kvality) a použijte ji k hodnocení efektivity logistických procesů v dané firmě.
