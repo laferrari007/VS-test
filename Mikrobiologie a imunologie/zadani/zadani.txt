@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Mikrobiologie a imunologie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:46:35
+# Datum: 2025-09-15 23:46:43
 
-Úkol 1: Popiš rozdíl mezi bakteriovým a archaeickým metabolizmem, s důrazem na unikátní vlastnosti archeí.
+Úkol 1: Popiš typy mikroorganismů, které jsou běžné v lidském trávicím traktu a jejich role v procesu trávení a imunitě.
 
-Úkol 2: Seznam a charakterizuj nejčastější typy imunitních komplexů, které se účastní rozpoznání a neutralizace patogenů.
+Úkol 2: Porovnejte charakteristiky bakterií Gram pozitivních a Gram negativních a vysvětlete, proč je tato klasifikace důležitá v mikrobiologii.
 
-Úkol 3: Srovnaj mechanismy bakteriální a virální adheze k hostitelským buňkám, včetně role adheznin a jejich úlohy v infekci.
+Úkol 3: Popište mechanismy, které bakterie využívají k odolnosti proti antibakteriálním látkám, jako jsou penicilin a streptomycin.
 
-Úkol 4: Popiš roli cytokinů v imunitním systému a jejich role v regulaci imunitních odpovědí v reakci na infekci.
+Úkol 4: Vyberte dva typy imunitních buněk (lymfocytů) a popište jejich roli v aktivaci celulární imunity.
 
-Úkol 5: Vysvětle mechanismy aktivace a deaktivace neutrofilů v průběhu infekce a jejich vztah k antimikrobiálnímu odporu.
+Úkol 5: Porovnejte funkce a vlastnosti komplementu a imunoglobulinů (A, G a M) v lidském imunitním systému.
 
-Úkol 6: Seznam a charakterizujte různé typy bakteriálních virulentních faktorů a jejich mechanismy, které podporují infekci hostitelské tkáně.
+Úkol 6: Diskutujte o roli cytokinů a chemokinů v koordinaci imunitního odpovědi na infekci.
 
-Úkol 7: Popiš rozdíl mezi akutní a chronickou infekcí a role imunitní soustavy v regulaci a zvládnutí těchto typů infekce.
+Úkol 7: Popište mechanismy, které viry využívají k infekci a zamoření hostitelského organismu.
 
-Úkol 8: Vysvětle procesy antigenové prezentace na MHC II molekulách a jejich vztah k aktivaci specifických T lymfocytů.
+Úkol 8: Vyberte jeden typ zoonotického onemocnění (nákazy přenosné z zvířat na člověka) a popište jeho původ, šíření a mechanismy infekce.
 
-Úkol 9: Seznam a charakterizujte různé typy komplementních proteinů a jejich mechanismy, které podporují odolnost organismu proti infekci.
+Úkol 9: Diskutujte o roli imunitní tolerance v prevenci autoimunitních onemocnění a vysvětlete, proč je její porušení rizikem pro rozvoj autoimunitních onemocnění.
 
-Úkol 10: Popiš a diskutujte o možnostech terapeutického využití mikrobiomů v léčbě imunologických poruch a chronických infekcí.
+Úkol 10: Vypracujte hypotézu o možném vlivu mikrobiotického faktoru na vývoj a funkci imunitního systému a diskutujte o potenciálních aplikacích této znalosti v klinické imunologii.
