@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Objektově orientované programování
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:29:28
+# Datum: 2025-09-15 23:29:30
 
 Úkol 1: Napište program v jazyce souvisejí s tématem z předmětu Objektově orientované programování
 
