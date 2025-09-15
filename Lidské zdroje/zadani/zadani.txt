@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Lidské zdroje
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:45:25
+# Datum: 2025-09-15 23:45:31
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Lidské zdroje
 
