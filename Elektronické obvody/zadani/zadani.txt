@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Elektronické obvody
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:33:27
+# Datum: 2025-09-15 23:33:29
 
-Úkol 1: Nákresujte a popište funkce jednoduchého elektronického obvodu sestávajícího z jednoduchého rezistoru a diodu. Zkuste vyřešit problémy v obvodu, které vznikají při různých hodnotách napětí.
+Úkol 1: Navrhněte jednoduchý elektronický obvod, který bude tvořen pouze zesilovačem a rezistorovým odporovým děličem. Obvod by měl být schopen zesílit vstupní signál o 2x.
 
-Úkol 2: Rozeberte a vysvětlte principy fungování tranzistorů. Napište o rozdílech mezi NPN a PNP typy tranzistorů a o jejich použití v různých aplikacích.
+Úkol 2: Vysvětlejte princip fungování tranzistoru a popsate jeho typy (BJT, FET). Zajistěte, aby váš popis byl stručný a přehledný.
 
-Úkol 3: Popište funkci a chování diod v různých aplikacích (například v obvodech zesilovačů, měřicích obvodech, atd.). Zkuste navrhnout jednoduchý obvod využívající diody pro měření napětí.
+Úkol 3: Navrhněte analogový filtr sestávající z 2 RC filtry, které budou filtrovat signály v oblasti 1 kHz. Vysvětlejte princip fungování filtru a vysvětlete, proč byl vybrán právě tento typ filtru pro danou aplikaci.
 
-Úkol 4: Napište o principu a funkci opámených tranzistorů. Vysvětlte rozdíl mezi PNP a NPN opámeným tranzistorem a jejich použití v různých aplikacích.
+Úkol 4: Navrhněte obvod, který bude moci rozpoznat 2 vstupní signály, které budou oproti sobě posunuty o 90°. Popsate, jak se vám podařilo dosáhnout fáze, a vysvětlejte princip fungování vámi navrženého obvodu.
 
-Úkol 5: Navrhněte a popište funkci jednoduchého obvodu zesilovače sestávajícího z tranzistorů. Zkuste vyřešit problémy s chybami v obvodu a měřitelnými vlastnostmi zesilovače.
+Úkol 5: Popsate a vysvětlejte princip fungování mikroprocesoru. Vyjmenujte hlavní součástky mikroprocesoru a vysvětlejte jejich funkci. Vysvětlejte také proces chodu mikroprocesoru a jeho typy.
 
-Úkol 6: Vysvětlte principy fungování mikrokontrolerů a jejich úlohu v moderních elektronických systémech. Napište o jejich architektuře, funkcích a aplikace.
+Úkol 6: Navrhněte obvod sestávající z 2 zesilovačů a 2 rezistorových odporových děličů, který bude schopný převést signály z 1 kHz do 10 kHz. Vysvětlejte princip fungování vámi navrženého obvodu a vysvětlete, proč byl vybrán právě tento typ obvodu pro danou aplikaci.
 
-Úkol 7: Napište o principu a funkci digitálních integrovaných obvodů (DIP). Vysvětlte rozdíl mezi DIP a analogovými integrovanými obvody a jejich použití v různých aplikacích.
+Úkol 7: Popsate a vysvětlejte princip fungování číslicového signálu. Vyjmenujte hlavní typy číslicových signálů a vysvětlejte jejich funkci. Vysvětlejte také rozdíl mezi analogovými a číslicovými signály.
 
-Úkol 8: Navrhněte a popište funkci jednoduchého obvodu sestávajícího z mikrokontroleru, který bude provádět základní funkce (například čtení senzoru, ovládání LED diody atd.). Zkuste vyřešit problémy s chybami v obvodu a měřitelnými vlastnostmi mikrokontroleru.
+Úkol 8: Navrhněte číslicový obvod, který bude moci dekódovat vstupní 4-bitský binární kód. Popsate, jak se vám podařilo dosáhnout dekódování, a vysvětlejte princip fungování vámi navrženého obvodu.
 
-Úkol 9: Napište o principu a funkci analogových-fyzických integrovaných obvodů (AFE). Vysvětlte rozdíl mezi AFE a digitálními integrovanými obvody a jejich použití v různých aplikacích.
+Úkol 9: Navrhněte obvod sestávající z mikroprocesoru a dalších součástek, který bude schopný generovat sinusoiodální signál o frekvenci 10 kHz. Vysvětlejte princip fungování vámi navrženého obvodu a vysvětlete, proč byl vybrán právě tento typ obvodu pro danou aplikaci.
 
-Úkol 10: Navrhněte a popište komplexní elektronický systém sestávající z mikrokontroleru, senzorů, LED diod a dalších komponentů. Zkuste vyřešit problémy s chybami v obvodu, měřitelnými vlastnostmi a optimalizací systému.
+Úkol 10: Popsate a vysvětlejte princip fungování digitálního rozhraní (UART). Vyjmenujte hlavní součástky UART a vysvětlejte jejich funkci. Vysvětlejte také proces komunikace přes UART a jeho typy.
