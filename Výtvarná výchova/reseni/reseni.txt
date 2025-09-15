@@ -1,109 +1,96 @@
 # AI Generované řešení úkolů pro předmět: Výtvarná výchova
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:43:00
+# Datum: 2025-09-15 22:53:58
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vytvořte kresbu běžné denní scény (například snídaně, škola, práce) v jednoduchém černobílém style. Použijte techniku konturace a důrazně vyznačte hlavní prvky kompozice.
+Řešení 1: Navrhněte základní barvu a tvar pro svou osobnost, která by měla být symbolem vašich vlastností a charakteru. Vytvořte jednoduchý kreslbek této osobnosti a připojte krátkou kapitolku o jejím významu pro vás.
 
-**Krok 1: Návrh scény**
+Můj název osobnosti je "Lumina". Je to mladá žena s jiskřivým pohledem a kreativním srdcem. Základní barvou osobnosti Lumina je modrá, která symbolizuje víru, kreativitu a svobodu. Tvar osobnosti je oválný, který je symbolem harmonie a rovnováhy.
 
-Zvolím scénu ve školní jídelně, kde děti jídlu a učitelé se pokoušejí je povzbudit k jídlu. Touto scénou chci projevit každý den běžné aktivity dětí a jejich učitelů.
+Kreslbek Luminy vypadá takto:
 
-**Krok 2: Kresba kontur**
+[ilustrace oválu se dvěma kruhy v okružní dráze, jeden větší a druhý menší]
 
-Použiji techniku konturace, aby bylo zřejmé, které prvky jsou nejdůležitější v kompozici. Konturace je technika, kdy se kreslí pouze vnější hrana objektu, aniž jsou ostatní detaily zobrazeny.
+Modrá barva osobnosti Lumina se projevuje v jejím oblečení a v jejím okolí. Její vlasy jsou modré a její oblečení je tvořeno modrými límečcích a šněrováním. V jejím okolí je vidět modré slunce a modrá obloha, která symbolizuje její kreativitu a víru.
 
-* Kreslím kontury postav dětí i učitelů, aby bylo zřejmé jejich umístění ve scéně.
-* Kontury stolu a židlí jsem zobrazil, aby bylo zřejmé, kde děti jídlu.
-* Kontury okenního rámu jsem přidala, aby bylo zřejmé, že scéna se odehrává ve škole.
+Kapitolka o významu osobnosti Lumina pro mě:
 
-**Krok 3: Význačení hlavních prvků kompozice**
+"Lumina je můj symbol kreativity a víry. Její modrá barva mě napomáhá vidět svět jako místo plné možností a příležitostí. Její oválný tvar symbolizuje harmonii a rovnováhu, které jsou pro mě důležité při každodenních činnostech. Lumina mě motivuje k tvořivosti a kreativitě, aby jsem mohl dosáhnout svých cílů a realizovat své nápady."
 
-Důrazně vyznačím hlavní prvky kompozice, jako jsou děti, učitelé, stůl a okna.
+Řešení 2: Použijte techniku šrafování a kresbu kontur, aby vytvořili jednoduchou krajinu (přírodní nebo urbanistickou). Zvolte jednu z těchto možností a použijte barevné pastely, aby vaše krajinu vybarvili.
 
-* Děti jsou hlavní figura scény, proto jsem je vyznačil jasně a ostrou linkou.
-* Učitelé jsou sekundární figura scény, proto jsem je vyznačil slabší linkou, než děti.
-* Stůl a židle jsou důležité prvky scény, proto jsem je vyznačil jasnou linkou.
-* Okna jsou sekundární prvky scény, proto jsem je vyznačil slabší linkou.
+Můj výběr je přírodní krajina. Použiji techniku šrafování a kresbu kontur, aby vytvořila jednoduchou krajinu ve stylu impressionismu.
 
-**Krok 4: Závěrečné provedení**
+Krok 1: Nakreslete kontury krajinu pomocí černého pastelu.
 
-Závěrečně provedl jsem kresbu, aby byla čitelná a jasná.
+[ilustrace černé pastelové kresby kontur krajiny]
 
-**Výsledný produkt**
+Krok 2: Použijte šrafování, aby vytvořila krajinu. Použijte pastely různých barev, aby vytvořila efekt světla a stínu.
 
-Výsledný produkt je jednoduchá kresba běžné denní scény ve školní jídelně v černobílém style.
+[ilustrace pastelové šrafování krajiny]
 
-Řešení 2: Vytvořte malbu přírodní scény (například les, moře, hora) v barvách olejové malby. Použijte technikou sfumato a vyznačte hlavní prvky kompozice.
+Krok 3: Přidejte detaily krajinu, jako jsou stromy, vodopády a zvířata. Použijte kresbu kontur a šrafování, aby vytvořila efektní detaily.
 
-**Krok 1: Návrh scény**
+[ilustrace detailů krajiny]
 
-Zvolím scénu v lese, kde stromy stoupají k obloze a je vidět široký výhled na okolí.
+Krajina vypadá takto:
 
-**Krok 2: Podklady**
+[ilustrace pastelové krajiny]
 
-Použiji podklady, aby bylo možné vytvořit sfumato efekt.
+Řešení 3: Navrhněte a vyberte jeden z typů uměleckých děl (socha, obraz, koláž). Vytvořte jednoduchý návrh a následně ho realizujte pomocí vybraných uměleckých technik a materiálů.
 
-* Použiji tmavé a světlé barvy olejové malby, aby bylo možné dosáhnout jasných kontrastů.
-* Použiji štětec, aby bylo možné vytvořit široký a volný kreslířský pohyb.
+Můj výběr je koláž. Navrhněte jednoduchý návrh koláže, která zobrazuje město s různými architektonickými stylů.
 
-**Krok 3: Zobrazení hlavních prvků**
+Krok 1: Sběrejte materiály, jako jsou fotografie, kresby a papír. Vyberte materiály, které odpovídají vašemu návrhu.
 
-Důrazně vyznačím hlavní prvky kompozice, jako jsou stromy, obloha a krajina.
+[ilustrace sběru materiálů]
 
-* Stromy jsou hlavní figura scény, proto jsem je zobrazil jasně a detailně.
-* Obloha je sekundární figura scény, proto jsem ji zobrazil slabšími linkami.
-* Krajina je sekundární prvek scény, proto jsem ji zobrazil slabšími linkami.
+Krok 2: Vytvořte jednoduchý návrh koláže. Použijte kresbu nebo digitální nástroje, aby vytvořila návrh koláže.
 
-**Krok 4: Sfumato efekt**
+[ilustrace návrhu koláže]
 
-Použiji technikou sfumato, aby bylo možné dosáhnout jasných kontrastů a hlubokého prostoru.
+Krok 3: Realizujte návrh koláže. Použijte techniku koláže, aby spojila materiály a vytvořila efektní koláž.
 
-* Použiji tmavé a světlé barvy olejové malby, aby bylo možné dosáhnout jasných kontrastů.
-* Použiji štětec, aby bylo možné vytvořit široký a volný kreslířský pohyb.
+[ilustrace realizace koláže]
 
-**Krok 5: Závěrečné provedení**
+Koláž vypadá takto:
 
-Závěrečně provedl jsem malbu, aby byla čitelná a jasná.
+[ilustrace koláže města]
 
-**Výsledný produkt**
+Řešení 4: Vytvořte sérii 4 až 6 malých obrazů (asi 20 x 20 cm) na téma "Rodiče ve vzpomínkách". Použijte různé techniky a materiály (malba olejovými barvami, akrylovými barvami, pastely apod.) a snažte se zachytit různé emoce a okamžiky z vašeho dětství.
 
-Výsledný produkt je malba přírodní scény v lese v barvách olejové malby s technikou sfumato.
+Můj výběr je série 5 obrazů, které zobrazují různé okamžiky z mého dětství s rodiči.
 
-Řešení 3: Vytvořte sérii 5 kreseb různých tvarů (kruh, čtverec, trojúhelník, oblouk, spirála). Použijte techniku akvarelu a vyznačte hlavní prvky kompozice.
+Krok 1: Vytvořte návrh série obrazů. Použijte kresbu nebo digitální nástroje, aby vytvořila návrh série obrazů.
 
-**Krok 1: Návrh tvarů**
+[ilustrace návrhu série obrazů]
 
-Zvolím pět různých tvarů, aby bylo možné vytvořit zajímavou sérii kreseb.
+Krok 2: Realizujte série obrazů. Použijte různé techniky a materiály, aby vytvořila efektní série obrazů.
 
-* První tvar je kruh, který jsem zobrazil jasnou kružnicí.
-* Druhý tvar je čtverec, který jsem zobrazil jasnými rohovými linkami.
-* Třetí tvar je trojúhelník, který jsem zobrazil jasnými rohovými linkami.
-* Čtvrtý tvar je oblouk, který jsem zobrazil jasnou křivkou.
-* Pátý tvar je spirála, který jsem zobrazil jasnou křivkou.
+[ilustrace realizace série obrazů]
 
-**Krok 2: Akvarel**
+Obrazy vypadají takto:
 
-Použiji techniku akvarelu, aby bylo možné dosáhnout jasných barevných kontrastů.
+[ilustrace série obrazů]
 
-* Použiji akvarelový papír, aby bylo možné dosáhnout jasných barevných kontrastů.
-* Použiji akvarelový štětec, aby bylo možné dosáhnout jasných barevných kontrastů.
+Řešení 5: Navrhněte a vytvořte jednoduchý scénář k animovanému filmu. Použijte kresbu nebo digitální nástroje k vytvoření jednotlivých scén a následně je zkombinujte do jednoho celku.
 
-**Krok 3: Hlavní prvky kompozice**
+Můj výběr je scénář k animovanému filmu, který zobrazuje příběh o dvou přátelích, kteří objevují skryté město.
 
-Důrazně vyznačím hlavní prvky kompozice, jako jsou tvar a pozadí.
+Krok 1: Vytvořte návrh scénáře. Použijte kresbu nebo digitální nástroje, aby vytvořila návrh scénáře.
 
-* Tvar je hlavní figura scény, proto jsem ho zobrazil jasnou linkou.
-* Pozadí je sekundární figura scény, proto jsem ho zobrazil slabšími linkami.
+[ilustrace návrhu scénáře]
 
-**Krok 4: Závěrečné provedení**
+Krok 2: Realizujte scénář. Použijte kresbu nebo digitální nástroje, aby vytvoří jednotlivé scény a následně je zkombinujte do jednoho celku.
 
-Závěrečně provedl jsem sérii kreseb, aby byla čitelná a jasná.
+[ilustrace realizace scénáře]
 
-**Výsledný produkt**
+Scénář vypadá takto:
 
-Výsledný produkt je sérii 5 kreseb různých tvarů v technice akvarelu.
+[ilustrace scénáře]
 
-Řešení 4: Vytvořte malbu městské scény (například náměstí, ulice, budovy) v barvách akvarelů. Použijte techniku zrcadlení a vyznačte hlavní prvky kompozice.
+Řešení 6: Vytvořte interaktivní výstavu na téma "Voda v přírodě". Použijte různé umělecké techniky a materiály (malba, kresba, sochařství, koláže) a snažte se v rámci výstavu zaujmout diváka.
 
-**Krok 1
+Můj výběr je interaktivní výstava, která zobrazuje různé aspekty vody v přírodě. Použiji různé umělecké techniky a materiály, aby vytvořila efektní výstavu.
+
+Krok 1: Vytvořte návrh výstavu. Použijte kresbu nebo
