@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Databázové systémy
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:29:43
+# Datum: 2025-09-15 23:29:44
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 
