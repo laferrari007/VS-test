@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Elektronické obvody
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:33:27
+
+Úkol 1: Nákresujte a popište funkce jednoduchého elektronického obvodu sestávajícího z jednoduchého rezistoru a diodu. Zkuste vyřešit problémy v obvodu, které vznikají při různých hodnotách napětí.
+
+Úkol 2: Rozeberte a vysvětlte principy fungování tranzistorů. Napište o rozdílech mezi NPN a PNP typy tranzistorů a o jejich použití v různých aplikacích.
+
+Úkol 3: Popište funkci a chování diod v různých aplikacích (například v obvodech zesilovačů, měřicích obvodech, atd.). Zkuste navrhnout jednoduchý obvod využívající diody pro měření napětí.
+
+Úkol 4: Napište o principu a funkci opámených tranzistorů. Vysvětlte rozdíl mezi PNP a NPN opámeným tranzistorem a jejich použití v různých aplikacích.
+
+Úkol 5: Navrhněte a popište funkci jednoduchého obvodu zesilovače sestávajícího z tranzistorů. Zkuste vyřešit problémy s chybami v obvodu a měřitelnými vlastnostmi zesilovače.
+
+Úkol 6: Vysvětlte principy fungování mikrokontrolerů a jejich úlohu v moderních elektronických systémech. Napište o jejich architektuře, funkcích a aplikace.
+
+Úkol 7: Napište o principu a funkci digitálních integrovaných obvodů (DIP). Vysvětlte rozdíl mezi DIP a analogovými integrovanými obvody a jejich použití v různých aplikacích.
+
+Úkol 8: Navrhněte a popište funkci jednoduchého obvodu sestávajícího z mikrokontroleru, který bude provádět základní funkce (například čtení senzoru, ovládání LED diody atd.). Zkuste vyřešit problémy s chybami v obvodu a měřitelnými vlastnostmi mikrokontroleru.
+
+Úkol 9: Napište o principu a funkci analogových-fyzických integrovaných obvodů (AFE). Vysvětlte rozdíl mezi AFE a digitálními integrovanými obvody a jejich použití v různých aplikacích.
+
+Úkol 10: Navrhněte a popište komplexní elektronický systém sestávající z mikrokontroleru, senzorů, LED diod a dalších komponentů. Zkuste vyřešit problémy s chybami v obvodu, měřitelnými vlastnostmi a optimalizací systému.
