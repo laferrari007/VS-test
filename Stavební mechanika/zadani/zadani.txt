@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Stavební mechanika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:38:21
+# Datum: 2025-09-15 23:38:22
 
-Úkol 1: Určete typ stavebního prvku, který je založen na principu deformace a roztažení pod působením síly. Popište jeho použití ve stavebnictví.
+Úkol 1: Zjistěte typy stavebních hmot a jejich charakteristiky v kontextu stavební mechaniky. Vyberte 3 hlavní typy stavebních hmot a popište jejich hlavní vlastnosti.
 
-Úkol 2: Rozdělte tahovou sílu na jednotlivé prvky stavební konstrukce pomocí metod analýzy napětí a deformací. Zvažte použití teorie pružnosti pro rovnoramenný stůl.
+Úkol 2: Vyjmenujte a popište základní pojmy v oblasti stavební mechaniky, jako jsou tření, odpor, deformace a přenos sil. Uveďte příklady jejich použití v praxi.
 
-Úkol 3: Odvodte rovnici pro deformaci délky trubky, kterou táhne váha o hmotnosti 1000 kg. Předpokládejte, že váha je umístěna v prostředním bodě trubky a ta má délku 5 metrů.
+Úkol 3: Zkuste vymezit pojem "statické rovnováha" v kontextu stavební mechaniky a popište podmínky, za kterých se statická rovnováha vyrovná. Uveďte příklady situace, kdy je statická rovnováha důležitá.
 
-Úkol 4: Změřte modul pružnosti materiálu ovlivněné teplotou. Používejte materiál o specifické tvrdosti a teplotně závislý modul pružnosti.
+Úkol 4: Vyberte konkrétní stavební konstrukci (například most, věž nebo budova) a zanalyzujte její statickou stabilitu. Uveďte hlavní tlaky a momenty, které na konstrukci působí, a popište způsob, jakým je konstrukce navržena, aby odolala těmto silám.
 
-Úkol 5: Určete napětí v konstrukci železničního mostu v závislosti na zatížení a velikosti rozpětí. Použijte rovnovážnou teorii pro výpočet napětí v konstrukci mostu.
+Úkol 5: Vyjmenujte a popište typy stavebních materiálů a jejich vlastnosti v kontextu stavební mechaniky. Uveďte příklady materiálů pro jednotlivé aplikace (například ocel pro konstrukční prvky, beton pro stavbu mostů atd.).
 
-Úkol 6: Zpracujte statický výkaz pro železniční most s rozpětím 30 metrů. Použijte hodnoty hmotností mostu a zatížení.
+Úkol 6: Zkuste vyřešit jednoduchý problém statické rovnováhy pomocí diagramu síly a momentu. Zvolte konkrétní situaci a zanalyzujte síly a momenty, které na konstrukci působí.
 
-Úkol 7: Zpracujte statický výkaz pro vybranou železniční stanici s rozpětím 60 metrů. Použijte hodnoty hmotností mostu a zatížení.
+Úkol 7: Vyberte konkrétní stavební konstrukci (například silnice, tunel nebo vodní dílo) a zanalyzujte její dynamickou stabilitu. Uveďte hlavní příčiny dynamické nestability a popište způsob, jakým je konstrukce navržena, aby odolala těmto efektům.
 
-Úkol 8: Vypočtěte deformaci rozpětí mostu, které je zatíženo hmotností 500 tun. Předpokládejte, že rozpětí mostu má rozpětí 100 metrů a hmotnost rozpětí je 200 tun.
+Úkol 8: Vyjmenujte a popište typy stavebních konstrukcí, které jsou citlivé na dynamické účinky (například víření, tlaky vln atd.). Uveďte příklady konstrukcí, které jsou náchylné k dynamické nestabilitě.
 
-Úkol 9: Zpracujte statický výkaz pro most s rozpětím 100 metrů, který je zatížený hmotností 500 tun. Použijte hodnoty hmotností mostu a zatížení.
+Úkol 9: Zkuste analyzovat a vyřešit složitější problém statické rovnováhy pomocí počítačového programu (například Autodesk Civil 3D nebo STAAD Pro). Zvolte konkrétní situaci a zanalyzujte síly a momenty, které na konstrukci působí.
 
-Úkol 10: Zpracujte statický výkaz pro vybraný most s rozpětím 150 metrů. Použijte hodnoty hmotností mostu a zatížení, zvažte také deformace rozpětí mostu.
+Úkol 10: Vyberte konkrétní stavební konstrukci (například most s podélnou silou nebo věž s větrnými účinky) a zanalyzujte její komplexní chování. Uveďte hlavní příčiny složitosti konstrukce a popište způsob, jakým je konstrukce navržena, aby odolala těmto účinkům.
