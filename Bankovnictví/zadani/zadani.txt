@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Bankovnictví
-# Vygenerováno: Fallback
-# Datum: 2025-09-15 23:41:41
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:41:56
 
-Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Bankovnictví
+Úkol 1: Popište hlavní typy bankovních úvěrů a jejich charakteristické rysy. 
 
-Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Bankovnictví
+Úkol 2: Představte si, že máte na starosti úvěrovou politiku v malé komerční bance. Jak byste nastavili podmínky pro úvěrový limit pro nové zákazníky a proč?
 
-Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Bankovnictví
+Úkol 3: Použijte teorii o hodnotách peněz a vysvětlete, jak se to odráží v měnové politice centrálních bank.
 
-Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Bankovnictví
+Úkol 4: Porovnejte různé druhy bankovních produktů pro spotřebitele (kreditní karty, hypotéky, úvěry na osobní automobily) a vysvětlete, jak jsou navrhovány a nabízeny bankami.
 
-Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Bankovnictví
+Úkol 5: Analyzujte dopad regulační legislativy (například Basel III) na bankovní systém v České republice.
 
-Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Bankovnictví
+Úkol 6: Diskutujte vliv finančních derivátů na bankovní činnost a vysvětlete, jak fungují a jak jsou používány bankami.
 
-Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Bankovnictví
+Úkol 7: Vymyslete a popište nový bankovní produkt, který by kombinoval prvky kreditní karty a hypotéky. Jak by fungoval a jaký by byl jeho cíl?
 
-Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Bankovnictví
+Úkol 8: Studujte případné bankovní krize v historii a analyzujte, proč se staly a jak se dařilo jim vyhnout.
 
-Úkol 9: Interpretujte data souvisejí s tématem z předmětu Bankovnictví
+Úkol 9: Použijte model RAROC (Return on RWA and Capital) k hodnocení efektivnosti bankovního produktu (například úvěru na osobní automobily).
 
-Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Bankovnictví
+Úkol 10: Vytvořte scénář ekonomické krize a představit, jak by reagovala centrální banka (například ČNB) a jak by se měnila měnová politika.
