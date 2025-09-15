@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Materiály a technologie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:01:49
+
+Úkol 1: Určete hlavní typy hutních procesů a popsme jejich principy a aplikace.
+
+Úkol 2: Proveďte analýzu vlastností a aplikací hliníku v různých odvětvích průmyslu.
+
+Úkol 3: Popište procesy výroby a vlastnosti jednotlivých typů oceli (kované, nerezová, vysokopevnostní).
+
+Úkol 4: Vypočtěte hmotnost a rozměry součástky vyrobené z vyzařovací slitiny Al 7075 po odlehčení 20%.
+
+Úkol 5: Porovnejte vlastnosti a aplikace titanové slitiny Ti-6Al-4V a niklové slitiny Inconel 625.
+
+Úkol 6: Proveďte návrh a analýzu statické stability hruškovitého prutku vyrobeného z vysoce pevné oceli.
+
+Úkol 7: Vypracujte návrh a návrhové rozměry vodíkové komory pro kapacitní vodíkový plynový motor.
+
+Úkol 8: Vypočtěte a porovnejte tepelné rozptylové schopnosti dvou různých typů izolačních materiálů (vlna a skelné vlákno).
+
+Úkol 9: Popište principy a aplikace laserové svařování kovů.
+
+Úkol 10: Vypracujte návrh a návrhové rozměry experimentálního vzorku pro testování mechanických vlastností nanokompozitního materiálu.

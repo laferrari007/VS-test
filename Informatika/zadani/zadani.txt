@@ -1,0 +1,25 @@
+# AI Generované zadání úkolů pro předmět: Informatika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:53:20
+
+Zde jsou 10 univerzitních úkolů pro předmět "Informatika":
+
+Úkol 1: Implementujte algoritmus pro nalezení největšího prvočísla v posloupnosti čísel.
+
+Úkol 2: Popište rozdíl mezi statickým a dynamickým typováním proměnných v programovacích jazycích.
+
+Úkol 3: Proveďte analýzu časové a prostorové složitosti algoritmu pro vyhledávání v binárním stromu.
+
+Úkol 4: Implementujte a vysvětlíte principy práce s hashovacími funkcemi pro uchování dat v tabulkách.
+
+Úkol 5: Porovnejte a vyřešte rozdíl mezi spojovým a řetězcovým seznamem v programovacích jazycích.
+
+Úkol 6: Analyzujte a implementujte algoritmus pro vyhledávání nejkratší cesty v grafu pomocí A* algoritmu.
+
+Úkol 7: Implementujte a vysvětlíte principy práce s objektově orientovanými programovacími jazyky a jejich rozdíly.
+
+Úkol 8: Proveďte modelování a simulaci distribuovaného systému s použitím Socketů a TCP/IP protokolu.
+
+Úkol 9: Implementujte a vyřešte rozdíl mezi asymetrickým a symetrickým šifrováním dat s použitím algoritmu RSA.
+
+Úkol 10: Analyzujte a implementujte návrh architektury distribuovaného systému s použitím mikroservisů a komunikace mezi nimi.

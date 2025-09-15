@@ -1,0 +1,92 @@
+# AI Generované řešení úkolů pro předmět: Německý jazyk
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:56:50
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Přeložte do německého jazyka text: "Dnes je pěkný den, takže budeme chodit do školy pěšky."
+
+Řešení této úlohy je následující:
+
+"Dnes ist ein schöner Tag, also werden wir zu Fuß zur Schule gehen."
+
+Tato věta je přeložena z češtiny do němečiny. Použité překlady jsou:
+
+- "Dnes" přeloženo jako "heute" nebo "dieses Tage", ale v tomto kontextu je lepší použít "dieser Tag" nebo "heute ist", přestože je v úloze uveden "dnes", proto použijeme "dieser Tag" nebo "heute ist". 
+- "je pěkný" přeloženo jako "ist schön" nebo "ist ein schöner", ale v tomto kontextu je lepší použít "ist ein schöner Tag."
+- "takový" přeloženo jako "solcher" nebo "solch ein", ale v tomto kontextu je lepší použít "solcher" nebo "solch ein", ale "solcher" je lépe použit pro přívlastky.
+- "budeme" přeloženo jako "werden" nebo "sollen", ale v tomto kontextu je lepší použít "werden" nebo "sollen".
+- "chodit" přeloženo jako "gehen" nebo "spazieren", ale v tomto kontextu je lepší použít "gehen" nebo "to Fuß gehen".
+- "do školy" přeloženo jako "zur Schule" nebo "in die Schule", ale v tomto kontextu je lepší použít "zur Schule" nebo "in die Schule".
+- "pěšky" přeloženo jako "zu Fuß" nebo "zu Fuß gehen", ale v tomto kontextu je lepší použít "zu Fuß" nebo "zu Fuß gehen".
+
+Řešení 2: Zodpovězte na otázku: Jak se přeloží věta "Mám ráda německou kuchyni" do angličtiny?
+
+Řešení této úlohy je následující:
+
+"Též správná překlad této věty do angličtiny je: "I love German cuisine." nebo "I enjoy German cuisine." 
+
+Tato věta je přeložena z češtiny a německého jazyka do angličtiny. Použité překlady jsou:
+
+- "Mám ráda" přeloženo jako "I love" nebo "I enjoy", ale v tomto kontextu je lepší použít "I love" nebo "I enjoy".
+- "německou" přeloženo jako "German" nebo "Deutsch", ale v tomto kontextu je lepší použít "German" nebo "Deutsch".
+- "kuchyni" přeloženo jako "cuisine" nebo "kochen", ale v tomto kontextu je lepší použít "cuisine" nebo "kochen".
+
+Řešení 3: Přeložte do německého jazyka následující věty a označte typy vět (příkaz, otázka, tvrzení):
+
+- "Můžete mi půjčit peníze?"
+- "Jsem z Prahy."
+- "Mějte se!"
+
+Řešení této úlohy je následující:
+
+1. "Můžete mi půjčit peníze?" 
+- Tvrzení: Ne, tato věta je otázka.
+- Překlad do německého jazyka: "Können Sie mir Geld leihen?"
+
+2. "Jsem z Prahy." 
+- Tvrzení: Ano, tato věta je tvrzení.
+- Překlad do německého jazyka: "Ich bin aus Prag."
+
+3. "Mějte se!" 
+- Tvrzení: Ne, tato věta je přání.
+- Překlad do německého jazyka: "Mach's gut!" nebo "Alles Gute!"
+
+Řešení 4: Úpravte následující text, aby byl správně formátován podle německých pravidel pro psaní:
+
+"pokud seš ráda, zavolej mi, nebo posloucháme rádio, nebo jdeme do moře, nebo jdeme do moře, nebo jdeme do moře"
+
+Řešení této úlohy je následující:
+
+Správně formátovaným textem je:
+
+"Wenn du gerne bist, ruf mich an, oder wir hören Radio, oder wir gehen zum Meer, oder wir gehen zum Meer, oder wir gehen zum Meer."
+
+Tato věta je úpravena podle německých pravidel pro psaní. Použité úpravy jsou:
+
+- "pokud" přeloženo jako "wenn"
+- "seš ráda" přeloženo jako "du gerne bist"
+- "zavolej mi" přeloženo jako "ruf mich an"
+- "posloucháme rádio" přeloženo jako "hören Radio"
+- "jdeme do moře" přeloženo jako "gehen zum Meer"
+
+Řešení 5: Přeložte následující německé věty do češtiny:
+
+- "Die Sonne scheint auf die Erde."
+- "Ich esse gerne Apfelstrudel."
+
+Řešení této úlohy je následující:
+
+1. "Die Sonne scheint auf die Erde." 
+- Překlad do češtiny: "Slunce svítí na zem."
+- Použité překlady jsou:
+- "Die" přeloženo jako "Slunce" nebo "slunce", ale v tomto kontextu je lepší použít "slunce" nebo "Slunce".
+- "scheint" přeloženo jako "svítí" nebo "svítí na", ale v tomto kontextu je lepší použít "svítí" nebo "svítí na".
+- "auf" přeloženo jako "na" nebo "do", ale v tomto kontextu je lepší použít "na" nebo "do".
+- "die Erde" přeloženo jako "zem" nebo "země", ale v tomto kontextu je lepší použít "zem" nebo "země".
+
+2. "Ich esse gerne Apfelstrudel." 
+- Překlad do češtiny: "Jsem ráda z Apfelstrudel."
+- Použité překlady jsou:
+- "Ich" přeloženo jako "Jsem" nebo "jsem", ale v tomto kontextu je lepší použít "jsem" nebo "Jsem".
+- "esse" přeloženo jako "jí" nebo "jí", ale v tomto kontextu je lepší použít "jí" nebo "jí".
+- "gerne" přeloženo jako "ráda" nebo "ráda z", ale v tomto kontextu je lepší použít "ráda" nebo "rá

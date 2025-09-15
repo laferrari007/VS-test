@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Elektroenergetika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:02:31
+
+Úkol 1: Vypočítejte výkon proudového zdroje s nominální hodnotou 12 V a proudem 1,5 A.
+
+Úkol 2: Popište principy provozu jaderné elektrárny a uveďte její hlavní části.
+
+Úkol 3: Rozložte síťový proud podle zákona Ohma pro elektrický obvod s následujícími parametry: R1 = 100 Ω, R2 = 200 Ω, Vcc = 12 V.
+
+Úkol 4: Vypočítejte účinnost transformátoru s primární indukčností 100 mH, sekundární indukčností 10 mH a napájecím napětím 230 V.
+
+Úkol 5: Uveďte typy elektrických generátorů a jejich výhody a nevýhody.
+
+Úkol 6: Vypočítejte aktivní a reaktivní výkon v elektrickém obvodu s napětím 220 V, proudem 10 A a fázovým posuvem 30°.
+
+Úkol 7: Popište principy provozu fotovoltaické elektrárny a uveďte její hlavní části.
+
+Úkol 8: Vypočítejte indukčnost transformátoru s primární proudem 2 A, sekundárním proudem 10 A a napájecím napětím 230 V.
+
+Úkol 9: Uveďte typy elektrických ochran a jejich použití v elektrických sítích.
+
+Úkol 10: Vypočítejte účinnost elektrického generátoru s efektivním výkonem 100 kW, skutečným výkonem 90 kW a účinností 0,9.

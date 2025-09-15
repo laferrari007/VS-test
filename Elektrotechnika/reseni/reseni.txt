@@ -1,0 +1,74 @@
+# AI Generované řešení úkolů pro předmět: Elektrotechnika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:00:06
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vypočítejte napětí na konci 10m drátu s odporovým odporem 0,2 ohmů a proudem 2 Ampéry.
+
+Zákon Ohmův je dán vztahem: U = R \* I, kde U je napětí, R je odpor a I je proud.
+
+V tomto případě máme odpor R = 0,2 ohmů a proud I = 2 Ampéry. Chceme vypočítat napětí U na konci 10m drátu.
+
+Nejprve potřebujeme odpor drátu v ohmech. Odpor drátu je dán vztahem: R = ρ \* l / A, kde ρ je elektrický odpor materiálu, l je délka drátu a A je jeho povrchová plocha.
+
+Pro běžný drát s elektrickým odporem materiálu ρ = 1,8 \* 10^(-8) Ωm, délku 10m a průřez 1 mm, můžeme vypočítat odpor:
+
+R = ρ \* l / A = 1,8 \* 10^(-8) \* 10 / (π \* (1/2)^2) = 0,0028 Ω
+
+Nyní můžeme použít zákon Ohmův k vypočítání napětí:
+
+U = R \* I = 0,0028 \* 2 = 0,0056 V
+
+Řešení 2: Popište principy funkce transformátoru a vysvěltejte rozdíl mezi sériovým a paralelním zapojením primární a sekundární obvodu.
+
+Transformátor je elektrotechnický přístroj, který převádí napětí a proud mezi dvěma obvody. Princip jeho funkce je založen na indukčním účinku, kdy se napětí indukuje v obvodu v důsledku změny magnetického pole.
+
+Primární obvod transformátoru je obvod, který je spojený s zdroj napětí a proudem. Sekundární obvod je obvod, který je spojený s zařízením, které má být napájené.
+
+Sériové zapojení primárního a sekundárního obvodu znamená, že jsou obě obvody spojeny v řetězce. V tomto případě se napětí a proud přenáší z primárního obvodu do sekundárního obvodu současně.
+
+Paralelní zapojení primárního a sekundárního obvodu znamená, že jsou obě obvody spojeny paralelně. V tomto případě se napětí přenáší z primárního obvodu do sekundárního obvodu současně, ale proud je větší než v sériovém zapojení.
+
+Řešení 3: Vypočítejte hodnotu rezistoru, který má zúžit proud 5 Ampér do 2 Ampéru při napětí 15 Voltů.
+
+Použijeme zákon Ohmův k vypočítání odporu rezistoru:
+
+U = R \* I
+
+V tomto případě máme napětí U = 15 V a proud I1 = 5 A a I2 = 2 A. Chceme vypočítat odpor R:
+
+R = U / (I2 - I1) = 15 / (2 - 5) = 15 / (-3) = -5 Ω
+
+Ještě se však musíme vypořádat s negativním výsledkem. Odpor nemůže být záporný, proto použijeme úpravu:
+
+R = 15 / (5 - 2) = 15 / 3 = 5 Ω
+
+To znamená, že rezistor musí mít hodnotu 5 Ω.
+
+Řešení 4: Vysvěltejte rozdíl mezi RC a RL filtry a popište jejich použití v praxi.
+
+RC filtr je elektronický filtr, který používají k odstranění nebo eliminaci určitých frekvencí z elektrického signálu. Je tvořen kombinací rezistoru a kondenzátoru. Funkce RC filtru je založena na vlastnostech kondenzátoru, který má vysoké impedance při nízkých frekvencích a nízkou impedance při vysokých frekvencích.
+
+RL filtr je elektronický filtr, který používají k odstranění nebo eliminaci určitých frekvencí z elektrického signálu. Je tvořen kombinací rezistoru a indukční rezistence. Funkce RL filtru je založena na vlastnostech indukční rezistence, která má vysoké impedance při vysokých frekvencích a nízkou impedance při nízkých frekvencích.
+
+RC filtry jsou používány v aplikacích, jako jsou:
+
+- Odstraňování šumu z elektrických signálů
+- Eliminace určitých frekvencí z elektrických signálů
+- Regulace napětí v elektrických obvodech
+
+RL filtry jsou používány v aplikacích, jako jsou:
+
+- Odstraňování šumu z elektrických signálů
+- Eliminace určitých frekvencí z elektrických signálů
+- Regulace proudů v elektrických obvodech
+
+Řešení 5: Rozhodněte, zda je možné nahradit tranzistor NPN 2N2222A tranzistorem PNP 2N2907A. Vysvěltejte důvody svého rozhodnutí.
+
+Tranzistor NPN 2N2222A a tranzistor PNP 2N2907A jsou dva různé typy tranzistorů. Tranzistor NPN je tranzistor, který se používá jako výstupní tranzistor, zatímco tranzistor PNP je tranzistor, který se používá jako vstupní tranzistor.
+
+Důvody, proč nelze nahradit tranzistor NPN 2N2222A tranzistorem PNP 2N2907A, jsou:
+
+- Různé typy tranzistorů: Tranzistor NPN 2N2222A a tranzistor PNP 2N2907A jsou dva různé typy tranzistorů, které se používají k různým účelům.
+- Různé vlastnosti: Tranzistor NPN 2N2222A a tranzistor PNP 2N2907A mají různé vlastnosti, jako je odpor báze-emitor, odpor kolektoru-emitor a výstupní napětí.
+- Různé aplikace: Tranzistor NPN 2N2222A a tranzistor PNP 2N2907A jsou používány v různých aplikacích, jako jsou výstupní obvody a vstupní ob

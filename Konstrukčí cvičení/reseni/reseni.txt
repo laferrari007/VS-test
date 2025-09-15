@@ -1,0 +1,121 @@
+# AI Generované řešení úkolů pro předmět: Konstrukčí cvičení
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:59:36
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Navrhněte jednoduchou konstrukci stolu s rovnou podlahou a postranními nohami. Použijte grafické programy (např. Autodesk Inventor, SolidWorks) a přiložte náčrt stolu s rozměry a materiálovými vstupními daty.
+
+**Popis konstrukce:**
+
+Stůl s rovnou podlahou a postranními nohami se skládá z následujících součástí:
+
+- Podlaha: rovná deska o rozměrech 1200 mm x 800 mm
+- Postranní nohy: dvourozměrné sloupy o rozměrech 200 mm x 150 mm
+- Nohy jsou umístěny podél délky stolu, každý 400 mm od sebe
+- Podlaha je spojená s nohama pomocí hřídelí a šroubů
+
+**Grafické programy:**
+
+Pro návrh stolu použijeme grafické programy Autodesk Inventor nebo SolidWorks. Návrh bude sestávat z následujících kroků:
+
+1. Vytvoření podlahy: vytvoříme rovnou desku o rozměrech 1200 mm x 800 mm.
+2. Vytvoření postranních noh: vytvoříme dvourozměrné sloupy o rozměrech 200 mm x 150 mm.
+3. Spojení nohy s podlahou: spojíme nohy s podlahou pomocí hřídelí a šroubů.
+4. Vytvoření stolu: spojíme podlahu a nohy do celé konstrukce stolu.
+
+**Materiálové vstupní data:**
+
+Pro návrh stolu použijeme následující materiálová vstupní data:
+
+- Podlaha: ocelová deska o tloušťce 10 mm
+- Postranní nohy: ocelový sloupec o tloušťce 20 mm
+- Hřídele a šrouby: ocelové hřídele a šrouby o průměru 10 mm
+
+**Náčrt stolu:**
+
+Náčrt stolu s rozměry a materiálovými vstupními daty vypadá takto:
+
+| Rozměr | Materiál |
+| --- | --- |
+| Podlaha | Ocelová deska 1200 mm x 800 mm x 10 mm |
+| Postranní nohy | Ocelový sloupec 200 mm x 150 mm x 20 mm |
+| Hřídele a šrouby | Ocelový hřídel a šroub 10 mm |
+
+**Konstrukční návrh:**
+
+Pro návrh stolu použijeme následujících konstrukčních principů:
+
+- Podlaha je spojená s nohama pomocí hřídelí a šroubů, aby se zajistilo pevné spojení.
+- Nohy jsou umístěny podél délky stolu, aby se zajistilo rovné podlahy.
+- Postranní nohy jsou vyrobeny z ocelového sloupu, aby se zajistilo dostatečné nosnost.
+
+**Konec řešení:**
+
+Toto je detailní řešení prvního zadaného úkolu.
+
+---
+
+Řešení 2: Navrhněte konstrukci otočné ojnice s kuličkovým hnacím mechanismem. Použijte teorii ojnic a kuličkových mechanismů k výpočtu rozměrů a návrhové dokumentaci.
+
+**Popis konstrukce:**
+
+Otočná ojnice s kuličkovým hnacím mechanismem se skládá z následujících součástí:
+
+- Otočná ojnice: otočná ojnice o rozměrech 100 mm x 50 mm
+- Kuličkový mechanism: kuličkový mechanism s kuličkami o rozměrech 20 mm x 10 mm
+- Hřídel: hřídel o rozměrech 100 mm x 20 mm
+
+**Teorie ojnic a kuličkových mechanismů:**
+
+Pro návrh otočné ojnice použijeme teorii ojnic a kuličkových mechanismů. Návrh bude sestávat z následujících kroků:
+
+1. Vypořádáme rozměry otočné ojnice.
+2. Vypořádáme rozměry kuličkového mechanismu.
+3. Vypořádáme rozměry hřídele.
+4. Spojíme otočnou ojnici s kuličkovým mechanismem a hřídelí.
+
+**Vypořádání rozměrů:**
+
+Pro návrh otočné ojnice použijeme následující rovnice:
+
+- \(R = \frac{L}{2}\) (rozměr otočné ojnice)
+- \(D = \frac{R}{2}\) (délka kuličkového mechanismu)
+- \(B = \frac{D}{2}\) (šířka kuličky)
+
+**Výpočty:**
+
+Pro návrh otočné ojnice použijeme následující výpočty:
+
+- \(R = \frac{100}{2} = 50\) mm
+- \(D = \frac{50}{2} = 25\) mm
+- \(B = \frac{25}{2} = 12,5\) mm
+
+**Návrhové dokumentace:**
+
+Návrh otočné ojnice s kuličkovým hnacím mechanismem vypadá takto:
+
+Otočná ojnice 100 mm x 50 mm
+Kuličkový mechanism 25 mm x 12,5 mm
+Hřídel 100 mm x 20 mm
+
+**Konstrukční návrh:**
+
+Pro návrh otočné ojnice použijeme následujících konstrukčních principů:
+
+- Otočná ojnice je vyrobena z ocelového plechu, aby se zajistilo dostatečné nosnost.
+- Kuličkový mechanism je vyrobena z ocelového plechu, aby se zajistilo dostatečné nosnost.
+- Hřídel je vyrobena z ocelového plechu, aby se zajistilo dostatečné nosnost.
+
+**Konec řešení:**
+
+Toto je detailní řešení druhého zadaného úkolu.
+
+---
+
+Řešení 3: Navrhněte konstrukci nosného prvku (např. sloup) s pevnými koncovými body. Použijte statické rovnice k výpočtu nosné kapacity a návrhové dokumentaci.
+
+**Popis konstrukce:**
+
+Nosný prvek (sloup) s pevnými koncovými body se skládá z následujících součástí:
+
+- Sloup: sloup o rozměrech 200 mm

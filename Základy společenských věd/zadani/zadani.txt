@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Základy společenských věd
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:55:25
+
+Úkol 1: Použijte teorii sociálního kontraktu k vysvětlení role státu v společnosti. Vysvětlete, jak se stát podílí na vytváření a udržování sociálních jistot.
+
+Úkol 2: Porovnejte a srovnajte dva různé modely sociálního státu (například model USA a model Velké Británie). Vysvětlete, jak se tyto modely liší v přístupu k zajišťování sociálních služeb a zajištění sociálních jistot.
+
+Úkol 3: Diskutujte o roli médií v šíření informacím o sociálních problémech. Jaké jsou hlavní výzvy a problémy, které se souvisejí s mediální zodpovědností? Poskytněte příklady konkrétních případů.
+
+Úkol 4: Analyzujte vztah mezi ekonomikou a sociálním vztahem. Vysvětlete, jak ekonomické změny ovlivňují sociální vztahy a jak sociální vztahy ovlivňují ekonomiku.
+
+Úkol 5: Diskutujte o tom, zda je kapitalismus efektivní v poskytování sociálních služeb. Poskytněte argumenty pro a proti této tvrzení a použijte konkrétní příklady.
+
+Úkol 6: Použijte teorii sociální kapitalu k vysvětlení, jak sociální vztahy ovlivňují zdraví jednotlivců a komunit. Vysvětlete, jak sociálka se vytváří a udržuje.
+
+Úkol 7: Analyzujte roli rodiny v sociálním vztahu. Vysvětlete, jak rodinné vztahy ovlivňují sociální chování a jak sociální chování ovlivňuje rodinné vztahy.
+
+Úkol 8: Studujte případ sociálních hnutí (například hnutí za práva žen nebo hnutí za práva menšin). Vysvětlete, jak se tato hnutí vyvinula a jak dosáhla svých cílů.
+
+Úkol 9: Použijte teorii sociální konstrukcí k vysvětlení, jak jsou sociální problémy definovány a řešeny. Vysvětlete, jak sociální konstrukce ovlivňují naše pochopení sociálních problémů.
+
+Úkol 10: Diskutujte o tom, zda je možné dosáhnout spravedlnosti v sociálním vztahu. Poskytněte argumenty pro a proti této tvrzení a použijte konkrétní příklady.

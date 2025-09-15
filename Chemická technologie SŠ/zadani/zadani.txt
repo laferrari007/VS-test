@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Chemická technologie SŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:03:28
+
+Úkol 1: Vypočítejte množství produkované oxidu uhličitého při spalování 1 kg uhlího prášku v reaktoru s teplem 1000 °C a tlakem 1 atm.
+
+Úkol 2: Popište proces výroby 95% vodíku z vody pomocí elektrolytické destilace a uveďte jeho chemickou rovnici.
+
+Úkol 3: Představte si výrobu 1 tónu chloričnanu sodného (NaClO3) a vypočítejte množství potřebného chloru a kyslíku.
+
+Úkol 4: Popište alegoricky výrobu kapalinového benzínu z ropy pomocí hydroskrébace a uveďte hlavní chemické reakce.
+
+Úkol 5: Uveďte rovnice a vyhodnoťte účinnost výroby kyseliny sírové (H2SO4) z síranu hlinitého (Al2(SO4)3) a síranu amonného (NH4)2SO4) metodou kontaktování.
+
+Úkol 6: Vypočítejte množství rozpuštěného uhlíku v 1 m3 50% roztoku octanu hlinitého (Al(C2H3O2)3) a urči jeho chemickou zodpovědnost.
+
+Úkol 7: Popište alegoricky výrobu 99% kyseliny sírové (H2SO4) metodou kontaktování síranu amonného (NH4)2SO4) a síranu hlinitého (Al2(SO4)3), a uveďte hlavní chemické reakce.
+
+Úkol 8: Vypočítejte množství produkovaného oxidu uhličitého při spalování 2 kg kapalinového benzínu v reaktoru s teplem 900 °C a tlakem 1 atm.
+
+Úkol 9: Představte si výrobu 1 tónu chloričnanu sodného (NaClO3) a uveďte jeho chemické rovnice a proces výroby. Zjistěte také hlavní chemické reakce při této výrobě.
+
+Úkol 10: Uveďte rovnice a vyhodnoťte účinnost výroby kyseliny sírové (H2SO4) z síranu hlinitého (Al2(SO4)3), síranu amonného (NH4)2SO4) a vápnitého síranu (CaSO4) metodou kontaktování a následnou krystalizací.

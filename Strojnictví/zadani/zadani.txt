@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Strojnictví
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:59:50
+
+Úkol 1: Základní úkol z předmětu Strojnictví - úroveň 1
+
+Úkol 2: Základní úkol z předmětu Strojnictví - úroveň 2
+
+Úkol 3: Základní úkol z předmětu Strojnictví - úroveň 3
+
+Úkol 4: Základní úkol z předmětu Strojnictví - úroveň 4
+
+Úkol 5: Základní úkol z předmětu Strojnictví - úroveň 5
+
+Úkol 6: Základní úkol z předmětu Strojnictví - úroveň 6
+
+Úkol 7: Základní úkol z předmětu Strojnictví - úroveň 7
+
+Úkol 8: Základní úkol z předmětu Strojnictví - úroveň 8
+
+Úkol 9: Základní úkol z předmětu Strojnictví - úroveň 9
+
+Úkol 10: Základní úkol z předmětu Strojnictví - úroveň 10

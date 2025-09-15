@@ -1,0 +1,28 @@
+# AI Generované zadání úkolů pro předmět: Pravděpodobnost a statistika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:04:30
+
+Úkol 1: Vypočítejte střední hodnotu a rozptyl pro distribuci Bernoulli s parametrem p = 0,5.
+
+Úkol 2: Zjistěte, zda je pravděpodobnost události A a události B nezávislá (na základě podmínky nezávislosti) a zjisti jejich společnou pravděpodobnost.
+
+Úkol 3: Pro rozdělení normální s střední hodnotou μ = 10 a rozptylem σ = 2 vypočtěte pravděpodobnost P(X < 12) a P(X > 8).
+
+Úkol 4: Uvažujte binomální rozdělení s parametrem n = 10 a p = 0,3. Vypočtěte střední hodnotu a rozptyl této distribuce.
+
+Úkol 5: Uvažujte Poissonovo rozdělení s parametrem λ = 5. Vypočtěte střední hodnotu a rozptyl této distribuce.
+
+Úkol 6: Zjistěte koeficient korelace mezi dvěma náhodnými proměnnými X a Y s následujícími charakteristikami: E(X) = 5, E(Y) = 3, σ²(X) = 4, σ²(Y) = 9.
+
+Úkol 7: Pro rozdělení exponenciální s parametrem λ = 0,2 vypočtěte střední hodnotu a rozptyl této distribuce.
+
+Úkol 8: Pro rozdělení binomální s parametrem n = 15 a p = 0,4 vypočtěte pravděpodobnost P(X = 6), P(X ≤ 6) a P(X ≥ 6).
+
+Úkol 9: Pro rozdělení normální s střední hodnotou μ = 10 a rozptylem σ = 3 vypočtěte pravděpodobnost P(8 < X < 12).
+
+Úkol 10: Uvažujte Markovovu řetězovou řetězec s následujícím přechodovým matricí:
+
+| 0,7  | 0,3 |
+| 0,4  | 0,6 |
+
+Zjistěte pravděpodobnost, že se řetězec nachází ve stavu 2 po 3 krocích.

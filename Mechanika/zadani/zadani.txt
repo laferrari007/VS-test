@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Mechanika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:05:26
+
+Úkol 1: Vypočtěte sílu, kterou vyvine kladina o rozměru 2 m × 3 m, pokud se na její vrchol aplikuje síla 100 N pod úhlem 30°.
+
+Úkol 2: Proveďte analýzu rovnováhy systému dvou hmotných koulí zatažených opevněním v libovolném bodě. Zjistěte podmínky, za nichž systém dosáhne rovnováhy.
+
+Úkol 3: Kruhová kola s rozměrem 0,5 m a hmotností 10 kg se pohybují po rovném povrchu s úhlovou rychlostí 5 rad/s. Vypočtěte jejich kinetickou energii.
+
+Úkol 4: Proveďte dynamiku pružného lanka na podporu kladiny o hmotnosti 5 kg a délce 2 m, které se pohybuje pod úhlem 45°.
+
+Úkol 5: Analyzujte síly a momenty v systému dvou válců spojených ohebným řetězem o délce 1,5 m a hmotnosti 20 kg.
+
+Úkol 6: Proveďte statickou analýzu mostu se dvěma podpěrami o výšce 10 m a rozpětí 20 m, pokud je zatížen silou 50 kN.
+
+Úkol 7: Rozhodněte o typu pohybu kruhové koule o hmotnosti 50 kg, která se pohybuje po kulatém povrchu o rozměru 3 m s úhlovou rychlostí 10 rad/s.
+
+Úkol 8: Počtěte sílu, kterou vyvine kladina o rozměru 4 m × 6 m, pokud se na její vrchol aplikuje síla 200 N pod úhlem 45°.
+
+Úkol 9: Proveďte analýzu stability kladiny o hmotnosti 8 kg a délce 3 m, která se pohybuje pod úhlem 60°.
+
+Úkol 10: Analyzujte síly a momenty v systému dvou válců spojených pevnou linkou o délce 2 m a hmotnosti 30 kg, které se pohybují v libovolném úhlu.

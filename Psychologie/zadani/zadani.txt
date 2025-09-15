@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Psychologie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:54:27
+
+Úkol 1: Popište rozdíl mezi instinktivní a učeními chováním. Uveďte příklady obou typů chování.
+
+Úkol 2: Porovnejte teorii podmíněného reflektu (Ivan Pavlov) a teorii operančního učení (B.F. Skinner). Uveďte příklady aplikací obou teorií v psychologii.
+
+Úkol 3: Popište procesy spojené s pocitem strachu a jeho důsledky na lidské chování. Uveďte příklady terapeutických strategií pro ovlivnění strachu.
+
+Úkol 4: Analyzujte role osobnostních vlastností (např. extraverze, introverze) v souvislosti s sociálním chováním. Uveďte příklady studií, které podporují nebo popírají vztah mezi osobnostními vlastnostmi a sociálním chováním.
+
+Úkol 5: Porovnejte koncepty "vědomí sebe sama" a "identita". Uveďte příklady výzkumů, které přispívají k pochopení těchto konceptů.
+
+Úkol 6: Popište vztah mezi kognitivní disonancí a procesy rozhodování. Uveďte příklady studií, které demonstrovat, jak kognitivní disonance ovlivňuje lidská rozhodnutí.
+
+Úkol 7: Analyzujte vliv emocí na pozornost a paměť. Uveďte příklady experimentů, které demonstrovat, jak emocionální stav ovlivňuje pozornost a paměť.
+
+Úkol 8: Porovnejte modely osobnostního rozvoje (např. model Maslowa, Eriksonův model). Uveďte příklady výzkumů, které podporují nebo popírají tyto modely.
+
+Úkol 9: Popište vztah mezi stresovými reakcemi a fyziologickými změnami v těle. Uveďte příklady studií, které demonstrovat, jak stres ovlivňuje fyziologické procesy.
+
+Úkol 10: Analyzujte role kognitivních Distorsí v procesu myšlení. Uveďte příklady studií, které demonstrovat, jak kognitivní distorsí ovlivňují lidské myšlení a chování.

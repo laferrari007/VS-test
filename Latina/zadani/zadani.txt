@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Latina
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:53:50
+
+Úkol 1: Přeložte latinský text "Cena virtutis est gloria" do češtiny.
+
+Úkol 2: Vyberte tři příklady latinských frází, které se používají v češtině, a připojte je s jejich českým překladem.
+
+Úkol 3: Přeložte latinské básně "Oda na zahradu" od Ovidia do češtiny.
+
+Úkol 4: Analyzujte význam a použití latinského slova "amor" v různých kontextech.
+
+Úkol 5: Přeložte latinský text "Memento mori" do češtiny a vysvětlete jeho význam a použití.
+
+Úkol 6: Vyložte strukturu latinského příběhu o Orfeovi a Eurydikě.
+
+Úkol 7: Přeložte latinské prozodie "Ode k Anděli" od Catuluse do češtiny a analyzujte jeho jazykovou a poetickou hodnotu.
+
+Úkol 8: Porovnejte latinské texty "Oda na den vítězství" od Horatia a "Oda k císaři Augustovi" od Vlčka a diskutujte o jejich podobnostech a rozdílích.
+
+Úkol 9: Přeložte latinský text "De rerum natura" od Lukrea do češtiny a analyzujte jeho filozofické a poetické prvky.
+
+Úkol 10: Připravte přednášku o historii a rozvoji latina v Evropě a diskutujte o jejím významu v současném světě.

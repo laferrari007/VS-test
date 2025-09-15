@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Elektrotechnika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:00:06
+
+Úkol 1: Vypočítejte napětí na konci 10m drátu s odporovým odporem 0,2 ohmů a proudem 2 Ampéry. Použijte zákon Ohmův.
+
+Úkol 2: Popište principy funkce transformátoru a vysvětlejte rozdíl mezi sériovým a paralelním zapojením primární a sekundární obvodu.
+
+Úkol 3: Vypočítejte hodnotu rezistoru, který má zúžit proud 5 Ampér do 2 Ampér při napětí 15 Voltů.
+
+Úkol 4: Vysvětlejte rozdíl mezi RC a RL filtry a popište jejich použití v praxi.
+
+Úkol 5: Úloha: Rozhodněte, zda je možné nahradit tranzistor NPN 2N2222A tranzistorem PNP 2N2907A. Vysvětlejte důvody svého rozhodnutí.
+
+Úkol 6: Vypočítejte hodnotu napětí na bázi tranzistoru, pokud proudem prochází základna-emitor 10mA a rezistorem R1 o hodnotě 1kΩ.
+
+Úkol 7: Popište principy funkce indukčních rezistorů a vysvětlejte jejich použití v praxi.
+
+Úkol 8: Úloha: Proveďte analýzu obvodu sestaveného z tranzistoru, rezistorů a kondenzátorů, včetně výpočtu napětí na jednotlivých uzlech a proudů procházejících tranzistorem.
+
+Úkol 9: Vypočítejte hodnotu napětí na sekundární straně transformátoru, pokud je primární napětí 230V a sekundární napětí 12V a primární proud 2A.
+
+Úkol 10: Úloha: Navrhněte obvod pro regulaci napětí zdroje 12V pomocí regulátoru 7805, který je navázán na vstupní napětí 15V. Vysvětlejte principy funkce regulátoru a jeho použití v praxi.

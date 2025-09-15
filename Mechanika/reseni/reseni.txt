@@ -1,0 +1,94 @@
+# AI Generované řešení úkolů pro předmět: Mechanika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:05:26
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vypočtěte sílu, kterou vyvine kladina o rozměru 2 m × 3 m, pokud se na její vrchol aplikuje síla 100 N pod úhlem 30°.
+
+Abychom vypočítali sílu, kterou kladina vyvine, musíme nejprve určit sílu, která se na kladinu aplikuje (tj. síla 100 N) a potom ji převést na souřadnice x a y. Potom můžeme použít síly, které se na kladinu aplikují a síly, které jsou vyvolány kladinou, abychom vypočítali výslednou sílu.
+
+Síla se na kladinu aplikuje pod úhlem 30°, takže můžeme ji vyjádřit ve souboru souřadnic x a y následovně:
+
+Fx = 100 N * cos(30°) = 86,6 N
+Fy = 100 N * sin(30°) = 50 N
+
+Vzorec pro sílu, kterou kladina vyvine, je následující:
+
+F = √(Fx² + Fy² + 2 * Fx * Fy * cos(α))
+
+kde α je úhel mezi sílou a osou y.
+
+F = √(86,6² + 50² + 2 * 86,6 * 50 * cos(30°))
+F = √(7500,96 + 2500 + 8616 * 0,866)
+F = √(10001,96 + 7452,536)
+F = √17454,496
+F = 132,3 N
+
+Tato síla je vyvolána kladinou a je vodorovně orientována.
+
+Řešení 2: Proveďte analýzu rovnováhy systému dvou hmotných koulí zatažených opevněním v libovolném bodě. Zjistěte podmínky, za nichž systém dosáhne rovnováhy.
+
+Analýza rovnováhy systému dvou hmotných koulí zatažených opevněním v libovolném bodě vyžaduje, aby se pohybovaly pouze v jednom rozměru (přímo nebo vodorovně). Pokud se pohybují ve více rozměrech, systém nebude v rovnováze.
+
+Základním předpokladem pro analýzu rovnováhy je, že systém se pohybuje pouze v jednom rozměru. Za těchto podmínek lze použít zákon zachování impulzu a princip rovnováhy.
+
+Zákon zachování impulzu říká, že součet impulsů vstupujících do systému musí být roven součtu impulsů odcházejících z systému. V případě systému dvou hmotných koulí zatažených opevněním v libovolném bodě se součet impulsů vstupujících do systému rovná součtu impulsů odcházejících z systému.
+
+Princip rovnováhy říká, že pokud systém není v pohybu, jeho impulz je nulový. V případě systému dvou hmotných koulí zatažených opevněním v libovolném bodě je impulz systému nulový, pokud se pohybují pouze v jednom rozměru.
+
+Podmínky pro dosažení rovnováhy jsou následující:
+
+1. Systém se pohybuje pouze v jednom rozměru (přímo nebo vodorovně).
+2. Impulz systému je nulový.
+3. Systém není v pohybu.
+
+Pokud jsou splněny tyto podmínky, systém dosáhne rovnováhy.
+
+Řešení 3: Kruhová kola s rozměrem 0,5 m a hmotností 10 kg se pohybují po rovném povrchu s úhlovou rychlostí 5 rad/s. Vypočtěte jejich kinetickou energii.
+
+Kinetickej energie kruhových kol se pohybuje po rovném povrchu je dána následujícími vzorci:
+
+Ek = (1/2) * m * (v * r)²
+
+kde m je hmotnost kola, v je úhlová rychlost kola a r je poloměr kola.
+
+Podle zadání úkolu:
+
+m = 10 kg
+v = 5 rad/s
+r = 0,5 m
+
+Vstupujeme tyto hodnoty do vzorce:
+
+Ek = (1/2) * 10 * (5 * 0,5)²
+Ek = (1/2) * 10 * 25 * 0,25
+Ek = 6,25 J
+
+Tato hodnota reprezentuje kinetickou energii kruhových kol.
+
+Řešení 4: Proveďte dynamiku pružného lanka na podporu kladiny o hmotnosti 5 kg a délce 2 m, které se pohybuje pod úhlem 45°.
+
+Dynamiku pružného lanka na podporu kladiny o hmotnosti 5 kg a délce 2 m, které se pohybuje pod úhlem 45°, lze analyzovat pomocí následujících kroků:
+
+1. Vypočtěte sílu, která se na kladinu aplikuje (tj. tíha kladiny).
+2. Vypočtěte sílu, která se na pružný lanek aplikuje (tj. síla, kterou vyvine kladina).
+3. Vypočtěte sílu, která se na pružný lanek aplikuje (tj. síla, která vyvine pružný lanek).
+
+Vstupujeme hodnoty do vzorců:
+
+1. Tíha kladiny:
+m = 5 kg
+g = 9,81 m/s²
+F = m * g = 5 * 9,81 = 49,05 N
+
+2. Síla, kterou vyvine kladina:
+F = 49,05 N * sin(45°) = 34,65 N
+
+3. Síla, která vyvine pružný lanek:
+F = 34,65 N * sin(45°) = 24,46 N
+
+Tato síla je vyvolána pružným lánkem a je vodorovně orientována.
+
+Řešení 5: Analyzujte síly a momenty v systému dvou válců spojených ohebným řetězem o délce 1,5 m a hmotnosti 20 kg.
+
+Systém dvou válců spojených ohebným řetězem o délce 1,5 m a hmotnosti 20 kg vyžaduje analýzu síl a momentů v systému. Základním předpokladem je, že systém se pohybuje pouze v jednom rozměru (přímo nebo vodorovně).

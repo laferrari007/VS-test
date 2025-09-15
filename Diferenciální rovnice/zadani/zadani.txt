@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Diferenciální rovnice
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:04:13
+
+Úkol 1: Základní úkol z předmětu Diferenciální rovnice - úroveň 1
+
+Úkol 2: Základní úkol z předmětu Diferenciální rovnice - úroveň 2
+
+Úkol 3: Základní úkol z předmětu Diferenciální rovnice - úroveň 3
+
+Úkol 4: Základní úkol z předmětu Diferenciální rovnice - úroveň 4
+
+Úkol 5: Základní úkol z předmětu Diferenciální rovnice - úroveň 5
+
+Úkol 6: Základní úkol z předmětu Diferenciální rovnice - úroveň 6
+
+Úkol 7: Základní úkol z předmětu Diferenciální rovnice - úroveň 7
+
+Úkol 8: Základní úkol z předmětu Diferenciální rovnice - úroveň 8
+
+Úkol 9: Základní úkol z předmětu Diferenciální rovnice - úroveň 9
+
+Úkol 10: Základní úkol z předmětu Diferenciální rovnice - úroveň 10

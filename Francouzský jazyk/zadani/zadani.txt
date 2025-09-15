@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Francouzský jazyk
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:57:10
+
+Úkol 1: Přeložte do francouzštiny větu "Jsem rád, že jsi tady." a vysvětlete rozdíl mezi příslovím a příslovečným zájmenem.
+
+Úkol 2: Vyberte vhodné slovo ze skupiny "voiture", "moto", "bateau" a přeložte větu "Jsem ráda na kole."
+
+Úkol 3: Přeložte do francouzštiny rozhovor mezi dvěma přáteli, který probíhá na kavárně. Uživatelé by měli použít současné časy.
+
+Úkol 4: Vypracujte konverzační dialog mezi dvěma studenty, kteří se rozhodli navštívit Paříž. Používejte příslovce a příslovečná zájmena.
+
+Úkol 5: Přeložte text o turistických zajímavostech v Paříži a vysvětlete rozdíl mezi příslovečným zájmenem a příslovečným zájmenem.
+
+Úkol 6: Vypracujte úryvek z francouzské noviny o aktuálním tématu a přeložte ho do češtiny. Používejte příslovce a příslovečná zájmena.
+
+Úkol 7: Přeložte francouzský filmový scénář do češtiny a vysvětlete rozdíl mezi příslovečným zájmenem a příslovečným zájmenem.
+
+Úkol 8: Vypracujte úryvek z francouzské knížky a přeložte ho do češtiny. Používejte příslovce a příslovečná zájmena.
+
+Úkol 9: Přeložte francouzský článek o kulturním tématu do češtiny a vysvětlete rozdíl mezi příslovečným zájmenem a příslovečným zájmenem.
+
+Úkol 10: Vypracujte překlad francouzské básně do češtiny a vysvětlete rozdíl mezi příslovečným zájmenem a příslovečným zájmenem.

@@ -1,0 +1,25 @@
+# AI Generované zadání úkolů pro předmět: Dramatická výchova
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:56:35
+
+Děkuji za požádání. Zde jsou 10 univerzitních úkolů pro předmět "Dramatická výchova":
+
+Úkol 1: Analyzujte dramatické dílo (například divadelní hra nebo film) a popsme jeho dramatickou strukturu, včetně vstupu, vrcholu a závěru. Jak se dramatický vývoj odráží v hereckém výkonu a režijním přístupu?
+
+Úkol 2: Vyberte jednoduchou scénu ze hry nebo filmu a vytvořte vlastní interpretaci a herecký přístup. Zpracujte práci na práci s emocemi a hereckou technikou, aby se dosáhlo požadovaného účinku.
+
+Úkol 3: Analyzujte roli vybraného herce v dramatickém díle a diskutujte jeho herecký přístup a jeho vztah k ostatním postavám. Jak se herecký výkon odráží v dramatickém rozvoji?
+
+Úkol 4: Představte si, že jste režisérem a máte na starosti přípravu divadelní hry. Vyzdvihněte nejdůležitější momenty a scény a vysvětlíte, jak je budete prezentovat na jevišti.
+
+Úkol 5: Vyberte dramatické dílo a vytvořte vlastní scénář pro adaptaci do jiného média (například filmu nebo televizní sérii). Vysvětlujte své rozhodnutí a jak se snažíte zachovat duch originálu.
+
+Úkol 6: Analyzujte dramatickou strukturu vybraného díla a diskutujte, jak se odráží v hereckém výkonu a režijním přístupu. Jak se dramatický vývoj odráží v použití prostoru a světelného efektu na jevišti?
+
+Úkol 7: Představte si, že jste herec a máte na starosti přípravu role v dramatickém díle. Vyzdvihněte nejdůležitější momenty a scény a vysvětlíte, jak je budete hrát.
+
+Úkol 8: Vyberte dramatické dílo a vytvořte vlastní herecký přístup k jedné z hlavních postav. Zpracujte práci na práci s emocemi a hereckou technikou, aby se dosáhlo požadovaného účinku.
+
+Úkol 9: Analyzujte dramatické dílo a diskutujte o jeho sociální a kulturní kontextu. Jak se dramatický vývoj odráží v použití jazyka a kultury v díle?
+
+Úkol 10: Představte si, že jste režisérem a máte na starosti přípravu divadelní hry, která je adaptací klasického díla. Vyzdvihněte nejdůležitější momenty a scény a vysvětlujte, jak je budete prezentovat na jevišti a jak se snažíte zachovat duch originálu.

@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Ekonomie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:55:02
+
+Úkol 1: Vysvětle rozdíl mezi mikroekonomií a makroekonomií a uveď 3 příklady aplikací mikroekonomických principů v reálném světě.
+
+Úkol 2: Vypočítejte cenu výrobních nákladů pro firmu, která produkuje 100 kusů produktu s náklady na materiál 20 Kč/kg, pracovní sílu 10 Kč/hod a spotřebu energie 5 Kč/kWh. Předpokládejte, že firma používá 2 kg materiálu na jeden produkt, 5 hodin práce a 2 kWh energie.
+
+Úkol 3: Porovnejte dva modely ekonomické rovnováhy (neutrální a narušená rovnováha) a vysvětle, proč může narušená rovnováha vést ke vzniku recese.
+
+Úkol 4: Vypočítejte míru inflace pro země, která zažívá ekonomickou expanzi o 5% ročně po dobu 3 let. Předpokládejte, že míra inflace za první rok je 2%.
+
+Úkol 5: Vyvráťte nebo potvrdíte následující tvrzení: "Ekonomické fiskální politiky jsou pro menší ekonomiky účinnější než pro větší ekonomiky."
+
+Úkol 6: Vysvětle rozdíl mezi kurzem měnového páru a kurzem směnného kursu a uveďte příklady historických událostí, které ovlivnily kurzy měn.
+
+Úkol 7: Zkonstruujte model agregátního důchodu pro jednu zemi a vypočítejte agregátní důchod pro danou zemi za rok 2022. Předpokládejte, že agregátní důchod ve výši 1000 miliard korun se skládá z 30% mzdy a 70% kapitálu.
+
+Úkol 8: Porovnejte dva modely ekonomické aktivity (IS-LM a AS-AD) a vysvětle, proč může IS-LM model lépe popsat krátkodobé změny ekonomické aktivity.
+
+Úkol 9: Vypracujte případový studií o úspěšné implementaci ekonomické reformy v nějaké zemi a uveďte hlavní faktory, které přispěly k úspěchu.
+
+Úkol 10: Vysvělte vztah mezi ekonomickou integrací a konkurencí mezi firmami a uveďte příklady pozitivních a negativních dopadů ekonomické integrace na konkurenci.

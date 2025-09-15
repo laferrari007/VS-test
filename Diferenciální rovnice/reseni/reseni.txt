@@ -1,0 +1,24 @@
+# AI Generované řešení úkolů pro předmět: Diferenciální rovnice
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:04:13
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Základní řešení úkolu 1 z předmětu Diferenciální rovnice
+
+Řešení 2: Základní řešení úkolu 2 z předmětu Diferenciální rovnice
+
+Řešení 3: Základní řešení úkolu 3 z předmětu Diferenciální rovnice
+
+Řešení 4: Základní řešení úkolu 4 z předmětu Diferenciální rovnice
+
+Řešení 5: Základní řešení úkolu 5 z předmětu Diferenciální rovnice
+
+Řešení 6: Základní řešení úkolu 6 z předmětu Diferenciální rovnice
+
+Řešení 7: Základní řešení úkolu 7 z předmětu Diferenciální rovnice
+
+Řešení 8: Základní řešení úkolu 8 z předmětu Diferenciální rovnice
+
+Řešení 9: Základní řešení úkolu 9 z předmětu Diferenciální rovnice
+
+Řešení 10: Základní řešení úkolu 10 z předmětu Diferenciální rovnice

@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Hudební výchova SŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:56:02
+
+Úkol 1: Navrhněte hudbu pro krátký filmový klip, který zobrazuje scénu z knihy "Pán prstenů" od J.R.R. Tolkiena. Uveďte název skladby, tempo a hlavní nástroj.
+
+Úkol 2: Analyzujte hudební skladbu "Stříbrný klíč" od Antonína Dvořáka. Uveďte hlavní rysy skladby, popisujte hlavní téma a vysvětlujte význam názvu skladby.
+
+Úkol 3: Hudebně vizualizujte jeden z příběhů ze staré řecké mytologie (např. Orfeus a Euridiké). Uveďte název skladby, popisujte hudební motivy a vysvětlíte jejich význam.
+
+Úkol 4: Porovnejte dvě skladby od stejného autora (např. Beethoven - Piano Sonata č. 8 a Chopin - Nocturno op. 9). Uveďte podobnosti a rozdíly mezi nimi.
+
+Úkol 5: Naplánujte hudební vystoupení na škole, kde budete hrát skladbu "Jazz Suite" od G. Gershwinova. Uveďte název skladby, popisujte hudební motivy a vysvětlíte způsob provedení.
+
+Úkol 6: Analyzujte hudební skladbu "Má vlast" od Bedřicha Smetany. Uveďte hlavní rysy skladby, popisujte hlavní téma a vysvětlujte význam názvu skladby.
+
+Úkol 7: Vytvořte hudbu pro taneční scénu z filmu "West Side Story". Uveďte název skladby, popisujte hudební motivy a vysvětlíte význam choreografie.
+
+Úkol 8: Porovnejte hudební styly dvou různých autorů (např. Mozart a Bach). Uveďte podobnosti a rozdíly mezi nimi a vysvětlíte jejich význam.
+
+Úkol 9: Navrhněte hudbu pro hudební projekt, který kombinuje různé hudební styly (např. jazz, rock, klasika). Uveďte název skladby, popisujte hudební motivy a vysvětlíte způsob provedení.
+
+Úkol 10: Analyzujte hudební skladbu "Symfonie č. 9" od Ludwig van Beethovena. Uveďte hlavní rysy skladby, popisujte hlavní téma a vysvětlujte význam názvu skladby a její význam v rámci hudební historie.

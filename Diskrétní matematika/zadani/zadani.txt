@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Diskrétní matematika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:04:57
+
+Úkol 1: Urči, zda graf sestávající z hran mezi body (0,0), (1,0), (1,1), (0,1) tvoří jednoduchý cyklus.
+
+Úkol 2: Proveď, že pokud má graf kružnici alespoň 3 bodů, tak může být jednoduchý cyklus.
+
+Úkol 3: Napiš algoritmus, který pro daný graf najde nejkratší cestu mezi dvěma body a který se používá především u grafů s velkým počtem hran.
+
+Úkol 4: Proveď, že pokud má graf kružnici alespoň 4 bodů, tak může být Eulerovo kružnice a najdi ji.
+
+Úkol 5: Napiš algoritmus, který najde Eulerovo kružnici v grafu a který se používá především u grafů s velkým počtem hran.
+
+Úkol 6: Proveď, že pokud má graf kružnici alespoň 3 bodů a není jednoduchý cyklus, tak nemůže být Eulerovo kružnice.
+
+Úkol 7: Napiš algoritmus, který pro daný graf najde všechny Eulerovy kružnice a který se používá především u grafů s velkým počtem hran.
+
+Úkol 8: Proveď, že pokud má graf kružnici alespoň 5 bodů a není jednoduchý cyklus, tak nemůže být Eulerovo kružnice.
+
+Úkol 9: Napiš algoritmus, který najde nejkratší cestu mezi dvěma body v grafu a který se používá především u grafů s velkým počtem hran, kde jsou některé hraně orientované.
+
+Úkol 10: Proveď, že pokud má graf kružnici alespoň 6 bodů a není jednoduchý cyklus, tak nemůže být Eulerovo kružnice a najdi všechny ostatní kružnice v grafu.

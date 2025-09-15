@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Italský jazyk
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:57:40
+
+Úkol 1: Přeložte do italštiny větu: "Jsem z Prahy a rád si procházejím parkem." 
+
+Úkol 2: Seznamte se s přídavnými jmény v italštině a použijte je k popsání osobnosti svého oblíbeného italského spisovatele.
+
+Úkol 3: Seznamte se s typy italských přísloví (adverbia) a použijte je k popisu vašich denních aktivit.
+
+Úkol 4: Přeložte do italštiny krátký text o vašem oblíbeném městě v Česku.
+
+Úkol 5: Seznamte se s italskými slovesnými tvary a použijte je k popisu vašich plánů na víkend.
+
+Úkol 6: Přeložte do italštiny krátkou básničku o přírodě.
+
+Úkol 7: Seznamte se s italskými číslovkami a použijte je k popisu vašich oblíbených italských jídla.
+
+Úkol 8: Přeložte do italštiny krátký rozhovor o vašich zájmech.
+
+Úkol 9: Seznamte se s italskými příslovci (proverbi) a použijte je k popisu vašeho pohledu na život.
+
+Úkol 10: Přeložte do italštiny krátký text o italské kultuře a použijte italské slovní zásoby k vyprávění o svých zkušenostech s italskou kulturou.

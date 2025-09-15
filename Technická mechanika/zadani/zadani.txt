@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Technická mechanika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:01:35
+
+Úkol 1: Proveďte statický rovnovážný stav podložky s pevným diskem, kde podložka je zajištěna pomocí pevně zapojeného kroužku. Zjistěte velikost největšího náhlého zatížení, které podložka dokáže odolat, pokud je podložka vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa a má rozměry 50 mm x 50 mm x 10 mm.
+
+Úkol 2: Porovnejte tlumivé vlastnosti dvou různých typů tlumičů vibrací: jednoduchého tlumiče (tlumič elastičnosti) a tlumiče s elastickým kroužkem. Zjistěte, jak se mění tlumivý účinek tlumiče s frekvencí.
+
+Úkol 3: Proveďte dynamický rovnovážný stav podložky s pevným diskem, kde podložka je zajištěna pomocí pevně zapojeného kroužku a podložka je vystavena náhlému dynamickému zatížení. Zjistěte, jak se mění pohyb podložky s časem.
+
+Úkol 4: Zjistěte, jak se mění vnitřní energie systému tvořeného dvěma pevně zapojenými kroužky a podložkou, pokud jsou kroužky zajištěny pomocí pevně zapojeného kroužku. Zjistěte, jak se mění vnitřní energie s velikostí náhlého zatížení.
+
+Úkol 5: Porovnejte tlumivé vlastnosti dvou různých typů tlumičů vibrací: tlumiče elastičnosti a tlumiče s elastickým kroužkem. Zjistěte, jak se mění tlumivý účinek tlumiče s frekvencí a velikostí náhlého zatížení.
+
+Úkol 6: Proveďte statický rovnovážný stav podložky s pevným diskem, kde podložka je zajištěna pomocí pevně zapojeného kroužku a podložka je vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa. Zjistěte velikost největšího náhlého zatížení, které podložka dokáže odolat, pokud je podložka rozlosována do šesti rovnoběžných pásů.
+
+Úkol 7: Zjistěte, jak se mění vnitřní energie systému tvořeného dvěma pevně zapojenými kroužky a podložkou, pokud jsou kroužky zajištěny pomocí pevně zapojeného kroužku a podložka je vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa. Zjistěte, jak se mění vnitřní energie s velikostí náhlého zatížení.
+
+Úkol 8: Porovnejte tlumivé vlastnosti dvou různých typů tlumičů vibrací: tlumiče elastičnosti a tlumiče s elastickým kroužkem. Zjistěte, jak se mění tlumivý účinek tlumiče s frekvencí, velikostí náhlého zatížení a teplotou.
+
+Úkol 9: Proveďte dynamický rovnovážný stav podložky s pevným diskem, kde podložka je zajištěna pomocí pevně zapojeného kroužku a podložka je vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa. Zjistěte, jak se mění pohyb podložky s časem, velikostí náhlého zatížení a teplotou.
+
+Úkol 10: Zjistěte, jak se mění vnitřní energie systému tvořeného dvěma pevně zapojenými kroužky a podložkou, pokud jsou kroužky zajištěny pomocí pevně zapojeného kroužku a podložka je vyrobena z materiálu s Youngovou modulovou hustotou 200 GPa. Zjistěte, jak se mění vnitřní energie s velikostí náhlého zatížení, teplotou a materiálovou teplotou podložky.

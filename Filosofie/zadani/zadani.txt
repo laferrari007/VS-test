@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Filosofie
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:54:11
+
+Úkol 1: Použijte filozofický koncept "existenciálního skepticismu" a popište, jak by se mohl vžít do role Sokrata, aby diskutoval s Platónem o otázkách existence a pravdy.
+
+Úkol 2: Analyzujte myšlenku "absolutního hodnotného objektivního realismu" podle Immanuela Kanta a popište, jak by se mohl vztahovat na současné etické diskuse.
+
+Úkol 3: Vyberte dva významné filozofické systémy (například Platón a Aristotelés) a porovnejte jejich pohledy na lidskou podstatu a její cíle.
+
+Úkol 4: Zanalyzujte pojmy "svoboda vůle" a "svoboda volby" v kontextu filozofie Immanuela Kanta a podrobte je kritickému zkoumání.
+
+Úkol 5: Diskutujte o problému "subjektivního rozporu" ve filozofii a popište, jak by se mohl vžít do role Reného Descarta, aby se zabýval otázkami existence a poznání.
+
+Úkol 6: Vyhledejte dva filozofické přístupy (například pragmatismus a existencialismus) a porovnejte jejich pohledy na lidskou existenci a její smysl.
+
+Úkol 7: Použijte filozofický koncept "metafyzického skepticismu" a popište, jak by se mohl vžít do role David Hume, aby diskutoval o problémech metafyziky a jejího pojetí reality.
+
+Úkol 8: Analyzujte myšlenku "postmoderní filozofie" a podrobte ji kritickému zkoumání, včetně jejího vztahu k filozofii a jejího vlivu na současné myšlení.
+
+Úkol 9: Vyberte tři významné filozofické systémy (například Aristotelés, Kant a Nietzsche) a porovnejte jejich pohledy na lidskou podstatu a její cíle v kontextu etiky.
+
+Úkol 10: Diskutujte o problému "znalostní a pravdivostní jistoty" ve filozofii a popište, jak by se mohl vžít do role Georga Wilhelma Friedrich Hegela, aby se zabýval otázkami existence a absolutní pravdy.

@@ -1,0 +1,70 @@
+# AI Generované řešení úkolů pro předmět: Diskrétní matematika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:04:57
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1:
+
+Úkol 1: Urči, zda graf sestávající z hran mezi body (0,0), (1,0), (1,1), (0,1) tvoří jednoduchý cyklus.
+
+Aby se jednalo o jednoduchý cyklus, musí být graf spojený a obsahovat alespoň 3 body. V tomto případě je graf sestaven z 4 bodů a obsahuje 4 hrany. Graf je spojený, protože mezi každými dvěma body existuje hranice.
+
+Můžeme zkontrolovat, zda graf obsahuje uzavřený obvod (cyklus). Provést to můžeme pomocí následujícího algoritmu:
+
+1. Rozdělte hrany do tří skupiny: hrany, které spojují body (0,0) a (1,0), hrany, které spojují body (1,0) a (1,1), a hrany, které spojují body (1,1) a (0,1).
+2. Zkontrolujte, zda existuje hranice mezi body (0,0) a (0,1). Pokud ano, pak existuje hranice mezi body (1,0) a (1,1), protože tyto hrany tvoří uzavřený obvod (cyklus).
+3. Pokud existuje hranice mezi body (0,1) a (1,1), pak existuje hranice mezi body (1,1) a (1,0), protože tyto hrany tvoří uzavřený obvod (cyklus).
+
+V tomto případě existuje hranice mezi body (0,0) a (0,1) a existuje hranice mezi body (0,1) a (1,1). Protože tyto hrany tvoří uzavřený obvod, můžeme říci, že graf tvoří jednoduchý cyklus.
+
+Řešení 2:
+
+Úkol 2: Proveď, že pokud má graf kružnici alespoň 3 bodů, tak může být jednoduchý cyklus.
+
+Můžeme ukázat, že pokud má graf kružnici alespoň 3 bodů, tak může být jednoduchý cyklus, tím, že ukážeme, že existuje hranice mezi každými dvěma body. 
+
+1. Předpokládejme, že graf má kružnici alespoň 3 bodů. Značení těchto bodů jako A, B a C.
+2. Existuje hranice mezi body A a B. Pokud neexistuje, pak je graf tvořen pouze hranou AB, což nelze považovat za jednoduchý cyklus.
+3. Existuje hranice mezi body B a C. Pokud neexistuje, pak je graf tvořen pouze hranou BC, což nelze považovat za jednoduchý cyklus.
+4. Existuje hranice mezi body C a A. Pokud neexistuje, pak je graf tvořen hranami AB a BC, což nelze považovat za jednoduchý cyklus.
+
+Protože existuje hranice mezi každými dvěma body, tak lze říci, že graf tvoří jednoduchý cyklus.
+
+Řešení 3:
+
+Úkol 3: Napiš algoritmus, který pro daný graf najde nejkratší cestu mezi dvěma body a který se používá především u grafů s velkým počtem hran.
+
+Algoritmus, který se používá k nalezení nejkratší cesty v grafu, je algoritmus Dijkstraho.
+
+1. Představte si, že chcete najít nejkratší cestu mezi body A a B.
+2. Rozdělte hrany do dvou skupin: hrany, které spojují body A a hrany, které nemají vztah k body A.
+3. Vyberte hranu s nejmenší vzdáleností, která spojuje body A a další body. V tomto případě je to hranice AB.
+4. Vydělte body, které jsou spojeny hranou AB, a přidejte jejich vzdálenost k body A. V tomto případě je to hranice A a B.
+5. Opakujte kroky 3 a 4, dokud nenajdete hranici mezi body A a B.
+
+Algoritmus Dijkstraho má časovou náročnost O(|E| + |V|log|V|), kde |E| je počet hran a |V| je počet bodů.
+
+Řešení 4:
+
+Úkol 4: Proveď, že pokud má graf kružnici alespoň 4 bodů, tak může být Eulerovo kružnice a najdi ji.
+
+Můžeme ukázat, že pokud má graf kružnici alespoň 4 bodů, tak může být Eulerovo kružnice, tím, že ukážeme, že existuje hranice mezi každými dvěma body. 
+
+1. Předpokládejme, že graf má kružnici alespoň 4 bodů. Značení těchto bodů jako A, B, C a D.
+2. Existuje hranice mezi body A a B. Pokud neexistuje, pak je graf tvořen pouze hranou AB, což nelze považovat za Eulerovo kružnice.
+3. Existuje hranice mezi body B a C. Pokud neexistuje, pak je graf tvořen pouze hranou BC, což nelze považovat za Eulerovo kružnice.
+4. Existuje hranice mezi body C a D. Pokud neexistuje, pak je graf tvořen pouze hranou CD, což nelze považovat za Eulerovo kružnice.
+5. Existuje hranice mezi body D a A. Pokud neexistuje, pak je graf tvořen hranami AB, BC a CD, což nelze považovat za Eulerovo kružnice.
+
+Protože existuje hranice mezi každými dvěma body, tak lze říci, že graf může být Eulerovo kružnice.
+
+Eulerovo kružnice lze najít pomocí algoritmu, který spočítá počet hran a počet bodů, které jsou spojeny každé hranou. Pokud je počet hran rovný počtu bodů, které jsou spojeny každé hranou, tak lze říci, že graf obsahuje Eulerovo kružnice.
+
+Řešení 5:
+
+Úkol 5: Napiš algoritmus, který najde Eulerovo kružnici v grafu a který se používá především u grafů s velkým počtem hran.
+
+Algoritmus, který se používá k nalezení Eulerovy kružnice v grafu, je algoritmus, který spočítá počet hran a počet bodů, které jsou spojeny každé hranou. Pokud je počet hran rovný počtu bodů, které jsou spojeny každé hranou, tak lze říci, že graf obsahuje Eulerovo kružnice.
+
+1. Představte si, že chcete najít Eulerovo kružnici v grafu.
+2. Spočítejte počet hran a počet bodů, které jsou spojen

@@ -1,0 +1,84 @@
+# AI Generované řešení úkolů pro předmět: Počítačové sítě SŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:01:02
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Hlavní typy fyzických sdílených médií v počítačových sítích
+
+Fyzické sdílené média jsou média, která umožňují propojení více počítačů a zařízení v počítačové síti. Hlavní typy fyzických sdílených médií jsou:
+
+- Kabelová síť (Ethernet, Fast Ethernet, Gigabit Ethernet)
+- Bezdrátová síť (Wi-Fi, Bluetooth)
+- Optická síť (Fiber Channel, Gigabit Ethernet)
+- Infrasní síť (Infrared Data Association - IrDA)
+
+Kabelová síť je nejčastěji používaná fyzická síť, která používá kabely pro přenos dat. Existují různé typy kabelů, jako jsou kabely Cat 5, Cat 5e, Cat 6, které se liší rychlostí přenosu dat.
+
+Bezdrátová síť je druh síťového připojení, který nepotřebuje kabely pro přenos dat. Používá se k připojení zařízení, jako jsou notebooky, chytré telefony a tablety, k síti.
+
+Optická síť je druh síťového připojení, který používá světlo pro přenos dat. Používá se k připojení zařízení, jako jsou servery a přepřávače, k síti.
+
+Infrasní síť je druh síťového připojení, který používá infračervený záření pro přenos dat. Používá se k připojení zařízení, jako jsou notebooky a chytré telefony, k síti.
+
+Řešení 2: Rozdíl mezi síťovým protokolem a síťovým standardem
+
+Síťový protokol je soubor pravidel, které definují, jak data jsou přenášena v počítačové síti. Síťový standard je soubor pravidel, které definují, jak síťové zařízení spolupracují a jak jsou data přenášena.
+
+Síťový protokol definuje, jak data jsou zakódována, přepravována a dekódována při přenosu v síti. Například TCP/IP (Transmission Control Protocol/Internet Protocol) je síťový protokol, který definuje, jak data jsou přenášena v internetové síti.
+
+Síťový standard definuje, jak síťová zařízení spolupracují a jak jsou data přenášena. Například Ethernet je síťový standard, který definuje, jak data jsou přenášena v kabelové síti.
+
+Rozdíl mezi síťovým protokolem a síťovým standardem je následující:
+
+- Síťový protokol definuje, jak data jsou přenášena v síti, zatímco síťový standard definuje, jak síťová zařízení spolupracují.
+- Síťový protokol je specifický pro určitý typ sítě, zatímco síťový standard je obecný a může být používán v různých typech sítí.
+
+Řešení 3: Funkce Layer 2 (Data Link Layer) v OSI modelu
+
+Layer 2 (Data Link Layer) je druhý vrstvu OSI modelu (Open Systems Interconnection modelu). Tato vrstva definuje, jak data jsou přenášena mezi dvěma zařízeními v místní síti.
+
+Hlavní funkce Layer 2 jsou:
+
+- Zajištění správné přenosy dat mezi dvěma zařízeními v místní síti
+- Zajištění správné korekce chyb při přenosu dat
+- Zajištění správné řízení toku dat při přenosu
+- Zajištění správné detekce kolizí při přenosu dat
+
+Funkce Layer 2 jsou následující:
+
+- Framing: Tato funkce definuje, jak data jsou zakódována a přepravována v rámci rámce.
+- Zajištění správné korekce chyb: Tato funkce zajišťuje, že data jsou korektně přenesena a že není žádné chyba při přenosu.
+- Zajištění správné řízení toku dat: Tato funkce zajišťuje, že data jsou přenesena v řádném pořadí a že není žádné zpoždění při přenosu.
+- Zajištění správné detekce kolizí: Tato funkce zajišťuje, že není žádné kolize při přenosu dat.
+
+Řešení 4: Hlavní typy přenosových médií (Ethernet, Wi-Fi, Token Ring)
+
+Hlavní typy přenosových médií jsou:
+
+- Ethernet: Ethernet je kabelová síť, která používá kabely pro přenos dat. Existují různé typy Ethernetu, jako jsou Fast Ethernet, Gigabit Ethernet, 10 Gigabit Ethernet.
+- Wi-Fi: Wi-Fi je bezdrátová síť, která používá rádiové vlny pro přenos dat.
+- Token Ring: Token Ring je kabelová síť, která používá kabely pro přenos dat. Token Ring je podobný Ethernetu, ale používá tokeny pro řízení toku dat.
+
+Porovnání těchto typů přenosových médií je následující:
+
+- Ethernet: Je kabelová síť, která používá kabely pro přenos dat. Je nejčastěji používaný typ přenosového média.
+- Wi-Fi: Je bezdrátová síť, která používá rádiové vlny pro přenos dat. Je oblíbený typ přenosového média pro připojení zařízení, jako jsou notebooky a chytré telefony.
+- Token Ring: Je kabelová síť, která používá kabely pro přenos dat. Je podobný Ethernetu, ale používá tokeny pro řízení toku dat.
+
+Řešení 5: Síťová karta a její hlavní komponenty a funkce
+
+Síťová karta je zařízení, které umožňuje připojit počítač k síti. Hlavní komponenty síťové karty jsou:
+
+- Adaptér: Adaptér je zařízení, které konvertuje digitální signál na analogový signál a zpět.
+- Protokolový procesor: Protokolový procesor je zařízení, které řídí přenos dat v síti.
+- RAM: RAM je paměť, která uchovává data, která jsou přenášena v síti.
+- Úložiště: Úložiště je zařízení, které uchovává data, která jsou přenášena v síti.
+
+Funkce síťové karty jsou:
+
+- Připojení počítače k síti
+- Přenos dat v síti
+- Řízení toku dat v síti
+- Zajištění správné přenosy dat v síti
+
+Řešení 6: Hlavní rozdíly mezi statick

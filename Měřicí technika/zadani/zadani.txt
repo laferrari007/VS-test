@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Měřicí technika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:02:04
+
+Úkol 1: Popište rozdíly mezi analogovými a digitálními měřícími přístroji a uveďte alespoň tři příklady aplikací každé skupiny.
+
+Úkol 2: Vysvětlete princip funkce převodníků jednotek v měřicích přístrojích a udělejte schéma jejich obvodů.
+
+Úkol 3: Nastavte a použijte měřicí přístroj k měření stejnosměrného napětí nebo proudu. Zapište a porovnejte výsledky s teoretickými hodnotami.
+
+Úkol 4: Vypočtěte a porovnejte chyby měření stejnosměrného napětí nebo proudu pomocí měřicího přístroje s teoretickými hodnotami. Uveďte vliv faktorů jako je kalibrace přístroje nebo kvalita měřených hodnot.
+
+Úkol 5: Uveďte a vysvětlěte principy měření frekvence a fázového posunu v měřicích přístrojích. Uveďte jejich aplikace v reálných systémech.
+
+Úkol 6: Navrhněte a popište měřicí systém pro měření teploty v průmyslovém prostředí. Uveďte požadavky na přístroje a materiály, které by měly být použity.
+
+Úkol 7: Popište a vysvětlěte principy měření úbytku plynu v měřicích přístrojích. Uveďte jejich aplikace v reálných systémech.
+
+Úkol 8: Uveďte a vysvětlěte rozdíl mezi měřením impulsů a měřením průtoku plynu v měřicích přístrojích. Uveďte jejich aplikace v reálných systémech.
+
+Úkol 9: Navrhněte a popište měřicí systém pro měření vibrations v průmyslovém prostředí. Uveďte požadavky na přístroje a materiály, které by měly být použity.
+
+Úkol 10: Vysvětlěte a popište principy měření rozptylu světla v měřicích přístrojích. Uveďte jejich aplikace v reálných systémech, jako je například měření rychlosti proudů kapalin.

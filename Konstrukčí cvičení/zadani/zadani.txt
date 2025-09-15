@@ -1,0 +1,25 @@
+# AI Generované zadání úkolů pro předmět: Konstrukčí cvičení
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:59:36
+
+Děkuji za požádání. Zde jsou 10 univerzitních úkolů pro předmět "Konstrukční cvičení":
+
+Úkol 1: Navrhněte jednoduchou konstrukci stolu s rovnou podlahou a postranními nohami. Použijte grafické programy (např. Autodesk Inventor, SolidWorks) a přiložte náčrt stolu s rozměry a materiálovými vstupními daty.
+
+Úkol 2: Navrhněte konstrukci otočné ojnice s kuličkovým hnacím mechanismem. Použijte teorii ojnic a kuličkových mechanismů k výpočtu rozměrů a návrhové dokumentaci.
+
+Úkol 3: Navrhněte konstrukci nosného prvku (např. sloup) s pevnými koncovými body. Použijte statické rovnice k výpočtu nosné kapacity a návrhové dokumentaci.
+
+Úkol 4: Navrhněte konstrukci přenosové skříně s plynulými ložisky. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+
+Úkol 5: Navrhněte konstrukci automatického výtahu s pohonem DC motoru. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+
+Úkol 6: Navrhněte konstrukci kompresoru s plynulými ložisky. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+
+Úkol 7: Navrhněte konstrukci převodovky s kuličkovým mechanismem. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+
+Úkol 8: Navrhněte konstrukci konstrukční prvku (např. hřídele, vřeteno) s pevnými koncovými body. Použijte teorii ojnic a kuličkových mechanismů k výpočtu rozměrů a návrhové dokumentaci.
+
+Úkol 9: Navrhněte konstrukci stroje (např. frézovací stroj) s plynulými ložisky. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+
+Úkol 10: Navrhněte konstrukci mechatronického systému (např. autonomního vozidla) s integrovanými systémy (např. řízení, senzory). Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.

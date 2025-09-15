@@ -1,0 +1,25 @@
+# AI Generované zadání úkolů pro předmět: Informační technologie SŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:03:00
+
+Zde jsou 10 univerzitních úkolů pro předmět "Informační technologie SŠ":
+
+Úkol 1: Popiš rozdíl mezi hardwarovými a softwarovými komponentami počítače. Uveď příklady obou typů komponent.
+
+Úkol 2: Vysvětluj, jak funguje proces přenosu dat mezi počítačem a externí zařízení (např. tiskárnu nebo skener). Uveď potřebné komponenty a procesy.
+
+Úkol 3: Porovnej různé typy pamětí (RAM, ROM, flash paměť) a uveď jejich hlavní charakteristiky a použití.
+
+Úkol 4: Popiš proces instalace operačního systému na počítač. Uveď krok za krokem, jaká příprava je nutná a jaký software se používá.
+
+Úkol 5: Vysvětluj, jak fungují síťová připojení (Ethernet, Wi-Fi) a uveď jejich hlavní charakteristiky a aplikace.
+
+Úkol 6: Uveď příklady různých typů operačních systémů (Windows, macOS, Linux) a popiš jejich hlavní rozdíly a výhody.
+
+Úkol 7: Popiš proces šifrování dat a uveď hlavní metody šifrování (symetrický klíč, asymetrický klíč). Uveď příklady aplikací šifrování (např. SSL/TLS).
+
+Úkol 8: Vysvětluj, jak fungují bezpečnostní systémy (firewally, antivirus software) a uveď jejich hlavní funkce a výhody.
+
+Úkol 9: Uveď příklady různých typů databázových systémů (relační databáze, objektově orientované databáze) a popiš jejich hlavní charakteristiky a použití.
+
+Úkol 10: Popiš proces návrhu a implementace informačního systému v podnikové organizaci. Uveď hlavní kroky a faktory, které je třeba brát v úvahu.

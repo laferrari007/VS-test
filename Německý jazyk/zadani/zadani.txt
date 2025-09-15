@@ -1,0 +1,44 @@
+# AI Generované zadání úkolů pro předmět: Německý jazyk
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:56:50
+
+Úkol 1: Přeložte do německého jazyka text: "Dnes je pěkný den, takže budeme chodit do školy pěšky." 
+
+Úkol 2: Zodpovězte na otázku: Jak se přeloží věta "Mám ráda německou kuchyni" do anglického jazyka?
+
+Úkol 3: Přeložte do německého jazyka následující věty a označte typy vět (příkaz, otázka, tvrzení):
+- "Můžete mi půjčit peníze?"
+- "Jsem z Prahy."
+- "Mějte se!"
+
+Úkol 4: Úpravte následující text, aby byl správně formátován podle německých pravidel pro psaní:
+"pokud seš ráda, zavolej mi, nebo posloucháme rádio, nebo jdeme do moře, nebo jdeme do moře, nebo jdeme do moře"
+
+Úkol 5: Přeložte následující německé věty do česky:
+- "Die Sonne scheint auf die Erde."
+- "Ich esse gerne Apfelstrudel."
+
+Úkol 6: Použijte správné příslovce a příslovce k následující větě:
+"Jsme v lese a je tam mnoho ... (zvířat/ stromů/ kamenů)."
+
+Úkol 7: Přeložte následující text do němčiny a vyberte správné překlady německých slov pro české slovíčka:
+"Dnes budeme dělat následující práce: 
+- úklid (Putzen)
+- výkup (Einkaufen)
+- údržba (Wartung)
+- úprava (Bekleidung)"
+
+Úkol 8: Vyjmenujte a vyjmenujte správné překlady českých slov pro německá slova:
+- "Škola" (Schule / Bildung)
+- "Lékař" (Arzt / Ärztin)
+- "Nákup" (Einkaufen / Kauf)
+
+Úkol 9: Přeložte a vysvětlete následující text, týkající se německého jazyka, do češtiny:
+"Die deutsche Sprache ist eine der am häufigsten gesprochenen Sprachen der Welt. Sie hat viele Dialekte und Varianten. Einige Menschen sprechen die deutsche Sprache als Muttersprache, andere als Zweitsprache."
+
+Úkol 10: Napsali byste text, týkající se německého jazyka, který by obsahoval následující prvky:
+- příslovce
+- příslovné sloveso
+- příklady z oblasti kultury
+- překlady českých slov do němčiny
+- stručné informace o němčině jako jazyce.

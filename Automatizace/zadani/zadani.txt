@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Automatizace
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:00:35
+
+Úkol 1: Designujte jednoduchý RoboRIO a vytvořte diagram bloků pro kontrolu motorů, která umožňuje měnit rychlost motorů pomocí analogového vstupu.
+
+Úkol 2: Zkuste napsat jednoduchý algoritmus pro řízení pohybu robotu pomocí PID regulace. Použijte simulaci nebo reálný robot na potvrzení funkčnosti.
+
+Úkol 3: Implementujte a testujte algoritmus pro detekci hran pomocí kamerového senzoru v prostředí simulace. Použijte knihovny pro zpracování obrazu (OpenCV).
+
+Úkol 4: Navrhněte a implementujte systémy pro automatické měření teploty a vlhkosti v laboratoři. Použijte senzory a mikrokontroléry (například Arduino).
+
+Úkol 5: Zkuste implementovat algoritmus pro optimalizaci trasy robotu s využitím A* algoritmu. Použijte simulaci nebo reálný robot pro potvrzení funkčnosti.
+
+Úkol 6: Designujte a implementujte systém pro automatické vyrovnávání úrovně v laboratoři. Použijte senzory a mikrokontroléry (například Arduino).
+
+Úkol 7: Implementujte a testujte algoritmus pro identifikaci objektů na základě jejich tvaru a velikosti pomocí kamerového senzoru. Použijte knihovny pro zpracování obrazu (OpenCV).
+
+Úkol 8: Navrhněte a implementujte systém pro automatizaci procesů v laboratoři pomocí PLC (Programmable Logic Controller) nebo podobných zařízení.
+
+Úkol 9: Zkuste implementovat algoritmus pro řízení pohybu robotu s využitím modelu dynamiky robotu. Použijte simulaci nebo reálný robot pro potvrzení funkčnosti.
+
+Úkol 10: Designujte a implementujte komplexní systém pro automatizaci výroby pomocí robotů a PLC. Zajistěte funkčnost systému a použijte různé senzory a mechanismy pro automatizaci procesů.

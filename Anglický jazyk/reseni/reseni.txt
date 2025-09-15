@@ -1,24 +1,69 @@
 # AI Generované řešení úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:51:18
+# Datum: 2025-09-15 21:58:39
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Anglický jazyk
+Řešení 1: Napsat krátkou esej o svém oblíbeném spisovateli nebo autovi, který je známý svými díly v angličtině (cca 150 slov).
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Anglický jazyk
+Jsem nadšený fanoušek anglického spisovatele J.R.R. Tolkienu. Jeho díla, zejména "Pán prstenů", jsou úžasným příkladem fantasy literatury. Tolkein byl známý svou výjimečnou schopností vytvářet detailní a bohaté světové systémy, které byly inspirované jeho vlastní zkušeností s cestováním a jeho láskou k historii.
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Anglický jazyk
+Tolkeinův styl píše se často popisuje jako epický, protože obsahuje prvky, jako je bohatá imaginace, detailní světovou konstrukci a silný dramatický vývoj. Jeho práce často obsahuje hluboké filozofické a metafyzické otázky, které jsou skryté pod povrchem jeho fantastických příběhů.
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Anglický jazyk
+Jedním z největších přínosů Tolkienu je jeho schopnost vytvářet kompletní a uvědomělý svět, který je plný života, historie a kultury. Jeho práce je plná symbolů, metafor a aluzí, které jsou často skryté pod povrchem jeho příběhů. Tolkeinův styl je také známý svou komplikovanou syntaxí a složitými složitými frázemi, které jsou častým rysem jeho prací.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Anglický jazyk
+V celku je J.R.R. Tolkien vynikající autor, který mě inspiruje svým dílem a který mě vede k myšlence o tom, jak důležité je imaginace a kreativita v naší každodenní životě.
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Anglický jazyk
+Řešení 2: Přepisovat text o nějaké aktuální události z anglického webového článku do češtiny, snažit se zachovat původní význam a strukturu textu (cca 250 slov).
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Anglický jazyk
+Originální text:
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Anglický jazyk
+"The recent floods in the UK have left thousands of people without homes and have caused widespread destruction. The government has promised to provide emergency aid and support to those affected, but many are questioning whether enough is being done to prevent such disasters in the future.
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Anglický jazyk
+The floods have highlighted the need for more effective flood defenses and better planning to prevent such events. Many experts are calling for a more proactive approach to flood prevention, including the use of new technologies and infrastructure to protect vulnerable areas.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Anglický jazyk
+Meanwhile, the government has been criticized for its slow response to the crisis, with some accusing it of being more concerned with saving its own reputation than with helping those affected.
+
+As the country begins to recover from the floods, many are left wondering what can be done to prevent such disasters in the future. It is clear that more needs to be done to protect our communities and prevent such devastating events."
+
+ Překlad textu do češtiny:
+
+"Poslední povodně ve Velké Británii způsobili tisíce lidí bez domova a způsobily rozsáhlé škody. Vláda slíbila poskytnout nouznou pomoc a podporu těm, kteří byli postiženi, ale mnozí zpochybňují, zda je dostatečně učiněno na to, aby se takové katastrofy v budoucnosti zabránily.
+
+Povodně upozornily na potřebu účinnějších protipovodňových opatření a lepšího plánování, aby se takové události zabránilo. Mnoho odborníků je volá k aktivnějšímu přístupu k prevenci povodní, včetně použití nových technologií a infrastruktury pro ochranu zranitelných oblastí.
+
+Mezitím vláda byla kritizována za svůj pomalý postoj k krizi, s tím, že někteří ji obvinili z toho, že je více zainteresována zachováním své reputace než pomoci těm, kteří byli postiženi.
+
+Že zemi začíná přebírat povodně, mnozí jsou zmateni tím, co lze udělat, aby se takové katastrofy zabránily v budoucnosti. Je jasné, že musí být učiněno více, aby se chránily naše obce a zabránilo se tak takovým devastujícím událostem."
+
+Řešení 3: Vybrat tři klíčová slova z daného anglického článku a vymyslet jejich české ekvivalenty, vysvětlet, proč byly vybrány jako klíčová slova a jak se vztahují k tématu článku (cca 200 slov).
+
+Klíčová slova:
+
+1. "Floods" - povodně
+2. "Disaster" - katastrofa
+3. "Prevention" - prevence
+
+Floods (povodně) - vybráno jako klíčové slovo, protože je hlavním tématem článku. Povodně způsobily rozsáhlé škody a způsobili tisíce lidí bez domova.
+
+Disaster (katastrofa) - vybráno jako klíčové slovo, protože je synonymem pro katastrofu a zdůrazňuje rozsah škod a zranění zpříčiněných povodněmi.
+
+Prevention (prevence) - vybráno jako klíčové slovo, protože je hlavním tématem článku, týkajícím se toho, jak zabránit tomu, aby se podobné katastrofy v budoucnosti staly. Prevence je klíčová pro zajištění bezpečnosti a ochrany lidských životů.
+
+Řešení 4: Napsat krátký rozhovor v angličtině mezi dvěma postavami, které řeší aktuální téma, jako je například environmentální problematika nebo technologie (cca 150 slov).
+
+Rozhovor:
+
+Rozhovor: "Odpadové hospodářství v budoucnosti"
+
+Rozhovná: Sarah
+Host: John
+
+Sarah: "John, díky za přijetí mého rozhovoru. Chci se zeptat, jak si myslíte, že se bude vyvíjet odpadové hospodářství v blízké budoucnosti."
+
+John: "Dobře, Sarah. Já si myslím, že se odpadové hospodářství bude vyvíjet směrem k více efektivnímu a udržitelnému modelu. Víme, že současné systémy jsou často neefektivní a způsobují více škod než dobrů."
+
+Sarah: "To je zajímavé. Jakým způsobem byste chtěl vidět rozvoj odpadového hospodářství?"
+
+John: "Chci vidět rozvoj nových technologií a systémů, které budou moci efektivně zpracovávat a recyklovat odpady. Taky chci vidět rozvoj vzdělávání a osvojování se nových návyků, aby lidé lépe rozuměli hodnotě udržitelného odpadového hospodářství."
+
+Sarah: "To je velmi dobré

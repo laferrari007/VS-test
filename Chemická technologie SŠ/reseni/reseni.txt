@@ -1,0 +1,103 @@
+# AI Generované řešení úkolů pro předmět: Chemická technologie SŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:03:28
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vypočítejte množství produkované oxidu uhličitého při spalování 1 kg uhlího prášku v reaktoru s teplem 1000 °C a tlakem 1 atm.
+
+Spalování uhlího prášku probíhá podle následující chemické rovnice:
+
+C + O2 → CO2
+
+Základní rovnice pro spalování uhlího prášku je:
+
+m(CO2) = m(C) x (32/12) = 2,67 mol
+
+Kde m(CO2) je hmotnost produkovaného oxidu uhličitého, m(C) je hmotnost spalovaného uhlího prášku a 32/12 je molární hmotnost oxidu uhličitého.
+
+Molární hmotnost uhlího prášku je 12 g/mol a hmotnost 1 kg uhlího prášku je 1000 g. 
+
+m(C) = 1000 g / 12 g/mol = 83,33 mol
+
+Nyní můžeme vypočítat hmotnost produkovaného oxidu uhličitého:
+
+m(CO2) = 2,67 mol x 44 g/mol = 117,48 g
+
+Tento výtěžek odpovídá 11,75% z původní hmotnosti uhlího prášku.
+
+Řešení 2: Popište proces výroby 95% vodíku z vody pomocí elektrolytické destilace a uveďte jeho chemickou rovnici.
+
+Elektrolytická destilace je proces, při kterém se voda rozdělí na vodík a kyslík pomocí elektrolyzérů. Proces se provádí ve dvou elektrolyzérech, jeden pro produkci vodíku a druhý pro produkci kyslíku.
+
+Chemická rovnice pro elektrolytickou destilaci je:
+
+2H2O → 2H2 + O2
+
+Proces výroby 95% vodíku z vody pomocí elektrolytické destilace:
+
+1. Voda se přivádí do elektrolyzéru, kde se rozdělí na vodík a kyslík.
+2. Vodík se odvádí do nádoby, kde se sbírá a odvádí do dalšího procesu.
+3. Kyslík se odvádí do nádoby, kde se sbírá a odvádí do dalšího procesu.
+4. Voda se znovu přivádí do elektrolyzéru a proces se opakuje.
+5. Vzniklý vodík je odváděn do nádoby a sbírána a odvádí se do dalšího procesu.
+
+Výtěžek vodíku je 95%, což znamená, že 5% se přemění na kyslík.
+
+Řešení 3: Představte si výrobu 1 tónu chloričnanu sodného (NaClO3) a vypočítejte množství potřebného chloru a kyslíku.
+
+Chemická rovnice pro výrobu chloričnanu sodného je:
+
+NaCl + 3H2O + Cl2 → NaClO3 + 3HCl
+
+Základní rovnice pro výrobu chloričnanu sodného je:
+
+m(NaClO3) = m(NaCl) x (106/58,5) = 1,81 mol
+
+Kde m(NaClO3) je hmotnost chloričnanu sodného, m(NaCl) je hmotnost chloridu sodného a 106/58,5 je molární hmotnost chloričnanu sodného.
+
+Molární hmotnost chloridu sodného je 58,5 g/mol a hmotnost 1 t chloridu sodného je 1000 kg.
+
+m(NaCl) = 1000 kg / 58,5 g/mol = 17,07 mol
+
+Nyní můžeme vypočítat hmotnost potřebného chloru:
+
+m(Cl2) = m(NaClO3) / (1/3) = 5,43 mol
+
+Tento výtěžek odpovídá 5,43 mol chloru, což je 93% z původní hmotnosti chloridu sodného.
+
+Chemický rovnici pro výrobu chloričnanu sodného lze zapsat jako:
+
+NaCl + 3H2O + Cl2 → NaClO3 + 3HCl
+
+Řešení 4: Popište alegoricky výrobu kapalinového benzínu z ropy pomocí hydroskrébace a uveďte hlavní chemické reakce.
+
+Hydroskrébace je proces, při kterém se ropa rozkládá na kapalinový benzín. Proces se provádí ve vakuovém reaktoru.
+
+Chemické reakce pro hydroskrébaci jsou:
+
+C12H22 + 12H2 → 12C5H10
+
+C12H22 + 13H2 → 12C5H11
+
+C12H22 + 14H2 → 12C5H12
+
+V procesu hydroskrébace se ropa rozkládá na kapalinový benzín, který se skládá z jednotlivých frakcí.
+
+Proces výroby kapalinového benzínu z ropy pomocí hydroskrébace:
+
+1. Voda se přivádí do vakuového reaktoru, kde se ropa rozkládá na kapalinový benzín.
+2. Kapalinový benzín se odvádí do nádoby, kde se sbírá a odvádí do dalšího procesu.
+3. ropa se znovu přivádí do vakuového reaktoru a proces se opakuje.
+4. Vzniklý kapalinový benzín se odvádí do nádoby a sbírána a odvádí se do dalšího procesu.
+
+Hlavní chemické reakce pro hydroskrébaci jsou:
+
+C12H22 + 12H2 → 12C5H10
+C12H22 + 13H2 → 12C5H11
+C12H22 + 14H2 → 12C5H12
+
+Řešení 5: Uveďte rovnice a vyhodnoťte účinnost výroby kyseliny sírové (H2SO4) z síranu hlinitého (Al2(SO4)3) a síranu amonného (NH4)2SO4) metodou kontaktování.
+
+Chemická rovnice pro výrobu kyseliny sírové je:
+
+Al2(SO4)3 + 3(NH4)2SO4 → 2Al2(SO4)3 + 3NH4HSO4 → 2Al2(SO4)3 + 3H2SO4 + 3

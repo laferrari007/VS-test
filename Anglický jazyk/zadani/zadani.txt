@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:51:18
+# Datum: 2025-09-15 21:58:39
 
-Úkol 1: Základní úkol z předmětu Anglický jazyk - úroveň 1
+Úkol 1: Napsat krátkou esej o svém oblíbeném spisovateli nebo autovi, který je známý svými díly v angličtině (cca 150 slov). 
 
-Úkol 2: Základní úkol z předmětu Anglický jazyk - úroveň 2
+Úkol 2: Přepisovat text o nějaké aktuální události z anglického webového článku do češtiny, snažit se zachovat původní význam a strukturu textu (cca 250 slov). 
 
-Úkol 3: Základní úkol z předmětu Anglický jazyk - úroveň 3
+Úkol 3: Vybrat tři klíčová slova z daného anglického článku a vymyslet jejich české ekvivalenty, vysvětlet, proč byly vybrány jako klíčová slova a jak se vztahují k tématu článku (cca 200 slov).
 
-Úkol 4: Základní úkol z předmětu Anglický jazyk - úroveň 4
+Úkol 4: Napsat krátký rozhovor v angličtině mezi dvěma postavami, které řeší aktuální téma, jako je například environmentální problematika nebo technologie (cca 150 slov).
 
-Úkol 5: Základní úkol z předmětu Anglický jazyk - úroveň 5
+Úkol 5: Přeložit a analyzovat anglický básnický text, který obsahuje metaforické a symbolické prvky, a vysvětlit jejich význam a účel v básni (cca 250 slov).
 
-Úkol 6: Základní úkol z předmětu Anglický jazyk - úroveň 6
+Úkol 6: Napsat krátkou kritiku anglického filmu nebo seriálu, která obsahuje stručnou informaci o obsahu a tématu, a také hodnocení filmu nebo seriálu (cca 200 slov).
 
-Úkol 7: Základní úkol z předmětu Anglický jazyk - úroveň 7
+Úkol 7: Vybrat dva anglické texty z různých období (například 16. století a 21. století) a porovnat jejich jazykový styl, gramatické struktury a slovní zásobu (cca 300 slov).
 
-Úkol 8: Základní úkol z předmětu Anglický jazyk - úroveň 8
+Úkol 8: Napsat ústní zkoušku v anglickém jazyce, kde budou studenti požádáni o diskusi o aktuálním tématu, jako je například vzdělávání nebo politika (cca 5 minut).
 
-Úkol 9: Základní úkol z předmětu Anglický jazyk - úroveň 9
+Úkol 9: Přeložit anglický článek o nějaké aktuální události do češtiny a poté napsat krátkou analýzu, kde budou vysvětlena hlavní myšlenka článku a její relevance ke současnému dění (cca 300 slov).
 
-Úkol 10: Základní úkol z předmětu Anglický jazyk - úroveň 10
+Úkol 10: Napsat dlouhou esej o anglickém spisovateli nebo autovi, který je známý svými díly v angličtině, a který se zabývá aktuálními tématy, jako je například sociální spravedlnost nebo environmentální problematika (cca 500 slov).

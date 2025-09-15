@@ -1,0 +1,113 @@
+# AI Generované řešení úkolů pro předmět: Elektroenergetika
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:02:31
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vypočítejte výkon proudového zdroje s nominální hodnotou 12 V a proudem 1,5 A.
+
+Výkon proudového zdroje se vypočítá podle vzorce:
+
+P = V x I
+
+kde:
+- P je výkon v wattech (W)
+- V je napětí v voltech (V)
+- I je proud v ampérech (A)
+
+Zadané hodnoty: V = 12 V, I = 1,5 A
+
+P = 12 V x 1,5 A = 18 W
+
+Tento výpočet je jednoduchý a zobecnělý, protože proudový zdroj není specifikován jako zdroj s konstantní účinností. V praxi by však úprava účinnosti byla důležitá.
+
+Řešení 2: Popište principy provozu jaderné elektrárny a uveďte její hlavní části.
+
+Jaderná elektrárna je zařízení, které konvertuje jadernou energii do elektrické energie. Hlavní části jaderné elektrárny:
+
+1. **Reaktor**: je srdce jaderné elektrárny, kde se probíhá jaderná reakce. Reaktor je nádoba, ve které se nachází jaderná paliva (obvykle U-235) a moderator (obvykle voda).
+2. **Palivový cyklus**: je proces, ve kterém se palivo v reaktoru roztaví a přemění na jadernou energii.
+3. **Chladicí systém**: je systém, který odvádí teplo z reaktoru a přenáší ho do chladicího média (obvykle voda).
+4. **Generátor**: je zařízení, které konvertuje teplo z chladicího systému do elektrické energie.
+5. **Kondenzátor**: je zařízení, které kondenzuje páru a vrátí ji do chladicího systému.
+
+Princip provozu jaderné elektrárny:
+
+1. Palivový cyklus se zahájí, při kterém se palivo v reaktoru roztaví a přemění na jadernou energii.
+2. Teplo z reaktoru se odvádí do chladicího systému.
+3. Chladicí systém přenáší teplo do generátoru.
+4. Generátor konvertuje teplo do elektrické energie.
+5. Elektrická energie se přenáší do elektrické sítě.
+
+Řešení 3: Rozložte síťový proud podle zákona Ohma pro elektrický obvod s následujícími parametry: R1 = 100 Ω, R2 = 200 Ω, Vcc = 12 V.
+
+Zákon Ohma se dá vypočítat podle vzorce:
+
+I = V/R
+
+kde:
+- I je proud v ampérech (A)
+- V je napětí v voltech (V)
+- R je odpor v ohmech (Ω)
+
+V prvním kroku se vypočítá proud pro první rezistor (R1):
+
+I1 = Vcc / R1
+= 12 V / 100 Ω
+= 0,12 A
+
+Poté se vypočítá napětí na prvním rezistoru (R1):
+
+V1 = I1 x R1
+= 0,12 A x 100 Ω
+= 12 V
+
+Nyní se vypočítá proud pro druhý rezistor (R2):
+
+I2 = (Vcc - V1) / R2
+= (12 V - 12 V) / 200 Ω
+= 0 A
+
+To znamená, že druhý rezistor (R2) je napájený napětím 0 V a tudíž proud je 0 A.
+
+Řešení 4: Vypočítejte účinnost transformátoru s primární indukčností 100 mH, sekundární indukčností 10 mH a napájecím napětím 230 V.
+
+Účinnost transformátoru se vypočítá podle vzorce:
+
+η = (E2 / E1)^2
+
+kde:
+- η je účinnost
+- E1 je napětí na primární straně v voltech (V)
+- E2 je napětí na sekundární straně v voltech (V)
+
+Zadané hodnoty: E1 = 230 V, E2 = E1 x (N2/N1) = 230 V x (10 mH/100 mH) = 23 V
+
+η = (23 V/230 V)^2
+= 0,0018
+
+To znamená, že účinnost transformátoru je 0,18%, což je poměrně nízká hodnota.
+
+Řešení 5: Uveďte typy elektrických generátorů a jejich výhody a nevýhody.
+
+Typy elektrických generátorů:
+
+1. **Vodní turbína**: je nejčastější typ generátoru, který používá vodní energii k pohonu generátoru. Výhody: vysoká účinnost, nízké náklady. Nevýhody: závislost na vodních zdrojích.
+2. **Jaderný generátor**: je typ generátoru, který používá jadernou energii k pohonu generátoru. Výhody: vysoká účinnost, nízké náklady. Nevýhody: vysoké náklady na výstavbu, závislost na jaderné palivu.
+3. **Gasoilový generátor**: je typ generátoru, který používá gasoil k pohonu generátoru. Výhody: vysoká účinnost, nízké náklady. Nevýhody: závislost na fosilních palivech.
+4. **Solární generátor**: je typ generátoru, který používá solární energii k pohonu generátoru. Výhody: nízké náklady, nízká závislost na fosilních palivech. Nevýhody: nízká účinnost, závislost na počasí.
+
+Řešení 6: Vypočítejte aktivní a reaktivní výkon v elektrickém obvodu s napětím 220 V, proudem 10 A a fázovým posuvem 30°.
+
+Aktivní výkon se vypočítá podle vzorce:
+
+P = V x I x cos(φ)
+
+kde:
+- P je aktivní výkon v wattech (W)
+- V je napětí v voltech (V)
+- I je proud v ampérech (A)
+- φ je fázový posuv v radianech
+
+Zadané hodnoty: V = 220 V, I = 10 A, φ = 30° = 0,524 rad
+
+P = 220 V x 10 A x

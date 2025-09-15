@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Tělesná výchova
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:49:02
+# Datum: 2025-09-15 21:59:08
 
-Úkol 1: Popiš rozdíl mezi aerobnou a anaerobní kondicí těla a udělej příklad, jak je lze aplikovat v praxi na jednoduchý cvičební program.
+Úkol 1: Vyberte tři druhy cvičení pro rozvoj svalů břicha a popište jejich efektivní provedení.
 
-Úkol 2: Popiš principy bezpečnosti při cvičení s omezenou pohyblivostí a udělej příklad, jak by se měla cvičit osoba s poraněním loktů.
+Úkol 2: Popište rozdíl mezi dynamickým a statickým tréninkem a udělejte konkrétní příklad každého z nich.
 
-Úkol 3: Porovnej efektivitu cvičení na pevné ploše (např. běh na pásu) s cvičením na měkké ploše (např. běh na trávě) a udělej závěr, který který způsob cvičení je lepší pro zdravý rozvoj pohybového aparátu.
+Úkol 3: Rozhodněte se pro jeden z následujících cvičení: kruhový běh, běh na místě nebo skok daleký. Vypracujte návod, jak cvičení provádět bezpečně a účinně.
 
-Úkol 4: Vypracuj krátký cvičební program pro zlepšení flexibility kolenního kloubu a udělej popis jednotlivých cvičení a jejich účinnosti.
+Úkol 4: Porovnejte výhody a nevýhody cvičení na staničním kole a na kole na drátě. Jaké jsou jejich rozdíly a jak by mohly být použity ve vybraném tréninkovém programu.
 
-Úkol 5: Popiš rozdíl mezi akromatií a skoliotou a udělej příklad, jak by se měly pohybové aktivity přizpůsobovat osobám s těmito poruchami.
+Úkol 5: Vyberte tři typy cvičení pro rozvoj flexibilitě a flexibility. Popište jejich efektivní provedení a udělejte seznam kontraindikací pro každou z těchto aktivit.
 
-Úkol 6: Vypracuj cvičební program pro zlepšení svalové silové funkce a udělej popis jednotlivých cvičení a jejich účinnosti.
+Úkol 6: Vypracujte tříhodinový tréninkový program pro začínající sportovce, který by zahrnoval cvičení pro rozvoj kondice, svalů a flexibilitě.
 
-Úkol 7: Porovnej vliv cvičení na pevnou plochu (např. běh na pásu) a cvičení na měkkou plochu (např. běh na trávě) na vybrané fyziologické parametry člověka (např. zátěž kardiovaskulárního systému).
+Úkol 7: Porovnejte principy a cíle cvičení na rovnováze a stability. Jak by mohly být tyto činnosti použity ve vybraném tréninkovém programu?
 
-Úkol 8: Vypracuj návrh cvičební skupiny pro zlepšení kondice a svalové silové funkce pro osoby ve věku 55-65 let.
+Úkol 8: Vyberte dva sporty, ve kterých je vyžadována silná kondice (například fotbal nebo basketbal). Vypracujte přehled cvičení, která by mohly být použita k přípravě sportovců na tyto soutěže.
 
-Úkol 9: Popiš principy pohybové úrovně a udělej příklad, jak by mělo být cvičení přizpůsobeno osobám s různou pohybovou úrovní.
+Úkol 9: Vypracujte pět dní tréninkový program pro vytrvalostní sportovce, který by zahrnoval cvičení pro rozvoj kondice, svalů a flexibilitě.
 
-Úkol 10: Vypracuj návrh cvičební programu pro zlepšení pohybové koordinace a vyrovnanosti u dětí ve věku 6-10 let.
+Úkol 10: Porovnejte principy a cíle cvičení pro zlepšení vytrvalosti a kondice. Jak by mohly být tyto činnosti použity ve vybraném tréninkovém programu a jakými by měly být doprovázeny?

@@ -1,0 +1,23 @@
+# AI Generované zadání úkolů pro předmět: Počítačové sítě SŠ
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:01:02
+
+Úkol 1: Uveďte hlavní typy fyzických sdílených médií, které se používají v počítačových sítích.
+
+Úkol 2: Popište rozdíl mezi síťovým protokolem a síťovým standardem.
+
+Úkol 3: Uveďte a vysvětlete funkce Layer 2 (Data Link Layer) v OSI modelu.
+
+Úkol 4: Uveďte a porovnejte hlavní typy přenosových médií (Ethernet, Wi-Fi, Token Ring).
+
+Úkol 5: Zvolte si síťový kartu a popište její hlavní komponenty a funkce.
+
+Úkol 6: Uveďte a vysvětlete hlavní rozdíly mezi statickým a dynamickým přidělováním IP adres.
+
+Úkol 7: Uveďte a vysvětlete funkce Layer 3 (Network Layer) v OSI modelu, a to včetně routingu a přeposílání datagramů.
+
+Úkol 8: Porovnejte a přehledně popsali síťový model TCP/IP a OSI model.
+
+Úkol 9: Uveďte a vysvětlete funkce NAT (Network Address Translation) a jeho aplikace v moderních počítačových sítích.
+
+Úkol 10: Uveďte a popisujte bezpečnostní prvky počítačových sítí, a to včetně firewallov, IDS a IPS.

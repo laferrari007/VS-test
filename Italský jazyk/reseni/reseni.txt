@@ -1,0 +1,94 @@
+# AI Generované řešení úkolů pro předmět: Italský jazyk
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 21:57:40
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Přeložte do italštiny větu: "Jsem z Prahy a rád si procházejím parkem."
+
+Řešení: "Sono di Praga e amo passeggiare nel parco."
+
+Detailní vysvětlení: 
+
+* Převod přísloví "z Prahy" z češtiny do italštiny je "di Praga".
+* Převod přísloví "rád" z češtiny do italštiny je "amo", které je vyjádření laskomosti.
+* Převod přísloví "procházejím" z češtiny do italštiny je "passeggio", což znamená chodit nebo procházet se.
+* Převod podstatného jména "park" z češtiny do italštiny je "parco".
+
+Řešení 2: Seznamte se s přídavnými jmény v italštině a použijte je k popsání osobnosti svého oblíbeného italského spisovatele.
+
+Řešení: Můj oblíbený italský spisovatel je Italo Calvino. On byl velmi inteligentní (intelligente) a kreativní (creativo) spisovatel. Jeho knihy byly vždy velmi originální (originale) a inovativní (innovativo). 
+
+Detailní vysvětlení:
+
+* Přídavné jméno "intelligente" se používá k popsání inteligence nebo moudrosti.
+* Přídavné jméno "creativo" se používá k popsání kreativity nebo tvořivosti.
+* Přídavné jméno "originale" se používá k popsání originálnosti nebo jedinečnosti.
+* Přídavné jméno "innovativo" se používá k popsání inovací nebo změn.
+
+Řešení 3: Seznamte se s typy italských přísloví (adverbia) a použijte je k popisu vašich denních aktivit.
+
+Řešení: Každý den si rádo (amabilmente) vstávám brzy ráno a chodím do školy. Po škole mám volno (liberamente) a můžu jít do parku a dělat sport (sportivamente).
+
+Detailní vysvětlení:
+
+* Přísloví "amabilmente" se používá k popsání laskavosti nebo dobrotě.
+* Přísloví "liberamente" se používá k popsání volnosti nebo svobody.
+* Přísloví "sportivamente" se používá k popsání sportovního ducha nebo činosti.
+
+Řešení 4: Přeložte do italštiny krátký text o vašem oblíbeném městě v Česku.
+
+Řešení: Mým oblíbeným městem v Česku je Praha. Je to krásné město (città bella) s bohatou historií a kulturou. Můžete se tam vidět (si può vedere) krásné památky a muzea.
+
+Detailní vysvětlení:
+
+* Převod přísloví "oblíbené" z češtiny do italštiny je "preferito".
+* Převod podstatného jména "město" z češtiny do italštiny je "città".
+* Převod přísloví "krásné" z češtiny do italštiny je "bella".
+* Převod přísloví "bohatá" z češtiny do italštiny je "ricca".
+* Převod přísloví "můžete se vidět" z češtiny do italštiny je "si può vedere".
+
+Řešení 5: Seznamte se s italskými slovesnými tvary a použijte je k popisu vašich plánů na víkend.
+
+Řešení: Na víkend chci jít (voglio andare) do Prahy a navštívit (volere visitare) některé zajímavé památky. Poté chci jít (voglio andare) do restaurace a sníst (volere mangiare) nějaké dobré jídlo.
+
+Detailní vysvětlení:
+
+* Slovesný tvar "voglio andare" se používá k popsání záměru nebo plánu.
+* Slovesný tvar "volere visitare" se používá k popsání záměru nebo plánu navštívit.
+* Slovesný tvar "voglio andare" se používá k popsání záměru nebo plánu jít.
+* Slovesný tvar "volere mangiare" se používá k popsání záměru nebo plánu sníst.
+
+Řešení 6: Přeložte do italštiny krátkou básničku o přírodě.
+
+Řešení: "La natura è bella,
+la natura è forte,
+la natura è piena di vita."
+
+Detailní vysvětlení:
+
+* Převod přísloví "přirodní" z češtiny do italštiny je "naturale".
+* Převod přísloví "krásná" z češtiny do italštiny je "bella".
+* Převod přísloví "silná" z češtiny do italštiny je "forte".
+* Převod přísloví "plná života" z češtiny do italštiny je "piena di vita".
+
+Řešení 7: Seznamte se s italskými číslovkami a použijte je k popisu vašich oblíbených italských jídla.
+
+Řešení: Můj oblíbený italský příbytek je pasta carbonara, která stojí 12 euro. Rád si také objednávám (ordino) pizzu margherita, která stojí 15 euro.
+
+Detailní vysvětlení:
+
+* Italská číslovka "dvanáct" je "dodici".
+* Italská číslovka "patnáct" je "quindicimila".
+* Slovesný tvar "ordino" se používá k popsání objednávky nebo požadavku.
+
+Řešení 8: Přeložte do italštiny krátký rozhovor o vašich zájmech.
+
+Řešení: "A: Cosa ti piace fare nel tuo tempo libero?
+B: Mi piace leggere i libri e ascoltare la musica."
+
+Detailní vysvětlení:
+
+* Převod přísloví "čemu se líbí" z češtiny do italštiny je "cosa mi piace".
+* Slovesný tvar "fare" se používá k popsání činností nebo aktivit.
+* Převod podstatného jména "čtení knih" z češtiny do italštiny je "leggere i libri".
+* Převod podstatného jména "
