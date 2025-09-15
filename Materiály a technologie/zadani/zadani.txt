@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Materiály a technologie
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:01:49
+# Zadání úkolů pro předmět: Materiály a technologie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:14:10
 
-Úkol 1: Určete hlavní typy hutních procesů a popsme jejich principy a aplikace.
+Úkol 1: Rozdělte materiál Al 6061 na jeho složky a vysvětlete jejich vliv na mechanické vlastnosti materiálu.
 
-Úkol 2: Proveďte analýzu vlastností a aplikací hliníku v různých odvětvích průmyslu.
+Úkol 2: Porovnejte vlastnosti materiálu vyztuženého vláknem s materiálem bez vláknového vyztužení (např. Al 6061) a vysvětlete přínos vláknového vyztužení.
 
-Úkol 3: Popište procesy výroby a vlastnosti jednotlivých typů oceli (kované, nerezová, vysokopevnostní).
+Úkol 3: Vyberte si dva druhy kovů (např. Al, Cu) a porovnejte jejich vlastnosti vzhledem k jejich struktuře a složení.
 
-Úkol 4: Vypočtěte hmotnost a rozměry součástky vyrobené z vyzařovací slitiny Al 7075 po odlehčení 20%.
+Úkol 4: Upravte rovnici pro únavovou křivku materiálu Al 6061 a vysvětlete vliv různých faktorů na únavové chování materiálu.
 
-Úkol 5: Porovnejte vlastnosti a aplikace titanové slitiny Ti-6Al-4V a niklové slitiny Inconel 625.
+Úkol 5: Vyšetřete vliv teploty na mechanické vlastnosti materiálu Al 6061 a vysvětlete principy, které jsou za tím.
 
-Úkol 6: Proveďte návrh a analýzu statické stability hruškovitého prutku vyrobeného z vysoce pevné oceli.
+Úkol 6: Porovnejte vlastnosti materiálu titanu s materiálem Al 6061 a vysvětlete přínos titanu v různých aplikacích.
 
-Úkol 7: Vypracujte návrh a návrhové rozměry vodíkové komory pro kapacitní vodíkový plynový motor.
+Úkol 7: Vyberte si dva druhy kompozitů (např. skleněný a uhlíkový) a porovnejte jejich vlastnosti vzhledem k jejich struktuře a složení.
 
-Úkol 8: Vypočtěte a porovnejte tepelné rozptylové schopnosti dvou různých typů izolačních materiálů (vlna a skelné vlákno).
+Úkol 8: Upravte rovnici pro tepelnou vodivost materiálu Al 6061 a vysvětlete vliv různých faktorů na tepelnou vodivost materiálu.
 
-Úkol 9: Popište principy a aplikace laserové svařování kovů.
+Úkol 9: Vyšetřete vliv vlhkosti na mechanické vlastnosti materiálu Al 6061 a vysvětlete principy, které jsou za tím.
 
-Úkol 10: Vypracujte návrh a návrhové rozměry experimentálního vzorku pro testování mechanických vlastností nanokompozitního materiálu.
+Úkol 10: Porovnejte vlastnosti materiálu vyrobeného metodou 3D tisku s materiálem vyrobeným klasickými metodami (např. lití, tváření) a vysvětlete přínos 3D tisku v různých aplikacích.
