@@ -2,22 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:27:08
 
-Úkol 1: Popište principy biotechnologické výroby enzymů a udělejte přehled jejich aplikací v průmyslu.
+Úkol 1: Popište základní principy rekombinační DNA technologie a vysvětlete její význam v moderní biotechnologii.
 
-Úkol 2: Porovnejte biotechnologické metody výroby chlorečnanu sodného (NaClO) s klasickými chemickými metodami. Vyjmenujte výhody a nevýhody každé metody.
+Úkol 2: Porovnejte a porozuměte mechanismům genové expresní regulace a silniční regulace v bakteriích Escherichia coli.
 
-Úkol 3: Popište proces výroby biopaliv z biomasy pomocí mikroorganismů. Uveďte hlavní kroky a faktory ovlivňující efektivitu procesu.
+Úkol 3: Rozečtěte a diskutujte role a funkce transkripčních faktorů v regulaci genové expresní v eukaryotických buňkách.
 
-Úkol 4: Vyšetřete vlastnosti a vlastnosti kmenů Escherichia coli (E. coli) rekombinantně modifikovaných pro výrobu lidské růstové hormony (hGH). Popište metody jejich vyšetření a identifikace.
+Úkol 4: Popište a porozuměte principům genového inženýrství, včetně metod genové editace (CRISPR-Cas) a jejich aplikací v biotechnologii.
 
-Úkol 5: Porovnejte biotechnologické metody výroby antibiotik s klasickými farmakologickými metodami. Uveďte výhody a nevýhody každé metody.
+Úkol 5: Analyzujte a porovnejte účinky různých biotechnologických procesů na výrobu biologicky aktivních látek (BAML), jako jsou enzymy a hormony.
 
-Úkol 6: Popište mechanismus rekombinační DNA (DNA rekombinace) a její roli v biotechnologii. Uveďte příklady jejích aplikací v oblasti genetického inženýrství.
+Úkol 6: Popište a vysvětlete principy a mechanismy biotechnologických procesů pro výrobu biopaliv a bioenergetických produktů, jako jsou bioethanol a biodiesel.
 
-Úkol 7: Vyšetřete účinnost a bezpečnost biologicky aktivních látek (BAL) založených na rostlinných látkách v boji proti rakovině. Popište metody jejich vyšetření a evaluace.
+Úkol 7: Diskutujte a porozuměte aplikacím biotechnologie v oblasti léčby rakoviny, včetně genové terapie a imunoterapie.
 
-Úkol 8: Uveďte hlavní kroky procesu výroby bioplastické hmoty z mikroorganismů a popište její vlastnosti a aplikace.
+Úkol 8: Rozečtěte a porovnejte různé biotechnologické metody pro výrobě buněčných kultur, jako jsou mikrobiální fermentace, bioreaktory a mikrofluidika.
 
-Úkol 9: Porovnejte biotechnologické metody výroby biokapalin s klasickými chemickými metodami. Uveďte výhody a nevýhody každé metody.
+Úkol 9: Popište a vysvětlete roli a funkce mikroorganismů v biotechnologických aplikacích, včetně bioremediace, výroby biologicky aktivních látek a výroby komponenty potravin.
 
-Úkol 10: Popište principy a aplikace genomiky v biotechnologii, včetně identifikace chromozomálních loků a genů spojených s určitými chorobami a vlastnostmi organismů.
+Úkol 10: Analyzujte a diskutujte současné výzvy a výzkumné příležitosti v oblasti biotechnologie, včetně regulace genového inženýrství, bezpečnosti biotechnologických produktů a aplikací biotechnologie v oblasti zdraví a environmentu.
