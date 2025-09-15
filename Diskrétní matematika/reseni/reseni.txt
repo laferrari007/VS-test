@@ -3,42 +3,107 @@
 # Datum: 2025-09-15 23:18:03
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Proveďte, že pokud má graf G maximální počet vrcholů v jedné hladině 1, pak má G minimální číslo chromatičnosti alespoň 2.
+Řešení 1: Zjistěte, zda je vztah mezi dvěma množinami v konečném počtu prvků ekvivalence. Proveďte to na příkladu dvou množin {a, b, c} a {1, 2, 3}.
 
-Pokud má graf G maximální počet vrcholů v jedné hladině 1, pak každý vrchol má minimálně jeden soused. To znamená, že každý vrchol musí být barevný jinak, než jeho soused. Proto musí být minimální číslo chromatičnosti G alespoň 2, protože každý vrchol vyžaduje jiný barvový kód.
+Abychom zjistili, zda je vztah mezi dvěma množinami v konečném počtu prvků ekvivalence, musíme ověřit, zda mají obě množiny stejný počet elementů a zda existuje bijekce (fungující funkce) mezi nimi. 
 
-Řešení 2: Zkuste ukázat, že pro libovolný polograf G a libovolný celek k platí, že počet vrcholů v G je větší než nebo roven k^2.
+V našem případě máme dvě množiny {a, b, c} a {1, 2, 3}. Obě množiny mají stejný počet elementů, který je 3. 
 
-Polograf G je graf, který nemá žádné cykly. Pokud je G polograf s minimálně k^2 vrcholy, pak existuje alespoň jeden vrchol, který má všechny sousedy jiného barevného kódu. Pokud by byl jeden z těchto sousedů stejný barevný kód, pak by existoval cyklus, což je v rozporu s tím, že G je polograf. Proto musí být počet vrcholů v G větší než nebo roven k^2.
+Našli jsme následující funkci: 
 
-Řešení 3: Rozhodněte, zda je graf G k-regularní, pokud má G přesně k hran na každé dva navzájem související vrcholy.
+f: {a, b, c} → {1, 2, 3}
+- f(a) = 1
+- f(b) = 2
+- f(c) = 3
 
-Graf G je k-regularní, pokud každý vrchol má přesně k sousedů. Pokud má G přesně k hran na každé dva navzájem související vrcholy, pak každý vrchol má právě k sousedů, protože každá hrana spojuje dva různé vrcholy. Proto je G k-regularní.
+Funkce f je injekce (bijekce), protože každá hodnota v množině {a, b, c} je mapována na jedinou hodnotu v množině {1, 2, 3} a každá hodnota v množině {1, 2, 3} je mapována alespoň jednou.
 
-Řešení 4: Proveďte, že pokud má graf G průměr větší než 2, pak má G minimální číslo chromatičnosti alespoň 3.
+Protože jsme našli injekci mezi oběma množinami, můžeme říci, že vztah mezi nimi je ekvivalence.
 
-Průměr G je minimální délka cesty mezi dvěma vrcholy v G. Pokud má G průměr větší než 2, pak existují dva vrcholy, které jsou odděleny cestou o délce větší než 2. To znamená, že tyto dva vrcholy musí mít jiný barvový kód, aby nedošlo k cyklické barvení. Pokud by byl jeden z nich stejný barevný kód, pak by existoval cyklus, což je v rozporu s tím, že průměr G je větší než 2. Proto musí mít G minimální číslo chromatičnosti alespoň 3.
+Řešení 2: Vypočtěte počet možných cest v grafu, který je tvořen 5 uzly a 6 hranami. Předpokládejte, že každé spojení mezi dvěma uzly má stejnou váhu.
 
-Řešení 5: Zkuste ukázat, že pro libovolný polograf G a libovolný celek k platí, že číslo chromatičnosti G je menší nebo roven k.
+V tomto úkolu je potřeba použít teorii grafů. Graf s 5 uzly a 6 hranami je jednoduchý graf, protože nemá žádné cykly delší než 3. 
 
-Polograf G je graf, který nemá žádné cykly. Pokud je G polograf s minimálně k chromatickou barvení, pak existuje alespoň jeden vrchol, který má všechny sousedy jiného barevného kódu. Pokud by byl jeden z těchto sousedů stejný barevný kód, pak by existoval cyklus, což je v rozporu s tím, že G je polograf. Proto musí být číslo chromatičnosti G menší nebo roven k.
+Můžeme použít tzv. "metodu cest", která spočítá počet cest mezi dvěma uzly v grafu. 
 
-Řešení 6: Rozhodněte, zda je graf G k-chromatičtější, pokud má G minimální číslo chromatičnosti alespoň k.
+Pro graf s 5 uzly a 6 hranami jsou možné cesty mezi dvěma uzly:
 
-Graf G je k-chromatičtější, pokud má minimální číslo chromatičnosti alespoň k. Pokud má G minimální číslo chromatičnosti alespoň k, pak existuje alespoň k barevných kódů, které lze použít k barvení vrcholů G. Proto je G k-chromatičtější.
+- Cesta dlouhou 1: 5 cest
+- Cesta dlouhou 2: 10 cest
+- Cesta dlouhou 3: 10 cest
 
-Řešení 7: Proveďte, že pokud má graf G minimální číslo chromatičnosti alespoň 3, pak má G průměr větší než 2.
+Celkový počet cest v grafu je součet počtu cest každé délky:
 
-Pokud má G minimální číslo chromatičnosti alespoň 3, pak existuje alespoň jeden vrchol, který má všechny sousedy jiného barevného kódu. Pokud by byl jeden z těchto sousedů stejný barevný kód, pak by existoval cyklus, což je v rozporu s tím, že G má minimální číslo chromatičnosti alespoň 3. Proto musí být průměr G větší než 2.
+5 + 10 + 10 = 25
 
-Řešení 8: Zkuste ukázat, že pro libovolný graf G a libovolný celek k platí, že počet vrcholů v G je větší než nebo roven k^3.
+Protože každý uzl má stejný počet hran, existuje stejný počet cest z každého uzlu do každého jiného uzlu. Protože graf nemá žádné cykly delší než 3, není nutné počítat cesty delší než 3.
 
-Pokud je G graf s minimálně k^3 vrcholy, pak existuje alespoň jeden vrchol, který má všechny sousedy jiného barevného kódu. Pokud by byl jeden z těchto sousedů stejný barevný kód, pak by existoval cyklus, což je v rozporu s tím, že G je graf. Proto musí být počet vrcholů v G větší než nebo roven k^3.
+Celkový počet cest v grafu je tedy 25.
 
-Řešení 9: Rozhodněte, zda je graf G k-regularní, pokud má G přesně k hran na každé dva navzájem související vrcholy a minimální číslo chromatičnosti alespoň 2.
+Řešení 3: Proveďte, že graf je pojmenován podle počtu jeho cyklických hran. Pokud má graf 5 cyklických hran, nazvěte ho G5.
 
-Pokud má G přesně k hran na každé dva navzájem související vrcholy a minimální číslo chromatičnosti alespoň 2, pak každý vrchol má právě k sousedů, protože každá hrana spojuje dva různé vrcholy. Pokud by byl jeden z nich stejný barevný kód, pak by existoval cyklus, což je v rozporu s tím, že G má minimální číslo chromatičnosti alespoň 2. Proto je G k-regularní.
+Protože graf je pojmenován podle počtu jeho cyklických hran, musíme najít graf s 5 cyklickými hranami.
 
-Řešení 10: Proveďte, že pokud má graf G minimální číslo chromatičnosti alespoň 4, pak má G průměr větší než 3.
+Graf s 5 cyklickými hranami může vypadat jako následující:
 
-Pokud má G minimální číslo chromatičnosti alespoň 4, pak existuje alespoň jeden vrchol, který má všechny sousedy jiného barevného kódu. Pokud by byl jeden z těchto sousedů stejný barevný kód, pak by existoval cyklus, což je v rozporu s tím, že G má minimální číslo chromatičnosti alespoň 4. Proto musí být průměr G větší než 3.
+- 1 cyklická hrana: 1 graf
+- 2 cyklické hrany: 2 grafy
+- 3 cyklické hrany: 2 grafy
+- 4 cyklické hrany: 1 graf
+- 5 cyklických hran: 1 graf
+
+Protože existuje pouze jeden graf s 5 cyklickými hranami, pojmenujeme tento graf G5.
+
+Řešení 4: Zjistěte, zda je množina všech konečných podmnožin množiny {a, b, c, d} konečná. Proveďte to na příkladu všech dvojic těchto množin.
+
+Množina všech konečných podmnožin množiny {a, b, c, d} obsahuje všechny možné podmnožiny této množiny. 
+
+Pro množinu {a, b, c, d} jsou možné podmnožiny:
+
+- {} (pustá množina)
+- {a}
+- {b}
+- {c}
+- {d}
+- {a, b}
+- {a, c}
+- {a, d}
+- {b, c}
+- {b, d}
+- {c, d}
+- {a, b, c}
+- {a, b, d}
+- {a, c, d}
+- {b, c, d}
+- {a, b, c, d}
+
+Celkový počet podmnožin je 16. 
+
+Protože existuje konečný počet podmnožin množiny {a, b, c, d}, lze říci, že množina všech konečných podmnožin této množiny je konečná.
+
+Řešení 5: Proveďte, že počet možných kombinací dvou prvků z množiny {a, b, c, d, e} je stejný jako počet možných kombinací tří prvků z množiny {a, b, c, d}.
+
+Číslo možných kombinací dvou prvků z množiny {a, b, c, d, e} je dán následujícími formulemi:
+
+C(n, k) = n! / (k! \* (n-k)!)
+
+kde n je počet prvků ve množině a k je počet prvků v kombinaci.
+
+V našem případě máme n = 5 a k = 2, takže:
+
+C(5, 2) = 5! / (2! \* (5-2)!)
+= 5! / (2! \* 3!)
+= (5 \* 4) / (2 \* 1)
+= 10
+
+Číslo možných kombinací tří prvků z množiny {a, b, c, d} je dán stejnou formule:
+
+C(4, 3) = 4! / (3! \* (4-3)!)
+= 4! / (3! \* 1!)
+= 4
+
+Ale to není stejný jako číslo možných kombinací dvou prvků z množiny {a, b, c, d, e}. 
+
+Protože počet možných kombinací dvou prvků z množiny {a, b, c, d, e} a počet možných kombinací tří prvků z množiny {a, b, c, d} nejsou stejné, naše tvrzení není správné.
+
+Řešení 6: Proveďte, že graf s 6 uzly a 6 hranami má stejný počet cyklických hran jako graf s 4 uz

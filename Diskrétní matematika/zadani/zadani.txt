@@ -2,24 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:18:03
 
-Zde jsou 10 univerzitních úkolů pro předmět "Diskrétní matematika":
+Úkol 1: Zjistěte, zda je vztah mezi dvěma množinami v konečném počtu prvků ekvivalence. Proveďte to na příkladu dvou množin {a, b, c} a {1, 2, 3}.
 
-Úkol 1: Proveďte, že pokud má graf G maximální počet vrcholů v jedné hladině 1, pak má G minimální číslo chromatičnosti alespoň 2.
+Úkol 2: Vypočtěte počet možných cest v grafu, který je tvořen 5 uzly a 6 hranami. Předpokládejte, že každé spojení mezi dvěma uzly má stejnou váhu.
 
-Úkol 2: Zkuste ukázat, že pro libovolný polograf G a libovolný celek k platí, že počet vrcholů v G je větší než nebo roven k^2.
+Úkol 3: Proveďte, že graf je pojmenován podle počtu jeho cyklických hran. Pokud má graf 5 cyklických hran, nazvěte ho G5.
 
-Úkol 3: Rozhodněte, zda je graf G k-regularní, pokud má G přesně k hran na každé dva navzájem související vrcholy.
+Úkol 4: Zjistěte, zda je množina všech konečných podmnožin množiny {a, b, c, d} konečná. Proveďte to na příkladu všech dvojic těchto množin.
 
-Úkol 4: Proveďte, že pokud má graf G průměr větší než 2, pak má G minimální číslo chromatičnosti alespoň 3.
+Úkol 5: Proveďte, že počet možných kombinací dvou prvků z množiny {a, b, c, d, e} je stejný jako počet možných kombinací tří prvků z množiny {a, b, c, d}. 
 
-Úkol 5: Zkuste ukázat, že pro libovolný polograf G a libovolný celek k platí, že číslo chromatičnosti G je menší nebo roven k.
+Úkol 6: Proveďte, že graf s 6 uzly a 6 hranami má stejný počet cyklických hran jako graf s 4 uzly a 4 hranami.
 
-Úkol 6: Rozhodněte, zda je graf G k-chromatičtější, pokud má G minimální číslo chromatičnosti alespoň k.
+Úkol 7: Vypočtěte počet možných cest v grafu, který je tvořen 7 uzly a 8 hranami. Předpokládejte, že každé spojení mezi dvěma uzly má stejnou váhu.
 
-Úkol 7: Proveďte, že pokud má graf G minimální číslo chromatičnosti alespoň 3, pak má G průměr větší než 2.
+Úkol 8: Proveďte, že množina všech konečných podmnožin množiny {a, b, c, d, e, f} je konečná. Proveďte to na příkladu všech dvojic těchto množin.
 
-Úkol 8: Zkuste ukázat, že pro libovolný graf G a libovolný celek k platí, že počet vrcholů v G je větší než nebo roven k^3.
+Úkol 9: Zjistěte, zda je vztah mezi dvěma množinami v konečném počtu prvků ekvivalence. Proveďte to na příkladu dvou množin {a, b, c, d, e} a {1, 2, 3, 4, 5}.
 
-Úkol 9: Rozhodněte, zda je graf G k-regularní, pokud má G přesně k hran na každé dva navzájem související vrcholy a minimální číslo chromatičnosti alespoň 2.
-
-Úkol 10: Proveďte, že pokud má graf G minimální číslo chromatičnosti alespoň 4, pak má G průměr větší než 3.
+Úkol 10: Proveďte, že graf s 8 uzly a 10 hranami má stejný počet cyklických hran jako graf s 6 uzly a 8 hranami.
