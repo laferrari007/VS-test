@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Pružnost a pevnost
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:35:58
+# Datum: 2025-09-15 23:36:00
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Pružnost a pevnost
 
