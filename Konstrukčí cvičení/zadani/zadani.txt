@@ -1,25 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Konstrukčí cvičení
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:59:36
+# Zadání úkolů pro předmět: Konstrukčí cvičení
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:09:34
 
-Děkuji za požádání. Zde jsou 10 univerzitních úkolů pro předmět "Konstrukční cvičení":
+Úkol 1: Vypočítejte rozložení síly v kříži dvou pružin s hmotností 10 kg a 20 kg, pokud jsou napjaty s silami 50 N a 100 N. Použijte rovnovážné úhly 30° a 60°.
 
-Úkol 1: Navrhněte jednoduchou konstrukci stolu s rovnou podlahou a postranními nohami. Použijte grafické programy (např. Autodesk Inventor, SolidWorks) a přiložte náčrt stolu s rozměry a materiálovými vstupními daty.
+Úkol 2: Konstruujte jednoduchý most s pevným základem a dvěma pružnými nosníky. Most má délku 6 m a rozpětí 4 m. Použijte materiál o únosnosti 10 kN/m a hmotnost 50 kg/m. Zajistěte, aby most vydržel namáhání 20 kN.
 
-Úkol 2: Navrhněte konstrukci otočné ojnice s kuličkovým hnacím mechanismem. Použijte teorii ojnic a kuličkových mechanismů k výpočtu rozměrů a návrhové dokumentaci.
+Úkol 3: Pro konstrukci mostu s pevným základem a dvěma pružnými nosníky vypočítejte rovnovážné úhly a síly v nosnících. Most má délku 8 m a rozpětí 6 m. Použijte materiál o únosnosti 12 kN/m a hmotnost 70 kg/m. Zajistěte, aby most vydržel namáhání 30 kN.
 
-Úkol 3: Navrhněte konstrukci nosného prvku (např. sloup) s pevnými koncovými body. Použijte statické rovnice k výpočtu nosné kapacity a návrhové dokumentaci.
+Úkol 4: Konstruujte konstrukci s otočným kladkem, který vyváží hmotnost 500 kg. Použijte materiál o únosnosti 20 kN a hmotnost 100 kg/m. Zajistěte, aby konstrukce vydržila namáhání 100 kN.
 
-Úkol 4: Navrhněte konstrukci přenosové skříně s plynulými ložisky. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+Úkol 5: Vypočítejte dynamický odpor v mostě s pevným základem a dvěma pružnými nosníky, pokud je namáhaný zatížení 50 kN. Použijte materiál o únosnosti 15 kN/m a hmotnost 60 kg/m.
 
-Úkol 5: Navrhněte konstrukci automatického výtahu s pohonem DC motoru. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+Úkol 6: Konstruujte konstrukci s jednoduchou rámem, který vyváží hmotnost 1000 kg. Použijte materiál o únosnosti 30 kN a hmotnost 150 kg/m. Zajistěte, aby konstrukce vydržila namáhání 150 kN.
 
-Úkol 6: Navrhněte konstrukci kompresoru s plynulými ložisky. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+Úkol 7: Vypočítejte statickou stabilitu mostu s pevným základem a dvěma pružnými nosníky, pokud je namáhaný zatížení 80 kN. Použijte materiál o únosnosti 18 kN/m a hmotnost 80 kg/m.
 
-Úkol 7: Navrhněte konstrukci převodovky s kuličkovým mechanismem. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+Úkol 8: Konstruujte konstrukci s otočným kladkem a jednoduchým rámem, který vyváží hmotnost 2000 kg. Použijte materiál o únosnosti 40 kN a hmotnost 250 kg/m. Zajistěte, aby konstrukce vydržila namáhání 200 kN.
 
-Úkol 8: Navrhněte konstrukci konstrukční prvku (např. hřídele, vřeteno) s pevnými koncovými body. Použijte teorii ojnic a kuličkových mechanismů k výpočtu rozměrů a návrhové dokumentaci.
+Úkol 9: Vypočítejte dynamický odpor v mostě s pevným základem a dvěma pružnými nosníky, pokud je namáhaný zatížení 120 kN. Použijte materiál o únosnosti 25 kN/m a hmotnost 100 kg/m.
 
-Úkol 9: Navrhněte konstrukci stroje (např. frézovací stroj) s plynulými ložisky. Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
-
-Úkol 10: Navrhněte konstrukci mechatronického systému (např. autonomního vozidla) s integrovanými systémy (např. řízení, senzory). Použijte rovnice dynamiky a návrhové dokumentaci pro návrh správné konstrukce.
+Úkol 10: Konstruujte konstrukci s jednoduchým rámem a otočným kladkem, který vyváží hmotnost 5000 kg. Použijte materiál o únosnosti 60 kN a hmotnost 400 kg/m. Zajistěte, aby konstrukce vydržila namáhání 300 kN.
