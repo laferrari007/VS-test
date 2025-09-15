@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Organická chemie
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:08:20
+# Zadání úkolů pro předmět: Organická chemie
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:21:59
 
-Úkol 1: Seznamte se s typy vazeb v organické chemii a popište rozdíly mezi sigma a pi vazbou.
+Úkol 1: Vyvažte chemickou rovnici souvisejí s tématem z předmětu Organická chemie
 
-Úkol 2: Seznamte se s principem substituční nereaktivnosti a popište příklady, kde dochází k této nereaktivitě.
+Úkol 2: Vypočítejte molární hmotnost souvisejí s tématem z předmětu Organická chemie
 
-Úkol 3: Vyřešte syntézu cykloheksanu z acetaldehydu metodou katalytické hydrogenace.
+Úkol 3: Určete koncentraci roztoku souvisejí s tématem z předmětu Organická chemie
 
-Úkol 4: Popište mechanismus reakce aldolové kondenzace a diskutujte o výhodách a nevýhodách této metody.
+Úkol 4: Řešte úkol ze stechiometrie souvisejí s tématem z předmětu Organická chemie
 
-Úkol 5: Seznamte se s typy substituentů v organické chemii a popište vliv substituentů na elektronegativitu a polarity vazeb.
+Úkol 5: Navrhněte syntézu sloučeniny souvisejí s tématem z předmětu Organická chemie
 
-Úkol 6: Vyřešte syntézu benzylalkoholu z benzenmethylaminu metodou redukční aminování.
+Úkol 6: Určete oxidační čísla souvisejí s tématem z předmětu Organická chemie
 
-Úkol 7: Popište principy stereochémie v organické chemii a diskutujte o důsledcích stereoselektivity v praxi.
+Úkol 7: Vypočítejte pH roztoku souvisejí s tématem z předmětu Organická chemie
 
-Úkol 8: Seznamte se s typy heterocyclických sloučenin a popište chemické a fyzikální vlastnosti některých z nich.
+Úkol 8: Řešte rovnováhu reakce souvisejí s tématem z předmětu Organická chemie
 
-Úkol 9: Vyřešte syntézu 2,4-dinitroanisolu z nitrobenzenem a methanol metodou Friedel-Craftsovy acylace.
+Úkol 9: Určete typ chemické vazby souvisejí s tématem z předmětu Organická chemie
 
-Úkol 10: Popište principy fotochemie v organické chemii a diskutujte o aplikacích a omezeních této metody.
+Úkol 10: Vypočítejte výtěžek reakce souvisejí s tématem z předmětu Organická chemie
