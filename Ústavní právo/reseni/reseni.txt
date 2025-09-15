@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Ústavní právo
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:50:42
+# Datum: 2025-09-15 23:50:43
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 
