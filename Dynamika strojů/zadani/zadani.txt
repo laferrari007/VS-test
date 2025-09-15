@@ -1,33 +1,35 @@
 # Zadání úkolů pro předmět: Dynamika strojů
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:36:21
+# Datum: 2025-09-15 23:36:23
+
+zde jsou 10 univerzitních úkolů pro předmět "Dynamika strojů":
 
 Úkol 1: 
-Popište rozdíl mezi harmonickým a periodickým pohybem v kontextu dynamiky strojů. Uveďte příklady aplikací těchto pohybů v různých strojích.
+Vyberte jednoduchý typ stroje (např. válec, zubadlo, převodovka) a na základě jeho geometrických rozměrů a hmotnosti vypočítejte jeho první a druhou charakteristickou frekvenci.
 
 Úkol 2: 
-Zajistěte, aby v mechanizmu se dvěma válečkami byla úhlová rychlost jedné válečky o 1,5násobku úhlové rychlosti druhé válečky. Pokud je úhlová rychlost první válečky 60 rad/s, určit úhlovou rychlost druhé válečky a její rotační rychlost.
+Zvažte dynamiku jednoduchého mechanismu s jedním uzlem pohybu (např. válec a kolík). Použijte Lagrangeovu mechaniku, aby vypočítali pohybové rovnice tohoto mechanismu a analyzovali jeho dynamický chování.
 
 Úkol 3: 
-Popište vlastnosti kyvného pohybu a jeho aplikace v různých strojích (například v rázových tlumičích). Uveďte výhody a nevýhody kyvného pohybu ve srovnání s jinými typy pohybů.
+Rozvíjejte jednoduchý model dynamiky rotoru s vyvažovacími hmotami. Zvažte vliv polohy vyvažovacích hmot na dynamické vlastnosti rotoru. Použijte numerické metody (např. Finite Elementy) k výpočtu dynamických charakteristik rotoru.
 
 Úkol 4: 
-Pokud má válec průměr 0,2 m a je napnutý silou 150 N, vypočítejte jeho moment sil. Pokud válec otáčí se zpožděním 2 s, určíte zpoždění vřetene na straně válcového převodu.
+Zpracujte dynamický model stroje s více uzly pohybu (např. převodovka se třemi uzly pohybu). Použijte Lagrangeovu mechaniku k vypočítání pohybových rovnice stroje a analyzujte jeho dynamické vlastnosti.
 
 Úkol 5: 
-Určete rotační rychlost a úhlovou rychlost rotoru u rotoru s válcem o průměru 0,3 m a momentem sil 200 Nm. Uvažujte, že rotor má hmotnost 20 kg a převodové poměry jsou 5:1.
+Vyberte konkrétní typ dynamického chování (např. rezonance, self-excited oscillace) a zvažte jeho vliv na funkci stroje. Použijte analytické i numerické metody k analýze dynamického chování stroje v dané situaci.
 
 Úkol 6: 
-Vypočítejte moment sil při rotační rychlosti 1200 rpm u kyvného mechanismu s kyvnou hřídelí o délce 1 m a hmotnosti 20 kg. Zohledníte fakt, že kyvná hřídel je vyztužena dvěma přírubami.
+Zpracujte projekt zpracováním dynamického modelu stroje s vybranými parametry (např. hmotnost, moment zatahování). Použijte softwarové nástroje (např. ANSYS, ADAMS) k analýze dynamických vlastností stroje.
 
 Úkol 7: 
-Popište principy práce diferenciálu v kontextu dynamiky strojů. Uveďte jeho aplikace v různých typech vozidel a uveďte výhody a nevýhody jeho použití.
+Zvažte vliv přítomnosti tlakových vln na dynamické vlastnosti stroje (např. rotoru). Použijte numerické metody k analýze přenosu tlakových vln na strojní mechanismy a zvažte jejich vliv na dynamické chování stroje.
 
 Úkol 8: 
-Pokud má diferenciál poměr převodu 3,5:1, vypočítejte moment sil vstupující do diferenciálu při rotační rychlosti 1000 rpm. Zohledníte fakt, že diferenciál má hmotnost 50 kg.
+Rozvíjejte model dynamiky stroje s více stupni svobody (např. 6 stupňů svobody). Použijte Lagrangeovu mechaniku a Hamiltonovu mechaniku k vypočítání pohybových rovnice stroje a analyzujte jeho dynamické vlastnosti.
 
 Úkol 9: 
-Určete rotační rychlost a úhlovou rychlost rotoru u rotoru s válcem o průměru 0,4 m a momentem sil 300 Nm. Uvažujte, že rotor má hmotnost 30 kg a převodové poměry jsou 4:1. Zohledníte zpoždění 2 s.
+Vyberte konkrétní typ stroje (např. turbínová turbína) a zvažte jeho dynamické vlastnosti v různých provozních podmínkách (např. při různých rychlostech, tlacích). Použijte numerické metody k analýze dynamického chování stroje v těchto podmínkách.
 
 Úkol 10: 
-Vypočítejte moment sil při rotační rychlosti 1800 rpm u kyvného mechanismu s kyvnou hřídelí o délce 1,2 m a hmotnosti 30 kg. Zohledníte fakt, že kyvná hřídel je vyztužena čtyřmi přírubami.
+Rozvíjejte projekt zpracováním dynamického modelu stroje s vybranými parametry (např. hmotnost, moment zatahování) a zvažte vliv různých faktorů (např. tlakových vln, vibrací) na jeho dynamické vlastnosti. Použijte softwarové nástroje (např. ANSYS, ADAMS) k analýze dynamických vlastností stroje.
