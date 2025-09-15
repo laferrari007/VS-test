@@ -1,83 +1,109 @@
 # Řešení úkolů pro předmět: Anténní technika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:35:29
+# Datum: 2025-09-15 23:35:31
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vypočtěte rovnováhu čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce 0,5 λ.
+Řešení 1: Vypočtěte impedanci vlnové vedení o délce 0,5 m a šíři 1 mm při frekvenci 1 GHz. Použijte následující data: Permitivita rovná se 2,2 a Permitivita rovná se 1.
 
-Čárkovité anténní systémy jsou jedním z typů anténních systémů, které se používají v různých aplikacích. Rovnováha čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce 0,5 λ se dá vypočítat pomocí následujících kroků:
+K výpočtu impedance vlnového vedení se používá vzorec:
 
-1. Vypočtěte délku dipolového anténního prvku: délka = λ/2 (kde λ je vlnová délka)
-2. Vypočtěte délku šroubovitě zúženého pruhu: délka = 0,5 λ
-3. Vypočtěte rovnováhu čárkovitého anténního systému:
+Z = 276 / (f x √(εr))
 
-Rovnováha čárkovitého anténního systému je dán vzorcem:
+kde:
+- Z je impedance vlnového vedení v ohmách (Ω)
+- f je frekvence v hertzích (Hz)
+- εr je Permitivita rovná se
 
-R = (1 + (dipolová délka) / (šroubovitě zúžená délka)) / (1 - (dipolová délka) / (šroubovitě zúžená délka))
+Zadaná data:
+- Délka vlnového vedení: 0,5 m
+- Šíře vlnového vedení: 1 mm = 0,001 m
+- Frekvence: 1 GHz = 1 000 000 000 Hz
+- Permitivita rovná se: 2,2
+- Permitivita rovná se: 1
 
-Kde:
-- R je rovnováha čárkovitého anténního systému
-- dipolová délka je délka dipolového anténního prvku (λ/2)
-- šroubovitě zúžená délka je délka šroubovitě zúženého pruhu (0,5 λ)
+Vzorec impedance vlnového vedení lze odvést do dvou částí:
 
-Vložením hodnot do vzorce:
+Z = 276 / (f x √(εr))
+Z = 276 / (1 000 000 000 x √(2,2))
+Z = 276 / (1 000 000 000 x 1,480)
 
-R = (1 + (λ/2) / (0,5 λ)) / (1 - (λ/2) / (0,5 λ))
-R = (1 + 1/2) / (1 - 1/2)
-R = 3/2 / (1/2)
-R = 3
+Z = 276 / 1 480 000 000
+Z = 0,0001859 Ω
 
-Tlak čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce 0,5 λ je tedy 3.
+Pomocí dalšího vzorce lze impedance vlnového vedení vypočítat jako:
 
-Řešení 2: Popište principy fungování monopólového anténního systému a uveďte jeho nevýhody oproti dipolovému anténnímu prvku.
+Z = 60 x π x εr / √(εr)
+Z = 60 x π x 2,2 / √(2,2)
+Z = 60 x 3,14159 x 2,2 / 1,480
+Z = 0,0001859 Ω
 
-Monopólový anténní systém je typ anténního systému, který využívá jednu polovinu dipolového anténního prvku, tj. jednu polovinu vlnové délky. Princip fungování monopólového anténního systému je následující:
+Z obou vzorců lze vidět, že impedance vlnového vedení je přibližně 0,0001859 Ω.
 
-1. Monopólový anténní systém funguje jako polovina dipolového anténního prvku, tj. polovina vlnové délky.
-2. Monopólový anténní systém se obvykle používá na ploše nebo na stromě, aby se snížila úroveň odrazů.
-3. Monopólový anténní systém má nižší rovnováhu než dipolový anténní prvok, což může vést ke snížení účinnosti anténního systému.
+Řešení 2: Porovnejte dopad impedance vlnového vedení na účinnost předávacího ústrojí při použití transformátoru s impedancí 50 Ω a bez něj.
 
-Nevýhody monopólového anténního systému oproti dipolovému anténnímu prvku:
+Předpokládejme, že impedance vlnového vedení je 0,0001859 Ω a že impedance transformátoru je 50 Ω. Účinnost předávacího ústrojí se může vyjadřovat jako:
 
-1. Nižší rovnováha
-2. Snížená účinnost
-3. Vyžaduje větší plochu pro instalaci
+η = (Zp x Zr) / (Zp + Zr)
 
-Řešení 3: Vyberte vhodnou anténní techniku pro komunikaci v oblasti 5G a vysvětlujte její principy.
+kde:
+- η je účinnost předávacího ústrojí
+- Zp je impedance vlnového vedení
+- Zr je impedance transformátoru
 
-Pro komunikaci v oblasti 5G je vhodnou anténní technikou MIMO (Multiple-Input Multiple-Output) anténní technika. Principy MIMO anténní techniky jsou následující:
+Bez transformátoru:
 
-1. MIMO anténní technika využívá několik anténních systémů, které pracují současně.
-2. Každý anténní systém posílá a přijímá rádiové vlny současně.
-3. MIMO anténní technika umožňuje zvýšit rychlost komunikace a spolehlivost sítě.
+η = (0,0001859 x 0,0001859) / (0,0001859 + 0,0001859)
+η = 0,00000000034 / 0,00037181
+η = 0,000000912
 
-V oblasti 5G se MIMO anténní technika používá pro následující úlohy:
+S transformátorem:
 
-1. Zvýšení rychlosti komunikace
-2. Zvýšení spolehlivosti sítě
-3. Zvýšení kapacity sítě
+η = (50 x 50) / (50 + 50)
+η = 2500 / 100
+η = 25
 
-Řešení 4: Sestrojte a popište vlastnosti anténního systému složeného z paralelně spojených dipolů o rovných délkách.
+Zobrazením těchto výsledků je zřejmé, že použití transformátoru s impedancí 50 Ω zvyšuje účinnost předávacího ústrojí o mnoho řádů.
 
-Anténní systém složený z paralelně spojených dipolů o rovných délkách se dá sestrojit následovně:
+Řešení 3: Vyberte typ antény pro příjem signálu s frekvencí 2,4 GHz a předávací impendancí 50 Ω. Uveďte důvod vaší volby.
 
-1. Dipoly o rových délkách se spojí paralelně.
-2. Dipoly se spojí tak, aby jejich délky byly stejnou.
+Pro příjem signálu s frekvencí 2,4 GHz je vhodná anténa dipolová. Dipolová anténa má předávací impedanci blízkou 73 Ω, což je blíže než 50 Ω. Nicméně, existují dipolové antény s předávací impedancí blízkou 50 Ω, jako je třeba dipolová anténa s krátkým rozvedením.
 
-Vlastnosti anténního systému složeného z paralelně spojených dipolů o rovných délkách:
+Důvodem výběru dipolové antény je její dobrá účinnost při příjem signálu a nízká odrazivačnost.
 
-1. Rovnováha anténního systému je vyšší než u dipolového anténního prvku.
-2. Účinnost anténního systému je vyšší než u dipolového anténního prvku.
-3. Anténní systém má vyšší impedance než dipolový anténní prvok.
+Řešení 4: Navrhněte a vypočtěte parametry vlnového vedení pro přenos signálu s frekvencí 10 MHz a předávací impedancí 75 Ω.
 
-Řešení 5: Porovnejte vlastnosti čárkovitého a šroubovitě zúženého anténního systému (až 3 λ) a určíte, při jakých parametrech jsou nejvhodnější pro aplikaci.
+Pro přenos signálu s frekvencí 10 MHz lze použít vlnové vedení se šíří 10 mm. Permitivita rovná se je 2,2.
 
-Porovnání vlastností čárkovitého a šroubovitě zúženého anténního systému:
+Zadaná data:
+- Frekvence: 10 MHz = 10 000 000 Hz
+- Délka vlnového vedení: 0,5 m
+- Šíře vlnového vedení: 10 mm = 0,01 m
+- Permitivita rovná se: 2,2
 
-1. Čárkovité anténní systémy mají vyšší rovnováhu než šroubovitě zúžené anténní systémy.
-2. Čárkovité anténní systémy mají nižší impedance než šroubovitě zúžené anténní systémy.
-3. Šroubovitě zúžené anténní systémy mají vyšší účinnost než čárkovité anténní systémy.
+Vzorec impedance vlnového vedení lze odvést do dvou částí:
 
-Parametry, při kterých jsou čárkovité anténní systémy nejvhodnější pro aplikaci:
+Z = 276 / (f x √(εr))
+Z = 276 / (10 000 000 x √(2,2))
+Z = 276 / (10 000 000 x 1,480)
 
-1
+Z = 276 / 14 800 000
+Z = 0,0186 Ω
+
+Pomocí dalšího vzorce lze impedance vlnového vedení vypočítat jako:
+
+Z = 60 x π x εr / √(εr)
+Z = 60 x π x 2,2 / √(2,2)
+Z = 60 x 3,14159 x 2,2 / 1,480
+Z = 0,0186 Ω
+
+Z obou vzorců lze vidět, že impedance vlnového vedení je přibližně 0,0186 Ω.
+
+Řešení 5: Porovnejte účinnost a odrazy antény dipolové a antény monopólové při příjem signálu s frekvencí 1 GHz.
+
+Anténa dipolová má předávací impedanci blízkou 73 Ω, zatímco anténa monopólová má předávací impedanci blízkou 50 Ω. Nicméně, existují dipolové antény s předávací impedancí blízkou 50 Ω, jako je třeba dipolová anténa s krátkým rozvedením.
+
+Účinnost antény dipolové je vyšší než účinnost antény monopólové při příjem signálu s frekvencí 1 GHz.
+
+Odrazy antény dipolové jsou nižší než odrazy antény monopólové při příjem signálu s frekvencí 1 GHz.
+
+Řešení 6: Vyřešte úlohu antény a vlnového vedení pro přenos signálu s frekvencí 5 GHz a předávací impedancí 50 Ω. Uveďte vliv šíření vln

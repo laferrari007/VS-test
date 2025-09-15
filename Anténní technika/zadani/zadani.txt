@@ -1,33 +1,23 @@
 # Zadání úkolů pro předmět: Anténní technika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:35:29
+# Datum: 2025-09-15 23:35:31
 
-Úkol 1: 
-Vypočtěte rovnováhu čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce 0,5 λ.
+Úkol 1: Vypočtěte impedanci vlnové vedení o délce 0,5 m a šíři 1 mm při frekvenci 1 GHz. Použijte následující data: Permitivita rovná se 2,2 a Permitivita rovná se 1.
 
-Úkol 2: 
-Popište principy fungování monopólového anténního systému a uveďte jeho nevýhody oproti dipolovému anténnímu prvku.
+Úkol 2: Porovnejte dopad impedance vlnového vedení na účinnost předávacího ústrojí při použití transformátoru s impedancí 50 Ω a bez něj.
 
-Úkol 3: 
-Vyberte vhodnou anténní techniku pro komunikaci v oblasti 5G a vysvětlujte její principy.
+Úkol 3: Vyberte typ antény pro příjem signálu s frekvencí 2,4 GHz a předávací impendancí 50 Ω. Uveďte důvod vaší volby.
 
-Úkol 4: 
-Sestrojte a popište vlastnosti anténního systému složeného z paralelně spojených dipolů o rovných délkách.
+Úkol 4: Navrhněte a vypočtěte parametry vlnového vedení pro přenos signálu s frekvencí 10 MHz a předávací impedancí 75 Ω.
 
-Úkol 5: 
-Porovnejte vlastnosti čárkovitého a šroubovitě zúženého anténního systému (až 3 λ) a určíte, při jakých parametrech jsou nejvhodnější pro aplikaci.
+Úkol 5: Porovnejte účinnost a odrazy antény dipolové a antény monopólové při příjem signálu s frekvencí 1 GHz.
 
-Úkol 6: 
-Analyzujte a porovnejte vlastnosti anténních systémů sestrojených z dipolů a monopólových antén v rovině a v prostoru.
+Úkol 6: Vyřešte úlohu antény a vlnového vedení pro přenos signálu s frekvencí 5 GHz a předávací impedancí 50 Ω. Uveďte vliv šíření vlny na parametry antény.
 
-Úkol 7: 
-Vypočtěte charakteristické impedance čárkovitého anténního systému sestrojeného z jednoho dipolového anténního prvku a jednoho šroubovitě zúženého pruhu o délce λ.
+Úkol 7: Navrhněte a navrhlete návrh na anténní systém pro příjem signálu s frekvencí 2,4 GHz pro použití v bezdrátové komunikaci.
 
-Úkol 8: 
-Popište principy fungování anténního systému sestrojeného z paralelně spojených čárkovitých antén.
+Úkol 8: Vypočtěte a porovnejte účinnost a odrazy antény Yagi-Uda a antény dipolové při příjem signálu s frekvencí 1 GHz.
 
-Úkol 9: 
-Analyzujte a porovnejte vlastnosti anténních systémů sestrojených z dipolů a šroubovitě zúžených antén v oblasti vysokých frekvencí.
+Úkol 9: Zkontrolujte vliv vlnového vedení na parametry antény dipolové s frekvencí 10 MHz a předávací impedancí 75 Ω.
 
-Úkol 10: 
-Sestrojte a popsme vlastnosti anténního systému složeného z série spojených dipolů o nerovných délkách.
+Úkol 10: Navrhněte a navrhlete návrh na anténní systém pro příjem signálu s frekvencí 60 GHz pro použití v bezdrátové komunikaci s vysokou rychlostí.
