@@ -2,22 +2,32 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:34:19
 
-Úkol 1: Vypočítejte celkovou hodnotu komplexního signálu s hodnotami 3 + 4j a 2 - 5j.
+Úkol 1: Vypočítejte převodový faktor pro analogový systém, který má následující transferový charakteristický vektor:
 
-Úkol 2: Vyjmenujte a popište hlavní typy filtrování (lina, pásmo, frekvenční) a uveďte jejich obecné vlastnosti.
+H(s) = [1, 2/s, 3/s^2]^T
 
-Úkol 3: Zjistěte a předložte přirozenou frekvenční charakteristiku systému s transferovacím funkčním vztahem H(s) = (s + 2)/(s^2 + 3s + 2).
+Úkol 2: Nákresíte Block Diagram pro systém s následujícími bloky:
 
-Úkol 4: Pro systém s transferovacím funkčním vztahem H(z) = (z^2 + 0,5z + 0,2)/(z^2 + 0,7z + 0,3), udělejte přirozenou frekvenční charakteristiku.
+- Integrátor s konstantou 2
+- Prostor pro pole s vzdáleností 3 a konstantní funkcí x(t) = 4t
+- Zkracovač s konstantou 1/4
 
-Úkol 5: Zkonvertujte časový signál x(t) = sin(2πt/3) z časové do frekvenční oblasti s využitím Fourierovy transformace.
+Úkol 3: Pro systém s lineární diferenciální rovnicí 2y'' + 5y' + 3y = x(t), vypočítejte transferovou funkci a určete, zda je systém stabilní.
 
-Úkol 6: Pro systém s nastaveným vstupním signálem se zanedbávanými kmitočty, vyřešte problém zanedbávaných kmitočtů a udělejte návrh filtru, který bude odstranit tyto kmitočty a zachovával ostatní.
+Úkol 4: Pro systém zobrazený na Block Diagramu, zavede-li se do vstupu signál x(t) = 5cos(2t), vypočítejte výstup systému.
 
-Úkol 7: Pro systém s nastaveným transferovacím funkčním vztahem H(s) = (s + 1)/(s^2 + 2s + 2), zkonvertujte z časové do frekvenční oblasti a udělejte přirozenou frekvenční charakteristiku.
+Úkol 5: Vypočítejte transferovou funkci systému s následujícími lineárními diferenciálními rovnicemi:
 
-Úkol 8: Implementujte a vyhodnoťte efektivitu algoritmu vypočítávání Fourierovy transformace Discrete Fourier Transform (DFT) na základě vzorkování časového signálu a porovnejte výsledky s výsledky algoritmu Fast Fourier Transform (FFT).
+y'' + 3y' + 2y = x(t)
 
-Úkol 9: Pro systém s nastaveným transferovacím funkčním vztahem H(z) = (z^2 - 0,7z + 0,3)/(z^2 - 0,2z + 0,1), udělejte přirozenou frekvenční charakteristiku ve frekvenční oblasti a udělejte návrh filtru, který bude odstranit nežádoucí kmitočty.
+Úkol 6: Pro systém s transferovou funkcí H(s) = 1/(s+2)^2, vypočítejte výstup systému pro vstup x(t) = 3sin(t).
 
-Úkol 10: Implementujte a vyhodnoťte efektivitu algoritmu řízení frekvenčních kmitočtů, který bude optimalizovat systém pro maximální odolnost vůči zanedbávaným kmitočtům.
+Úkol 7: Pro systém s následujícími Block Diagramy, vypočítejte transferovou funkci a určete, zda je systém stabilní.
+
+Úkol 8: Pro systém zobrazený na Block Diagramu, vypočítejte výstup systému pro vstup x(t) = 5cos(t) a vyhodnoťte stabilitu systému.
+
+Úkol 9: Vypočítejte transferovou funkci systému s následujícími lineárními diferenciálními rovnicemi:
+
+y''' + 2y'' + 3y' + 4y = x(t)
+
+Úkol 10: Pro systém s transferovou funkcí H(s) = 1/(s^2 + 3s + 2), vypočítejte výstup systému pro vstup x(t) = 3sin(2t) a vyhodnoťte stabilitu systému.

@@ -3,88 +3,108 @@
 # Datum: 2025-09-15 23:34:19
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vypočítejte celkovou hodnotu komplexního signálu s hodnotami 3 + 4j a 2 - 5j.
+Řešení 1: Vypočítejte převodový faktor pro analogový systém, který má následující transferový charakteristický vektor:
 
-Pokud chceme vypočítat celkovou hodnotu komplexního signálu, můžeme jej zapsat jako součet dvou komplexních čísel. Celková hodnota komplexního signálu je pak komplexní číslo, jehož reálnou a imaginární částí jsou součty reálných a imaginárních částí jednotlivých komplexních čísel.
+H(s) = [1, 2/s, 3/s^2]^T
 
-V tomto případě máme komplexní čísla 3 + 4j a 2 - 5j. Celkovou hodnotu komplexního signálu můžeme zapsat jako:
+Převodový faktor je definován jako poměr mezi vstupem a výstupem systému. Pro systém s transferovým charakteristickým vektorem H(s) = [1, 2/s, 3/s^2]^T je převodový faktor dán jako:
 
-(3 + 4j) + (2 - 5j)
+H(s) = [1, 2/s, 3/s^2]
 
-Způsobilost komplexních čísel se zapisuje pomocí následujícího pravidla:
+Převodový faktor lze vypočítat jako součinitel mezi vstupem a výstupem systému. V tomto případě je vstupem systém vstupu systém, zatímco výstupem systému je vektor výstupních signálů.
 
-a + bj + c + dj = (a + c) + (b + d)j
+Převodový faktor se vypočítá jako:
 
-V našem případě je a = 3, bj = 4j, c = 2 a dj = -5j. Podle výše uvedeného pravidla tedy celková hodnota komplexního signálu je:
+H(s) = [1, 2/s, 3/s^2] / (1 + 2/s + 3/s^2)
 
-(3 + 2) + (4 - 5)j = 5 - j
+Kombinováním lomených členů a přesunutím termínů do shora a dolů lze převodový faktor zapsat jako:
 
-Celkovou hodnotu komplexního signálu 3 + 4j a 2 - 5j tedy je 5 - j.
+H(s) = (s^2 + 2s + 3) / (s^2 + 2s)
 
-Řešení 2: Vyjmenujte a popište hlavní typy filtrování (lina, pásmo, frekvenční) a uveďte jejich obecné vlastnosti.
+Tato funkce je převodovým faktorem systému s transferovým charakteristickým vektorem H(s) = [1, 2/s, 3/s^2]^T
 
-Filtrování je proces, při kterém je odstraněn nežádoucí signál nebo jsou zachovány pouze požadované složky signálu. Existuje několik typů filtrování, z nichž jsou hlavní:
+Řešení 2: Nákresíte Block Diagram pro systém s následujícími bloky:
 
-- **Liniérové filtrování**: Liniérové filtrování je typ filtrování, při kterém je signál změněn lineární funkcí. Liniérový filtr má transferový vektor nebo transferový vektor, který je lineární funkcí vstupního signálu. Liniérové filtrování je často používáno v analoga-signálových systémech.
+- Integrátor s konstantou 2
+- Prostor pro pole s vzdáleností 3 a konstantní funkcí x(t) = 4t
+- Zkracovač s konstantou 1/4
 
-- **Pásmové filtrování**: Pásmové filtrování je typ filtrování, při kterém je signál filtrován podle jeho frekvenční složky. Pásmový filtr odstraní nežádoucí frekvenční složky a zachová požadované frekvenční složky. Pásmové filtrování je často používáno v analoga-signálových systémech.
+Block Diagram systému je následující:
 
-- **Frekvenční filtrování**: Frekvenční filtrování je typ filtrování, při kterém je signál filtrován podle jeho frekvenční složky. Frekvenční filtr odstraní nežádoucí frekvenční složky a zachová požadované frekvenční složky. Frekvenční filtrování je často používáno v digitálních systémech.
+- Integrátor s konstantou 2
+  - vstup: x(t)
+  - výstup: 2∫x(t)dt
+- Prostor pro pole s vzdáleností 3 a konstantní funkcí x(t) = 4t
+  - vstup: 2∫x(t)dt
+  - výstup: 2∫(2∫x(t)dt)dt + 3x(t)
+- Zkracovač s konstantou 1/4
+  - vstup: 2∫(2∫x(t)dt)dt + 3x(t)
+  - výstup: 1/4(2∫(2∫x(t)dt)dt + 3x(t))
 
-Obecné vlastnosti těchto typů filtrování jsou:
+Funkčnost systému lze zapsat jako:
 
-- Liniérové filtrování: lineární funkce vstupního signálu, jednoduché implementace.
-- Pásmové filtrování: filtrování podle frekvenční složky, jednoduché implementace.
-- Frekvenční filtrování: filtrování podle frekvenční složky, složitější implementace.
+y(t) = 1/4(2∫(2∫x(t)dt)dt + 3x(t))
 
-Řešení 3: Zjistěte a předložte přirozenou frekvenční charakteristiku systému s transferovacím funkčním vztahem H(s) = (s + 2)/(s^2 + 3s + 2).
+Řešení 3: Pro systém s lineární diferenciální rovnicí 2y'' + 5y' + 3y = x(t), vypočítejte transferovou funkci a určete, zda je systém stabilní.
 
-Přirozenou frekvenční charakteristikou systému je funkce, která udává poměr výstupu k vstupu systému podle frekvenční složky vstupu. Přirozenou frekvenční charakteristiku lze získat pomocí transferového vztahu systému a transformace Laplace.
+Transferová funkce je definována jako poměr mezi vstupem a výstupem systému. Pro systém s lineární diferenciální rovnicí 2y'' + 5y' + 3y = x(t) se transferová funkce vypočítá jako:
 
-Transferový vektor systému je dán jako:
+H(s) = 1 / (2s^2 + 5s + 3)
 
-H(s) = (s + 2)/(s^2 + 3s + 2)
+Pro stanovení stability systému se používá Routhova tabulka. Routhova tabulka je následující:
 
-Přirozenou frekvenční charakteristiku lze získat pomocí transformace Laplace:
+| s^2 | 2 | 3/2 |
+|-----|---|-----|
+| s   | 5 | 0   |
+| s^3 | 10 | 0   |
+| s^4 | 15 | 0   |
 
-Y(jω) = H(jω) = H(s)|s=jω
+Routhova tabulka ukazuje, že systém je stabilní, protože všechny prvky jsou kladné.
 
-Zaměníme s = jω do transferového vztahu a vyhodnotíme:
+Řešení 4: Pro systém zobrazený na Block Diagramu, zavede-li se do vstupu signál x(t) = 5cos(2t), vypočítejte výstup systému.
 
-H(jω) = (jω + 2)/((jω)^2 + 3(jω) + 2)
+Block Diagram systému je následující:
 
-Zjednodušíme a vyhodnotíme:
+- Integrátor s konstantou 2
+  - vstup: x(t)
+  - výstup: 2∫x(t)dt
+- Prostor pro pole s vzdáleností 3 a konstantní funkcí x(t) = 5cos(2t)
+  - vstup: 2∫x(t)dt
+  - výstup: 2∫(2∫x(t)dt)dt + 3x(t)
+- Zkracovač s konstantou 1/4
+  - vstup: 2∫(2∫x(t)dt)dt + 3x(t)
+  - výstup: 1/4(2∫(2∫x(t)dt)dt + 3x(t))
 
-H(jω) = (jω + 2)/((jω)^2 + 3jω + 2)
+Funkčnost systému lze zapsat jako:
 
-Přirozenou frekvenční charakteristikou systému je funkce:
+y(t) = 1/4(2∫(2∫x(t)dt)dt + 3x(t))
 
-H(jω) = (jω + 2)/((jω)^2 + 3jω + 2)
+Se zavedením x(t) = 5cos(2t) do vstupu systému lze výstup systému vypočítat jako:
 
-Řešení 4: Pro systém s transferovacím funkčním vztahem H(z) = (z^2 + 0,5z + 0,2)/(z^2 + 0,7z + 0,3), udělejte přirozenou frekvenční charakteristiku.
+y(t) = 1/4(2∫(2∫5cos(2t)dt)dt + 3x(t))
+= 1/4(2∫(2∫5cos(2t)dt)dt + 15cos(2t))
 
-Přirozenou frekvenční charakteristikou systému je funkce, která udává poměr výstupu k vstupu systému podle frekvenční složky vstupu. Přirozenou frekvenční charakteristiku lze získat pomocí transformace Z.
+Výpočet provedením integrací:
 
-Transferový vektor systému je dán jako:
+y(t) = 1/4(2∫(2∫5cos(2t)dt)dt + 15cos(2t))
+= 1/4(2∫(2∫5cos(2t)dt)dt + 15cos(2t))
+= 1/4(2∫(-10sin(2t)/2 + C1)dt + 15cos(2t))
+= 1/4(2∫(-5sin(2t) + C1)dt + 15cos(2t))
+= -1/4(5cos(2t) + 2C1 + 15cos(2t))
+= -5cos(2t) + 2C1 + 15cos(2t)/4
 
-H(z) = (z^2 + 0,5z + 0,2)/(z^2 + 0,7z + 0,3)
+Po vyhodnocení konstanty C1:
 
-Přirozenou frekvenční charakteristiku lze získat pomocí transformace Z:
+C1 = 0
 
-Y(e^{jω}) = H(e^{jω}) = H(z)|z=e^{jω}
+y(t) = -5cos(2t) + 15cos(2t)/4
 
-Zaměníme z = e^{jω} do transferového vztahu a vyhodnotíme:
+y(t) = -20cos(2t)/4 + 15cos(2t)/4 
 
-H(e^{jω}) = (e^{jω} + 0,5e^{jω} + 0,2)/(e^{jω} + 0,7e^{jω} + 0,3)
+y(t) = -5cos(2t)/4 
 
-Zjednodušíme a vyhodnotíme:
+Výstup systému pro vstup x(t) = 5cos(2t) je y(t) = -5cos(2t)/4.
 
-H(e^{jω}) = (e^{jω}(1 + 0,5) + 0,2)/(e^{jω}(1 + 0,7) + 0,3)
+Řešení 5: Vypočítejte transferovou funkci systému s následujícími lineárními diferenciálními rovnicemi:
 
-Přirozenou frekvenční charakteristikou systému je funkce:
-
-H(e^{jω}) = (1,5 + 0,2)/(1,7 + 0,3)
-
-Řešení 5: Zkonvertujte časový signál x(t) = sin(2πt/3) z časové do frekvenční oblasti s využitím Fourierovy transformace.
-
-Fourierova transformace je matematická funkce, která převádí časový signál do frekvenční oblasti.
+y'' +
