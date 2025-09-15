@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Podnikové finance
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:44:06
+
+Úkol 1: Porovnejte a diskutujte o rozdílech mezi akciovou a dluhovou kapitálou a zdůvodněte, proč jsou obě forma kapitálu důležité pro podnikání.
+
+Úkol 2: Rozhodněte se, zda by vaše firma měla použít investiční banku nebo crowdfunding pro získání financí. Popište výhody a nevýhody obou přístupů.
+
+Úkol 3: Analyzujte finanční situaci firmy a určte, zda by měla provést dividendovou politiku. Popište faktory, které by měly být zváženy při rozhodování o dividendách.
+
+Úkol 4: Napište případovou studii o bankrotu známé firmy a kriticky analyzujte příčiny a důsledky tohoto bankrotu.
+
+Úkol 5: Vyžádejte si údaje o finanční situaci dvou různých firem z různých odvětví a porovnejte jejich finanční ukazatele. Popište, jaký vliv mají tyto ukazatele na jejich finanční stabilitu.
+
+Úkol 6: Rozhodněte se, zda by vaše firma měla použít finanční deriváty pro řízení rizik. Popište výhody a nevýhody použití finančních derivátů.
+
+Úkol 7: Vyvořte model finančního řízení zásob pro firma z výrobního odvětví a analýzujte, jak by měl být model použit v různých scénářích.
+
+Úkol 8: Analyzujte finanční situaci firmy a určte, zda by měla provést akvizici jiné firmy. Popište faktory, které by měly být zváženy při rozhodování o akvizici.
+
+Úkol 9: Vyžádejte si údaje o finanční situaci firmy a vytvořte model finančního plánování, který by měl být použit pro stanovení cílových ukazatelů finanční stability.
+
+Úkol 10: Napište rozsáhlou kritickou analýzu financování startupů a diskutujte o různých formách financování, které jsou k dispozici pro startupy. Popište výhody a nevýhody každé formy financování.
