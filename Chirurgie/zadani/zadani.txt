@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Chirurgie
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:47:04
+# Datum: 2025-09-15 23:47:09
 
-Úkol 1: Popište základní principy sterilizace a dezinfekce v chirurgické praxi a vysvětlete jejich zásadní význam v prevenci infekčních komplikací.
+Úkol 1: Vyjmenujte a popište hlavní anatomické struktury, které jsou důležité pro provedení operačního zákroku v oblasti břišních orgánů.
 
-Úkol 2: Porovnejte a srovnajte různé typy chirurgických náplasťových materiálů (například latex, nitril, polybutadien) a zhodnoťte jejich aplikace v různých chirurgických procedurách.
+Úkol 2: Porovnejte a vyhodnocete různé chirurgické techniky pro otevření břišních dutin, včetně jejich výhod a nevýhod.
 
-Úkol 3: Vypracujte přehled hlavních chirurgických technik pro uzavření dutin a kapslí a vysvětlete jejich zásadní rozdíl v léčbě různých typů ran.
+Úkol 3: Popište mechanismy, které vedou k rozvoji adhezí v pooperačním období a stručně diskutujte o jejich léčbě.
 
-Úkol 4: Popište proces chirurgického odstranění benigních a maligních tumorů a zhodnoťte rizika a potenciální komplikace spojené s touto procedurou.
+Úkol 4: Vyjmenujte a stručně popište typy chirurgických infekcí, které mohou nastat během nebo po operačním zákroku.
 
-Úkol 5: Vypracujte přehled hlavních chirurgických technik pro chirurgickou léčbu pooperačních infekcí a vysvětlete jejich zásadní rozdíl v léčbě různých typů infekcí.
+Úkol 5: Analyzujte a porovnejte různé metody pro kontrolu krve v operační místnosti, včetně jejich výhod a nevýhod.
 
-Úkol 6: Porovnejte a srovnajte různé typy chirurgických implantátů (například kloubní implantáty, kardiostimulátory) a zhodnoťte jejich aplikace v různých chirurgických procedurách.
+Úkol 6: Popište a vyhodnocujte procesy, které vedou k rozvoji pooperační komplikace - trombózy hlubokých žil, včetně prevence a léčby.
 
-Úkol 7: Vypracujte přehled hlavních chirurgických technik pro chirurgické intervence v kardiovaskulární oblasti (například bypass chirurgie, kardiostimulace) a vysvětlete jejich zásadní rozdíl v léčbě různých typů kardiovaskulárních onemocnění.
+Úkol 7: Porovnejte a vyhodnocujte různé metody pro vyšetření pooperační bolesti u pacientů, včetně jejich výhod a nevýhod.
 
-Úkol 8: Popište proces chirurgického odstranění orgánů (například ledvin, žaludku) a zhodnoťte rizika a potenciální komplikace spojené s touto procedurou.
+Úkol 8: Vypracujte kazuistiku o pacientovi, který podstoupil operační zákrok v oblasti břišních orgánů a vyhodnocujte komplikace, které nastaly.
 
-Úkol 9: Vypracujte přehled hlavních chirurgických technik pro chirurgickou léčbu traumatických poranění vnitřních orgánů (například poranění břicha, poranění hlavy) a vysvětlete jejich zásadní rozdíl v léčbě různých typů traumatických poranění.
+Úkol 9: Analyzujte a vyhodnocujte efektivity různých chirurgických technik pro léčbu karcinomu tlustého střeva, včetně jejich výhod a nevýhod.
 
-Úkol 10: Porovnejte a srovnajte různé typy chirurgických technik pro chirurgické intervence v neurochirurgii (například chirurgické odstranění nádorů, chirurgické zákroky na mozkových cévách) a zhodnoťte jejich aplikace v různých chirurgických procedurách.
+Úkol 10: Vypracujte návrh nového operačního zákroku pro léčbu specifické chirurgické patologie, zahrnující popis anatomických struktur, operační techniky a možných komplikací.
