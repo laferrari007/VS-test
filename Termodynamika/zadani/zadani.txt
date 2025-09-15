@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Termodynamika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:18:53
+# Datum: 2025-09-15 23:18:54
 
-Úkol 1: Vyjmenujte a popište hlavní principy Termodynamiky, které byly poprvé formulovány v 19. století. (2 body)
+Úkol 1: Vyjmenujte a popište základní veličiny ve termodynamice a uveďte jejich jednotky.
 
-Úkol 2: Porovnejte a vysvětlete rozdíl mezi ideálním a reálným plynem. (3 body)
+Úkol 2: Vypočtěte tepelnou kapacitu materiálu o objemu 0,1 m³ a hmotnosti 2 kg, jestliže jeho teplotní roztažnost je 0,0001 K⁻¹ a specifická tepelná kapacita 1000 J/(kg·K).
 
-Úkol 3: Vyložíte první a druhé termodynamické zákoníky a zobecněte je na konkrétní příklad. (6 bodů)
+Úkol 3: Zjistěte, jaká je teplota, kdy se zkapalněná voda začne rozkládat na vodní páru, zjistěte také tlak a specifický tepelný výkon v tomto bodě. Uveďte také jeho tepelnou kapacitu ve vztahu na objem.
 
-Úkol 4: Provedete výpočet entalpiehořecího procesu pro cyklický proces srovnáním vnitřní energie a tepelného efektu. (8 bodů)
+Úkol 4: Pro stanovenou hodnotu vnitřní energie (E) daného systému vyjadřte jeho entalpii jako stavovou veličinu. Vypočtěte její hodnotu, jestliže je vnitřní energie 2000 J a teplota 300 K.
 
-Úkol 5: Zobecněte Carnotův cyklus a popište jeho principy a využití v praxi. (10 bodů)
+Úkol 5: Vyjmenujte a popište různé typy tepelných procesů a odvodte jejich charakteristické tepelné diagramy. Uveďte také jejich zobrazení na plynulé teplotní osách.
 
-Úkol 6: Vypočítejte a porovnejte tepelné kapacity plynu s rozličnými hodnotami adiabatické indexy. (12 bodů)
+Úkol 6: Navrhněte experimentální postup pro měření teplotního rozptylu u různých druhů látek. Zajistěte, že experiment bude realizován v bezpečném prostředí a dodržíte principy ochrany osob a životního prostředí.
 
-Úkol 7: Zajistěte, aby byl proces rozptylování v souladu s prvními dvěma termodynamickými zákony. (15 bodů)
+Úkol 7: Zjistěte, jaká je úloha entropie v termodynamice. Vysvětlejte její význam a zavedení. Uveďte také její vzorec a popis jejích jednotek.
 
-Úkol 8: Provedete analýzu a zobecnění procesu nárůstu teploty plynu pomocí entalpiehořecího grafu. (18 bodů)
+Úkol 8: Uvažujte systém, který se nachází v rovnovážném stavu. Zjistěte, jaká je jeho úroveň vnitřní energie a entropie. Zajistěte, že vaše výpočty budou správné a odpovídat principům termodynamiky.
 
-Úkol 9: Vyložíte a popište principy a vlastnosti Stirlingova cyklu a jeho využití v praxi. (20 bodů)
+Úkol 9: Vyjmenujte a popište různé termodynamické cykly a odvodte jejich schémata. Vysvěltejte význam a účel každé fáze cyklu.
 
-Úkol 10: Zajistěte, aby byl proces vymíchání v souladu s prvními dvěma termodynamickými zákony a zobecněte ho na konkrétní příklad. (22 body)
+Úkol 10: Navrhněte a vypočtěte efektivitu tepelného stroje, který využívá Carnotův cyklus. Uveďte také jeho schéma a popis jednotlivých fází.
