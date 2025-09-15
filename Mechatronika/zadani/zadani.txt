@@ -1,0 +1,33 @@
+# Zadání úkolů pro předmět: Mechatronika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:37:59
+
+Úkol 1: 
+Zpracujte jednoduchý diagram blokovaný řídicího systému s použitím softwaru Simulink. Zobrazte funkci regulátoru PID a vysvětlete jeho roli v systému.
+
+Úkol 2: 
+Navrhněte a zpracujte jednoduchý automatický systém pro regulaci teploty. Použijte mikrokontrolér a senzory teploty a vysvětlete funkci jednotlivých komponentů v systému.
+
+Úkol 3: 
+Vysvětlejte principy a typy měření úsilí a energie v mechatronických systémech. Uveďte příklady použití těchto principů v praxi.
+
+Úkol 4: 
+Navrhněte a implementujte algoritmus pro vyhledávání cílové pozice robotického systému pomocí senzorů ultrazvuku. Použijte mikrokontrolér a vysvětlete funkci jednotlivých komponentů v systému.
+
+Úkol 5: 
+Zpracujte analýzu stability mechatronického systému s využitím metody Routhova kriteria. Vysvětlejte principy této metody a její použití v praxi.
+
+Úkol 6: 
+Navrhněte a implementujte systém pro monitorování a řízení tlaku v průmyslovém procesu pomocí senzorů tlaku a mikrokontroléru. Vysvětlete funkci jednotlivých komponentů v systému.
+
+Úkol 7: 
+Vysvětlejte principy a typy měření pohybu v mechatronických systémech. Uveďte příklady použití těchto principů v praxi a vysvětlete jejich výhody a nevýhody.
+
+Úkol 8: 
+Zpracujte kompletní projekt mechatronického systému pro automatizaci sklářského procesu. Použijte mikrokontrolér, senzory teploty a tlaku a vysvětlejte funkci jednotlivých komponentů v systému.
+
+Úkol 9: 
+Navrhněte a implementujte algoritmus pro optimalizaci dráhy pohybu robotického systému pomocí senzorů laserového skenování. Použijte mikrokontrolér a vysvětlete funkci jednotlivých komponentů v systému.
+
+Úkol 10: 
+Vysvětlejte principy a typy mechatronických systémů pro automatizaci komplexních procesů. Uveďte příklady použití těchto systémů v praxi a vysvětlete jejich výhody a nevýhody.
