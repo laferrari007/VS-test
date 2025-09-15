@@ -1,23 +1,26 @@
-# AI Generované zadání úkolů pro předmět: Španělský jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:57:25
+# Zadání úkolů pro předmět: Španělský jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:01:49
 
-Úkol 1: Přeložte do španělštiny text: "Dnes je krásný den a můžu jít na procházku v parku."
+Úkol 1: Přeložte do španělštiny větou: "Dnes je slunečno, ale večer bude chladno."
 
-Úkol 2: Použijte přídavné jméno ve větě: "Můj přítel je španělský učitel a miluje svého studenta."
+Úkol 2: Vyjmenujte čtyři základní slovesa v přítomném času v španělštině, které jsou často používány v běžném hovoru.
 
-Úkol 3: Přeložte do španělštiny větou: "Jsem z České republiky a mám rád španělskou kuchyni."
+Úkol 3: Přeložte do španělštiny text: "Jsem student. Studuji na univerzitě. Mám 20 let."
 
-Úkol 4: Přepište text: "Španělský jazyk je národní jazyk Španělska a používá se také v mnoha dalších zemích." na španělštinu.
+Úkol 4: Zjistěte a napište pět různých způsobů, jak vyjádřit "rádio" v španělštině.
 
-Úkol 5: Použijte přísloví ve větě: "Můj bratr má rád plavat a často jde do bazénu."
+Úkol 5: Přeložte do španělštiny dialog mezi dvěma lidmi:
 
-Úkol 6: Přeložte do španělštiny dialog: "A: Jak se máš? B: Dnes se cítím dobře."
+- První osoba: "Dnes je svátek."
+- Druhá osoba: "Co je to za svátek?"
 
-Úkol 7: Napište krátkou povídku na téma cestování v Španělsku.
+Úkol 6: Vyjmenujte pět základních členů v španělštině a uveďte jejich překlad do češtiny.
 
-Úkol 8: Přeložte do španělštiny text: "Španělská kuchyni se vyznačuje bohatou pestrostí potravin a receptů."
+Úkol 7: Přeložte do španělštiny text: "Včera jsem jedl pizzu. Byla dobrá."
 
-Úkol 9: Napište rozhovor mezi dvěma studenty, kteří hovoří o jejich zájmech a nástrahách Španělska.
+Úkol 8: Vyjmenujte pět různých způsobů, jak vyjádřit "včera" v španělštině.
 
-Úkol 10: Přeložte do španělštiny text: "Španělské jazyky se dělí na několik dialektů a jsou různé od regionu k regionu."
+Úkol 9: Přeložte do španělštiny text: "Mám dvě sestry a jeden bratr. Čtyřicet osm let mám."
+
+Úkol 10: Napište krátkou esej (cca 150 slov) na téma: "Španělsko, krajina, lid, jazyk" a vyhodnocujte, proč je Španělsko tak bohaté na kulturu a jazyk.

@@ -1,102 +1,88 @@
-# AI Generované řešení úkolů pro předmět: Španělský jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:57:25
+# Řešení úkolů pro předmět: Španělský jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:01:49
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Přeložte do španělštiny text: "Dnes je krásný den a můžu jít na procházku v parku."
+Řešení 1: Přeložte do španělštiny větou: "Dnes je slunečno, ale večer bude chladno."
 
-Španělská překládání:
+V španělštině se překládá věta: "Hoy está soleado, pero por la noche estará frío."
 
-* "Dnes" se překládá jako "Hoy"
-* "je krásný den" se překládá jako "es un día hermoso"
-* "a můžu" se překládá jako "y puedo"
-* "jít na procházku" se překládá jako "ir a pasear"
-* "v parku" se překládá jako "en el parque"
+- "Dnes" se překládá jako "Hoy".
+- "Je slunečno" se překládá jako "está soleado".
+- "A" se překládá jako "pero".
+- "večer" se překládá jako "por la noche".
+- "Bude chladno" se překládá jako "estará frío".
 
-Celkový překlad: "Hoy es un día hermoso y puedo ir a pasear en el parque."
+Řešení 2: Vyjmenujte čtyři základní slovesa v přítomném času v španělštině, které jsou často používány v běžném hovoru.
 
-Řešení 2: Použijte přídavné jméno ve větě: "Můj přítel je španělský učitel a miluje svého studenta."
+- "Ser" (být): např. "Soy estudiante" (Jsem student).
+- "Estar" (být v určitém místě): např. "Estoy en casa" (Jsem doma).
+- "Tener" (mít): např. "Tengo 20 años" (Mám 20 let).
+- "Hacer" (dělat): např. "Hago ejercicio todos los días" (Cvičím každý den).
 
-Španělská přídavná jména:
+Řešení 3: Přeložte do španělštiny text: "Jsem student. Studuji na univerzitě. Mám 20 let."
 
-* "španělský" se překládá jako "español"
-* "učitel" se překládá jako "maestro"
+V španělštině se překládá text: "Soy estudiante. Estudio en la universidad. Tengo 20 años."
 
-Španělská věta: "Mi amigo es un maestro español y ama a su estudiante."
+- "Jsem student" se překládá jako "Soy estudiante".
+- "Studuji na univerzitě" se překládá jako "Estudio en la universidad".
+- "Mám 20 let" se překládá jako "Tengo 20 años".
 
-Přídavné jméno "španělský" je použito k popsání přítelova povolání.
+Řešení 4: Zjistěte a napište pět různých způsobů, jak vyjádřit "rádio" v španělštině.
 
-Řešení 3: Přeložte do španělštiny větou: "Jsem z České republiky a mám rád španělskou kuchyni."
+- "La radio" (řádný název, používá se k označení rádia jako zařízení).
+- "La emisora" (řádný název, používá se k označení rádia jako vysílací stanice).
+- "La onda" (nápaditější forma, používá se především mezi mladšími lidmi).
+- "La cinta" (starší forma, používá se především v kontextu gramofonů).
+- "La frecuencia" (specifická forma, používá se především v kontextu techniky).
 
-Španělská překládání:
+Řešení 5: Přeložte do španělštiny dialog mezi dvěma lidmi:
 
-* "Jsem z" se překládá jako "Soy de"
-* "České republiky" se překládá jako "República Checa"
-* "a mám rád" se překládá jako "y me encanta"
-* "španělskou kuchyni" se překládá jako "cocina española"
+- První osoba: "Dnes je svátek."
+- Druhá osoba: "Co je to za svátek?"
 
-Celkový překlad: "Soy de la República Checa y me encanta la cocina española."
+V španělštině se překládá dialog:
 
-Řešení 4: Přepište text: "Španělský jazyk je národní jazyk Španělska a používá se také v mnoha dalších zemích." na španělštinu.
+- První osoba: "Hoy es fiesta."
+- Druhá osoba: "¿Qué clase de fiesta es?"
 
-Španělská překládání:
+- "Dnes je svátek" se překládá jako "Hoy es fiesta".
+- "Co je to za svátek" se překládá jako "¿Qué clase de fiesta es?".
 
-* "Španělský jazyk" se překládá jako "El idioma español"
-* "je národní jazyk" se překládá jako "es el idioma nacional"
-* "Španělska" se překládá jako "de España"
-* "a používá se také v mnoha dalších zemích" se překládá jako "y se habla también en muchos otros países"
+Řešení 6: Vyjmenujte pět základních členů v španělštině a uveďte jejich překlad do češtiny.
 
-Celkový překlad: "El idioma español es el idioma nacional de España y se habla también en muchos otros países."
+- "El" (mužský rod, jednotné číslo): "Ten", "jeho"
+- "La" (ženský rod, jednotné číslo): "Ta", "její"
+- "Los" (mužský rod, množné číslo): "Ti", "jejich"
+- "Las" (ženský rod, množné číslo): "Ty", "jejich"
+- "Un" (mužský rod, jednotné číslo, neurčitý): "Jedna", "nějaký"
 
-Řešení 5: Použijte přísloví ve větě: "Můj bratr má rád plavat a často jde do bazénu."
+Řešení 7: Přeložte do španělštiny text: "Včera jsem jedl pizzu. Byla dobrá."
 
-Španělská přísloví:
+V španělštině se překládá text: "Hoy comí una pizza. Estaba deliciosa."
 
-* "můj bratr" se překládá jako "mi hermano"
-* "má rád" se překládá jako "le gusta"
-* "plavat" se překládá jako "nadar"
-* "častěji" se překládá jako "a menudo"
-* "jde do bazénu" se překládá jako "va al baño"
+- "Včera" se překládá jako "ayer".
+- "Jedl pizzu" se překládá jako "comí una pizza".
+- "Byla dobrá" se překládá jako "Estaba deliciosa".
 
-Španělská věta: "Mi hermano le gusta nadar a a menudo va al baño."
+Řešení 8: Vyjmenujte pět různých způsobů, jak vyjádřit "včera" v španělštině.
 
-Přídavné jméno "častěji" je použito k popsání častého chování bratra.
+- "Ayer" (nejběžnější forma, používá se k označení předchozího dne).
+- "Hace un día" (starší forma, používá se především v kontextu minulých událostí).
+- "Antier" (specifická forma, používá se především v kontextu sportu a událostí).
+- "La víspera" (specifická forma, používá se především v kontextu víkendu a svátků).
+- "El día anterior" (formální forma, používá se především v kontextu psaní a komunikace).
 
-Řešení 6: Přeložte do španělštiny dialog: "A: Jak se máš? B: Dnes se cítím dobře."
+Řešení 9: Přeložte do španělštiny text: "Mám dvě sestry a jeden bratr. Čtyřicet osm let mám."
 
-Španělská překládání:
+V španělštině se překládá text: "Tengo dos hermanas y un hermano. Tengo 48 años."
 
-* "Jak se máš?" se překládá jako "¿Cómo estás?"
-* "Dnes se cítím dobře" se překládá jako "Hoy me siento bien"
+- "Mám dvě sestry" se překládá jako "Tengo dos hermanas".
+- "Mám jeden bratr" se překládá jako "Tengo un hermano".
+- "Čtyřicet osm let mám" se překládá jako "Tengo 48 años".
 
-Španělský dialog: "A: ¿Cómo estás? B: Hoy me siento bien."
+Řešení 10: Napište krátkou esej (cca 150 slov) na téma: "Španělsko, krajina, lid, jazyk" a vyhodnocujte, proč je Španělsko tak bohaté na kulturu a jazyk.
 
-Řešení 7: Napište krátkou povídku na téma cestování v Španělsku.
+Španělsko je zemí s bohatou historií a kulturou. Země se rozkládá na velké ploše a má rozmanité krajiny. Od rovníku až po Pyrenejský poloostrov nachází se v Španělsku mnoho různých druhů vegetace. Španělskou přírodu doplňují krásné přírodní památky jako je Alhambra v Granadě nebo Park Guell v Barceloně.
 
-Povídka:
-
-"Jsem vždycky fascinován Španělskem, zemi plné krásy a kultury. Jednou jsem se rozhodl podniknout cestu do Španělska a objevit její tajemství. Na začátku cesty jsem navštívil Madrid, hlavní město Španělska, kde jsem viděl krásnou Plaza Mayor. Poté jsem pokračoval do Barcelony, kde jsem viděl slavnou Sagradu Família. V Barceloně jsem také ochutnal místní kuchyni, která byla prostě skvělé. Na konci cesty jsem se vrátil domů s mnoho vzpomínkami a zkušenostmi."
-
-Španělská verze:
-
-"Siempre he estado fascinado por España, un país lleno de belleza y cultura. Un día me decidí a emprender un viaje a España y descubrir sus secretos. Al principio del viaje visité Madrid, la capital de España, donde vi la hermosa Plaza Mayor. Luego seguí a Barcelona, donde vi la famosa Sagrada Familia. En Barcelona también probé la comida local, que estaba simplemente excelente. Al final del viaje regresé a casa con muchas memorias y experiencias."
-
-Řešení 8: Přeložte do španělštiny text: "Španělská kuchyni se vyznačuje bohatou pestrostí potravin a receptů."
-
-Španělská překládání:
-
-* "Španělská kuchyni" se překládá jako "La cocina española"
-* "se vyznačuje bohatou pestrostí" se překládá jako "se caracteriza por una gran variedad"
-* "potravin" se překládá jako "comidas"
-* "a receptů" se překládá jako "y recetas"
-
-Celkový překlad: "La cocina española se caracteriza por una gran variedad de comidas y recetas."
-
-Řešení 9: Napište rozhovor mezi dvěma studenty, kteří hovoří o jejich zájmech a nástrahách Španělska.
-
-Rozhovor:
-
-A: "Jaký jsi zájem o Španělsko?"
-B: "Jsem vždycky fascinován španělskou kulturou a historií. Mám rád jejich hudbu, jídlo a architekturu."
-A: "To je skvělé! Jaký jsi vášnej Španělska?"
-B: "Mám rád jejich nástrahy, jako je paella, tortilla a gaz
+Španělský lid je známý svou přátelstvím a úsměvem. Lidé zde rádi hostí návštěvníky a rádi se baví. Španělští lidé jsou také známí svými uměleckými dovednostmi. Vznikly zde krásné umělecké díla jako jsou
