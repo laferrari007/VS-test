@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Vlastivěda
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:40:57
+# Datum: 2025-09-15 22:51:37
 
-Úkol 1: Vyberte tři významné osobnosti z historie našeho národa a stručně popište jejich životní dráhu a contributions k rozvoji českého národa.
+Úkol 1: Popište hlavní rozdělení historického období Velké Moravy na základě dostupných historických pramenů a vysvětlete jejich význam pro vývoj střední Evropy.
 
-Úkol 2: Porovnejte významné události z let 1848-1914 v českých zemích a popište jejich dopad na politické, ekonomické a kulturní život v té době.
+Úkol 2: Porovnejte hlavní charakteristiky raně středověkých slovanských kmenů (přibližná doba 500-800 n. l.) a vysvětle, jak tyto kmeny ovlivnily pozdější vývoj slovanských států.
 
-Úkol 3: Analyzujte vztah mezi českou národní identitou a jazykem v 19. století. Jaké faktory přispěly k rozvoji češtiny jako národního jazyka?
+Úkol 3: Analyzujte příčiny a důsledky Velké Moravy jako středoevropského kulturního centra (přibližná doba 830-950 n. l.). Zmíňte hlavní kulturní a hospodářské aspekty její existence.
 
-Úkol 4: Vysvětlejte rozdíl mezi pojmy "český národ" a "české národní hnutí" v 19. století. Jak se tyto pojmy vzájemně ovlivňovaly?
+Úkol 4: Popište a porovnejte hlavní politické a sociální systémy ve středověkých Velké Moravě, Čechách a Uhrů v období 10.-12. století.
 
-Úkol 5: Vymeňte roli, kterou hrál český národní buditel František Palacký v obléhání Vídně v roce 1848. Jaké byly jeho cíle a jak se mu podařilo je dosáhnout?
+Úkol 5: Vysvětle, jak se rozvinula hospodářská struktura středověkých středoevropských států (přibližná doba 10.-13. století) a jak se to dotklo života obyvatelstva.
 
-Úkol 6: Popište historický vývoj českého školství od středověku do roku 1914. Jaké byly nejdůležitější změny a jak se školství vyvinulo v souvislosti s rozvojem českého národního hnutí?
+Úkol 6: Analyzujte roli křtěnosti a křesťanství v přeměně středověkých slovanských kmenů na středověké státy (přibližná doba 10.-13. století).
 
-Úkol 7: Porovnejte roli české církve v 19. století s rolí církví v jiných evropských zemích. Jaké byly její vztahy s českým národním hnutím a jak se zúčastnila politického života?
+Úkol 7: Porovnejte politiku a hospodářský rozvoj středověkých států v rámci Svaté říše římské (přibližná doba 10.-13. století) a vysvětle, jak ovlivnilo vývoj střední Evropy.
 
-Úkol 8: Analyzujte významnou událost - založení Národního muzea v Praze v roce 1818. Jaké byl jeho cíl a jak se stal významným institucionálním centrem českého národního hnutí?
+Úkol 8: Vysvětle, jak se rozvinula města a městské kultury v středověké střední Evropě (přibližná doba 10.-14. století).
 
-Úkol 9: Vymeňte roli kulturních a uměleckých institucí v rozvoji českého národního hnutí v 19. století. Jaké byly nejdůležitější instituce a jak se zúčastnily rozvoje české kultury?
+Úkol 9: Analyzujte příčiny a důsledky válek a konfliktů mezi středověkými státy střední Evropy v 13.-14. století, jako je například boj o českou korunu.
 
-Úkol 10: Zpracujte historicko-kritický rozbor českých snah o získání samostatnosti v letech 1914-1918. Jaké byly příčiny a následky jejich neúspěchu a jak se tyto události odrážely v následujících letech?
+Úkol 10: Porovnejte hlavní charakteristiky středověké kultury a společnosti v rámci středoevropských států (přibližná doba 10.-15. století) a vysvětle, jak se odrážela v umění, literatuře a náboženství.
