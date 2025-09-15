@@ -1,0 +1,7 @@
+# Zadání úkolů pro předmět: Test Copilot Integration
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:05:07
+
+Úkol 1: Implementujte funkci, která integruje Test Copilot do vašeho již existujícího testovacího frameworku. Funkce by měla být schopná generovat testy pro daný kód v jazyce Python. Použijte API Test Copilota a implementujte funkci s názvem `generate_tests`, která přijímá kód v jazyce Python jako vstup a vrátí seznam testů jako výstup.
+
+Úkol 2: Vyberte si dva různé jazyky (například Java a C++) a implementujte funkci, která integruje Test Copilot do vašeho již existujícího testovacího frameworku. Funkce by měla být schopná generovat testy pro daný kód v obou zvolených jazycích. Použijte API Test Copilota a implementujte funkci s názvem `generate_tests_cross_language`, která přijímá kód v obou zvolených jazycích jako vstup a vrátí seznam testů jako výstup. Po implementaci funkci otestujte pomocí příkladů kódu v obou zvolených jazycích.

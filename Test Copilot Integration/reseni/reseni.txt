@@ -1,0 +1,172 @@
+# Řešení úkolů pro předmět: Test Copilot Integration
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:05:07
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Implementujte funkci, která integruje Test Copilot do vašeho již existujícího testovacího frameworku
+
+**Krok 1: Načtěte knihovnu Test Copilota**
+
+Abychom mohli integrovat Test Copilota do našeho testovacího frameworku, potřebujeme načíst knihovnu Test Copilota. Pro tento úkol použijeme Python a knihovnu `requests`.
+
+```python
+import requests
+```
+
+**Krok 2: Definujte funkci `generate_tests`**
+
+Funkce `generate_tests` přijímá kód v jazyce Python jako vstup a vrátí seznam testů jako výstup. Funkce používá API Test Copilota k generování testů.
+
+```python
+def generate_tests(kod):
+    # Načtěte token API Test Copilota
+    token_api = "Vaše_API_token"
+
+    # Načtěte kód Python
+    kód_python = kod
+
+    # Použijte API Test Copilota k generování testů
+    url = "https://api.test-copilot.com/v1/codes"
+    headers = {"Authorization": f"Bearer {token_api}"}
+    data = {"code": kód_python, "language": "python"}
+    response = requests.post(url, headers=headers, json=data)
+
+    # Zkontrolujte, zda je požadavek úspěšný
+    if response.status_code == 200:
+        # Přečtěte odpověď
+        odpověď = response.json()
+
+        # Vytvořte seznam testů
+        testy = []
+        for test in odpověď["tests"]:
+            testy.append(test["code"])
+
+        # Vrátte seznam testů
+        return testy
+    else:
+        # Vrátte chybovou zprávu
+        return ["Chyba: " + str(response.status_code)]
+```
+
+**Krok 3: Použijte funkci `generate_tests` k generování testů**
+
+Použijte funkci `generate_tests` k generování testů pro nějaký kód Python.
+
+```python
+# Definujte kód Python
+kód_python = """
+def f(x):
+    return x * 2
+"""
+
+# Použijte funkci `generate_tests` k generování testů
+testy = generate_tests(kód_python)
+
+# Zmáčkněte seznam testů
+for test in testy:
+    print(test)
+```
+
+Řešení 2: Vyberte si dva různé jazyky (například Java a C++) a implementujte funkci, která integruje Test Copilot do vašeho již existujícího testovacího frameworku
+
+**Krok 1: Načtěte knihovnu Test Copilota**
+
+Abychom mohli integrovat Test Copilota do našeho testovacího frameworku, potřebujeme načíst knihovnu Test Copilota. Pro tento úkol použijeme Python a knihovnu `requests`.
+
+```python
+import requests
+```
+
+**Krok 2: Definujte funkci `generate_tests_cross_language`**
+
+Funkce `generate_tests_cross_language` přijímá kód v obou zvolených jazycích jako vstup a vrátí seznam testů jako výstup. Funkce používá API Test Copilota k generování testů.
+
+```python
+def generate_tests_cross_language(kod_java, kod_cpp):
+    # Načtěte token API Test Copilota
+    token_api = "Vaše_API_token"
+
+    # Načtěte kód Java
+    kód_java = kod_java
+
+    # Použijte API Test Copilota k generování testů pro kód Java
+    url = "https://api.test-copilot.com/v1/codes"
+    headers = {"Authorization": f"Bearer {token_api}"}
+    data = {"code": kód_java, "language": "java"}
+    response_java = requests.post(url, headers=headers, json=data)
+
+    # Zkontrolujte, zda je požadavek pro kód Java úspěšný
+    if response_java.status_code == 200:
+        # Přečtěte odpověď
+        odpověď_java = response_java.json()
+
+        # Vytvořte seznam testů pro kód Java
+        testy_java = []
+        for test in odpověď_java["tests"]:
+            testy_java.append(test["code"])
+    else:
+        # Vrátte chybovou zprávu pro kód Java
+        testy_java = ["Chyba: " + str(response_java.status_code)]
+
+    # Načtěte kód C++
+    kód_cpp = kod_cpp
+
+    # Použijte API Test Copilota k generování testů pro kód C++
+    url = "https://api.test-copilot.com/v1/codes"
+    headers = {"Authorization": f"Bearer {token_api}"}
+    data = {"code": kód_cpp, "language": "cpp"}
+    response_cpp = requests.post(url, headers=headers, json=data)
+
+    # Zkontrolujte, zda je požadavek pro kód C++ úspěšný
+    if response_cpp.status_code == 200:
+        # Přečtěte odpověď
+        odpověď_cpp = response_cpp.json()
+
+        # Vytvořte seznam testů pro kód C++
+        testy_cpp = []
+        for test in odpověď_cpp["tests"]:
+            testy_cpp.append(test["code"])
+    else:
+        # Vrátte chybovou zprávu pro kód C++
+        testy_cpp = ["Chyba: " + str(response_cpp.status_code)]
+
+    # Vrátte seznam testů pro oba kódy
+    return testy_java, testy_cpp
+```
+
+**Krok 3: Použijte funkci `generate_tests_cross_language` k generování testů**
+
+Použijte funkci `generate_tests_cross_language` k generování testů pro kódy Java a C++.
+
+```python
+# Definujte kód Java
+kód_java = """
+public class F {
+    public static int f(int x) {
+        return x * 2;
+    }
+}
+"""
+
+# Definujte kód C++
+kód_cpp = """
+int main() {
+    int x = 2;
+    int result = f(x);
+    return 0;
+}
+"""
+
+# Použijte funkci `generate_tests_cross_language` k generování testů
+testy_java, testy_cpp = generate_tests_cross_language(kód_java, kód_cpp)
+
+# Zmáčkněte seznam testů pro kód Java
+print("Testy pro kód Java:")
+for test in testy_java:
+    print(test)
+
+# Zmáčkněte seznam testů pro kód C++
+print("Testy pro kód C++:")
+for test in testy_cpp:
+    print(test)
+```
