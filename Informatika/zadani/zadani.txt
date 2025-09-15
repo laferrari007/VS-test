@@ -1,23 +1,25 @@
 # AI Generované zadání úkolů pro předmět: Informatika
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:48:03
+# Datum: 2025-09-15 22:57:55
 
-Úkol 1: Základní úkol z předmětu Informatika - úroveň 1
+Zde jsou 10 univerzitních úkolů pro předmět "Informatika":
 
-Úkol 2: Základní úkol z předmětu Informatika - úroveň 2
+Úkol 1: Proveďte přehled a porovnání dvou typů algoritmu pro hledání binárního řečiště: lineárního a binárního. Diskutujte jejich účinnost a složitost.
 
-Úkol 3: Základní úkol z předmětu Informatika - úroveň 3
+Úkol 2: Použijte síťové modely (neuronální sítě) k třídění dat. Implementujte a vysvětlíte jeden z typů neuronální sítě (například CNN) na jednoduchém příkladě.
 
-Úkol 4: Základní úkol z předmětu Informatika - úroveň 4
+Úkol 3: Proveďte analýzu a návrh optimalizovaného přístupu k databázi s využitím indexování. Použijte SQL pro implementaci vašeho návrhu.
 
-Úkol 5: Základní úkol z předmětu Informatika - úroveň 5
+Úkol 4: Zkuste implementovat jednoduchou aplikaci pro přenos souborů pomocí protokolu TCP/IP. Proveďte analýzu průběhu přenosu a vysvětlíte problémy, se kterými se můžete setkat.
 
-Úkol 6: Základní úkol z předmětu Informatika - úroveň 6
+Úkol 5: Použijte principy objektoorientovaného programování k implementaci jednoduché hry na základě hierarchického modelování objektů. Proveďte přehled a porovnání různých typů tříd a jejich vztahů.
 
-Úkol 7: Základní úkol z předmětu Informatika - úroveň 7
+Úkol 6: Implementujte a porovnejte účinnost dvou typů kryptografických algoritmů: symetrického (AES) a asymetrického (RSA). Proveďte analýzu zabezpečení a rizik obou algoritmů.
 
-Úkol 8: Základní úkol z předmětu Informatika - úroveň 8
+Úkol 7: Proveďte návrh a implementaci jednoduchého protokolu komunikace mezi dvěma procesy v rámci jednoho počítače. Použijte síťové programování a vysvětlíte problémy, se kterými se můžete setkat.
 
-Úkol 9: Základní úkol z předmětu Informatika - úroveň 9
+Úkol 8: Použijte principy softwarového inženýrství k implementaci jednoduchého softwaru pro správu projektů. Proveďte přehled a porovnání různých typů metod a technik softwarového inženýrství.
 
-Úkol 10: Základní úkol z předmětu Informatika - úroveň 10
+Úkol 9: Implementujte a porovnejte účinnost dvou typů databázových modelů: normální formy a denormalizované formy. Proveďte analýzu výhod a nevýhod obou typů modelů.
+
+Úkol 10: Proveďte analýzu a návrh bezpečného systému pro správu uživatelů a přístupu. Použijte principy zabezpečení a vysvětlíte problémy, se kterými se můžete setkat při implementaci.
