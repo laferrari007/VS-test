@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Mezinárodní právo
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:52:14
+# Datum: 2025-09-15 23:52:15
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 
