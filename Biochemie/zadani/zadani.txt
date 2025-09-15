@@ -2,24 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:22:54
 
-Zde jsou 10 univerzitních úkolů pro předmět "Biochemie":
+Úkol 1: Popiš mechanismus aktivace enzymu trypsinu a vysvětli, jak je to důležité pro trávení bílkovin ve střevě.
 
-Úkol 1: Popiš základní principy struktury a funkce aminokyselin, včetně jejich klasifikace a vazebných vlastností.
+Úkol 2: Vypočítejte koncentraci ATP vytvořeného během glykolýzy 1 molu glukózy v klidovém stavu.
 
-Úkol 2: Vytvoř seznam hlavních enzymů, které jsou zodpovědné za přeměnu glukózy na energie v buňkách a vysvětľ jejich biochemické mechanismy.
+Úkol 3: Porovnejte energetickou hodnotu ATP s jinými energetickými molekulami (například NADH a FADH2) a vysvětli, proč je ATP vhodnou formou pro ukládání energie v buňce.
 
-Úkol 3: Porovnej a vysvětľ rozdíl mezi transkripční regulačními prvky a translačními regulačními prvky, a udělejte příklad jejich působení v buňkách.
+Úkol 4: Popište proces fosforylace a dephosphorylace a vysvětli, jak jsou tyto procesy důležité pro regulaci enzymů v buňce.
 
-Úkol 4: Popiš roli membránových transportéru v regulaci koncentrace iontů a molekul v buňkách, včetně jejich mechanismů aktivního a pasivního transportu.
+Úkol 5: Vypočítejte koncentraci oxidu uhličitého (CO2) produkovaného během glykolytického metabolismu 1 molu glukózy.
 
-Úkol 5: Vytvoř diagram popisující metabolismus lipidů v buňkách, včetně hlavních kroků syntézy a rozkladu triglyceridů.
+Úkol 6: Porovnejte mechanismus fosforylace a dephosphorylace v závislosti na typu enzymu (kinázou a fosfatazym) a vysvětli, jak se to odráží v jejich aktivitě.
 
-Úkol 6: Analyzujte efekt iontového gradientu na membránový potenciál v buňkách a udělejte příklad jeho vlivu na různé buňkové procesy.
+Úkol 7: Popište proces syntézy ATP v mitochondriích a vysvětli, jak je to důležité pro tvorbu energie v buňce.
 
-Úkol 7: Popiš roli GTPáz v různých biochemických procesech, včetně aktivace faktorů signálizace a regulace metabolismu.
+Úkol 8: Vypočítejte koncentraci NADH a FADH2 produkovaných během citrátového cyklu 1 molu acetyl-CoA.
 
-Úkol 8: Vytvoř popis syntetického cyklu a jeho mechanismů u glukózy a glykogenu v buňkách, včetně hlavních enzymů a regulátorů.
+Úkol 9: Analýzujte vzájemné vazby mezi enzymy v glykolytickém metabolismu a vysvětli, jak se to odráží v jejich aktivitě a regulaci.
 
-Úkol 9: Porovnej a vysvětľ rozdíl mezi dvěma typy katabolismu, tj. fermentačním a respiračním, a udělejte příklad jejich použití v různých buňkách a organismech.
-
-Úkol 10: Popiš roli epigenetických mechanismů v regulaci gene expresí v buňkách, včetně hlavních typů modifikací DNA a histonů a jejich vlivu na různé buňkové procesy.
+Úkol 10: Porovnejte mechanismus regulace glykolytického metabolismu v závislosti na hladině glukózy v krvi a vysvětli, jak se to odráží v aktivitě enzymů.

@@ -3,60 +3,92 @@
 # Datum: 2025-09-15 23:22:54
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní principy struktury a funkce aminokyselin, včetně jejich klasifikace a vazebných vlastností.
+Řešení 1: Mechanismus aktivace enzymu trypsinu a jeho význam pro trávení bílkovin ve střevě
 
-Aminokyseliny jsou základní stavební bloky bílkovin, což jsou důležité proteiny v buňkách. Základní principy struktury a funkce aminokyselin jsou následující:
+Enzym trypsin je součástí trypsinu-chymotrypsinu komplexu, který je produkován v játrech a dopravován do střev prostřednictvím žlučníku. Trypsin je zodpovědný za rozklad bílkovin na menší fragmenty, které mohou být dále absorbovány do krve.
 
-- **Struktura:** Aminokyseliny jsou tvořeny atomem uhlíku, atomem vodíku, atomem dusíku a dalšími atomy. Existují 20 standardních aminokyselin, které se liší podle svého chemického složení.
-- **Klasifikace:** Aminokyseliny se dělí na několik kategorií:
- - **Alifatické aminokyseliny:** Jsou to aminokyseliny, které obsahují alifatickou řetězici, jako je alanin, valin a leucin.
- - **Aromatické aminokyseliny:** Jsou to aminokyseliny, které obsahují aromatickou skupinu, jako je fenylalanin a tyrosin.
- - **Kyselé aminokyseliny:** Jsou to aminokyseliny, které obsahují kyselý skupinu, jako je asparagin a glutamin.
-- **Vazební vlastnosti:** Aminokyseliny mohou vstupovat do vazeb s jinými molekulami, jako jsou bílkoviny, nukleové kyseliny a vitamíny. Vazební vlastnosti aminokyselin jsou důležité pro jejich funkci v buňkách.
+Mechanismus aktivace enzymu trypsinu zahrnuje dvě fáze:
 
-Vazební vlastnosti aminokyselin jsou následující:
+1. **Aktivace trypsinogenem**: Trypsinogen je neaktivní prekurzor trypsinu, který je produkován v játrech. Tento prekurzor musí být aktivován, aby se stal aktivním enzymem trypsinem.
+2. **Autoaktivace trypsinu**: Aktivovaný trypsin je schopen aktivovat další trypsinogen, čímž dochází k autoaktivaci. Tento proces se opakuje, až se veškerý trypsinogen stane aktivním trypsinem.
 
-- **Hidrofilní vazby:** Aminokyseliny se mohou vázat na vodou prostřednictvím hydrofilních vazeb, jako je hydrogenová vazba.
-- **Hidrofobní vazby:** Aminokyseliny se mohou vázat na lipidové sloučeniny prostřednictvím hydrofobních vazeb, jako je van der Waalsova síla.
-- **Ionotropní vazby:** Aminokyseliny se mohou vázat na ióny prostřednictvím ionotropních vazeb, jako je vázání na kationy nebo aniony.
+Trypsin aktivuje další trypsinogen, který má podobnou strukturu, prostřednictvím mechanismu, který zahrnuje:
 
-Vazební vlastnosti aminokyselin jsou důležité pro jejich funkci v buňkách, zejména pro jejich účast na procesech jako je syntéza bílkovin, metabolismus a signální dráhy.
+- Interakci mezi trypsinem a trypsinogenem, která vede k deformaci struktury trypsinogenu
+- Využití aktivovaného trypsinu jako katalyzátoru pro další aktivaci trypsinogenu
 
-Řešení 2: Seznam hlavních enzymů, které jsou zodpovědné za přeměnu glukózy na energie v buňkách a vysvětlení jejich biochemických mechanismů.
+Tento proces je klíčový pro trávení bílkovin ve střevě, protože aktivovaný trypsin je schopen rozkládat bílkoviny na menší fragmenty, které mohou být dále absorbovány do krve.
 
-Enzymy, které jsou zodpovědné za přeměnu glukózy na energie v buňkách, jsou následující:
+Řešení 2: Vypočítání koncentrace ATP vytvořeného během glykolýzy 1 molu glukózy v klidovém stavu
 
-- **Glukóza-6-fosfát dehydrogenáza (G6PD):** Tento enzym přeměňuje glukózu na glukózu-6-fosfát, který je poté přeměněn na fruktózu-6-fosfát.
-- **Fruktóza-6-fosfát-kináza (F6PK):** Tento enzym přeměňuje fruktózu-6-fosfát na fruktózu-1,6-bisfosfát.
-- **Fosfoglycerát dehydrogenáza (PGD):** Tento enzym přeměňuje fruktózu-1,6-bisfosfát na 3-fosfoglycerát.
-- **Glykolýza:** Tato dráha přeměňuje glukózu na pyruvat, který je poté přeměněn na ATP prostřednictvím glykolýzy.
+Glykolýza je proces, během kterého jsou glukózy rozloženy na pyruvat a ATP. Celková energetická hodnota jednoho molu glukózy je 2873 kJ/mol.
 
-Biochemický mechanismus přeměny glukózy na energie v buňkách je následující:
+Podle rovnice:
 
-1. **Glukóza vstupuje do buňky:** Glukóza vstupuje do buňky prostřednictvím transpočních mechanismů.
-2. **Glukóza je přeměněna na glukózu-6-fosfát:** G6PD přeměňuje glukózu na glukózu-6-fosfát.
-3. **Glukózu-6-fosfát je přeměněna na fruktózu-6-fosfát:** F6PK přeměňuje glukózu-6-fosfát na fruktózu-6-fosfát.
-4. **Fruktózu-6-fosfát je přeměněn na fruktózu-1,6-bisfosfát:** F6PK přeměňuje fruktózu-6-fosfát na fruktózu-1,6-bisfosfát.
-5. **Fruktózu-1,6-bisfosfát je přeměněn na 3-fosfoglycerát:** PGD přeměňuje fruktózu-1,6-bisfosfát na 3-fosfoglycerát.
-6. **3-fosfoglycerát je přeměněn na ATP:** Glykolýza přeměňuje 3-fosfoglycerát na ATP.
+1 mol glukózy → 2 mol ATP + 2 mol NADH
 
-Řešení 3: Porovnání a vysvětlení rozdílů mezi transkripčními regulačními prvky a translačními regulačními prvky, a udělení příkladu jejich působení v buňkách.
+Celková energetická hodnota vytvořených ATP je:
 
-Transkripční regulační prvky a translační regulační prvky jsou dva typy mechanismů, které regulují expresi genů v buňkách.
+2 mol ATP × 30,5 kJ/mol = 61 kJ
 
-**Transkripční regulační prvky:**
+Navíc, během glykolýzy se také tvoří 2 mol NADH, které mohou být použity v mitochondriích pro tvorbu ATP. Energetická hodnota 2 mol NADH je:
 
-- **Promotor:** Jsou to oblasti DNA, které jsou zodpovědné za aktivaci transkripci.
-- **Enhancer:** Jsou to oblasti DNA, které jsou zodpovědné za zvýšení expresí genů.
-- **Represor:** Jsou to proteiny, které jsou zodpovědné za redukci expresí genů.
-- **Aktivační faktory:** Jsou to proteiny, které jsou zodpovědné za aktivaci transkripci.
+2 mol NADH × 52,3 kJ/mol = 104,6 kJ
 
-Příklad působení transkripčních regulačních prvků:
+Celková energetická hodnota vytvořených ATP a NADH je:
 
-- **Promotor:** Předávkování glukózy aktivuje promotorový region genů, které jsou zodpovědné za glykolýzu. To vede k aktivaci expresí genů glykolýzy a následnému zvýšení glykolýzy.
+61 kJ + 104,6 kJ = 165,6 kJ
 
-**Translační regulační prvky:**
+Z celkové energetické hodnoty 2873 kJ/mol glukózy je 165,6 kJ energie použito pro tvorbu ATP, tj.:
 
-- **Základní aminokyseliny:** Jsou to aminokyseliny, které jsou zodpovědné za syntézu bílkovin.
-- **Transfer-RNA:** Jsou to RNA molekuly, které přenašují aminokyseliny na ribozom.
-- **Ribozomy:** Jsou to
+165,6 kJ / 2873 kJ/mol = 0,0576 mol/mol
+
+Protože 1 mol glukózy vytváří 2 mol ATP, koncentrace vytvořeného ATP je:
+
+2 mol ATP × 0,0576 mol/mol = 0,1152 mol/mol
+
+Koncentrace vytvořeného ATP je tedy 0,1152 mol/mol.
+
+Řešení 3: Porovnání energetické hodnoty ATP s jinými energetickými molekulami
+
+ATP je klíčová energetická molekula v buňce, která uchovává energii ve formě fosfátových skupin. Energetická hodnota jednoho molu ATP je 30,5 kJ/mol.
+
+Porovnáním s jinými energetickými molekulami:
+
+- NADH: 52,3 kJ/mol
+- FADH2: 34,7 kJ/mol
+
+ATP má nižší energetickou hodnotu než NADH, ale vyšší než FADH2. Fosfátové skupiny v ATP jsou však mnohem lépe uchovávány a uvolněny, než fosfátové skupiny v NADH a FADH2.
+
+ATP je proto vhodnou formou pro ukládání energie v buňce, protože je dobře uchovávána a snadno uvolněna, což je důležité pro různé biochemické procesy.
+
+Řešení 4: Popis procesů fosforylace a dephosphorylace a jejich význam pro regulaci enzymů v buňce
+
+Fosforylace je proces, během kterého jsou fosfátové skupiny připojovány k bílkovinám, zatímco dephosphorylace je proces, během kterého jsou fosfátové skupiny odstraněny.
+
+Fosforylace a dephosphorylace jsou důležité pro regulaci enzymů v buňce, protože tyto procesy ovlivňují aktivitu enzymů. Fosforylace aktivuje enzymy, zatímco dephosphorylace je aktivitu inhibuje.
+
+Mechanismy fosforylace a dephosphorylace:
+
+- Fosforylace: Enzymy, které fosforylují bílkoviny, jsou známé jako kinázy. Tyto enzymy připojují fosfátové skupiny k bílkovinám, což vede ke změně jejich struktury a aktivitě.
+- Dephosphorylace: Enzymy, které dephosphorylují bílkoviny, jsou známé jako fosfatazy. Tyto enzymy odstraňují fosfátové skupiny z bílkovin, což vede ke změně jejich struktury a aktivitě.
+
+Tato regulace je důležitá pro různé biochemické procesy, jako je trávení, metabolismus a signalizace.
+
+Řešení 5: Vypočítání koncentrace oxidu uhličitého (CO2) produkovaného během glykolytického metabolismu 1 molu glukózy
+
+Glykolýza je proces, během kterého jsou glukózy rozloženy na pyruvat a ATP. Celková energetická hodnota jednoho molu glukózy je 2873 kJ/mol.
+
+Podle rovnice:
+
+1 mol glukózy → 2 mol ATP + 2 mol NADH + 2 mol CO2
+
+Celková energetická hodnota vytvořeného CO2 je:
+
+2 mol CO2 × 13,8 kJ/mol = 27,6 kJ
+
+Navíc, během glykolýzy se také tvoří 2 mol NADH, které mohou být použity v mitochondriích pro tvorbu ATP. Energetická hodnota 2 mol NADH je:
+
+2 mol NADH × 52,3 kJ/mol = 104,6 kJ
+
+Celková energetická
