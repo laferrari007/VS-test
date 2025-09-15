@@ -1,0 +1,93 @@
+# Řešení úkolů pro předmět: Investice
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:42:00
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1: Vyberte tři typy investic (akcie, dluhopisy, podílové fondy) a popište jejich základní charakteristiky a rizika.
+
+Akcie jsou typem investice, kde investor vlastněuje částku akcií v konkrétní společnosti. Charakteristiky akcií zahrnují:
+
+- Riziko: Akcie jsou zásadně riziková investice, protože jejich hodnotu ovlivňují různé faktory, jako jsou výsledky společnosti, ekonomická situace a politické události.
+- Možnost zisku: Akcie nabízejí možnost zisku prostřednictvím dividend, rozdělení zisku a možného zvýšení hodnoty akcií.
+
+Dluhopisy jsou typem investice, kde investor půjčuje peníze společnosti nebo státu, která jim pak platí úrok a vrátí původní částku. Charakteristiky dluhopisů zahrnují:
+
+- Riziko: Dluhopisy jsou relativně méně riziková investice než akcie, protože jejich hodnotu ovlivňují především úrokové sazby a ekonomická situace.
+- Možnost zisku: Dluhopisy nabízejí jistý zisk prostřednictvím úroků.
+
+Podílové fondy jsou typem investice, kde investor investuje do kolektivního portfolia akcií, dluhopisů a dalších aktiv. Charakteristiky podílových fondů zahrnují:
+
+- Riziko: Podílové fondy jsou riziková investice, protože jejich hodnotu ovlivňují různé faktory, jako jsou výsledky společnosti, ekonomická situace a politické události.
+- Možnost zisku: Podílové fondy nabízejí možnost zisku prostřednictvím růstu hodnoty akcií a dividend.
+
+Řešení 2: Porovnejte výkonnost tří různých akcií a vysvětlěte, proč některé z nich mohou být atraktivnější pro investice než jiné.
+
+Chceme porovnat výkonnost tří různých akcií: A, B a C. Za tímto účelem budeme používat následující údaje:
+
+- Akcie A:
+ + Růst ceny za rok: 10%
+ + Dividenda: 4%
+ + Hlavní rizika: nízké zisky, vysoká zadluženost
+- Akcie B:
+ + Růst ceny za rok: 15%
+ + Dividenda: 6%
+ + Hlavní rizika: vysoké zisky, nízká poptávka
+- Akcie C:
+ + Růst ceny za rok: 5%
+ + Dividenda: 3%
+ + Hlavní rizika: nízká poptávka, vysoké náklady
+
+Porovnání výkonnosti akcií ukazuje, že Akcie B má nejvyšší růst ceny a dividendu, ale také nejvyšší rizika. Akcie A má nižší růst ceny a dividendu, ale nižší rizika. Akcie C má střední růst ceny a dividendu, ale střední rizika.
+
+Řešení 3: Vypočítejte čistý roční návratnost (CRR) jednoho podílového fondu a vysvětlete, jak je CRR spojen s riziky spojenými s investicemi.
+
+Chceme vypočítat čistý roční návratnost (CRR) jednoho podílového fondu, který obsahuje následující údaje:
+
+- Růst hodnoty za rok: 8%
+- Dividenda: 4%
+- Hlavní rizika: nízké zisky, vysoká zadluženost
+
+CRR se vypočítá podle následujícího vzorce:
+
+CRR = (Růst hodnoty + Dividenda) / 1 + (Riziková složka)
+
+Kde riziková složka je vyjádřena jako procento rizika spojeného s investicí.
+
+V našem případě je CRR:
+
+CRR = (8% + 4%) / 1 + (5%) = 12% / 1,05 = 11,43%
+
+Tato hodnota ukazuje, že podílový fond má čistý roční návratnost 11,43%, ale také riziko spojené s investicí, které je vyjádřeno 5% rizikovou složkou.
+
+Řešení 4: Zjistěte a porovnejte ceny akcií tří firem z různých odvětví a vysvětlěte, proč jsou ceny akcií tyto firmy různé.
+
+Chceme porovnat ceny akcií tří firem z různých odvětví: A (technologie), B (železnice) a C (potravinářství). Za tímto účelem budeme používat následující údaje:
+
+- Akcie A (technologie):
+ + Cena: 100€
+ + Hlavní rizika: nízké zisky, vysoká zadluženost
+- Akcie B (železnice):
+ + Cena: 80€
+ + Hlavní rizika: nízká poptávka, vysoké náklady
+- Akcie C (potravinářství):
+ + Cena: 120€
+ + Hlavní rizika: nízká poptávka, vysoké náklady
+
+Porovnání cen akcií ukazuje, že Akcie C má nejvyšší cenu, ale také nejvyšší rizika. Akcie A má střední cenu a rizika. Akcie B má nejnižší cenu a rizika.
+
+Řešení 5: Vyberte dvě firmy z různých odvětví a vytvořte graf sledující jejich historickou cenu akcií. Vysvětlěte, co jste na grafu pozorovali a proč.
+
+Chceme vytvořit graf sledující historickou cenu akcií dvou firem: A (technologie) a B (železnice). Za tímto účelem budeme používat následující údaje:
+
+- Akcie A (technologie):
+ + Ceny za rok 2020: 50€
+ + Ceny za rok 2021: 70€
+ + Ceny za rok 2022: 100€
+- Akcie B (železnice):
+ + Ceny za rok 2020: 60€
+ + Ceny za rok 2021: 80€
+ + Ceny za rok 2022: 100€
+
+Graf ukazuje, že cena akcií A (technologie) porostla z 50€ v roce 2020 na 100€ v roce 2022, zatímco cena akcií B (železnice) porostla z 60€ v roce 2020 na 100€ v roce 2022. To naznačuje, že Akcie A (technologie) měla lepší růst ceny než Akcie B (železnice) v průběhu let.
+
+Řešení 6: Vypočítejte vnitřní míru návratnosti (IMN) pro jeden podílový fond a vysvětlěte, jak se IMN liší od CRR

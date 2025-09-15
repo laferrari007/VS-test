@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Investice
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:42:00
+
+Úkol 1: Vyberte tři typy investic (akcie, dluhopisy, podílové fondy) a popište jejich základní charakteristiky a rizika.
+
+Úkol 2: Porovnejte výkonnost tří různých akcií a vysvětlěte, proč některé z nich mohou být atraktivnější pro investice než jiné.
+
+Úkol 3: Vypočítejte čistý roční návratnost (CRR) jednoho podílového fondu a vysvětlete, jak je CRR spojen s riziky spojenými s investicemi.
+
+Úkol 4: Zjistěte a porovnejte ceny akcií tří firem z různých odvětví a vysvětlěte, proč jsou ceny akcií tyto firmy různé.
+
+Úkol 5: Vyberte dvě firmy z různých odvětví a vytvořte graf sledující jejich historickou cenu akcií. Vysvětlěte, co jste na grafu pozorovali a proč.
+
+Úkol 6: Vypočítejte vnitřní míru návratnosti (IMN) pro jeden podílový fond a vysvětlěte, jak se IMN liší od CRR.
+
+Úkol 7: Vyberte tři různé investiční strategie a vysvětlěte, proč jsou některé strategie atraktivnější pro investice než jiné.
+
+Úkol 8: Zjistěte a porovnejte výkonnost tří různých fondů investujících do mezinárodních akcií a vysvětlěte, proč některé fondy mohou být atraktivnější pro investice než jiné.
+
+Úkol 9: Vypočítejte a porovnejte návratnost investic do akcií a do dluhopisů v různých ekonomických podmínkách (například v dobách růstu a v dobách krize).
+
+Úkol 10: Vyberte tři různé firmy a vytvořte scénář, jak by se jejich akciové ceny mohly vyvíjet v případě různých ekonomických událostí (například v případě růstu nebo v případě krize).
