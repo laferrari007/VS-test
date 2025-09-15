@@ -2,22 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:17:27
 
-Úkol 1: Urči, zda se pravděpodobnostní rozdělení binomiale s parametrem n = 5 a p = 0,3 patří do rodiny exponenciálních rozdělení. Motivovalo by vás to rozdělit na podskupiny? 
+Úkol 1: Provede se náhoda, při které je náhodné číslo x v intervalu 0 až 1 vybráno. Vypočtěte střední hodnotu náhodného čísla x.
 
-Úkol 2: Pokud máme dvě náhodné proměnné X a Y s hodnotami 0 a 1 a jejich nezávislé pravděpodobnostní rozdělení jsou rovna 0,5. Jaká je průměrná hodnota jejich součtu? 
+Úkol 2: Pro náhodnou proměnnou X, která je normálně rozdělení s střední hodnotou μ = 10 a standardní odchylou σ = 3, vypočtěte pravděpodobnost, že X bude větší než 15.
 
-Úkol 3: Pro rozdělení Poisson s parametrem λ = 10, urči střední hodnotu a rozptyl druhé kovy. 
+Úkol 3: Pokud se při náhodném pokusu hodí dvě mince, vypočtěte pravděpodobnost, že se alespoň jedna mince nebude zvednout.
 
-Úkol 4: Pro rozdělení normální N(0,1), urči, zda existuje k nějakým hodnotám c a d takové, že je pravděpodobnost 0,8 pro hodnoty kladné, pokud se vybere náhodný výstup z daného rozdělení.
+Úkol 4: Pro náhodnou proměnnou X, která je normálně rozdělená s střední hodnotou μ = 5 a standardní odchylou σ = 2, vypočtěte střední hodnotu (X+1) a střední hodnotu (X-2).
 
-Úkol 5: Urči pravděpodobnost, že náhodný výběr z 10 bodů, které jsou náhodně vybrány z intervalu (0,1), bude větší než 7/10.
+Úkol 5: Pokud je pravděpodobnost dvou nezávislých událostí A a B stejná, pak zjistěte podmínku, za které je pravděpodobnost jejich úplného součtu stejná jako pravděpodobnost jejich úplného součtu (A a B) nebo jejich úplného rozdílu (A nebo B).
 
-Úkol 6: Pro rozdělení binomiale s parametrem n = 20 a p = 0,5, urči střední hodnotu a rozptyl druhé kovy.
+Úkol 6: Pro náhodnou proměnnou X, která je binomálně rozdělená s parametrem n = 10 a p = 0,4, vypočtěte střední hodnotu X a standardní odchylku X.
 
-Úkol 7: Pro náhodnou proměnnou, která má rozdělení normální s střední hodnotou 0 a rozptylem 1, urči, zda existuje k nějakým hodnotám a a b takové, že existuje pravděpodobnost 0,6 pro hodnoty kladné, pokud je vybráno náhodné výstupní z daného rozdělení.
+Úkol 7: Pro náhodnou proměnnou X, která je exponenciálně rozdělená s parametrem λ = 2, vypočtěte pravděpodobnost, že X bude menší než 3.
 
-Úkol 8: Pokud máte dvě náhodné proměnné X a Y s hodnotami 0 a 1 a jejich nezávislé pravděpodobnostní rozdělení jsou stejné. Jaká je střední hodnota jejich součtu?
+Úkol 8: Pokud jsou A, B a C nezávislé události, pak zvažte případ, kdy P(A) = 0,8 a P(B∩C) = 0,1. Zjistěte podmínku, za které je P(A∪B∪C) = P(A) + P(B) + P(C) - P(B∩C).
 
-Úkol 9: Pro rozdělení Poisson s parametrem λ = 5, urči střední hodnotu a rozptyl druhé kovy. Poté porovnejte výsledky s výsledky pro rozdělení Poisson s parametrem λ = 10. 
+Úkol 9: Pro náhodnou proměnnou X, která je hypergeometricky rozdělená s parametrem n = 10, k = 3 a N = 15, vypočtěte střední hodnotu X a střední hodnotu (X-1).
 
-Úkol 10: Pro rozdělení binomiale s parametrem n = 100 a p = 0,05, urči střední hodnotu a rozptyl druhé kovy.
+Úkol 10: Pokud je pravděpodobnost události A menší než pravděpodobnosti události B a jejich součtu (A∪B), pak zvažte případ, kdy P(A) = 0,4, P(B) = 0,6 a P(A∪B) = 0,7. Zjistěte, zda je událost A nezávislá na události B.
