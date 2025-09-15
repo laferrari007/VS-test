@@ -1,23 +1,33 @@
 # Zadání úkolů pro předmět: Management
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:42:29
+# Datum: 2025-09-15 23:42:41
 
-Úkol 1: Popište základní principy efektivní komunikace v manažerské roli a uveďte příklady, jak je v praxi aplikovat.
+Úkol 1: 
+Popište rozdíl mezi strategickým a taktickým plánovaním v organizační praxi. Jak lze tyto koncepce uplatnit v praxi vedení a řízení týmu.
 
-Úkol 2: Porovnejte dvě různé manažerské metody (např. Scrum, Agile) a uveďte výhody a nevýhody každé metody.
+Úkol 2: 
+Vyberte vhodný typ organizační struktury (lze použít model MINTZBERGA) a vysvětlte, jak bude fungovat v dané organizaci, která se specializuje na výrobu a prodej sportovního vybavení.
 
-Úkol 3: Analyzujte situaci, kdy manažer musí řešit konflikt mezi dvěma zástupci týmu. Uveďte kroky, které by manažer měl provést, aby konflikt vyřešil.
+Úkol 3: 
+Popište proces rozhodování v manažerském řízení, s důrazem na různé rozhodovací modely (např. modely racionálního rozhodování, modely intuice) a jejich aplikace v praxi.
 
-Úkol 4: Vyberte si dvě různé organizace a porovnejte jejich manažerské strategie. Uveďte, jak se manažerské strategie odráží v jejich výsledky.
+Úkol 4: 
+Zpracujte případovou studii vybrané firmy, která úspěšně zavedla změnu v organizační kultuře. Analyzujte příčiny a důsledky této změny a diskutujte o jejich aplikaci na jiná firemní prostředí.
 
-Úkol 5: Napsal byste manažerský plán pro menší organizaci, která chce expandovat na novou trh. Uveďte cíle, strategie a kroky, které by organizace měla provést.
+Úkol 5: 
+Vysvětlte rozdíl mezi lidským kapitálem a materiálními zdroji v organizační praxi a poskytujte příklady, jak lze těchto zdrojů efektivně využívat v praxi vedení a řízení týmu.
 
-Úkol 6: Analyzujte situaci, kdy manažer musí implementovat nové procesy v organizaci. Uveďte kroky, které by manažer měl provést, aby nové procesy úspěšně implementoval.
+Úkol 6: 
+Popište procesy komunikace v manažerském řízení, s důrazem na různé komunikační modely (např. modely lineární komunikace, modely založené na informacích) a jejich aplikace v praxi.
 
-Úkol 7: Vyberte si tři různé manažerské nástroje (např. Trello, Asana, Microsoft Project) a porovnejte jejich výhody a nevýhody. Uveďte, zda by se daný nástroj dal použít v různých manažerských situacích.
+Úkol 7: 
+Zpracujte projektový plán pro vybranou firmu, která plánuje zavést nový produkt na trh. Popište kroky, které firma bude muset provést, aby byla připravena na úspěšné zavedení produktu a jeho úspěšnou propagaci na trhu.
 
-Úkol 8: Napsal byste manažerský report pro šéfa organizace, který by zahrnoval hodnocení týmu, cíle a strategie pro další období. Uveďte, jak by se manažerský report měl skládat a jak by měl být představen.
+Úkol 8: 
+Vysvětlte rozdíl mezi manažerským a vůdčím stylem v organizační praxi a poskytujte příklady, jak lze těchto stylů efektivně využívat v praxi vedení a řízení týmu.
 
-Úkol 9: Analyzujte situaci, kdy manažer musí řešit nedostatek zdrojů v organizaci. Uveďte kroky, které by manažer měl provést, aby nedostatek zdrojů vyřešil.
+Úkol 9: 
+Popište procesy rozvoje a implementace strategie v manažerském řízení, s důrazem na různé modely strategického řízení (např. modely SWOT, modely BCG) a jejich aplikace v praxi.
 
-Úkol 10: Vyberte si dvě různé manažerské role (např. šéf oddělení, projektový manažer) a porovnejte jejich povinnosti a výzvy. Uveďte, jak by manažer ve každé roli měl postupovat, aby byl úspěšný.
+Úkol 10: 
+Zpracujte komplexní analýzu vybrané firmy, která čelí změnám na trhu a musí přizpůsobit svou organizační strukturu a strategii, aby byla schopná úspěšně čelit změnám a udržet své pozice na trhu.
