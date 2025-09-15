@@ -1,23 +1,25 @@
 # AI Generované zadání úkolů pro předmět: Geografie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:52:14
+# Datum: 2025-09-15 22:46:58
 
-Úkol 1: Základní úkol z předmětu Geografie - úroveň 1
+Zde jsou 10 univerzitních úkoly pro předmět "Geografie":
 
-Úkol 2: Základní úkol z předmětu Geografie - úroveň 2
+Úkol 1: Vytvořte krátkou mapovou legendu pro mapu ČR, která bude zahrnovat alespoň 5 typů přírodních zdrojů a 3 druhy zemědělské produkce.
 
-Úkol 3: Základní úkol z předmětu Geografie - úroveň 3
+Úkol 2: Porovnejte charakteristické rysy geomorfologické mapy Německa a Rakouska. Vysvětlujte, jak se tyto rysy odrážejí v geologickém a klimatickém podkladu obou zemí.
 
-Úkol 4: Základní úkol z předmětu Geografie - úroveň 4
+Úkol 3: Analyzujte vliv lidských aktivit na erozi a degradaci půdy v oblasti Hornoslezského průmyslového regionu (HORÁR). Jaké jsou příčiny této degradace a jaké jsou možné řešení?
 
-Úkol 5: Základní úkol z předmětu Geografie - úroveň 5
+Úkol 4: Vytvořte geografický portál o výskytu a rozšíření chladných a teplých frontálních oblastí v Evropě. Vysvětlujte, jak se tyto oblasti odrážejí v klimatických podmínkách a zemědělské produkci.
 
-Úkol 6: Základní úkol z předmětu Geografie - úroveň 6
+Úkol 5: Studujte případnou lokalizaci a typy městských aglomerací v ČR. Analyzujte vazby mezi typem aglomerace a zemědělskou výrobou a spotřebou v její oblasti.
 
-Úkol 7: Základní úkol z předmětu Geografie - úroveň 7
+Úkol 6: Porovnejte charakteristické rysy demografických trendů v ČR a Velké Británii za posledních 50 let. Vysvětlujte, jak se tyto trendy odrážejí v strukturách obyvatelstva a ekonomických systémech obou zemí.
 
-Úkol 8: Základní úkol z předmětu Geografie - úroveň 8
+Úkol 7: Vytvořte model rozvoje území se zaměřením na strategie ochrany přírodního bohatství v CHKO Šumava. Analyzujte, jaká by měla být spolupráce mezi úřady, obyvateli a místní samosprávou v této oblasti.
 
-Úkol 9: Základní úkol z předmětu Geografie - úroveň 9
+Úkol 8: Analyzujte faktory vedoucí k rozvoji a znečištění vodních zdrojů v ČR. Vysvětlujte, jak se tyto faktory odrážejí v kvalitě vod v řekách a jezerech.
 
-Úkol 10: Základní úkol z předmětu Geografie - úroveň 10
+Úkol 9: Studujte případovou studii o vlivu změny klimatu na zemědělskou produkci v ČR. Analyzujte, které druhy plodin jsou nejvíce zasaženy a jaké jsou možné řešení pro zvýšení odolnosti zemědělských komodit proti změně klimatu.
+
+Úkol 10: Vytvořte komplexní analýzu dopadu globální změny klimatu na ekosystémové služby v Evropě. Vysvětlujte, jak se tyto služby odrážejí v ekologických, ekonomických a sociálních aspektech života evropských zemí.

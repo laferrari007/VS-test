@@ -1,24 +1,109 @@
 # AI Generované řešení úkolů pro předmět: Výtvarná výchova
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:48:28
+# Datum: 2025-09-15 22:43:00
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Výtvarná výchova
+Řešení 1: Vytvořte kresbu běžné denní scény (například snídaně, škola, práce) v jednoduchém černobílém style. Použijte techniku konturace a důrazně vyznačte hlavní prvky kompozice.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Výtvarná výchova
+**Krok 1: Návrh scény**
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Výtvarná výchova
+Zvolím scénu ve školní jídelně, kde děti jídlu a učitelé se pokoušejí je povzbudit k jídlu. Touto scénou chci projevit každý den běžné aktivity dětí a jejich učitelů.
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Výtvarná výchova
+**Krok 2: Kresba kontur**
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Výtvarná výchova
+Použiji techniku konturace, aby bylo zřejmé, které prvky jsou nejdůležitější v kompozici. Konturace je technika, kdy se kreslí pouze vnější hrana objektu, aniž jsou ostatní detaily zobrazeny.
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Výtvarná výchova
+* Kreslím kontury postav dětí i učitelů, aby bylo zřejmé jejich umístění ve scéně.
+* Kontury stolu a židlí jsem zobrazil, aby bylo zřejmé, kde děti jídlu.
+* Kontury okenního rámu jsem přidala, aby bylo zřejmé, že scéna se odehrává ve škole.
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Výtvarná výchova
+**Krok 3: Význačení hlavních prvků kompozice**
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Výtvarná výchova
+Důrazně vyznačím hlavní prvky kompozice, jako jsou děti, učitelé, stůl a okna.
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Výtvarná výchova
+* Děti jsou hlavní figura scény, proto jsem je vyznačil jasně a ostrou linkou.
+* Učitelé jsou sekundární figura scény, proto jsem je vyznačil slabší linkou, než děti.
+* Stůl a židle jsou důležité prvky scény, proto jsem je vyznačil jasnou linkou.
+* Okna jsou sekundární prvky scény, proto jsem je vyznačil slabší linkou.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Výtvarná výchova
+**Krok 4: Závěrečné provedení**
+
+Závěrečně provedl jsem kresbu, aby byla čitelná a jasná.
+
+**Výsledný produkt**
+
+Výsledný produkt je jednoduchá kresba běžné denní scény ve školní jídelně v černobílém style.
+
+Řešení 2: Vytvořte malbu přírodní scény (například les, moře, hora) v barvách olejové malby. Použijte technikou sfumato a vyznačte hlavní prvky kompozice.
+
+**Krok 1: Návrh scény**
+
+Zvolím scénu v lese, kde stromy stoupají k obloze a je vidět široký výhled na okolí.
+
+**Krok 2: Podklady**
+
+Použiji podklady, aby bylo možné vytvořit sfumato efekt.
+
+* Použiji tmavé a světlé barvy olejové malby, aby bylo možné dosáhnout jasných kontrastů.
+* Použiji štětec, aby bylo možné vytvořit široký a volný kreslířský pohyb.
+
+**Krok 3: Zobrazení hlavních prvků**
+
+Důrazně vyznačím hlavní prvky kompozice, jako jsou stromy, obloha a krajina.
+
+* Stromy jsou hlavní figura scény, proto jsem je zobrazil jasně a detailně.
+* Obloha je sekundární figura scény, proto jsem ji zobrazil slabšími linkami.
+* Krajina je sekundární prvek scény, proto jsem ji zobrazil slabšími linkami.
+
+**Krok 4: Sfumato efekt**
+
+Použiji technikou sfumato, aby bylo možné dosáhnout jasných kontrastů a hlubokého prostoru.
+
+* Použiji tmavé a světlé barvy olejové malby, aby bylo možné dosáhnout jasných kontrastů.
+* Použiji štětec, aby bylo možné vytvořit široký a volný kreslířský pohyb.
+
+**Krok 5: Závěrečné provedení**
+
+Závěrečně provedl jsem malbu, aby byla čitelná a jasná.
+
+**Výsledný produkt**
+
+Výsledný produkt je malba přírodní scény v lese v barvách olejové malby s technikou sfumato.
+
+Řešení 3: Vytvořte sérii 5 kreseb různých tvarů (kruh, čtverec, trojúhelník, oblouk, spirála). Použijte techniku akvarelu a vyznačte hlavní prvky kompozice.
+
+**Krok 1: Návrh tvarů**
+
+Zvolím pět různých tvarů, aby bylo možné vytvořit zajímavou sérii kreseb.
+
+* První tvar je kruh, který jsem zobrazil jasnou kružnicí.
+* Druhý tvar je čtverec, který jsem zobrazil jasnými rohovými linkami.
+* Třetí tvar je trojúhelník, který jsem zobrazil jasnými rohovými linkami.
+* Čtvrtý tvar je oblouk, který jsem zobrazil jasnou křivkou.
+* Pátý tvar je spirála, který jsem zobrazil jasnou křivkou.
+
+**Krok 2: Akvarel**
+
+Použiji techniku akvarelu, aby bylo možné dosáhnout jasných barevných kontrastů.
+
+* Použiji akvarelový papír, aby bylo možné dosáhnout jasných barevných kontrastů.
+* Použiji akvarelový štětec, aby bylo možné dosáhnout jasných barevných kontrastů.
+
+**Krok 3: Hlavní prvky kompozice**
+
+Důrazně vyznačím hlavní prvky kompozice, jako jsou tvar a pozadí.
+
+* Tvar je hlavní figura scény, proto jsem ho zobrazil jasnou linkou.
+* Pozadí je sekundární figura scény, proto jsem ho zobrazil slabšími linkami.
+
+**Krok 4: Závěrečné provedení**
+
+Závěrečně provedl jsem sérii kreseb, aby byla čitelná a jasná.
+
+**Výsledný produkt**
+
+Výsledný produkt je sérii 5 kreseb různých tvarů v technice akvarelu.
+
+Řešení 4: Vytvořte malbu městské scény (například náměstí, ulice, budovy) v barvách akvarelů. Použijte techniku zrcadlení a vyznačte hlavní prvky kompozice.
+
+**Krok 1

@@ -1,23 +1,29 @@
 # AI Generované zadání úkolů pro předmět: Francouzský jazyk ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:50:11
+# Datum: 2025-09-15 22:44:30
 
-Úkol 1: Napište krátkou větu o své nejoblíbenější sezóně (zimu, jaro, léto, podzimu) a přeložte ji do francouzštiny.
+Úkol 1: Napiš krátkou větu o svém oblíbeném jídle. Použij frázi "Je mou rána" nebo "Je můj nejoblíbenější" a popiš jídlo.
 
-Úkol 2: Přeložte slovo "konec" do francouzštiny a vysvětlěte, jak se používá ve větě.
+Úkol 2: Přelož frázi "Moje kamarádka jezdí na kole" do francouzštiny.
 
-Úkol 3: Napište krátkou větu o svém oblíbeném jídle a přeložte ji do francouzštiny. Porovnejte rozdílné použití francouzských tvarů pro "jídlo" (plat, repas) a "příležitost" (occasion).
+Úkol 3: Napsat krátkou příčku o svém týdnu, včetně dní a činností, které provedeš. Použij francouzské názvy dní a měsíců.
 
-Úkol 4: Přeložte text "V noci je tmavé" do francouzštiny a vysvětlěte rozdíl mezi francouzskými slovy "noir" a "obscur".
+Úkol 4: Přelož následující fráze do francouzštiny: 
+- Mám ráda čaj.
+- Můj otec pracuje ve městě.
+- Můj bratr je ve škole.
 
-Úkol 5: Napište krátkou povídku o vašem dni a přeložte ji do francouzštiny, včetně použití francouzských tvarů pro "dne" (jour, journée).
+Úkol 5: Vytvoř seznam 5 francouzských zvířat a napiš krátkou větu o každém z nich, např. "Le chien est gentil."
 
-Úkol 6: Přeložte text "Mám ráda černé kožené boty" do francouzštiny a vysvětlěte rozdíl mezi francouzskými slovy "jouer" a "porter".
+Úkol 6: Přelož následující text do francouzštiny:
+"Včera jsem šel do parku a potkal mého přítele. Byl tam také pes a jeho pán."
 
-Úkol 7: Napište krátkou text o vaší oblíbené knize a přeložte ji do francouzštiny, včetně použití francouzských tvarů pro "knihu" (livre, roman).
+Úkol 7: Napiš krátký rozhovor mezi dvěma přáteli, jedním Francouzem a jedním Čechem, který se zajímá o Francii. Použij příslovce a fráze "Je vrai que...", "Je faux que...".
 
-Úkol 8: Přeložte text "Jsem rád, že je pondělí" do francouzštiny a vysvětlěte rozdíl mezi francouzskými slovy "heureux" a "content".
+Úkol 8: Přelož následující text do francouzštiny:
+"Každý týden jsem v parku a chci poznat nové lidi. Můj kamarád také chodí do parku, ale on nezná nikoho jiného."
 
-Úkol 9: Napište krátkou text o vašem oblíbeném filmu a přeložte ji do francouzštiny, včetně použití francouzských tvarů pro "film" (film, cinéma).
+Úkol 9: Vytvoř krátký scénář, kde dva přátelé navrhují, kam půjdou na dovolenou. Použij francouzské pojmy pro místa, např. "Paris", "Marseille" a "Lyon".
 
-Úkol 10: Přeložte text "Cesta do práce je dlouhá" do francouzštiny a vysvětlěte rozdíl mezi francouzskými slovy "courte" a "longue", včetně použití francouzských tvarů pro "času" (heure, temps).
+Úkol 10: Přelož následující text do francouzštiny:
+"Můj otec a já jsme rádi na dovolené. Chceme vidět nový hrad a prozkoumat město. Můj bratr si však myslí, že bychom měli jít do moře."

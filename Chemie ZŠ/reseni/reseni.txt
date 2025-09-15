@@ -1,101 +1,113 @@
 # AI Generované řešení úkolů pro předmět: Chemie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:47:45
+# Datum: 2025-09-15 22:42:14
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Seznamte se s pojmy "látka", "živá substance" a "chemická látka". Zapište jejich definice a udělejte přehled, který obsahuje tyto pojmy.
+Řešení 1: Seznamte se s prvky periodické soustavy. Seznamte pět prvků z první periody a jejich nejčastějšími izolovanými sloučeninami.
 
-Látka je chemický nebo fyzikální objekt, který má své vlastní vlastnosti a charakteristiky. Livius Šťastný definoval látku jako "věc, která má své vlastní vlastnosti a charakteristiky".
+Periodická soustava je systematická organizace chemických prvků podle jejich atomových hmotností a podobných chemických vlastností. První periody obsahují prvky z 1. skupiny (alkály) a 2. skupiny (alkalické zeminy).
 
-Živá substance, také známá jako živočišná látka, je látka, která se tvoří v procesu fotosyntézy a je zdrojem energie pro většinu organismů na Zemi. Živá substance se skládá z vody, uhlíku, kyslíku a vodíku.
+Pět prvků z první periody a jejich nejčastější izolované sloučeniny jsou:
 
-Chemická látka je látka, která se skládá z atomů a má své vlastní chemické vlastnosti. Chemické látky se dělí na neorganické a organické látky.
+- Li (Litium) - HCl (chlorid lithný)
+- Be (Beryllium) - BeO (oxid beryllia)
+- B (Bor) - B2O3 (oxid borový)
+- C (Uhel) - CO2 (oxid uhličitý)
+- N (Dusík) - N2 (dušičitán)
 
-Přehled:
+Tyto sloučeniny jsou často používané v různých oblastech chemie a technologie.
 
-- Látka: chemický nebo fyzikální objekt s vlastnostmi a charakteristikami.
-- Živá substance (živá látka): látka, která se tvoří v procesu fotosyntézy a je zdrojem energie pro většinu organismů.
-- Chemická látka: látka, která se skládá z atomů a má své vlastní chemické vlastnosti.
+Řešení 2: Popište rozpad radioaktivního izotopu ²³⁵U. Co je radioaktivní rozpad a jak se odvíjí?
 
-Řešení 2: Vypočtěte hmotnost jednoho atomu vodíku (H) a jednoho atomu kyslíku (O). Použijte data ze standardní tabulky atomových hmotností.
+Radioaktivní rozpad je proces, při kterém atom vybuchne a přemění se na jiný atom, uvolňující energii ve formě záření. Izotop ²³⁵U (Uran-235) je radioaktivní a podléhá rozpadu.
 
-Standardní tabulka atomových hmotností uvádí, že atom vodíku (H) má hmotnost 1,00794 u, zatímco atom kyslíku (O) má hmotnost 15,9994 u. 
+Rozpad ²³⁵U probíhá následovně:
 
-1 u (atomární hmotnost) je definován jako poloviční hmotnost izotopu olova-208.
+²³⁵U → ²³⁸U + α (alfa partikla)
+²³⁸U → ²³⁴Th + β (beta partikla)
+²³⁴Th → ²³⁰Pa + α (alfa partikla)
+²³⁰Pa → ²²⁶Ac + α (alfa partikla)
 
-Vypočteme hmotnost jednoho atomu vodíku:
+Radioaktivní rozpad se odvíjí podle zákona rozpadu (zákona rozpadové aktivity), který říká, že rozpadová aktivita (počet rozpadů za jednotku času) je úměrná počtu atomů v rodném stavu a konstantě rozpadu.
 
-hmotnost vodíku (H) = 1,00794 u
+Řešení 3: Vypočtěte molekulovou hmotnost oxidu uhličitého (CO2) a oxidu dusnatého (NO2).
 
-Vypočteme hmotnost jednoho atomu kyslíku:
+Molekulová hmotnost je součet hmotností všech atomů v molekule.
 
-hmotnost kyslíku (O) = 15,9994 u
+Oxid uhličitý (CO2) má molekulovou hmotnost:
 
-Řešení 3: Seznamte se s periodickou tabulkou prvků. Přeneste prvky ze skupiny 1 (alkalické kovy) do samostatné tabulky a popište jejich hlavní charakteristiky.
+- Uhlík (C): 12,01 g/mol
+- Dušíc (O): 16,00 g/mol
+- Dušíc (O): 16,00 g/mol
+- Dušíc (O): 16,00 g/mol
 
-Periodická tabulka prvků je seznam všech známých chemických prvků, uspořádaný podle jejich atomových hmotností a chemických vlastností. Prvky jsou rozděleny do skupin a period, kde skupiny odkazují na podobné chemické vlastnosti a period odkazují na podobné fyzikální vlastnosti.
+Celková molekulová hmotnost CO2 = 12,01 + 16,00 + 16,00 + 16,00 = 60,01 g/mol
 
-Prvky ze skupiny 1 (alkalické kovy) jsou:
+Oxid dusnatý (NO2) má molekulovou hmotnost:
 
-- Li (Lithium)
-- Na (Sodík)
-- K (Draslík)
-- Rb (Rubidium)
-- Cs (Caesium)
-- Fr (Francium)
+- Dusík (N): 14,01 g/mol
+- Dušíc (O): 16,00 g/mol
+- Dušíc (O): 16,00 g/mol
 
-Hlavní charakteristiky alkalických kovů:
+Celková molekulová hmotnost NO2 = 14,01 + 16,00 + 16,00 = 46,01 g/mol
 
-- Jsou velmi reaktivní a snadno ztrácejí jeden nebo více elektronů.
-- Mají vysoké teploty tání a varu.
-- Jsou silně elektroudující.
-- Mají velké ionty, které se snadno rozpouštějí.
+Řešení 4: Porovnejte vlastnosti vodíku a helia. Jaký je rozdíl v jejich fyzikálních vlastnostech?
 
-Tabulka alkalických kovů:
+Vodík (H) a helium (He) jsou dva prvky, které patří do skupiny plynů.
 
-| Prvek | Symbol | At. hmotnost | Zajímavost |
-|---------|---------|--------------|--------------|
-| Lithium | Li | 6,94 | První alkalický kov |
-| Sodík | Na | 22,99 | Nejhojnější alkalický kov |
-| Draslík | K | 39,09 | Největší ionty |
-| Rubidium | Rb | 85,47 | Nejvyšší teplota tání |
-| Caesium | Cs | 132,91 | Nejvyšší teplota varu |
-| Francium | Fr | 223,02 | Nejmenší alkalický kov |
+Vlastnosti vodíku:
 
-Řešení 4: Seznamte se s pojmy "sloučenina" a "chemická rovnice". Napište příklad chemické rovnice a vysvětlujte, co každý symbol v rovnici znamená.
+- Teplota varu: -252,88 °C
+- Hustota: 0,0899 kg/m³
+- Tlak: 1,01325 bar
 
-Sloučenina je látka, která se skládá z dvou nebo více chemických prvků. Sloučeniny se dělí na neorganické a organické látky.
+Vlastnosti helia:
 
-Chemická rovnice je matematický výraz, který popisuje chemickou reakci. Chemická rovnice obsahuje symboly chemických prvků a sloučenin, které se účastní reakce.
+- Teplota varu: -268,93 °C
+- Hustota: 0,1786 kg/m³
+- Tlak: 0,0773 bar
 
-Příkladem chemické rovnice je:
+Rozdíl mezi vodíkem a heliem je v jejich teplotě varu a hustotě. Vodík má nižší teplotu varu a vyšší hustotu než helium.
 
-2H₂ + O₂ → 2H₂O
+Řešení 5: Vypočtěte množství kyslíku (O2) v 1 m³ vzduchu při normálních atmosferických podmínkách.
 
-Vysvětlení symbolů:
+Normální atmosferické podmínky definují vzduch jako směs 78% dusíku (N2), 21% kyslíku (O2) a 1% dalších plynů.
 
-- H₂: vodík (prvek)
-- O₂: kyslík (prvek)
-- H₂O: voda (sloučenina)
+Množství kyslíku (O2) v 1 m³ vzduchu je:
 
-V chemické rovnici "2H₂ + O₂ → 2H₂O" se uvádí, že dvě molekuly vodíku a jedna molekula kyslíku se kombinují za vzniku dvou molekul vody.
+- 1 m³ vzduchu = 1 m³ (N2 + O2 + ostatní plyny)
+- Množství N2 v 1 m³ vzduchu = 0,78 m³
+- Množství ostatní plynů v 1 m³ vzduchu = 0,01 m³
+- Množství O2 v 1 m³ vzduchu = 1 - 0,78 - 0,01 = 0,21 m³
 
-Řešení 5: Vypočtěte hmotnost jednoho molu vody (H2O) na základě hmotností jednoho atomu vodíku (H) a jednoho atomu kyslíku (O).
+Řešení 6: Seznamte se s termochemií. Co je entalpie a která reakce má nejvyšší entalpiu?
 
-Standardní tabulka atomových hmotností uvádí, že atom vodíku (H) má hmotnost 1,00794 u, zatímco atom kyslíku (O) má hmotnost 15,9994 u.
+Termochemie je obor chemie, který se zabývá energií a jejími změnami během chemických reakcí. Enthalpie je měřitelnou hodnotou tepelné energie, která se mění během chemické reakce.
 
-Voda (H₂O) se skládá z dvou atomů vodíku a jednoho atomu kyslíku. Molekula vody má hmotnost:
+Enthalpie je definována jako:
 
-hmotnost vodíku = 2 x 1,00794 u = 2,01588 u
-hmotnost kyslíku = 15,9994 u
-hmotnost vodíku (H₂O) = 2,01588 u + 15,9994 u = 18,01528 u
+ΔH = Q / n
 
-Jedna molekula vodíku (H₂O) má hmotnost 18,01528 u. Jedna molekula vody (H₂O) je definována jako 2,01588 molu vodíku, který má hmotnost 18,01528 g.
+kde Q je tepelná energie, která se mění během reakce, a n je počet molů reakčních látek.
 
-1 mol vodíku (H) má hmotnost 1,00794 g/mol
-1 mol kyslíku (O) má hmotnost 15,9994 g/mol
+Reakce, která má nejvyšší entalpiu, je obvykle reakce s největší změnou teploty nebo s největší změnou energie.
 
-Vypočteme hmotnost jednoho molu vodíku (H₂O):
+Řešení 7: Porovnejte vlastnosti vod a jejich sloučenin s vodíkem. Jaký je rozdíl v jejich chemických vlastnostech?
 
-hmotnost vodíku (H₂O) = 2 x hmotnost vodíku (H) + hmotnost kyslíku (O)
-= 2 x 1,00794 g/mol + 15,9994 g/mol
+Voda (H2O) a její sloučeniny jsou chemicky odlišné od vodíku (H).
+
+Vlastnosti vody:
+
+- Hustota: 1,00 g/cm³
+- Teplota varu: 100 °C
+- Tlak: 1,01325 bar
+
+Vlastnosti vodíku:
+
+- Hustota: 0,0899 kg/m³
+- Teplota varu: -252,88 °C
+- Tlak: 1,01325 bar
+
+Rozdíl mezi vodou a vodíkem je v jejich chemických vlastnostech. Voda je kapalina, zatímco vodík je plyn. Voda má také vyšší hustotu a teplotu varu než vodík.
+
+Řešení 8: Popište chemickou reakci mezi vápníkem (Ca) a chlorovodíkem (HCl). Co je

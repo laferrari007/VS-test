@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Dějepis
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:41:25
+# Datum: 2025-09-15 22:46:20
 
-Úkol 1: Analyzujte významné události v období Velké francouzské revoluce a jejich dopad na výhled budoucnosti Francie. (1. ročník)
+Úkol 1: Seznamte se s historickou osobností z období před rokem 1500, kterou považujete za zajímavou. Popište její život, význam a vliv na historický vývoj. (cca 5-7 str.)
 
-Úkol 2: Porovnejte politické systémy v Evropě před a po Velkou francouzskou revolucí. (2. ročník)
+Úkol 2: Porovnejte a srovnejte rozdíly mezi feudálním systémem a manufakturovou ekonomikou. Jaké změny způsobilo přechod od jedné k druhé? (cca 7-10 str.)
 
-Úkol 3: Představte si, že jste historikem v roce 1850 a jste pověřen napsáním článku o významu bitvy u Waterloo. Jak by vy popisovali bitvu a její následky? (2. ročník)
+Úkol 3: Analyzujte příčiny a následky Velké francouzské revoluce (1789-1799). Jaké role hrály hlavní aktéři této události? (cca 10-12 str.)
 
-Úkol 4: Vyberte si jeden z historických vůdců (například Napoleon, Bismarck nebo Hitler) a analyzujte jeho vzdělání, osobní charakteristiku a roli v historických událostech. (3. ročník)
+Úkol 4: Připravte krátkou esej o rozvoji koloniálního systému v rámci evropských mocností (15.-18. století). Jaký byl jeho vliv na rozložení moci a bohatství v Evropě? (cca 12-15 str.)
 
-Úkol 5: Porovnejte příčiny a následky První a Druhé světové války. Jaké jsou podobnosti a rozdíly mezi těmito dvěma konflikty? (3. ročník)
+Úkol 5: Diskutujte o významu a vlivu Třicetileté války (1618-1648) na evropskou historii. Jaké dopady měla na politiku, ekonomiku a společnost? (cca 15-18 str.)
 
-Úkol 6: Napsat esej o významu kolonizace v dějinách Evropy. Jaké byly její příčiny a následky a jak se projevily v moderní době? (4. ročník)
+Úkol 6: Analyzujte roli a vlivy císaře Josefa II. na dění v Evropě během první poloviny 18. století. Jaký byl jeho postoj k reformám a modernizaci? (cca 18-20 str.)
 
-Úkol 7: Analyzujte role a postavení ženského sexu v historii. Jak se změny v role ženské postavení projevily v různých kulturech a dobách? (4. ročník)
+Úkol 7: Připravte mapu a popis rozložení evropských mocností v roce 1815 po Vídeňském kongresu. Jaké změny ve struktuře mocenských vztahů nastaly v důsledku kongresu? (cca 20-25 str.)
 
-Úkol 8: Vyberte si jeden z historických období (například středověk, renesance nebo průmyslová revoluce) a napsat historický román o jedné ze významných osobnosti z tohoto období. (4. ročník)
+Úkol 8: Diskutujte o historické roli a důležitosti osvícenství. Jaké myšlenky a hodnoty se staly součástí tohoto hnutí a jaký byl jeho vliv na evropskou kulturu a společnost? (cca 25-30 str.)
 
-Úkol 9: Porovnejte roli a vlivy komunistických a kapitalistických ideologií v dějinách 20. století. Jaké byly jejich příčiny a následky a jak se projevily v moderní době? (5. ročník)
+Úkol 9: Analyzujte příčiny a následky první světové války (1914-1918). Jaké role hrály hlavní aktéři této události a jaký byl její vliv na světovou politiku? (cca 30-35 str.)
 
-Úkol 10: Napsat dizertaci o jedné z historických tematik (například role ekonomických změn v moderních dějinách, vliv technologie na historické události apod.). (5. ročník)
+Úkol 10: Připravte kompletní rozbor a analýzu událostí, které vedly ke vzniku a rozpadu Sovětského svazu (1917-1991). Jaké role hrály hlavní aktéři a jaký byl vliv na světovou politiku? (cca 35-40 str.)

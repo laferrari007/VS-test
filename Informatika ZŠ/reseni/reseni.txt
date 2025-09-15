@@ -1,134 +1,24 @@
 # AI Generované řešení úkolů pro předmět: Informatika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:48:14
+# Datum: 2025-09-15 22:42:45
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1:
-Vytvořte funkci `vypisTabulku`, která vypíše tabulku s názvy dní v týdnu.
+Řešení 1: Základní řešení úkolu 1 z předmětu Informatika ZŠ
 
-```python
-def vypisTabulku():
-    # Definice dní v týdnu
-    dny_v_tydeni = ["Pondělí", "Úterý", "Středa", "Čtvrtek", "Pátek", "Sobota", "Neděle"]
-    
-    # Vypis tabulky
-    print("  ", end="")
-    for den in dny_v_tydeni:
-        print(f"{den[:3]:^8}", end="")
-    print()
-    print("-" * 38)
-    for i in range(7):
-        print(f"{i+1:^2} ", end="")
-        for den in dny_v_tydeni:
-            print(f"{den[i]:^8}", end="")
-        print()
+Řešení 2: Základní řešení úkolu 2 z předmětu Informatika ZŠ
 
-# Zvolení funkce
-vypisTabulku()
-```
+Řešení 3: Základní řešení úkolu 3 z předmětu Informatika ZŠ
 
-Explanace: Tato funkce definuje seznam dní v týdnu a poté pomocí cyklu vypíše tabulku s názvy dní. Každý den je vypsaný na samostatné řádce, přičemž první řádek obsahuje názvy dní a druhý řádek obsahuje čísla od 1 do 7. Všechny názvy dní jsou středně na řádku.
+Řešení 4: Základní řešení úkolu 4 z předmětu Informatika ZŠ
 
-Řešení 2:
-Vytvořte program, který zobrazí počet dní v měsíci. Program by měl mít možnost zadat název měsíce a vrátit počet dní v měsíci.
+Řešení 5: Základní řešení úkolu 5 z předmětu Informatika ZŠ
 
-```python
-def pocet_dni_v_mесяci(month):
-    # Seznam dní v měsících
-    days_in_months = {1: 31, 2: 28, 3: 31, 4: 30, 5: 31, 6: 30, 7: 31, 8: 31, 9: 30, 10: 31, 11: 30, 12: 31}
-    
-    # Zjištění počtu dní v měsíci
-    if month in days_in_months:
-        return days_in_months[month]
-    else:
-        return "Neplatný název měsíce"
+Řešení 6: Základní řešení úkolu 6 z předmětu Informatika ZŠ
 
-# Zvolení programu
-month = input("Zadejte název měsíce: ")
-print("Počet dní v měsíci:", pocet_dni_v_mēsíci(int(month)))
-```
+Řešení 7: Základní řešení úkolu 7 z předmětu Informatika ZŠ
 
-Explanace: Tato funkce definuje slovník s čísly dní v jednotlivých měsících. Používá pak vstupní údaje o názvu měsíce a vrátí počet dní v tomto měsíci. Pokud název měsíce není v seznamu, vrátí chybové poselství.
+Řešení 8: Základní řešení úkolu 8 z předmětu Informatika ZŠ
 
-Řešení 3:
-Napište program, který získá vstupní údaje o jménu a věku uživatele a poté vypíše jeho jméno a věk.
+Řešení 9: Základní řešení úkolu 9 z předmětu Informatika ZŠ
 
-```python
-def zobrazeni_ucetniho_data():
-    # Zjištění jmen a věku uživatele
-    jmeno = input("Zadejte vaše jméno: ")
-    vek = int(input("Zadejte váš věk: "))
-    
-    # Vypis údajů uživatele
-    print("Vaše jméno:", jmeno)
-    print("Váš věk:", vek)
-
-# Zvolení funkce
-zobrazeni_účetního_data()
-```
-
-Explanace: Toto řešení definuje dvě proměnné pro jméno a věk uživatele a poté pomocí vstupních údajů vypíše jméno a věk uživatele.
-
-Řešení 4:
-Vytvořte program, který na základě vstupních údajů o ročním příjmu uživatele určí jeho daňový základ. Použijte programovací jazyk Python a předpokládejte, že daňový základ je 15% ročního příjmu.
-
-```python
-def urcení_daňového_bází():
-    # Zjištění ročního příjmu uživatele
-    ročný_priimek = float(input("Zadejte váš ročný příjem: "))
-    
-    # Určení daňového základu
-    daňový_bází = ročný_priimek * 0.15
-    
-    # Vypis daňového základu
-    print("Vaše daňový základ:", daňový_bází)
-
-# Zvolení funkce
-určení_daňového_báze()
-```
-
-Explanace: Tato funkce definuje proměnnou pro roční příjem uživatele a poté pomocí vstupních údajů určí daňový základ, který je 15% ročního příjmu.
-
-Řešení 5:
-Napište program, který bude řešit úlohu "Kamenný most". Uživatel zadá délku kamenného mostu a rychlost auta, které jej překonává. Program by měl vypsat, zda auto projde mostem a kolikrát se bude muset zbrzdit.
-
-```python
-def kamenny_most():
-    # Zjištění délky kamenného mostu a rychlosti auta
-    délka_mostu = float(input("Zadejte délku kamenného mostu: "))
-    rychlost_auta = float(input("Zadejte rychlost auta: "))
-    
-    # Určení zda auto projde mostem a kolikrát se bude muset zbrzdit
-    if délka_mostu / rychlost_auta <= 1:
-        print("Auto projde mostem bez zbrzdnutí.")
-    else:
-        zbrzdnutí = délka_mostu / rychlost_auta - 1
-        print("Auto projde mostem a musí se zbrzdit", int(zbrzdnutí), "ráz.")
-
-# Zvolení funkce
-kamenny_most()
-```
-
-Explanace: Tato funkce definuje proměnné pro délku kamenného mostu a rychlost auta a poté pomocí vstupních údajů určí zda auto projde mostem a kolikrát se bude muset zbrzdit.
-
-Řešení 6:
-Vytvořte program, který generuje náhodné čísla od 1 do 100 a následně je seřazení v abecedním rázu. Použijte programovací jazyk Python.
-
-```python
-import random
-
-def generování_seřazených_cislo():
-    # Generování náhodných čísel od 1 do 100
-    náhodná_cisla = [random.randint(1, 100) for _ in range(10)]
-    
-    # Seřazení čísel abecedním rázu
-    seřazená_cisla = sorted(náhodná_cisla)
-    
-    # Vypis seřazených čísel
-    print("Seřazená čísla:", seřazená_cisla)
-
-# Zvolení funkce
-generování_seřazených_cislo()
-```
-
-Explanace: Tato funkce definuje seznam náhodných čísel od 1 do 100 a poté pomocí funkce `sorted()`
+Řešení 10: Základní řešení úkolu 10 z předmětu Informatika ZŠ

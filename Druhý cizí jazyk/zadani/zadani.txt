@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Druhý cizí jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:51:32
+# Datum: 2025-09-15 22:46:04
 
-Úkol 1: Napiš krátký text (cca 50 slov) o svém oblíbeném místě v ČR, včetně názvu obce, zajímavostí a důvodů, proč tam rádi chodíte.
+Úkol 1: Přeložte do svého druhého cizího jazyka (například francouzštině, němčině apod.) větu "Dnes je krásné počasí." a vysvětlete, jak se v daném jazyce vyjádří časování přísloví.
 
-Úkol 2: Seznamte se s některým z módních časopisů ve svém cílovém jazyce a napiš krátkou recenzi na jeden z článků (cca 100 slov).
+Úkol 2: Přepište do svého druhého cizího jazyka textový fragment z novin nebo časopisu o aktuálním tématu. Úkolem je zachovat původní význam a strukturu textu.
 
-Úkol 3: Vyberte si dvě zajímavé zahraniční školy a napiš srovnávací článek (cca 150 slov) o jejich výhodách a nevýhodách.
+Úkol 3: Seznamte se s rozdíly v užití subjektů "já" a "on/ona/ono" v různých druhových časem v daném jazyku. Přeložte věty "Já mluvím francouzsky." a "On mluví francouzsky." do přítomného, minulého a budoucího času.
 
-Úkol 4: Seznamte se s některým z online jazykových portálů a napiš krátký článek (cca 200 slov) o jejich výhodách a nevýhodách pro studium cizího jazyka.
+Úkol 4: Vyberte textový fragment z literatury v daném jazyce a přeložte ho do svého mateřského jazyka. Úkolem je zachovat původní význam a styl textu.
 
-Úkol 5: Přeložte krátký text (cca 100 slov) z angličtiny do vašeho cílového jazyka a napište překladový komentář.
+Úkol 5: Přeložte do svého druhého cizího jazyka rozhovor dvou osob o aktuálním tématu. Úkolem je zachovat původní rozhovor a přeložit ho do daného jazyka.
 
-Úkol 6: Vyberte si nějaký zajímavý článek ve vašem cílovém jazyce a napište jeho shrnutí (cca 150 slov) a stručný komentář.
+Úkol 6: Seznamte se s rozdíly v užití kondicionálu v daném jazyce. Přeložte větu "Já bych chtěl jet do Paříže, kdybych měl více peněz." do daného jazyka a vysvětlete, jak se v něm kondicionál vystavuje.
 
-Úkol 7: Seznamte se s některým z cizích jazykových testů (např. TOEFL, IELTS) a napište článek (cca 250 slov) o jejich podstatě a výhodách pro studenty.
+Úkol 7: Vyberte textový fragment z novin nebo časopisu o aktuálním tématu a přeložte ho do svého druhého cizího jazyka. Úkolem je zachovat původní význam a strukturu textu a použít vhodné formy a věty.
 
-Úkol 8: Napište krátký rozhovor (cca 150 slov) s nějakým cizím jazykovým učitelem o jeho zkušenostech a tipy pro zlepšení jazykových dovedností.
+Úkol 8: Seznamte se s rozdíly v užití imperativu v různých druhových časem v daném jazyce. Přeložte větu "Mluvte francouzsky!" do přítomného, minulého a budoucího času.
 
-Úkol 9: Seznamte se s některými z nejčastějších jazykových chyb v vašem cílovém jazyce a napište článek (cca 300 slov) o jejich příčinách a způsobech jejich odstranění.
+Úkol 9: Přeložte do svého druhého cizího jazyka článek o aktuálním tématu. Úkolem je zachovat původní význam a strukturu textu a použít vhodné formy a věty.
 
-Úkol 10: Vyberte si nějaký zajímavý článek ve vašem cílovém jazyce a napište jeho kritickou analýzu (cca 400 slov), včetně vyhodnocení jazykových prostředků a stylistických prvků.
+Úkol 10: Seznamte se s rozdíly v užití různých druhů přísloví v daném jazyce. Přeložte věty "Dnes je krásné počasí." a "Dnes je krásné, že je slunečno." do daného jazyka a vysvětlete, jak se v něm různé druhy přísloví vystavují.

@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Biologie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:47:58
+# Datum: 2025-09-15 22:42:31
 
-Úkol 1: Základní úkol z předmětu Biologie ZŠ - úroveň 1
+Úkol 1: Popiš rozdíl mezi rostlinami a živočichy na základě jejich buněčných struktur.
 
-Úkol 2: Základní úkol z předmětu Biologie ZŠ - úroveň 2
+Úkol 2: Vyberte jeden typ organismu a popiš jeho životní cyklus, včetně rozmnožování a dospělosti.
 
-Úkol 3: Základní úkol z předmětu Biologie ZŠ - úroveň 3
+Úkol 3: Porovnejte metabolické procesy fotosyntézy a respirace a vysvětlěj, proč jsou důležité pro život na Zemi.
 
-Úkol 4: Základní úkol z předmětu Biologie ZŠ - úroveň 4
+Úkol 4: Rostlinky rostliny mají 4 listy. Jakou roli hraje fotosyntéza u zdravých rostlin a jak se projevuje u rostlin s málo světla?
 
-Úkol 5: Základní úkol z předmětu Biologie ZŠ - úroveň 5
+Úkol 5: Popiš rozdíl mezi homologními a analogovými strukturami v přírodě a udělej příklad každého.
 
-Úkol 6: Základní úkol z předmětu Biologie ZŠ - úroveň 6
+Úkol 6: Vyberte jeden typ mikroorganismu a popiš, jak se adaptuje na různé prostředí a jak je důležité pro naše zdraví.
 
-Úkol 7: Základní úkol z předmětu Biologie ZŠ - úroveň 7
+Úkol 7: Porovnejte procesy rozvoje embrya u savců a ptáků a vysvětlěj, proč se liší.
 
-Úkol 8: Základní úkol z předmětu Biologie ZŠ - úroveň 8
+Úkol 8: Rostliny potřebují vodu k růstu a rozvoji. Jaké jsou hlavní mechanismy, které rostliny používají k uchovávání vody?
 
-Úkol 9: Základní úkol z předmětu Biologie ZŠ - úroveň 9
+Úkol 9: Popiš rozdíl mezi genetickým a epigenetickým děděním a udělej příklad každého v přírodě.
 
-Úkol 10: Základní úkol z předmětu Biologie ZŠ - úroveň 10
+Úkol 10: Vyberte jeden ekosystém a popiš, jak se organismy v něm vzájemně ovlivňují a jak se přizpůsobují měnícím se podmínkám.

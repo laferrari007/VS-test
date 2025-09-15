@@ -1,0 +1,12 @@
+# AI Generované zadání úkolů pro předmět: Matematika - Základy algebry
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:48:39
+
+Úkol 1: 
+Napište rovnici, která vyjadřuje, že x + 2 je větší než 5. Rozložte rovnici a zjednodušte ji.
+
+Úkol 2: 
+Pokud je x - 3 = 7, napište rovnici, která vyjadřuje, že x je větší než 10. Použijte vlastnosti rovností a vyberte správný operátor.
+
+Úkol 3: 
+Najděte obecné pravidlo pro obecnou formu lineární rovnosti: ax + b = c. Zjistěte, zda rovnost je pravdivá, jestliže x = 2, y = 3 a z = 4.

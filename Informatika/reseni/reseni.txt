@@ -1,114 +1,24 @@
 # AI Generované řešení úkolů pro předmět: Informatika
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:53:20
+# Datum: 2025-09-15 22:48:03
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Implementujte algoritmus pro nalezení největšího prvočísla v posloupnosti čísel.
+Řešení 1: Základní řešení úkolu 1 z předmětu Informatika
 
-Pro nalezení největšího prvočísla v posloupnosti čísel použijeme algoritmus, který postupně prochází čísla v posloupnosti a ověřuje, zda jsou prvočísla. Pokud je číslo prvočíslem, uložíme ho do seznamu a pokračujeme v hledání dalšího největšího prvočísla.
+Řešení 2: Základní řešení úkolu 2 z předmětu Informatika
 
-Krok 1: Definujeme funkci pro ověření, zda je číslo prvočíslem.
+Řešení 3: Základní řešení úkolu 3 z předmětu Informatika
 
-Funkce pro ověření, zda je číslo prvočíslem, vypadá takto:
+Řešení 4: Základní řešení úkolu 4 z předmětu Informatika
 
-```python
-def je_prvocislo(n):
-    if n <= 1:
-        return False
-    for i in range(2, int(n ** 0.5) + 1):
-        if n % i == 0:
-            return False
-    return True
-```
+Řešení 5: Základní řešení úkolu 5 z předmětu Informatika
 
-Krok 2: Definujeme funkci pro nalezení největšího prvočísla v posloupnosti čísel.
+Řešení 6: Základní řešení úkolu 6 z předmětu Informatika
 
-Funkce pro nalezení největšího prvočísla v posloupnosti čísel vypadá takto:
+Řešení 7: Základní řešení úkolu 7 z předmětu Informatika
 
-```python
-def najdi_najväčsie_prvocislo(posloupnost):
-    najväčsie_prvocislo = None
-    for cislo in posloupnost:
-        if je_prvocislo(cislo) and (najväčsie_prvocislo is None nebo cislo > najväčsie_prvocislo):
-            najväčsie_prvocislo = cislo
-    return najväčsie_prvocislo
-```
+Řešení 8: Základní řešení úkolu 8 z předmětu Informatika
 
-Krok 3: Použijeme funkci pro nalezení největšího prvočísla v posloupnosti čísel.
+Řešení 9: Základní řešení úkolu 9 z předmětu Informatika
 
-Příklad použití funkce pro nalezení největšího prvočísla v posloupnosti čísel:
-
-```python
-posloupnost = [12, 15, 17, 21, 23, 25, 27, 35, 37, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97]
-print(najdi_najväčsie_prvocislo(posloupnost))  # Vypíše 97
-```
-
-Řešení 2: Popište rozdíl mezi statickým a dynamickým typováním proměnných v programovacích jazycích.
-
-Statické typování je metoda, při které je typ proměnné určen předem, při kompilaci programu. Dynamické typování je metoda, při které je typ proměnné určen při běhu programu.
-
-Rozdíly mezi statickým a dynamickým typováním:
-
-- **Statické typování**: Typ proměnné je určen předem, při kompilaci programu. Pokud se pokusíte při běhu programu přiřadit jinému typu hodnotu proměnné, kompilátor vám to zabrání. To zajišťuje, že program není spuštěn se špatnými datovými typy, ale také ztěžuje vývoj programu, protože musíte předem vědět, jaký typ hodnoty proměnné bude mít při běhu programu.
-- **Dynamické typování**: Typ proměnné je určen při běhu programu. Pokud se pokusíte při běhu programu přiřadit jinému typu hodnotu proměnné, program to dovolí. To umožňuje vývojáři programů rychlejší vývoj programu, ale také zvyšuje riziko chyb v programu.
-
-Příklad kódu, který demonstruje rozdíl mezi statickým a dynamickým typováním:
-
-```python
-# Statické typování
-x : int = 5
-try:
-    x = "hello"
-except TypeError:
-    print("Chyba: nelze přiřadit řetězec hodnotu proměnné x")
-
-# Dynamické typování
-x = 5
-x = "hello"
-print(x)  # Vypíše "hello"
-```
-
-Řešení 3: Proveďte analýzu časové a prostorové složitosti algoritmu pro vyhledávání v binárním stromu.
-
-Algoritmus pro vyhledávání v binárním stromu funguje takto:
-
-1. Pokud je subtree prázdný, vrátíme None.
-2. Pokud je subtree neprázdný a klíč v subtree je menší než klíč v aktuálním uzlu, vyhledáme subtree levého syna.
-3. Pokud je subtree neprázdný a klíč v subtree je větší než klíč v aktuálním uzlu, vyhledáme subtree pravého syna.
-4. Pokud je subtree neprázdný a klíč v subtree je rovný klíč v aktuálním uzlu, vrátíme klíč.
-
-Analýza časové a prostorové složitosti této funkce:
-
-- **Časová složitost**: O(1) - funkce obsahuje pouze několik operací, jako je porovnání hodnoty a případně odkaz na syna.
-- **Prostorová složitost**: O(h) - kde h je výška stromu - funkce používá pouze odkaz na syna, aby mohla fungovat, a proto má prostorová složitost omezenou na výšku stromu.
-
-Příklad kódu, který demonstruje algoritmus pro vyhledávání v binárním stromu:
-
-```python
-class Node:
-    def __init__(self, klíč):
-        self.klíč = klíč
-        self.levý_syn = None
-        self.právý_syn = None
-
-class Binární_strom:
-    def __init__(self):
-        self.kořen = None
-
-    def vyhledaj(self, klíč):
-        if self.kořen is None:
-            return None
-        if self.kořen.klíč < klíč:
-            return self.kořen.právý_syn.vyhledaj(klíč)
-        elif self.kořen.klíč > klíč:
-            return self.kořen.levý_syn.vyhledaj(klíč)
-        else:
-            return self.kořen.klíč
-```
-
-Řešení 4: Implementujte a vysvětlíte principy práce s hashovacími funkcemi pro uchování dat v tabulkách.
-
-Hashovací funkce jsou funkce, které převádějí vstupní hodnoty na hodnoty v určitém rozsahy, zvaný rozsah hash. Principy práce s hashovacími funkcemi:
-
-1. **Použití hashovací funkce**: Použijeme hashovací funkci k převodu vstupních hodnot na hodnoty v určitém rozsahy.
-2. **Uch
+Řešení 10: Základní řešení úkolu 10 z předmětu Informatika

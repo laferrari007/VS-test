@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Informatika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:48:14
+# Datum: 2025-09-15 22:42:45
 
-Úkol 1: Napište stručné popisek funkce `vypisTabulku` v programu vybrané programovacího jazyka (např. Python). Funkce by měla vypsat tabulku s názvy dní v týdnu.
+Úkol 1: Základní úkol z předmětu Informatika ZŠ - úroveň 1
 
-Úkol 2: Vytvořte program, který zobrazí počet dní v měsíci. Program by měl mít možnost zadat název měsíce a vrátit počet dní v měsíci. Použijte programovací jazyk Python.
+Úkol 2: Základní úkol z předmětu Informatika ZŠ - úroveň 2
 
-Úkol 3: Napište program, který získá vstupní údaje o jménu a věku uživatele a poté vypíše jeho jméno a věk. Použijte programovací jazyk Python.
+Úkol 3: Základní úkol z předmětu Informatika ZŠ - úroveň 3
 
-Úkol 4: Vytvořte program, který na základě vstupních údajů o ročním příjmu uživatele určí jeho daňový základ. Použijte programovací jazyk Python a předpokládejte, že daňový základ je 15% ročního příjmu.
+Úkol 4: Základní úkol z předmětu Informatika ZŠ - úroveň 4
 
-Úkol 5: Napište program, který bude řešit úlohu "Kamenný most". Uživatel zadá délku kamenného mostu a rychlost auta, které jej překonává. Program by měl vypsat, zda auto projde mostem a kolikrát se bude muset zbrzdit.
+Úkol 5: Základní úkol z předmětu Informatika ZŠ - úroveň 5
 
-Úkol 6: Vytvořte program, který generuje náhodné čísla od 1 do 100 a následně je seřazení v abecedním rázu. Použijte programovací jazyk Python.
+Úkol 6: Základní úkol z předmětu Informatika ZŠ - úroveň 6
 
-Úkol 7: Napište program, který bude řešit úlohu "Hodiny". Uživatel zadá počet hodin, minut a sekund. Program by měl vypsat čas v hodinách, minutách a sekundách.
+Úkol 7: Základní úkol z předmětu Informatika ZŠ - úroveň 7
 
-Úkol 8: Vytvořte program, který simuluje hru "Kamenné kruhy". Uživatel zadá počet hráčů a počáteční množství peněz. Program by měl simulovat hru a vypsat, kdo vyhrál.
+Úkol 8: Základní úkol z předmětu Informatika ZŠ - úroveň 8
 
-Úkol 9: Napište program, který bude řešit úlohu "Cesta do školy". Uživatel zadá vzdálenost od domu do školy a rychlost kola. Program by měl vypsat, jak dlouho bude trvat dojít do školy.
+Úkol 9: Základní úkol z předmětu Informatika ZŠ - úroveň 9
 
-Úkol 10: Vytvořte program, který bude řešit úlohu "Hledání prázdného místa". Uživatel zadá délku řetězce a program by měl nalezení prvního prázdného místa (bez znaku). Použijte programovací jazyk Python.
+Úkol 10: Základní úkol z předmětu Informatika ZŠ - úroveň 10

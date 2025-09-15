@@ -1,0 +1,86 @@
+# AI Generované řešení úkolů pro předmět: Matematika - Základy algebry
+# Vytvořeno pomocí Groq API
+# Datum: 2025-09-15 22:48:39
+# POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
+
+Řešení 1:
+
+Úkol 1: Napište rovnici, která vyjadřuje, že x + 2 je větší než 5. Rozložte rovnici a zjednodušte ji.
+
+Krok 1: První krok je vyjadřovat, že x + 2 je větší než 5, jako nárůst. Proto použijeme operátor větší než (>).
+
+Krok 2: Nyní můžeme napsat rovnici: x + 2 > 5
+
+Krok 3: Chceme rovnici zjednodušit, ale protože je to nárůst, nezapomínejme na to.
+
+Krok 4: Chceme nyní zjednodušit rovnici, ale protože je to nárůst, nezapomínejme na to.
+
+Krok 5: Protože x + 2 > 5, můžeme rovnici zjednodušit takto: x > 5 - 2
+
+Krok 6: Zjednodušení rovnice: x > 3
+
+Závěr: Řešením úkolu je tedy rovnice x > 3.
+
+Řešení 2:
+
+Úkol 2: Pokud je x - 3 = 7, napište rovnici, která vyjadřuje, že x je větší než 10. Použijte vlastnosti rovností a vyberte správný operátor.
+
+Krok 1: Předpokládejme, že rovnost x - 3 = 7 je pravdivá.
+
+Krok 2: Chceme nyní napsat rovnici, která vyjadřuje, že x je větší než 10. Proto použijeme operátor větší než (>).
+
+Krok 3: Odstraňme 3 z obou stran rovnosti x - 3 = 7. Chceme získat hodnotu x.
+
+Krok 4: Přidejte 3 na obě strany rovnosti: x = 7 + 3
+
+Krok 5: Zjednodušení rovnice: x = 10
+
+Krok 6: Chceme nyní napsat rovnici, která vyjadřuje, že x je větší než 10. Protože x je rovno 10, a protože je větší než 10, je to pravda.
+
+Krok 7: Protože x je rovno 10, a protože je větší než 10, můžeme napsat rovnici: x > 10
+
+Závěr: Řešením úkolu je tedy rovnice x > 10.
+
+Řešení 3:
+
+Úkol 3: Najděte obecné pravidlo pro obecnou formu lineární rovnosti: ax + b = c. Zjistěte, zda rovnost je pravdivá, jestliže x = 2, y = 3 a z = 4.
+
+Krok 1: Předpokládejme, že máme obecnou formu lineární rovnosti: ax + b = c
+
+Krok 2: Chceme najít obecné pravidlo pro tuto rovnost. 
+
+Krok 3: Přesvědčme se, že rovnost je pravdivá, jestliže x = 2, y = 3 a z = 4. 
+
+Krok 4: Nahraďte x, y a z do rovnosti ax + b = c.
+
+Krok 5: Přidáme a, b, c do rovnosti.
+
+Krok 6: Pokud je c rovno a * x + b, je rovnost pravdivá.
+
+Krok 7: Pokud je c rovno a * 2 + b (když x = 2), je rovnost pravdivá.
+
+Krok 8: Rozložte rovnost: 2a + b = c
+
+Krok 9: Pokud je c rovno a * 3 + b (když y = 3), je rovnost pravdivá.
+
+Krok 10: Rozložte rovnost: 3a + b = c
+
+Krok 11: Pokud je c rovno a * 4 + b (když z = 4), je rovnost pravdivá.
+
+Krok 12: Rozložte rovnost: 4a + b = c
+
+Krok 13: Srovnejte všechny tři rovnosti: 2a + b = 3a + b = 4a + b 
+
+Krok 14: Odstraňte b z obou stran rovnosti: 2a = 3a = 4a 
+
+Krok 15: Přidejte -2a na obě strany rovnosti: 0 = a 
+
+Krok 16: Odstraňte 0 z obou stran rovnosti: a = 0 
+
+Krok 17: Nyní, když víme, že a je rovno 0, můžeme napsat obecné pravidlo pro rovnost ax + b = c.
+
+Krok 18: Pokud je a rovno 0, je rovnost ax + b = c pravdivá, pouze pokud je b rovno c.
+
+Krok 19: Obecné pravidlo pro rovnost ax + b = c je tedy: b = c 
+
+Závěr: Řešením úkolu je tedy obecné pravidlo, že b = c.

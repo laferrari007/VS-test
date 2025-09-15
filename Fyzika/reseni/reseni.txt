@@ -1,24 +1,64 @@
 # AI Generované řešení úkolů pro předmět: Fyzika
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:53:05
+# Datum: 2025-09-15 22:47:49
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Fyzika
+Řešení 1: Vypočítejte siločárnu elektromagnetického pole ve vzdálenosti 5 cm od elektrického dipólu o velikosti 10 μC, který se nachází v jeho středu.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Fyzika
+Siločárna elektromagnetického pole se nachází na vzdálenosti \( d \) od dipólu a je rovnoměrně rozložena kolem osy dipólu. Siločárna může být vypočítána pomocí následujícího vzorce:
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Fyzika
+\[ B = \frac{\mu_0 q}{4 \pi d^2} \]
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Fyzika
+kde \( B \) je intenzita magnetického pole, \( \mu_0 \) je magnetický konstantní (4\(\pi\)\(\cdot\)10\({}^{-7}\) T\(\cdot\)m/A), \( q \) je velikost dipólu a \( d \) je vzdálenost od dipólu.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Fyzika
+Předpokládejme, že velikost dipólu je 10 μC a vzdálenost od dipólu je 5 cm (0,05 m). Následující krok je vypočítat intenzitu magnetického pole:
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Fyzika
+\[ B = \frac{\mu_0 q}{4 \pi d^2} = \frac{(4 \pi \cdot 10^{-7} \, \text{T} \cdot \text{m/A})(10 \cdot 10^{-6} \, \text{A})}{4 \pi (0,05 \, \text{m})^2} = \frac{4 \cdot 10^{-13}}{0,01} = 4 \cdot 10^{-11} \, \text{T} \]
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Fyzika
+Tato hodnota intenzity magnetického pole je vypočítána ve vzdálenosti 5 cm od dipólu.
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Fyzika
+Řešení 2: Provedte grafické přiblížení síly gravitační zákony na povrchu Země, přičemž hmotnost objektu je 5 kg a vzdálenost od středu Země je 6400 km.
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Fyzika
+Síla gravitační mezi dvěma objekty může být vypočítána pomocí následujícího vzorce:
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Fyzika
+\[ F = \frac{G m_1 m_2}{r^2} \]
+
+kde \( F \) je síla gravitační, \( G \) je gravitační konstantní (6,674 \(\cdot\) 10\({}^{-11}\) m\({}^{3}\)/kg\(\cdot\)s\({}^{2}\)), \( m_1 \) a \( m_2 \) jsou hmotnosti objektů a \( r \) je vzdálenost mezi nimi.
+
+Předpokládejme, že hmotnost objektu je 5 kg a vzdálenost od středu Země je 6400 km (6,4 \(\cdot\) 10\({}^{6}\) m). Následující krok je vypočítat sílu gravitační:
+
+\[ F = \frac{G m_1 m_2}{r^2} = \frac{(6,674 \cdot 10^{-11} \, \text{m}^3/\text{kg}\cdot\text{s}^2)(5 \, \text{kg})(5,98 \cdot 10^{24} \, \text{kg})}{(6,4 \cdot 10^6 \, \text{m})^2} = \frac{2,014 \cdot 10^{15}}{40,96 \cdot 10^{12}} = 49,1 \, \text{N} \]
+
+Tato hodnota síly gravitační je vypočítána na povrchu Země.
+
+Řešení 3: Porovnejte kinetickou energii a potenciální energii bodového objektu, který se pohybuje po kruhové dráze v centru Země s poloměrem 6400 km, přičemž hmotnost objektu je 5 kg a rychlost 10 km/h.
+
+Kinetická energie objektu může být vypočítána pomocí následujícího vzorce:
+
+\[ E_k = \frac{1}{2} m v^2 \]
+
+kde \( E_k \) je kinetická energie, \( m \) je hmotnost objektu a \( v \) je rychlost objektu.
+
+Předpokládejme, že hmotnost objektu je 5 kg a rychlost je 10 km/h (2,78 m/s). Následující krok je vypočítat kinetickou energii:
+
+\[ E_k = \frac{1}{2} m v^2 = \frac{1}{2}(5 \, \text{kg})(2,78 \, \text{m/s})^2 = 38,6 \, \text{J} \]
+
+Potenciální energie objektu na kruhové dráze může být vypočítána pomocí následujícího vzorce:
+
+\[ E_p = \frac{1}{2} \frac{m v^2}{r} = \frac{1}{2} \frac{m v^2}{\sqrt{\frac{G m}{r}} r} = \frac{1}{2} \frac{v^2 r}{G m} \]
+
+kde \( E_p \) je potenciální energie, \( G \) je gravitační konstantní, \( m \) je hmotnost objektu, \( v \) je rychlost objektu a \( r \) je poloměr dráhy.
+
+Následující krok je vypočítat potenciální energii:
+
+\[ E_p = \frac{1}{2} \frac{v^2 r}{G m} = \frac{1}{2} \frac{(2,78 \, \text{m/s})^2 (6,4 \cdot 10^6 \, \text{m})}{(6,674 \cdot 10^{-11} \, \text{m}^3/\text{kg}\cdot\text{s}^2)(5 \, \text{kg})} = 2,31 \cdot 10^{13} \, \text{J} \]
+
+Tato hodnota potenciální energie je vypočítána na kruhové dráze v centru Země.
+
+Řešení 4: Vypočítejte tepelnou kapacitu systému tvořeného dvěma termotrony o teplotách 0 °C a 100 °C, přičemž specifické tepelné kapacity jsou 1 J/kg°C a 2 J/kg°C.
+
+Tepelná kapacita systému může být vypočítána jako součet tepelných kapacit jednotlivých komponentů:
+
+\[ C = C_1 + C_2 \]
+
+kde \( C \) je tep

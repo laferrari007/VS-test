@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Německý jazyk ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:49:56
+# Datum: 2025-09-15 22:44:16
 
-Úkol 1: Napište do věty své jméno, věkové kategorii a třídu, ve které se učíte. Použijte správné osobní zájmena (já, ty, on, ona, ono, my, vy, oni, ony, oni).
+Úkol 1: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 1
 
-Úkol 2: Přeložte do německého jazyka větu "Můj přítel hraje futsal." 
+Úkol 2: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 2
 
-Úkol 3: Vyberte čtyři předměty, které se učíte ve škole, a napište je do věty. Použijte správné příslovce (žádný, žádný, žádný, žádný, žádný, žádný).
+Úkol 3: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 3
 
-Úkol 4: Napište o sobě jednu větu. Použijte správné příslovce (kdykoli, nikdy, stále, stále). Použijte přídavná jména (starý, mladý, velký, malý).
+Úkol 4: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 4
 
-Úkol 5: Přeložte do německého jazyka větu "Já mám ráda černé oblečení." 
+Úkol 5: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 5
 
-Úkol 6: Vyberte tři své oblíbené činnosti a napište je do věty. Použijte správné příslovce (kdykoli, nikdy, stále, stále). Použijte přídavná jména (starý, mladý, velký, malý).
+Úkol 6: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 6
 
-Úkol 7: Napište o své rodině jednu větu. Použijte správné příslovce (kdykoli, nikdy, stále, stále). Použijte přídavná jména (starý, mladý, velký, malý).
+Úkol 7: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 7
 
-Úkol 8: Přeložte do německého jazyka větu "Můj otec jede do práce autobusem." 
+Úkol 8: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 8
 
-Úkol 9: Napište, jak jste se seznámili s německým jazykem. Použijte správné příslovce (kdykoli, nikdy, stále, stále). Použijte přídavná jména (starý, mladý, velký, malý).
+Úkol 9: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 9
 
-Úkol 10: Přeložte do německého jazyka větu "Můj učitel mi pomohl s překladem."
+Úkol 10: Základní úkol z předmětu Německý jazyk ZŠ - úroveň 10

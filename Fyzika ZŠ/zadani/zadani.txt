@@ -1,23 +1,71 @@
 # AI Generované zadání úkolů pro předmět: Fyzika ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:47:30
+# Datum: 2025-09-15 22:41:59
 
-Úkol 1: Základní úkol z předmětu Fyzika ZŠ - úroveň 1
+Úkol 1: Rovinová trubka - Rychlost zvuku
 
-Úkol 2: Základní úkol z předmětu Fyzika ZŠ - úroveň 2
+- Vyberte dva různé objekty na rovině (například váleček a kulička) a měřte jejich délku.
+- Pomocí mikrofonu změřte, jak dlouho trvá, než zvuk od válečku dojde k mikrofonu a poté od kuličky.
+- Porovnejte výsledky a vysvětlete, proč se tyto rozdíly vyskytují.
 
-Úkol 3: Základní úkol z předmětu Fyzika ZŠ - úroveň 3
+Úkol 2: Vliv tlaku na objem nádoby
 
-Úkol 4: Základní úkol z předmětu Fyzika ZŠ - úroveň 4
+- Využijte tří různých nádoby s různými objemy (například malé, střední a velké plastikové láhve).
+- Pomocí váhového roztěru změřte jejich váhu se vzduchem uvnitř.
+- Zatlačte na jeden konec nádoby a změřte váhu opět.
+- Porovnejte výsledky a vysvětlěte, jaký vliv tlak vzduchu v nádobě má na její váhu.
 
-Úkol 5: Základní úkol z předmětu Fyzika ZŠ - úroveň 5
+Úkol 3: Přenos energie - Kolečko a pružina
 
-Úkol 6: Základní úkol z předmětu Fyzika ZŠ - úroveň 6
+- Vytvořte si jednoduchý kruhový mechanismus, kde je kolečko spojené s pružinou.
+- Pomocí fotoaparátu nebo stopky zaznamenujte, jak dlouho trvá, než kolečko vykoná jednu oběžnou dráhu (tj. koluje jednou kolem své osy).
+- Pomocí kladiva nebo jiného nástroje zmáčkněte pružinu a změřte čas, který je vyžadován pro další oběžnou dráhu.
+- Porovnejte výsledky a vysvětlěte, jak se energie pohybuje v tomto mechanismu.
 
-Úkol 7: Základní úkol z předmětu Fyzika ZŠ - úroveň 7
+Úkol 4: Vliv teploty na roztáčení rotoru
 
-Úkol 8: Základní úkol z předmětu Fyzika ZŠ - úroveň 8
+- Využijte jednoduchého rotoru (například válečku s roviným povrchem).
+- Pomocí stopky změřte čas, který je vyžadován pro jeden celý otáčení rotoru při pokojové teplotě.
+- Změřte také čas, který je vyžadován pro další otáčení rotoru při teplotě uvnitř lednice a teplé vodě.
+- Porovnejte výsledky a vysvětlěte, jaký vliv teplota na roztáčení rotoru má.
 
-Úkol 9: Základní úkol z předmětu Fyzika ZŠ - úroveň 9
+Úkol 5: Vliv tlaku na povrchovou napětí kapaliny
 
-Úkol 10: Základní úkol z předmětu Fyzika ZŠ - úroveň 10
+- Využijte kapaliny (například vody nebo minerální vody) a nalijte ji do nádoby.
+- Pomocí kladiva nebo jiného nástroje zmáčkněte na povrch kapaliny a změřte její hladinu.
+- Porovnejte výsledky a vysvětlěte, jaký vliv tlak na povrchovou napětí kapaliny má.
+
+Úkol 6: Vliv hmotnosti na sílu gravitace
+
+- Využijte válečku a kuličku s různými hmotnostmi.
+- Pomocí libry nebo váhového roztěru změřte jejich hmotnosti.
+- Vytvořte si jednoduchý experiment, kde váleček a kulička spadnou s jisté výšky (například z výšky 1 m).
+- Porovnejte výsledky a vysvětlěte, jaký vliv hmotnost na sílu gravitace má.
+
+Úkol 7: Vliv teploty na expandaci plynu
+
+- Využijte lahve s plyny (například vzduch nebo uhlíkovou kyselinu).
+- Pomocí termometru změřte teplotu v okolí.
+- Změřte objem plynu v lahvi za různých teplot (například pokojová teplota a teplota uvnitř lednice).
+- Porovnejte výsledky a vysvětlěte, jaký vliv teplota na expandaci plynu má.
+
+Úkol 8: Vliv tlaku na deformaci materiálu
+
+- Využijte tenkou pásku z kovu nebo plastu.
+- Pomocí váhového roztěru změřte její délku v klidu.
+- Pomocí kladiva nebo jiného nástroje zmáčkněte na pásku a změřte její délku poté.
+- Porovnejte výsledky a vysvětlěte, jaký vliv tlak na deformaci materiálu má.
+
+Úkol 9: Vliv hmotnosti na rotaci Země
+
+- Využijte kuličku s určitou hmotností a váleček.
+- Pomocí stopky změřte čas, který je vyžadován pro jeden celý otáčení válečku při pokojové teplotě.
+- Pomocí libry nebo váhového roztěru změřte hmotnost kuličky a váhové roztěru připojte k válečku.
+- Porovnejte výsledky a vysvětlěte, jaký vliv hmotnost na rotaci Země má.
+
+Úkol 10: Vliv teploty na rychlost chemické reakce
+
+- Využijte chemickou reakci (například reakci mezi hydrogenem a kyslíkem).
+- Pomocí stopky změřte čas, který je vyžadován pro dokončení reakce při pokojové teplotě.
+- Změřte také čas, který je vyžadován pro dokončení reakce při teplotě uvnitř lednice a teplé vodě.
+- Porovnejte výsledky a vysvětlěte, jaký vliv teplota na rychlost chemické reakce má.

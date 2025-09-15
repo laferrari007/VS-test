@@ -1,23 +1,31 @@
 # AI Generované zadání úkolů pro předmět: Ruský jazyk ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:50:32
+# Datum: 2025-09-15 22:44:53
 
-Úkol 1: Přepište do češtiny ruský text: "Ja ljublju svoju rodinu." (Náklad: 5 bodů)
+Úkol 1: Napište slovo, které se v ruském jazyce podobá českému slovu "domácí". Poznamenejte si pravopis a výslovnost ruského slova.
 
-Úkol 2: Seznamte si se základními číslovkami v ruském jazyce (1-10). Napíšete jejich názvy a jejich přepis do češtiny. (Náklad: 5 bodů)
+Úkol 2: Přeložte ruský text "Я люблю читать книги" do českého jazyka a vysvětlěte význam jednotlivých slov.
 
-Úkol 3: Přepište na ruský jazyk následující fráze: "Dobrý den, jak se máte?" a "Dobrý den, mluvím po rusky." (Náklad: 5 bodů)
+Úkol 3: Vyberte tři ruská slova, která se podobají českým slovům "krev", "kostel" a "svátek". Napište pravopis a výslovnost ruských slov.
 
-Úkol 4: Seznamte si si s podstatnými slovesy v ruském jazyce (např. dělat, jíst, pít). Napíšete jejich formy v 1. a 2. osobě č. a jejich přepis do češtiny. (Náklad: 10 bodů)
+Úkol 4: Přeložte následující ruské fráze:
+- Где находится моя сумка?
+- Какая у тебя температура?
+- Мне нужна помощь.
 
-Úkol 5: Přepište do ruského jazyka následující text: "Jeho jméno je Ivan, je 10 let." (Náklad: 10 bodů)
+Úkol 5: Vyberte pět ruských slov, která se týkají jídla (například "суп", "хлеб", "овощи"). Vytvořte krátký text, ve kterém je použijete.
 
-Úkol 6: Seznamte si si s příponami k podstatným jménům v ruském jazyce (např. -a, -b, -c). Napíšete jejich výpisky a jejich přepis do češtiny. (Náklad: 10 bodů)
+Úkol 6: Přeložte následující ruský text do českého jazyka:
+"Я живу в Москве. Моё имя Анна. Мне 12 лет. Я люблю играть в футбол."
 
-Úkol 7: Přepište na ruský jazyk následující text: "Já jdu do školy, můj přítel jde na sport." (Náklad: 15 bodů)
+Úkol 7: Vyberte tři ruské fráze, které se týkají času (například "я говорил вчера", "я соберусь завтра", "я работаю теперь"). Napište je do textu v kontextu.
 
-Úkol 8: Seznamte si si s příslovím v ruském jazyce (např. rychle, pomalu, snadno). Napíšete jejich výpisky a jejich přepis do češtiny. (Náklad: 15 bodů)
+Úkol 8: Přeložte následující ruské slovo do českého jazyka a vysvětlěte jeho význam:
+- Родители.
+- Сестра.
+- Школа.
 
-Úkol 9: Přepište do ruského jazyka následující text: "Můj otec je učitel, on učuje ruský jazyk." (Náklad: 20 bodů)
+Úkol 9: Vyberte pět ruských slov, která se týkají dovolené (například "тур", "отдых", "пляж"). Vytvořte krátký text, ve kterém je použijete.
 
-Úkol 10: Seznamte si si s různými typy vět v ruském jazyce (např. příslovité věty, věty s příslovím). Napíšete jejich výpisky a jejich přepis do češtiny. (Náklad: 25 bodů)
+Úkol 10: Přeložte následující ruský text do českého jazyka a vysvětlěte význam jednotlivých slov:
+"Я всегда хотел поехать в путешествие по России. Теперь у меня есть возможность. Мне нужно купить билет и забронировать отель."

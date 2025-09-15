@@ -1,24 +1,67 @@
 # AI Generované řešení úkolů pro předmět: Geografie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:52:14
+# Datum: 2025-09-15 22:46:58
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Geografie
+Řešení 1: Vytvořte krátkou mapovou legendu pro mapu ČR, která bude zahrnovat alespoň 5 typů přírodních zdrojů a 3 druhy zemědělské produkce.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Geografie
+Mapová legenda je klíčem k pochopení informací na geografické mapě. Pro mapu ČR je třeba vytvořit legenda, která bude zahrnovat alespoň 5 typů přírodních zdrojů a 3 druhy zemědělské produkce.
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Geografie
+**Přírodní zdroje:**
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Geografie
+1. **Vody:** Zahrnují řeky, potoky, jezera a rybníky. Na mapě budou označeny modrou barvou.
+2. **Uhlí:** Zahrnují uhelné ložiska, které se nacházejí v severní části Čech a na Moravě. Na mapě budou označeny černou barvou.
+3. **Železné rudy:** Zahrnují železné ložiska, které se nacházejí v severní části Čech a na Moravě. Na mapě budou označeny zelenou barvou.
+4. **Zlaté doly:** Zahrnují zlaté ložiska, které se nacházejí v západní části Čech. Na mapě budou označeny žlutou barvou.
+5. **Kovové doly:** Zahrnují kovové ložiska, jako je železo, olovo a měď. Na mapě budou označeny šedou barvou.
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Geografie
+**Zemědělská produkce:**
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Geografie
+1. **Obilí:** Zahrnují pšenici, ječmen a kukuřici. Na mapě budou označeny zelenou barvou.
+2. **Zelenina:** Zahrnují brambory, zeleninu a ovocné stromy. Na mapě budou označeny oranžovou barvou.
+3. **Mléko:** Zahrnují chov dojených zvířat, jako je krávy, kozy a ovce. Na mapě budou označeny bílou barvou.
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Geografie
+**Mapová legenda:**
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Geografie
+| Symbol | Název | Popis |
+| --- | --- | --- |
+|  | Vody | Řeky, potoky, jezera a rybníky |
+|  | Uhlí | Uhelné ložiska |
+|  | Železné rudy | Železné ložiska |
+|  | Zlaté doly | Zlaté ložiska |
+|  | Kovové doly | Kovové ložiska (železo, olovo, měď) |
+|  | Obilí | Pšenice, ječmen, kukuřice |
+|  | Zelenina | Brambory, zelenina, ovocné stromy |
+|  | Mléko | Chov dojených zvířat (krávy, kozy, ovce) |
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Geografie
+Řešení 2: Porovnejte charakteristické rysy geomorfologické mapy Německa a Rakouska. Vysvětlujte, jak se tyto rysy odrážejí v geologickém a klimatickém podkladu obou zemí.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Geografie
+Německo a Rakousko jsou dvě země, které se nacházejí v Evropě a mají podobné geografické rysy. Obě země jsou charakterizovány:
+
+* **Geomorfologickou rozmanitostí:** Německo a Rakousko mají rozmanitý geomorfologický reliéf, včetně horských oblastí, údolí a pobřežních oblastí.
+* **Geologickým podkladem:** Obě země jsou postiženy geologickou aktivitou, včetně vzniku Alp, Rýnského údolí a dalších geomorfologických útvarů.
+* **Klimatickým podkladem:** Obě země mají mírné klima s teplými léty a chladnými zimami.
+
+Hlavní rysy geomorfologické mapy Německa:
+
+* **Alpy:** Německo má část Alp, které jsou nejvyšší horskou oblastí Evropy. Alpy jsou tvořeny vápencem, dolomitem a dalších horninami.
+* **Rýnské údolí:** Rýnské údolí je hluboké a úzké údolí, které prochází Německem a Nizozemskem.
+* **Pobřežní oblasti:** Německo má pobřeží Severního moře, Baltského moře a Černého moře.
+
+Hlavní rysy geomorfologické mapy Rakouska:
+
+* **Alpy:** Rakousko má většinu Alp, které jsou nejvyšší horskou oblastí Evropy. Alpy jsou tvořeny vápencem, dolomitem a dalších horninami.
+* **Dolomity:** Rakousko má část Dolomitů, které jsou horská oblast s měkkými horninami.
+* **Pobřežní oblasti:** Rakousko má pobřeží Černého moře a Baltského moře.
+
+V kontrastu s geomorfologickými rysy Německa a Rakouska, obě země mají podobné geologické a klimatické podklady. Obě země jsou postiženy geologickou aktivitou a mají mírné klima s teplými léty a chladnými zimami.
+
+Řešení 3: Analyzujte vliv lidských aktivit na erozi a degradaci půdy v oblasti Hornoslezského průmyslového regionu (HORÁR). Jaké jsou příčiny této degradace a jaké jsou možné řešení?
+
+Hornoslezský průmyslový region (HORÁR) je oblast v severní části Polska, která byla v minulosti intenzivně industrializována a těžena. Tato oblast je postižena erozí a degradací půdy, která je způsobena lidskými aktivitami.
+
+**Příčiny degradace:**
+
+* **Těžba:** Hornoslezský region je bohatý na uhelné a železné rudy, které byly intenzivně těženy v minulosti. Těžba těchto surovin vedla k erozi půdy a zničení ekosystémů.
+* **Industriální činnost:** HORÁR byl v minulosti intenzivně industrializován, což vedlo k vzniku velkých měst a továren. Tyto stavby a činnosti vedly k erozi půdy a znečišťování environmentu.
+* **Lesní hospodářství:** Hornoslezský region má bohatou lesní zástavbu, která byla v minulosti intenzivně těžena. Těžba dřeva vedla k erozi půdy a zni

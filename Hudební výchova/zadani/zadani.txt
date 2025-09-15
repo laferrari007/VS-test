@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Hudební výchova
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:48:47
+# Datum: 2025-09-15 22:43:14
 
-Úkol 1: Nápověda k písni: Vyberte populární píseň a napište stručný komentář o jejím významu a vlivu na hudební scénu. (cca 150 slov)
+Úkol 1: Základní úkol z předmětu Hudební výchova - úroveň 1
 
-Úkol 2: Hudební analýza: Vyberte jednu hudební skladbu a analyzujte její harmonii, melodie a rytmus. Použijte hudební teorii a vysvětlete, jak tyto prvky přispívají k celkovému dojmu skladby. (cca 250 slov)
+Úkol 2: Základní úkol z předmětu Hudební výchova - úroveň 2
 
-Úkol 3: Hudební vzdělávání ve škole: Navrhněte program hudební výchovy pro základní školu, který zahrnuje různé hudební aktivity a projekty pro studenty různých úrovní. Uvétněte cíle a principy programu. (cca 300 slov)
+Úkol 3: Základní úkol z předmětu Hudební výchova - úroveň 3
 
-Úkol 4: Kompozice: Napište krátkou hudební skladbu pro jeden nástroj (například klavír nebo kytaru) a doprovodné hlasové vystoupení. Použijte hudební notace a vysvětlete své kompoziční rozhodnutí. (cca 400 slov)
+Úkol 4: Základní úkol z předmětu Hudební výchova - úroveň 4
 
-Úkol 5: Hudební etnografie: Vyberte jednu hudební tradici nebo styl (například africká hudba nebo klasická hudba) a napište esej o její historii, kultuře a významu. Použijte příslušné zdroje a odkazy. (cca 600 slov)
+Úkol 5: Základní úkol z předmětu Hudební výchova - úroveň 5
 
-Úkol 6: Hudební produkce: Navrhněte a natočte krátkou hudební skladbu s použitím digitální hudební produkční techniky (například software DAW). Použijte efektivní produkční strategie a vysvětlete své rozhodnutí. (cca 800 slov)
+Úkol 6: Základní úkol z předmětu Hudební výchova - úroveň 6
 
-Úkol 7: Hudební historie: Napište esej o jedné hudební epochě nebo hudební osobnosti (například Mozart nebo Beatles) a analyzujte její vliv na vývoj hudby. Použijte příslušné zdroje a odkazy. (cca 1000 slov)
+Úkol 7: Základní úkol z předmětu Hudební výchova - úroveň 7
 
-Úkol 8: Hudební terapie: Navrhněte projekt hudební terapie pro jedince nebo skupinu, která cílí na rozvoj hudebních dovedností a zlepšení psychického zdraví. Uvétněte cíle, principy a metody projektu. (cca 1200 slov)
+Úkol 8: Základní úkol z předmětu Hudební výchova - úroveň 8
 
-Úkol 9: Hudební teorie: Vypracujte komplexní esej o jedné hudební teorii (například harmonie nebo akordy) a vysvětlete její aplikace v různých hudebních stylových kontextech. Použijte příslušné zdroje a odkazy. (cca 1500 slov)
+Úkol 9: Základní úkol z předmětu Hudební výchova - úroveň 9
 
-Úkol 10: Hudební výzkum: Vyberte téma hudebního výzkumu (například vliv hudby na lidské zdraví nebo hudební vzdělávání ve škole) a napište komplexní esej o jeho výzkumné metodice, výsledcích a dopadu. Použijte příslušné zdroje a odkazy. (cca 2000 slov)
+Úkol 10: Základní úkol z předmětu Hudební výchova - úroveň 10

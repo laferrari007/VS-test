@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Anglický jazyk
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:40:27
+# Datum: 2025-09-15 22:45:41
 
-Úkol 1: Nalezte a opravte chyby v následujícím textu: "Mám ráda čaj, protože je dobrý pro zdraví."
+Úkol 1: Vyberte tři věty z textu a přeložte je do češtiny. Použijte překlady z internetu nebo slovník a ujasněte si, zda překlady jsou přesné.
 
-Úkol 2: Přeložte na angličtinu následující český text: "V létě je pěkně počasí na koupání."
+Úkol 2: Najděte v textu tři synonyma k slovu "přátelství". Použijte slovníky nebo webové stránky a ujasněte si význam a rozdíl mezi synonymy.
 
-Úkol 3: Na základě následujících vět vytvořte jeden správný text: "Včera jsem šel na procházku. Byla to dobrá chuť."
+Úkol 3: Napište krátký text (5-7 vět) o nějaké aktuální události v anglicky mluvících zemích. Použijte zdroje z internetu a ujasněte si, zda informace jsou přesné.
 
-Úkol 4: Analyzujte a diskutujte o významu pojmu "metafora" v anglickém jazyce. Uveďte několik příkladů a vysvětlit, jak je používána.
+Úkol 4: Vyberte tři anglické slovesa a vysvětlete, jak se používají v různých časových rozdílech (např. minulý čas, přítomný čas, budoucí čas). Použijte slovníky nebo webové stránky a ujasněte si, zda jsou vaše vysvětlení přesná.
 
-Úkol 5: Vyberte 5 článků z časopisu "The New York Times" a analyzujte jejich strukturu a jazykovou náladu. Uveďte příklady zvláštních jazykových postupů, které jsou používány v článku.
+Úkol 5: Napište krátkou analýzu anglické básně (např. "The Road Not Taken" od Roberta Frosta). Použijte interpretace z internetu a ujasněte si, zda vaše analýza je přesná.
 
-Úkol 6: Přeložte na angličtinu následující český rozhovor o tématu "zdravý životní styl": "Jsem ráda na své zdraví. Jsem aktivní a jíst zdravé jídlo."
+Úkol 6: Vyberte tři anglické výrazy idiomatizace a vysvětlete, co znamenají a jak se používají v běžném hovoru. Použijte slovníky nebo webové stránky a ujasněte si, zda jsou vaše vysvětlení přesná.
 
-Úkol 7: Zpracujte analýzu anglických idiomů a frází, které jsou používány v předmětu "Anglický jazyk". Uveďte příklady a vysvětlit jejich význam a použití.
+Úkol 7: Napište krátký esej (10-12 vět) o tématu "Role jazyka v komunikaci". Použijte zdroje z internetu a ujasněte si, zda informace jsou přesné.
 
-Úkol 8: Napište esej na téma "význam angličtiny v dnešní době". Uveďte argumenty pro a proti úloze angličtiny v mezinárodní komunikaci.
+Úkol 8: Vyberte tři anglické texty z různých oblastí (např. literatura, věda, politika) a analyzujte, jak se v nich používají různé styly psaní. Použijte slovníky nebo webové stránky a ujasněte si, zda vaše analýza je přesná.
 
-Úkol 9: Přeložte na angličtinu následující český text z oblasti podnikání: "Naše firma je specializována na výrobu kvalitních produktů."
+Úkol 9: Napište krátký překlad textů (10-12 vět) z češtiny do angličtiny. Použijte překladové slovníky nebo webové stránky a ujasněte si, zda překlad je přesný.
 
-Úkol 10: Zpracujte případovou studii o úspěšném projektu anglického jazyka ve školství. Uveďte informace o cílech projektu, metodách a výsledcích.
+Úkol 10: Vyberte tři anglické texty z různých oblastí (např. literatura, věda, politika) a vytvořte krátkou kritiku, jak se v nich používají různé stylistické prvky. Použijte slovníky nebo webové stránky a ujasněte si, zda vaše kritika je přesná.

@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Fyzika
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:53:05
+# Datum: 2025-09-15 22:47:49
 
-Úkol 1: Základní úkol z předmětu Fyzika - úroveň 1
+Úkol 1: Vypočítejte siločárnu elektromagnetického pole ve vzdálenosti 5 cm od elektrického dipólu o velikosti 10 μC, který se nachází v jeho středu.
 
-Úkol 2: Základní úkol z předmětu Fyzika - úroveň 2
+Úkol 2: Provedte grafické přiblížení síly gravitační zákony na povrchu Země, přičemž hmotnost objektu je 5 kg a vzdálenost od středu Země je 6400 km.
 
-Úkol 3: Základní úkol z předmětu Fyzika - úroveň 3
+Úkol 3: Porovnejte kinetickou energii a potenciální energii bodového objektu, který se pohybuje po kruhové dráze v centru Země s poloměrem 6400 km, přičemž hmotnost objektu je 5 kg a rychlost 10 km/h.
 
-Úkol 4: Základní úkol z předmětu Fyzika - úroveň 4
+Úkol 4: Vypočítejte tepelnou kapacitu systému tvořeného dvěma termotrony o teplotách 0 °C a 100 °C, přičemž specifické tepelné kapacity jsou 1 J/kg°C a 2 J/kg°C.
 
-Úkol 5: Základní úkol z předmětu Fyzika - úroveň 5
+Úkol 5: Rozeberte principy funkce indukčních rezistorů v obvodu, který obsahuje indukční rezistor 10 mH, rezistor 100 Ω a zdroj napětí 12 V.
 
-Úkol 6: Základní úkol z předmětu Fyzika - úroveň 6
+Úkol 6: Vypočítejte čas, po kterém se objeví první zlomyslná vlna na povrchu vodní plochy o povrchovém napětí 0,05 N/m, když se na ni nanesou síly 10 N/m².
 
-Úkol 7: Základní úkol z předmětu Fyzika - úroveň 7
+Úkol 7: Provedte grafické přiblížení rozptylu světla v optickém systému s dvěma rovnoběžnými dráty o vzdálenosti 10 cm, přičemž úhel rozptylu je 30°.
 
-Úkol 8: Základní úkol z předmětu Fyzika - úroveň 8
+Úkol 8: Vypočítejte elektrický odpor série a paralelního spojení dvou rezistorů o velikostech 50 Ω a 100 Ω, přičemž napětí je 10 V a proud 2 A.
 
-Úkol 9: Základní úkol z předmětu Fyzika - úroveň 9
+Úkol 9: Vypočítejte tepelnou energii, která je absorbována objektem, který se pohybuje s rychlostí 50 m/s v proudění s hustotou 1,2 kg/m³ a teplotou 20 °C, přičemž specifická tepelná kapacita je 1 J/kg°C.
 
-Úkol 10: Základní úkol z předmětu Fyzika - úroveň 10
+Úkol 10: Provedte analýzu stability vibrací jednoduchého harmonického oscilátoru s kladným koefficientem odporu 0,1 Ns/m, kde je síla 10 N a hmotnost 5 kg.

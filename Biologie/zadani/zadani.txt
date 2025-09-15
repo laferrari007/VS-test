@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Biologie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:52:32
+# Datum: 2025-09-15 22:47:18
 
-Úkol 1: Popište hlavní rozdíly mezi fotosyntézou v mořském a suchozemském prostředí. Jaké faktory ovlivňují účinnost fotosyntézy v těchto dvou prostředích?
+Úkol 1: Porovnejte strukturu buněčné membrány a plazmatu a vysvětlte jejich funkce v buněčném metabolismu.
 
-Úkol 2: Porovnejte metabolismus glukózy a glykogenu. Jaké jsou hlavní rozdíly mezi nimi a jak jsou důležité v rámci energetické bilance organismu?
+Úkol 2: Popište proces fotosyntézy a vysvětlte role chlorofylu v této reakci. Jaké jsou hlavní produkty fotosyntézy?
 
-Úkol 3: Vysvětlte, jakým způsobem funguje mechanismus osmoregulace v rostlinách. Jaké molekulární mechanismy jsou zapojené do regulace osmotického tlaku v buňkách?
+Úkol 3: Vysvětlte rozdíl mezi homeostázou a adaptační reakcí. Jaké jsou příklady každého z těchto mechanismů v organismu?
 
-Úkol 4: Popište proces syntézy bílkovin v eukaryotických buňkách. Jaké jsou role jednotlivých částí ribozomu a jak se syntéza bílkovin ovlivňuje vnějšími faktory?
+Úkol 4: Porovnejte charakteristiky fotosyntetických a respiračních buněk v rostlinách. Jaké jsou hlavní rozdíly mezi nimi?
 
-Úkol 5: Analyzujte vzájemné vztahy mezi mitochondriemi, endoplazmatickou retikulou a peroxisomy v eukaryotických buňkách. Jaké jsou hlavní funkce těchto orgánoidů a jak se spolupracují na úrovni buněčné metabolismu?
+Úkol 5: Vysvětlte principy Mendelovy genetiky a popište, jak se projevují genotype a fenotyp v organismu.
 
-Úkol 6: Popište proces specifické imunity v chráněném systému. Jak funguje rozpoznávání a eliminace patogenních organismů na úrovni imunitních buněk?
+Úkol 6: Popište proces evoluce a vysvětlte, jak se vyvíjela druhová rozmanitost na Zemi. Jaké jsou hlavní faktory, které ovlivňují evoluci?
 
-Úkol 7: Vysvětlte, jakým způsobem funguje mechanismus vrozené imunity v organizmu. Jaké jsou role jednotlivých buněk imunitního systému a jak se vrozená imunita vyvine a přizpůsobuje se v průběhu života organismu?
+Úkol 7: Vysvětlte funkci a strukturu DNA, včetně její replikace a transcriptionu. Jaký je vztah mezi genotypem a fenotypem?
 
-Úkol 8: Porovnejte fyziologický stav spánku a bdění v organismu. Jaké jsou hlavní rozdíly mezi těmito dvěma stavovými podmínkami a jak se navzájem ovlivňují na úrovni neuronální aktivity?
+Úkol 8: Porovnejte charakteristiky symbiotických a parazitických vztahů v přírodě. Jaké jsou hlavní rozdíly mezi nimi?
 
-Úkol 9: Analyzujte vzájemné vztahy mezi genetickými mutacemi, expresí genů a vývojovým procesem. Jakým způsobem genetické mutace ovlivňují vývoj organismu a jak se vyvíjí v průběhu embryogeneze?
+Úkol 9: Vysvětlte principy ekologické genetiky a popište, jak se genetická variabilita ovlivňuje ekologickou adaptabilitu organizmů.
 
-Úkol 10: Popište procesy buněčné differenciace a diferenciace. Jaké jsou hlavní faktory, které ovlivňují buněčnou diferenciaci a jak se vyvíjí na úrovni buněčné metabolismu a genetické expresí?
+Úkol 10: Popište proces speciací a vysvětlte, jak se vyvíjely nové druhy v přírodě. Jaké jsou hlavní faktory, které ovlivňují speciaci?

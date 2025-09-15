@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Výtvarná výchova
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:48:28
+# Datum: 2025-09-15 22:43:00
 
-Úkol 1: Základní úkol z předmětu Výtvarná výchova - úroveň 1
+Úkol 1: Vytvořte kresbu běžné denní scény (například snídaně, škola, práce) v jednoduchém černobílém style. Použijte techniku konturace a důrazně vyznačte hlavní prvky kompozice.
 
-Úkol 2: Základní úkol z předmětu Výtvarná výchova - úroveň 2
+Úkol 2: Vytvořte malbu přírodní scény (například les, moře, hora) v barvách olejové malby. Použijte technikou sfumato a vyznačte hlavní prvky kompozice.
 
-Úkol 3: Základní úkol z předmětu Výtvarná výchova - úroveň 3
+Úkol 3: Vytvořte sérii 5 kreseb různých tvarů (kruh, čtverec, trojúhelník, oblouk, spirála). Použijte techniku akvarelu a vyznačte hlavní prvky kompozice.
 
-Úkol 4: Základní úkol z předmětu Výtvarná výchova - úroveň 4
+Úkol 4: Vytvořte malbu městské scény (například náměstí, ulice, budovy) v barvách akvarelů. Použijte techniku zrcadlení a vyznačte hlavní prvky kompozice.
 
-Úkol 5: Základní úkol z předmětu Výtvarná výchova - úroveň 5
+Úkol 5: Vytvořte sérii 10 kreseb různých tvarů (křivky, lomené linie, zobecněné obrazy předmětů). Použijte techniku kresby tužkou a vyznačte hlavní prvky kompozice.
 
-Úkol 6: Základní úkol z předmětu Výtvarná výchova - úroveň 6
+Úkol 6: Vytvořte malbu fantastické scény (například pohádková krajina, sci-fi prostředí) v barvách tempery. Použijte techniku křížení šrafování a vyznačte hlavní prvky kompozice.
 
-Úkol 7: Základní úkol z předmětu Výtvarná výchova - úroveň 7
+Úkol 7: Vytvořte sérii 5 kreseb různých stylů (kubismus, futurismus, expresionismus). Použijte techniku akvarelu a vyznačte hlavní prvky kompozice.
 
-Úkol 8: Základní úkol z předmětu Výtvarná výchova - úroveň 8
+Úkol 8: Vytvořte malbu historické scény (například starověká civilizace, středověká krajina) v barvách olejové malby. Použijte techniku zrcadlení a vyznačte hlavní prvky kompozice.
 
-Úkol 9: Základní úkol z předmětu Výtvarná výchova - úroveň 9
+Úkol 9: Vytvořte sérii 10 kreseb různých přírodních jevů (větř, oblaky, voda). Použijte techniku kresby tužkou a vyznačte hlavní prvky kompozice.
 
-Úkol 10: Základní úkol z předmětu Výtvarná výchova - úroveň 10
+Úkol 10: Vytvořte malbu abstraktní scény (například barevná kompozice, geometrický tvar) v barvách tempery. Použijte techniku křížení šrafování a vyznačte hlavní prvky kompozice.

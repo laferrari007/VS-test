@@ -1,23 +1,25 @@
 # AI Generované zadání úkolů pro předmět: Tělesná výchova
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:59:08
+# Datum: 2025-09-15 22:43:31
 
-Úkol 1: Vyberte tři druhy cvičení pro rozvoj svalů břicha a popište jejich efektivní provedení.
+Zde jsou 10 univerzitních úkolů pro předmět "Tělesná výchova":
 
-Úkol 2: Popište rozdíl mezi dynamickým a statickým tréninkem a udělejte konkrétní příklad každého z nich.
+Úkol 1: Používejte zdravotní vyšetření, aby se zjistilo, zda je vaše fyzická kondice v souladu s vaší věkovou skupinou a zda jste schopni vykonávat fyzickou aktivitu. Vyslechněte si rady svého trenéra.
 
-Úkol 3: Rozhodněte se pro jeden z následujících cvičení: kruhový běh, běh na místě nebo skok daleký. Vypracujte návod, jak cvičení provádět bezpečně a účinně.
+Úkol 2: Zjistěte, jaký účinek má pravidelný sportování na vaše zdraví a pohodu. Použijte studijní práci o tomto tématu.
 
-Úkol 4: Porovnejte výhody a nevýhody cvičení na staničním kole a na kole na drátě. Jaké jsou jejich rozdíly a jak by mohly být použity ve vybraném tréninkovém programu.
+Úkol 3: Analyzujte vliv fyziologické přípravy na výkon sportovců v různých typických sportovních disciplínách. Předloňte své závěry.
 
-Úkol 5: Vyberte tři typy cvičení pro rozvoj flexibilitě a flexibility. Popište jejich efektivní provedení a udělejte seznam kontraindikací pro každou z těchto aktivit.
+Úkol 4: Porovnejte rozdíl mezi tréninkem na intenzitě a tréninkem na vytrvalost. Jaký vliv mají na pohybovou aktivitu a zdravotní stav?
 
-Úkol 6: Vypracujte tříhodinový tréninkový program pro začínající sportovce, který by zahrnoval cvičení pro rozvoj kondice, svalů a flexibilitě.
+Úkol 5: Zjistěte, jakou roli hraje psychologický faktor při sportovní účasti. Předloňte své závěry a rady.
 
-Úkol 7: Porovnejte principy a cíle cvičení na rovnováze a stability. Jak by mohly být tyto činnosti použity ve vybraném tréninkovém programu?
+Úkol 6: Vypracujte projekt, který představuje optimalizaci tréninku pro různé typy sportovních disciplín. Použijte data a výzkum.
 
-Úkol 8: Vyberte dva sporty, ve kterých je vyžadována silná kondice (například fotbal nebo basketbal). Vypracujte přehled cvičení, která by mohly být použita k přípravě sportovců na tyto soutěže.
+Úkol 7: Zjistěte, jaký vliv má pravidelný pohyb na zdraví a pohodu lidí se zdravotním postižením. Předloňte své závěry.
 
-Úkol 9: Vypracujte pět dní tréninkový program pro vytrvalostní sportovce, který by zahrnoval cvičení pro rozvoj kondice, svalů a flexibilitě.
+Úkol 8: Analyzujte vliv fyziologické přípravy na výkon sportovců v různých typických sportovních disciplínách. Porovnejte výsledky s výsledky ostatních studijních prací.
 
-Úkol 10: Porovnejte principy a cíle cvičení pro zlepšení vytrvalosti a kondice. Jak by mohly být tyto činnosti použity ve vybraném tréninkovém programu a jakými by měly být doprovázeny?
+Úkol 9: Vypracujte projekt, který představuje optimalizaci tréninku pro různé typy sportovních disciplín s ohledem na fyziologický stav sportovce. Použijte data a výzkum.
+
+Úkol 10: Zjistěte, jakým způsobem lze sportovní trénink aplikovat na rekreaci a jak to ovlivňuje zdraví a pohodu lidí. Předloňte své závěry a rady.

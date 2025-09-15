@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Český jazyk a literatura
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:40:12
+# Datum: 2025-09-15 22:45:27
 
-Úkol 1: Analyzujte význam a použití přísloví "Voda vilo" v současné česku literatuře. Jaké jsou možné interpretace a souvislosti s tímto příslovím ve vybraných dílech?
+Úkol 1: Popiš rozdíl mezi slovesem v přítomném a minulém času v jednom ze slovanských jazyků a uveď příklad.
 
-Úkol 2: Vyberte dvě básně ze současného česky jazyka a rozdělte je do kategorií podle používaných technik a forem. Uveďte příklady z každé básně.
+Úkol 2: Analyzujte význam a použití výrazu "české sloveso" ve výzkumu a uveďte tři důležité studie o této tématice.
 
-Úkol 3: Srovnávejte a porovnejte dvě různé adaptace stejné povídky od různých autorů. Jaké změny a úpravy se projevily v jednotlivých verzích?
+Úkol 3: Rozumějte a interpretojte rozdíl mezi konceptem "slovanské jazykové rodiny" a "slovanská jazyková skupina" a uveďte dva příklady jazyků, které patří do každé z těchto kategorií.
 
-Úkol 4: Napište kritický rozbor vybraného románu od významného českého autora. Uveďte hlavní témata a postřehy a diskutujte o jejich významu.
+Úkol 4: Popsat vývoj slovanských jazyků v raném středověku, který vedl k vzniku několika hlavních jazykových skupin.
 
-Úkol 5: Vyberte několik slov a frází s konkrétními významy a použití v literatuře a analyzujte jejich souvislosti a souvislost s historickým kontextem.
+Úkol 5: Analyzujte význam a funkci výrazu "česká literatura" v kontextu kulturního a historického vývoje ČR a uveďte pět významných děl, které jsou považovány za zásadní pro českou literární tradici.
 
-Úkol 6: Analyzujte a porovnejte postavy dvou hlavních hrdinů ve vybraném románu. Jaké jsou jejich zásadní charakteristiky a jak se navzájem ovlivňují?
+Úkol 6: Porovnejte a srovnajte strukturu a syntax českého a slovenského jazyka, s ohledem na podobnosti a rozdíly v jejich gramatické struktuře.
 
-Úkol 7: Srovnávejte a porovnejte vybrané básnické díla s jinými poesickými stylemi. Jaké jsou hlavní rozdíly a podobnosti v těchto stylech?
+Úkol 7: Popsat význam a funkce dialektů v českém jazyce a uveďte tři příklady dialektů a jejich charakteristiky.
 
-Úkol 8: Napište vlastní básni v jednom z vybraných poesických stylů a uveďte inspiraci a motivy vašeho díla.
+Úkol 8: Analyzujte vztah mezi jazykem a identitou a uveďte dvě studie, které zkoumají vztah mezi češtinou a českou identitou.
 
-Úkol 9: Analyzujte a vyhodnoťte význam vybrané literární témat v současné české literatuře. Jaké jsou hlavní příklady a jaké jsou možné souvislosti?
+Úkol 9: Porovnejte a srovnajte českou a polskou literaturu v kontextu historického a kulturního vývoje obou zemí a uveďte tři významné díla, která jsou považována za zásadní pro obě literární tradice.
 
-Úkol 10: Vyberte vybranou hru nebo divadelní představení a analyzujte jeho význam a souvislosti s literárními tématy. Uveďte možné interpretace a diskutujte o jejich významu.
+Úkol 10: Popsat vývoj české národní identity v 19. století, který se odrazil v jazyce a literatuře a uveďte tři důležité osobnosti, které sehrály klíčovou roli v tomto procesu.

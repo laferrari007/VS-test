@@ -1,83 +1,24 @@
 # AI Generované řešení úkolů pro předmět: Chemie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:52:51
+# Datum: 2025-09-15 22:47:32
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vypočítejte molekulovou hmotnost ethanu (C2H6).
+Řešení 1: Základní řešení úkolu 1 z předmětu Chemie
 
-Molekulová hmotnost ethanu (C2H6) lze vypočítat takto:
+Řešení 2: Základní řešení úkolu 2 z předmětu Chemie
 
-Molekulová hmotnost ethanu = (2 x atomová hmotnost uhlíku) + (6 x atomová hmotnost vodíku)
-Molekulová hmotnost ethanu = (2 x 12,01 g/mol) + (6 x 1,008 g/mol)
-Molekulová hmotnost ethanu = 24,02 g/mol + 6,048 g/mol
-Molekulová hmotnost ethanu = 30,068 g/mol
+Řešení 3: Základní řešení úkolu 3 z předmětu Chemie
 
-Zhruba se tedy jedná o 30 g/mol.
+Řešení 4: Základní řešení úkolu 4 z předmětu Chemie
 
-Řešení 2: Popište proces sublimace a její rozdíl od kondenzace.
+Řešení 5: Základní řešení úkolu 5 z předmětu Chemie
 
-Sublimace je proces, při kterém se pevný látek přemění přímo na plyn bez přechodu skrze kapalný stav. To znamená, že pevná látka přechází přímo z pevného stavu do plynného stavu.
+Řešení 6: Základní řešení úkolu 6 z předmětu Chemie
 
-Rozdíl mezi sublimací a kondenzací je ten, že kondenzace je proces, při kterém se plyn přemění přímo na pevnou látku bez přechodu skrze kapalný stav. To znamená, že plyn přechází přímo z plynného stavu do pevného stavu.
+Řešení 7: Základní řešení úkolu 7 z předmětu Chemie
 
-Druhým rozdílem je, že při sublimaci dochází k uvolňování tepla, zatímco při kondenzaci dochází k absorpci tepla. To znamená, že při sublimaci se látka zahřeje, zatímco při kondenzaci se látka ochladí.
+Řešení 8: Základní řešení úkolu 8 z předmětu Chemie
 
-Řešení 3: Vypočítejte počet molekul kyslíku (O2) obsažených v 2,5 g této sloučeniny.
+Řešení 9: Základní řešení úkolu 9 z předmětu Chemie
 
-Základní úloha je poměrně jednoduchá a je pouze nutné znát molekulovou hmotnost kyslíku (O2). Molekulová hmotnost kyslíku (O2) je 32 g/mol.
-
-Teď, aby bylo možné vypočítat počet molekul kyslíku (O2) obsažených v 2,5 g této sloučeniny, je třeba znát hmotnost dané sloučeniny. V tomto případě se předpokládá, že se jedná o kyslík. 
-
-Nyní, abychom mohli vypočítat počet molekul kyslíku (O2) obsažených v 2,5 g kyslíku, použijeme následující vzorec:
-
-počet molekul = hmotnost / molekulová hmotnost
-počet molekul = 2,5 g / 32 g/mol
-počet molekul = 0,078125 mol
-počet molekul = 0,078125 mol x (6,022 x 10^23 molekul/1 mol)
-počet molekul = 4,7025 x 10^21 molekul
-
-Můžeme tedy říci, že v 2,5 g kyslíku (O2) je přibližně 4,7 x 10^21 molekul kyslíku (O2).
-
-Řešení 4: Zkuste vysvětlit, proč se elektrolyticky rozpouští pouze rozpustné soli.
-
-Elektrolyticky rozpustnými soli jsou soli, které se rozpouští ve vodě a vytvářejí rozpuštěný elektrolyt. Tyto soli obsahují kationty a anionty, které se ve vodě rozpouští a vytvoří rozpuštěnou látku.
-
-Proč se elektrolyticky rozpouští pouze rozpustné soli?
-
-To je způsobeno skutečností, že elektrolyticky rozpustné soli obsahují kationty a anionty, které se ve vodě rozpouští a vytvoří rozpuštěnou látku. Kationty a anionty jsou ionty, které se ve vodě rozpouští a vytvářejí rozpuštěnou látku.
-
-Naopak nerozpustné soli neobsahují kationty a anionty, které se ve vodě rozpouští, a proto se elektrolyticky rozpouštící nerozpustné soli neuvolňují.
-
-Řešení 5: Uveďte příklad sloučeniny, která se vyznačuje polymerní strukturou.
-
-Příkladem sloučeniny, která se vyznačuje polymerní strukturou, je polyetylén (PE).
-
-Polyetylén (PE) je polymer, který se skládá z dlouhých řetězců uhlovodíků. Tyto řetězce jsou tvořeny z atomů uhlíku a vodíku, které jsou spojeny v dlouhém řetězci.
-
-Polyetylén (PE) má následující chemickou zkratku: (C2H4)n, kde n je počet jednotek v řetězci.
-
-Polymerace je proces, při kterém se malé molekuly (monomery) spojují do dlouhých řetězců (polymery). V případě polyetylenu (PE) se monomery spojují do dlouhých řetězců uhlovodíků.
-
-Řešení 6: Vypočítejte koncentraci roztoku sodíku (NaCl) ve vodě, který obsahuje 35 g NaCl na 1 litr.
-
-Koncentrací roztoku se rozumí množství látky obsažené v roztoku. V tomto případě se jedná o koncentraci sodíku (NaCl) ve vodě.
-
-Molekulová hmotnost sodíku (NaCl) je 58,44 g/mol.
-
-Koncentraci roztoku sodíku (NaCl) ve vodě lze vypočítat takto:
-
-koncentrace = hmotnost / objem
-koncentrace = 35 g / 1 l
-koncentrace = 35 g/l
-
-To znamená, že roztok sodíku (NaCl) ve vodě obsahuje 35 g NaCl na 1 litr.
-
-Řešení 7: Vysvětlte, jak funguje reakce mezi kyselinou sírovou a hydroxidem sodným.
-
-Reakce mezi kyselinou sírovou (H2SO4) a hydroxidem sodným (NaOH) je reakce, při které se kyselina sírová (H2SO4) reaguje s hydroxidem sodným (NaOH) a vytváří sůl síranu sodného (Na2SO4) a vodu (H2O).
-
-Reakce se může zapsat takto:
-
-H2SO4 + 2 NaOH → Na2SO4 + 2 H2O
-
-V této reakci se kyselina sírová (H2SO4) reaguje s hydroxidem sodným (NaOH
+Řešení 10: Základní řešení úkolu 10 z předmětu Chemie

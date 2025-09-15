@@ -1,36 +1,26 @@
 # AI Generované zadání úkolů pro předmět: Matematika
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:58:07
+# Datum: 2025-09-15 22:45:07
 
-Úkol 1: Proveďte grafickou reprezentaci následujících bodů ve svislé ose: A(-2, 0), B(0, 3), C(3, 0).
+Úkol 1: Proveď, že součin dvou množin je prázdná pouze tehdy, jestliže alespoň jedna z množin je prázdná.
 
-Úkol 2: Najděte kořeny kvadratické rovnice x^2 + 5x + 6 = 0.
+Úkol 2: Rozhodněte, zda je rovnoběžnost dvou přímých lineární funkcí určena pouze jejich krokem, nebo zda je nutno přihlédnout i k jejich směru.
 
-Úkol 3: Zjistěte počet řešení soustavy lineárních rovnic:
+Úkol 3: Najděte všechny řešení systému lineárních rovností:
 
-x + y = 2
-2x - y = 3
+x + y = 3
+2x - 3y = -6
 
-Úkol 4: Proveďte diferenciální počet funkce f(x) = 3x^2 - 2x + 1.
+Úkol 4: Proveď, že funkce f(x) = 2x^3 - 5x^2 + x - 1 je monotónní na intervalu (0, 3).
 
-Úkol 5: Najděte integrál následující funkce: ∫(2x^2 + 1) dx.
+Úkol 5: Najděte derivaci funkce f(x) = (2x + 1)/(x^2 + 1) pro x ≠ -1.
 
-Úkol 6: Zjistěte, zda soustava lineárních rovnic má řešení:
+Úkol 6: Proveď, že funkce f(x) = x^2 + 2x + 1 je parabola otevřená vzhůru a najděte její vrchol.
 
-x + 2y = 3
-3x - 2y = -7
+Úkol 7: Najděte integrál ∫(2x^2 + 5x - 3)dx od 0 do 2.
 
-Úkol 7: Proveďte numerické řešení systému lineárních rovnic s více proměnnými pomocí metody Gaussovy eliminace:
+Úkol 8: Proveď, že funkce f(x) = 1/(x^2 - 1) má křivosty x = 1 a x = -1 jako asimptoty.
 
-2x + 3y - z = 14
-x - 2y + 4z = 11
-x + 2y - 3z = -5
+Úkol 9: Najděte rovnice křivosti křivky f(x) = x^3 - 2x^2 + x + 1.
 
-Úkol 8: Zjistěte funkci, která je derivací funkce f(x) = 2x^3 - 3x^2 + x + 1.
-
-Úkol 9: Proveďte analýzu stability systému diferenciálních rovnic:
-
-dx/dt = 2x - 3y
-dy/dt = x + 2y
-
-Úkol 10: Najděte počet řešení diferenciální rovnice x' = 2x^2 - 2x + 1 s počátečním stavem x(0) = 1.
+Úkol 10: Proveď, že funkce f(x) = sin(x) / (x^2 + 1) má absolutní maximum v bodě x = 0.

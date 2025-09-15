@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Chemie ZŠ
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:47:45
+# Datum: 2025-09-15 22:42:14
 
-Úkol 1: Seznamte se s pojmy "látka", "živá substance" a "chemická látka". Zapište jejich definice a udělejte přehled, který obsahuje tyto pojmy.
+Úkol 1: Seznamte se s prvky periodické soustavy. Seznamte pět prvků z první periody a jejich nejčastějšími izolovanými sloučeninami.
 
-Úkol 2: Vypočtěte hmotnost jednoho atomu vodíku (H) a jednoho atomu kyslíku (O). Použijte data ze standardní tabulky atomových hmotností.
+Úkol 2: Popište rozpad radioaktivního izotopu ²³⁵U. Co je radioaktivní rozpad a jak se odvíjí?
 
-Úkol 3: Seznamte se s periodickou tabulkou prvků. Přeneste prvky ze skupiny 1 (alkalické kovy) do samostatné tabulky a popište jejich hlavní charakteristiky.
+Úkol 3: Vypočtěte molekulovou hmotnost oxidu uhličitého (CO2) a oxidu dusnatého (NO2).
 
-Úkol 4: Seznamte se s pojmy "sloučenina" a "chemická rovnice". Napište příklad chemické rovnice a vysvětlujte, co každý symbol v rovnici znamená.
+Úkol 4: Porovnejte vlastnosti vodíku a helia. Jaký je rozdíl v jejich fyzikálních vlastnostech?
 
-Úkol 5: Vypočtěte hmotnost jednoho molu vody (H2O) na základě hmotností jednoho atomu vodíku (H) a jednoho atomu kyslíku (O).
+Úkol 5: Vypočtěte množství kyslíku (O2) v 1 m³ vzduchu při normálních atmosferických podmínkách.
 
-Úkol 6: Seznamte se s pojmy "chemické reakce" a "reakční směs". Napište příklad chemické reakce a popište, jak je reakční směs vypočtena.
+Úkol 6: Seznamte se s termochemií. Co je entalpie a která reakce má nejvyšší entalpiu?
 
-Úkol 7: Seznamte se s pojmy "neodluštitelná látka" a "odluštitelná látka". Napište příklady obou typů látek a vysvětlujte, proč jsou považovány za odlišné.
+Úkol 7: Porovnejte vlastnosti vod a jejich sloučenin s vodíkem. Jaký je rozdíl v jejich chemických vlastnostech?
 
-Úkol 8: Seznamte se s pojmy "chemická vazba" a "chemická reakce". Napište příklad chemické vazby a vysvětlujte, jak je spojen s chemickou reakcí.
+Úkol 8: Popište chemické reakci mezi vápníkem (Ca) a chlorovodíkem (HCl). Co je výsledkem reakce?
 
-Úkol 9: Seznamte se s pojmy "chemické rovnice" a "reakční rovnice". Napište příklady obou typů rovnic a vysvětlujte, jak se liší.
+Úkol 9: Seznamte se s elektrolytickou roztavenou alkalickou solí (NaOH). Popište její vlastnosti a použití.
 
-Úkol 10: Seznamte se s pojmy "termodynamika chemických reakcí" a "kinetika chemických reakcí". Napište stručné popisy obou pojmů a vysvětlujte, jak je důležité pro chemické reakce.
+Úkol 10: Vypočtěte množství energie uvolněné při spalování 1 kg černého uhlí. Jaký je účinek této energie na životní prostředí?

@@ -1,124 +1,93 @@
 # AI Generované řešení úkolů pro předmět: Matematika
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:58:07
+# Datum: 2025-09-15 22:45:07
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1:
-Úkol 1: Proveďte grafickou reprezentaci následujících bodů ve svislé ose: A(-2, 0), B(0, 3), C(3, 0).
+Řešení 1: Proveď, že součin dvou množin je prázdná pouze tehdy, jestliže alespoň jedna z množin je prázdná.
 
-Abychom graficky reprezentovali tyto body ve svislé ose, použijeme jejich souřadnice. Body jsou umístěny na svislé ose (y = 0) nebo na x-osi (x = 0).
+Abychom prokázali, že součin dvou množin je prázdná pouze tehdy, jestliže alespoň jedna z množin je prázdná, použijeme následující postup:
 
-- Body A(-2, 0) a C(3, 0) leží na x-osi, protože jejich y-komponenty jsou 0.
-- Body B(0, 3) leží na y-osi, protože jeho x-komponenta je 0.
+Začneme s dvěma množinami A a B. Součin množin A a B je definován jako:
 
-Graficky lze reprezentovat tyto body jako tři body na svislé ose, přičemž body A a C leží na x-osi a body B leží na y-osi.
+AB = {x | x ∈ A ∧ x ∈ B}
 
-Řešení 2:
-Úkol 2: Najděte kořeny kvadratické rovnice x^2 + 5x + 6 = 0.
+Pokud alespoň jedna z množin je prázdná, pak je součin množin prázdný. Pokud jsou obě množiny neprázdné, pak je součin množin neprázdný.
 
-Kvadratickou rovnici x^2 + 5x + 6 = 0 můžeme rozložit na faktory nebo použít kvadratickou formulu:
+Zde je důkaz:
 
+1. Pokud A je prázdná, pak není žádný prvek, který by splňoval podmínku x ∈ A ∧ x ∈ B, proto je AB prázdný.
+2. Pokud B je prázdná, pak není žádný prvek, který by splňoval podmínku x ∈ A ∧ x ∈ B, proto je AB prázdný.
+3. Pokud jsou A i B neprázdné, pak existuje alespoň jeden prvek x, který splňuje podmínku x ∈ A ∧ x ∈ B. Proto je AB neprázdný.
+
+Z těchto tří případů můžeme vidět, že součin dvou množin je prázdný pouze tehdy, jestliže alespoň jedna z množin je prázdná.
+
+Řešení 2: Rozhodněte, zda je rovnoběžnost dvou přímých lineární funkcí určena pouze jejich krokem, nebo zda je nutno přihlédnout i k jejich směru.
+
+Rovnoběžnost dvou přímých lineárních funkcí je určena jejich směrem. Krok funkce není relevantní pro rovnoběžnost.
+
+Dvě přímé lineární funkce f(x) a g(x) jsou rovnoběžné tehdy, pokud jejich-gradienty jsou stejné. To znamená, že pokud f(x) = ax + b a g(x) = cx + d, pak jsou f(x) a g(x) rovnoběžné tehdy, pokud a = c.
+
+Směr funkce je dán hodnotou gradientu, proto je nutné přihlédnout k směru obou funkcí pro určení jejich rovnoběžnosti.
+
+Řešení 3: Najděte všechny řešení systému lineárních rovností:
+
+x + y = 3
+2x - 3y = -6
+
+Systém lineárních rovností lze řešit metodou substituce nebo eliminace. Použijeme zde metodu substituce.
+
+1. Přesuneme druhou rovnost o 3y na pravou stranu, aby získali stejný člen y:
+2x = -6 + 3y
+
+2. Tímto způsobem můžeme vyjádřit y v první rovnosti:
+y = 3 - x
+
+3. Podstatíme-li nyní y v druhé rovnosti, dostaneme:
+2x = -6 + 3(3 - x)
+
+4. Rozhodíme-li nyní x, dostaneme:
+2x = -6 + 9 - 3x
+5x = 3
+x = 3/5
+
+5. Pokud nyní vstřebáme x, dostaneme:
+y = 3 - 3/5
+y = 12/5
+
+Protože máme nyní hodnoty x a y, jsou tyto hodnoty řešení systému lineárních rovností.
+
+Řešení 4: Proveď, že funkce f(x) = 2x^3 - 5x^2 + x - 1 je monotónní na intervalu (0, 3).
+
+Funkce je monotónní, pokud je její derivace kladná nebo záporná v daném intervalu. Derivací funkce f(x) = 2x^3 - 5x^2 + x - 1 je f'(x) = 6x^2 - 10x + 1.
+
+1. Pro určení, zda je f(x) monotónní na intervalu (0, 3), musíme najít kritické body, kde f'(x) = 0.
+2. Protože je f'(x) kvadratická funkce, můžeme použít formuli kvadratické rovnosti:
+6x^2 - 10x + 1 = 0
+3x^2 - 5x + 1/6 = 0
+
+Pro řešení této rovnosti použijeme formuli kvadratické rovnosti:
 x = (-b ± √(b^2 - 4ac)) / 2a
 
-V našem případě máme a = 1, b = 5 a c = 6. Přiřaďme tyto hodnoty do kvadratické formuly:
+V tomto případě je a = 3, b = -5 a c = 1/6.
 
-x = (-(5) ± √((5)^2 - 4(1)(6))) / 2(1)
-x = (-5 ± √(25 - 24)) / 2
-x = (-5 ± √1) / 2
-x = (-5 ± 1) / 2
+x = (5 ± √((-5)^2 - 4(3)(1/6))) / (2(3))
+x = (5 ± √(25 - 1)) / 6
+x = (5 ± √24) / 6
+x = (5 ± 2√6) / 6
 
-Tímto způsobem lze najít dvě kořeny rovnice:
+Protože jsou kritické body x = (5 ± 2√6) / 6, musíme tyto hodnoty porovnat se záporným hranicemi intervalu (0, 3).
 
-x1 = (-5 + 1) / 2 = -2
-x2 = (-5 - 1) / 2 = -3
+Zde je porovnání kritických bodů se záporným hranicí intervalu (0, 3): 
+0 < (5 ± 2√6) / 6 < 3
 
-protože x1 a x2 jsou řešení rovnice x^2 + 5x + 6 = 0.
+Protože (5 + 2√6) / 6 = 1,5 a (5 - 2√6) / 6 ≈ -0,2, existují dvě kritické body: (5 + 2√6) / 6 a (5 - 2√6) / 6.
 
-Řešení 3:
-Úkol 3: Zjistěte počet řešení soustavy lineárních rovnic:
+3. Protože je funkce f(x) = 2x^3 - 5x^2 + x - 1 na intervalu (0, (5 - 2√6) / 6) neklesající a na intervalu ((5 + 2√6) / 6, 3) rostoucí, je funkce monotónní na intervalu (0, 3).
 
-x + y = 2
-2x - y = 3
+Protože je funkce monotónní na intervalu (0, 3), je funkce f(x) = 2x^3 - 5x^2 + x - 1 monotónní na intervalu (0, 3).
 
-Soustavu lineárních rovnic můžeme zapsat do matice:
+Řešení 5: Najděte derivaci funkce f(x) = (2x + 1)/(x^2 + 1) pro x ≠ -1.
 
-| 1  | 1 | 2 |
-| ---|---|---|
-| 2  | -1 | 3 |
+Funkce f(x) = (2x + 1)/(x^2 + 1) je rozdílová funkce, proto můžeme použít pravidlo pro diferenciál rozdílové funkce:
 
-Chceme-li najít počet řešení této soustavy, můžeme použít metodu eliminace. První rovnost můžeme zapsat jako x = 2 - y, a poté ji vložit do druhé rovnosti:
-
-2(2 - y) - y = 3
-4 - 2y - y = 3
--3y = -1
-
-Rozdělíme obě strany na -3:
-
-y = 1/3
-
-Tímto způsobem lze najít jeden parametrický výraz pro y. Nyní můžeme tento výraz vložit zpět do první rovnosti:
-
-x + 1/3 = 2
-x = 5/3
-
-protože x = 2 - y a y = 1/3. Tyto hodnoty x a y jsou řešeními soustavy.
-
-Soustava má tedy jedno řešení.
-
-Řešení 4:
-Úkol 4: Proveďte diferenciální počet funkce f(x) = 3x^2 - 2x + 1.
-
-Funkci f(x) = 3x^2 - 2x + 1 můžeme derivovat pomocí pravidla pro derivaci polynomů. Pravidlo říká, že:
-
-- Derivace konstanty je 0.
-- Derivace lineárního členu je jeho koeficient.
-- Derivace čtvercového členu je dvojnásobek jeho koeficientu a násobí se jeho kladným exponentem.
-
-Tato pravidla použijeme na funkci f(x) = 3x^2 - 2x + 1:
-
-- Derivace konstanty 1 je 0.
-- Derivace lineárního členu -2x je -2.
-- Derivace čtvercového členu 3x^2 je dvojnásobek jeho koeficientu 3 a násobí se jeho kladným exponentem 2: 6x.
-
-S kombinací těchto derivací dostaneme derivovanou funkci f'(x):
-
-f'(x) = 6x - 2
-
-Protože derivace funkce f(x) = 3x^2 - 2x + 1 je f'(x) = 6x - 2.
-
-Řešení 5:
-Úkol 5: Najděte integrál následující funkce: ∫(2x^2 + 1) dx.
-
-Integrál ∫(2x^2 + 1) dx můžeme najít pomocí pravidel pro integraci. Pravidlo říká, že:
-
-- Integrál konstanty je konstanta násobená x.
-- Integrál lineárního členu je (1/2) koeficient násobený x^2.
-- Integrál čtvercového členu je (1/3) koeficient násobený x^3.
-
-Tato pravidla použijeme na funkci 2x^2 + 1:
-
-- Integrál konstanty 1 je 1x = x.
-- Integrál lineárního členu 2x^2 je (1/2) jeho koeficient násobený x^2: x^3.
-- Integrál konstanty 1 je 1x = x.
-
-S kombinací těchto integrálů dostaneme integrál ∫(2x^2 + 1) dx:
-
-∫(2x^2 + 1) dx = x^3 + x + C
-
-protože integrál funkce 2x^2 + 1 je x^3 + x + C, kde C je konstanta.
-
-Řešení 6:
-Úkol 6: Zjistěte, zda soustava lineárních rovnic má řešení:
-
-x + 2y = 3
-3x - 2y = -7
-
-Soustavu lineárních rovnic můžeme zapsat do matice:
-
-| 1  | 2 | 3 |
-| ---|---|---|
-| 3  | -2 | -7 |
-
-Chceme-li zjistit, zda soustava má řešení, můžeme použít metodu eliminace. První rovnost můžeme zapsat jako x = 3 - 2y, a poté ji vložit do druhé rovnosti:
-
-3(3 - 2y) - 2y =
+(f(x)/g(x))'

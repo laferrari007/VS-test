@@ -1,23 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Chemie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:52:51
+# Datum: 2025-09-15 22:47:32
 
-Úkol 1: Vypočítejte molekulovou hmotnost ethanu (C2H6).
+Úkol 1: Základní úkol z předmětu Chemie - úroveň 1
 
-Úkol 2: Popište proces sublimace a její rozdíl od kondenzace.
+Úkol 2: Základní úkol z předmětu Chemie - úroveň 2
 
-Úkol 3: Vypočítejte počet molekul kyslíku (O2) obsažených v 2,5 g této sloučeniny.
+Úkol 3: Základní úkol z předmětu Chemie - úroveň 3
 
-Úkol 4: Zkuste vysvětlit, proč se elektrolyticky rozpouští pouze rozpustné soli.
+Úkol 4: Základní úkol z předmětu Chemie - úroveň 4
 
-Úkol 5: Uveďte příklad sloučeniny, která se vyznačuje polymerní strukturou.
+Úkol 5: Základní úkol z předmětu Chemie - úroveň 5
 
-Úkol 6: Vypočítejte koncentraci roztoku sodíku (NaCl) ve vodě, který obsahuje 35 g NaCl na 1 litr.
+Úkol 6: Základní úkol z předmětu Chemie - úroveň 6
 
-Úkol 7: Vysvětlte, jak funguje reakce mezi kyselinou sírovou a hydroxidem sodným.
+Úkol 7: Základní úkol z předmětu Chemie - úroveň 7
 
-Úkol 8: Popište rozdíly mezi iontovými a molekulárními kapalinami.
+Úkol 8: Základní úkol z předmětu Chemie - úroveň 8
 
-Úkol 9: Uveďte příklad chemické reakce, ve které dochází k izomerizaci.
+Úkol 9: Základní úkol z předmětu Chemie - úroveň 9
 
-Úkol 10: Vysvětlte mechanismus fotosyntézy a její chemické reakce.
+Úkol 10: Základní úkol z předmětu Chemie - úroveň 10
