@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Zdravotnické právo
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:50:27
+# Datum: 2025-09-15 23:50:29
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Zdravotnické právo
 
