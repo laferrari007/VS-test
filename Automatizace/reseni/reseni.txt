@@ -1,126 +1,199 @@
-# AI Generované řešení úkolů pro předmět: Automatizace
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:00:35
+# Řešení úkolů pro předmět: Automatizace
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:11:17
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Designujte jednoduchý RoboRIO a vytvořte diagram bloků pro kontrolu motorů, která umožňuje měnit rychlost motorů pomocí analogového vstupu.
+Řešení 1: Návrh a implementace jednoduchého automatizačního systému pro regulaci teploty v prostorném objektu pomocí PLC a senzorů.
 
-**Popis problému:**
-Cílem tohoto úkolu je navrhnout jednoduchý RoboRIO a vytvořit diagram bloků pro kontrolu motorů, který umožňuje měnit rychlost motorů pomocí analogového vstupu. RoboRIO je mikrokontrolér, který může být používán jako centrální jednotka pro řízení robotů.
+**Cíle:**
 
-**Design RoboRIO:**
-Pro tento úkol použijeme mikrokontrolér Arduino. RoboRIO bude mít následující součástky:
+* Regulovat teplotu v objektu na určitou hodinu
+* Monitorovat teplotu a automaticky ji korigovat
+* Implementovat systém pomocí PLC a senzorů
 
-* Mikrokontrolér Arduino (například Arduino Uno)
-* Motorový driver (například L293D)
-* Analogový vstup (například potenciometr)
-* Motor (například DC motor)
+**Štítek technický:**
 
-**Diagram bloků:**
+* PLC: Siemens S7-1200
+* Senzory: teplotní senzory PT100
+* Komunikace: Modbus
 
-1. Získání analogového vstupu z potenciometru pomocí funkce `analogRead()`.
-2. Přepojení analogového vstupu do funkce `map()` pro převod hodnoty z analogového vstupu na hodnotu mezi 0 a 255 (dle potřeby).
-3. Použití funkce `analogWrite()` pro odeslání hodnoty do motorového driveru.
-4. Použití funkce `motorForward()` pro řízení motoru v dopředném směru.
-5. Použití funkce `motorBackward()` pro řízení motoru v zádřevném směru.
+**Krok 1: Návrh systému**
 
-**Kód:**
-```c++
-const int potentiometerPin = A0;  // Pin pro analogový vstup
-const int motorPin = 9;  // Pin pro motorový driver
-const int maxSpeed = 255;  // Maximální rychlost motoru
+1. Identifikujte kritické body teploty v objektu
+2. Určete požadovanou teplotu
+3. Vyberte vhodné senzory teploty
+4. Vyberte PLC a nastavte jej na Modbus komunikaci
 
-void setup() {
-  pinMode(potentiometerPin, INPUT);
-  pinMode(motorPin, OUTPUT);
-}
+**Krok 2: Implementace systému**
 
-void loop() {
-  int analogValue = analogRead(potentiometerPin);
-  int speed = map(analogValue, 0, 1023, 0, maxSpeed);
-  analogWrite(motorPin, speed);
-}
+1. Nainstalujte senzory teploty na kritických bodech
+2. Nainstalujte PLC a nastavte jej na Modbus komunikaci
+3. Napište program PLC pro regulaci teploty
+4. Spusťte systém a monitorujte teplotu
+
+**Kód programu PLC:**
+```
+PROGRAM
+  VAR
+    teplota: REAL;
+    cíl_teplota: REAL := 20; // požadovaná teplota
+  BEGIN
+    // čtení teploty z senzorů
+    teplota := lesen_teplotu();
+    
+    // porovnání teploty s cílem
+    IF teplota > cíl_teplota THEN
+      // snížení teploty
+      snížit_teplotu();
+    ELSIF teplota < cíl_teplota THEN
+      // zvýšení teploty
+      zvýšit_teplotu();
+    END_IF;
+  END_PROGRAM
 ```
 
-**Testování:**
-Pro testování RoboRIO použijeme potenciometr, který bude měřit hodnotu v závislosti na poloze potenciometru. Rychlost motoru bude záviset na hodnotě potenciometru.
+**Řešení 2: Přemapování a optimalizace stávajícího skriptu v jazyce Python pro automatizaci úklidu objektu pomocí robota s využitím knihovny PyRobot.**
 
-**Řešení 2: Zkuste napsat jednoduchý algoritmus pro řízení pohybu robotu pomocí PID regulace. Použijte simulaci nebo reálný robot na potvrzení funkčnosti.**
+**Cíle:**
 
-**Popis problému:**
-Cílem tohoto úkolu je napsat jednoduchý algoritmus pro řízení pohybu robotu pomocí PID regulace. PID regulace je metoda, která umožňuje řídit pohyb robotu na základě chyb mezi skutečným a požadovaným stavem.
+* Přemapovat stávající skript pro automatizaci úklidu objektu
+* Optimalizovat skript pro lepší výkon
 
-**Algoritmus PID:**
+**Štítek technický:**
 
-1. Stanovení požadovaného stavu (například poloha na mapě).
-2. Získání skutečného stavu (například položení senzorů na robotu).
-3. Vypočtení chyb mezi skutečným a požadovaným stavem.
-4. Vypočtení regulátore PID (P, I, D) na základě chyb.
-5. Odeslání hodnoty regulátora PID do motorového driveru pro řízení motoru.
+* Python 3.9
+* PyRobot 1.2.0
+* Robota: Universal Robot
 
-**Kód:**
-```c++
-const int desiredPosition = 100;  // Požadovaný stav
-const int currentPosition = 50;  // Skutečný stav
-const int kp = 2;  // Regulátor P
-const int ki = 1;  // Regulátor I
-const int kd = 0.5;  // Regulátor D
-const int maxSpeed = 255;  // Maximální rychlost motoru
+**Krok 1: Přemapování skriptu**
 
-int error = desiredPosition - currentPosition;
-int pidOutput = kp * error + ki * error * time + kd * (error - previousError);
-analogWrite(motorPin, pidOutput);
+1. Identifikujte klíčové části stávajícího skriptu
+2. Přemapujte části skriptu do nového formátu
+3. Testujte skript na roboto
+
+**Kód přemapovaného skriptu:**
+```python
+import pyrobot
+
+# inicializace robota
+robot = pyrobot.Robot()
+
+# funkce pro pohyb robota
+def pohyb(x, y, z):
+    robot.move(x, y, z)
+
+# funkce pro čištění
+def čištění(x, y):
+    robot.clean(x, y)
+
+# hlavní program
+def main():
+    # inicializace
+    robot.init()
+    
+    # pohyb na místo čištění
+    pohyb(1, 2, 3)
+    
+    # čištění
+    čištění(1, 2)
+    
+    # konec programu
+    robot.end()
+
+# spuštění programu
+main()
 ```
 
-**Testování:**
-Pro testování algoritmu PID použijeme simulaci nebo reálný robot. Robot bude pohybovat směrem k požadovanému stavu, a algoritmus PID bude upravovat rychlost motoru na základě chyb mezi skutečným a požadovaným stavem.
+**Řešení 3: Analytická práce: Porovnání a vyhodnocení funkcí a možností různých PLC systémů (např. Siemens, Allen-Bradley) s ohledem na jejich integraci s jinými technologiemi (např. IoT, cloudové služby).**
 
-**Řešení 3: Implementujte a testujte algoritmus pro detekci hran pomocí kamerového senzoru v prostředí simulace. Použijte knihovny pro zpracování obrazu (OpenCV).**
+**Cíle:**
 
-**Popis problému:**
-Cílem tohoto úkolu je implementovat a testovat algoritmus pro detekci hran pomocí kamerového senzoru v prostředí simulace. Algoritmus bude používat knihovny pro zpracování obrazu (OpenCV).
+* Porovnat funkce a možnosti různých PLC systémů
+* Vyhodnotit integraci PLC systémů s jinými technologiemi
 
-**Algoritmus detekce hran:**
+**Štítek technický:**
 
-1. Získání obrazu z kamerového senzoru.
-2. Převod obrazu na černobílý.
-3. Vypočtení gradientu obrazu.
-4. Vypočtení hran v obraze.
-5. Odeslání hodnoty hran do motorového driveru pro řízení motoru.
+* PLC Siemens S7-1200
+* PLC Allen-Bradley ControlLogix 5570
+* IoT: MQTT
+* Cloudové služby: Azure IoT Hub
 
-**Kód:**
-```c++
-#include <opencv2/opencv.hpp>
+**Krok 1: Porovnání funkcí a možností**
 
-cv::Mat image;  // Obraz
-cv::Mat gray;  // Černobílý obraz
-cv::Mat grad;  // Gradient obrazu
-cv::Mat edges;  // Hran v obraze
+1. Identifikujte klíčové funkce a možnosti PLC systémů
+2. Porovnejte funkce a možnosti mezi sebou
+3. Vyhodnotte výhody a nevýhody každého systému
 
-void detectEdges() {
-  cv::cvtColor(image, gray, cv::COLOR_BGR2GRAY);
-  cv::Laplacian(gray, grad, cv::DEPTH_DEFAULT, 1);
-  cv::Canny(grad, edges, 50, 150);
-}
+**Krok 2: Vyhodnocení integrace s jinými technologiemi**
 
-int main() {
-  // Získání obrazu z kamerového senzoru
-  cv::Mat image = cv::imread("image.jpg");
+1. Identifikujte klíčové technologie pro integraci
+2. Vyhodnotte integraci PLC systémů s těmito technologiemi
+3. Porovnejte výhody a nevýhody každé integrace
 
-  detectEdges();
+**Výsledky porovnání:**
 
-  // Vypočtení hran v obraze
-  int edgesValue = cv::sum(edges)[0];
+| PLC systém | Funkce | Možnosti | Integrace s IoT | Integrace s cloudovými službami |
+| --- | --- | --- | --- | --- |
+| Siemens S7-1200 | vysoká úroveň automatizace | široké spektrum možností | podporuje MQTT | podporuje Azure IoT Hub |
+| Allen-Bradley ControlLogix 5570 | vysoká úroveň automatizace | široké spektrum možností | podporuje MQTT | podporuje Azure IoT Hub |
 
-  // Odeslání hodnoty hran do motorového driveru
-  analogWrite(motorPin, edgesValue);
-}
+**Řešení 4: Implementace a testování automatické montáže součástek na výtvarném stroji pomocí robota s využitím jazyka Python a knihovny PyVCP.**
+
+**Cíle:**
+
+* Implementovat automatickou montáž součástek na výtvarném stroji
+* Testovat systém
+
+**Štítek technický:**
+
+* Python 3.9
+* PyVCP 1.2.0
+* Robota: Universal Robot
+
+**Krok 1: Implementace systému**
+
+1. Identifikujte klíčové části systému
+2. Implementujte části systému do Pythonu
+3. Testujte systém na roboto
+
+**Kód implementovaného systému:**
+```python
+import pyvcp
+
+# inicializace robota
+robot = pyvcp.Robot()
+
+# funkce pro pohyb robota
+def pohyb(x, y, z):
+    robot.move(x, y, z)
+
+# funkce pro montáž součástek
+def montáž(x, y):
+    robot.mount(x, y)
+
+# hlavní program
+def main():
+    # inicializace
+    robot.init()
+    
+    # pohyb na místo montáže
+    pohyb(1, 2, 3)
+    
+    # montáž součástek
+    montáž(1, 2)
+    
+    # konec programu
+    robot.end()
+
+# spuštění programu
+main()
 ```
 
-**Testování:**
-Pro testování algoritmu detekce hran použijeme simulaci nebo reálný robot. Robot bude pohybovat směrem ke hranám v obraze, a algoritmus detekce hran bude upravovat rychlost motoru na základě hodnoty hran.
+**Řešení 5: Návrh a implementace systému pro automatizovanou identifikaci a klasifikaci výrobků na výrobní lince pomocí počítačové vizuální analýzy a strojového učení.**
 
-**Řešení 4: Navrhněte a implementujte systémy pro automatické měření teploty a vlhkosti v laboratoři. Použijte senzory a mikrokontroléry (například Arduino).**
+**Cíle:**
 
-**Popis problému:**
-Cílem tohoto úkolu je navrhnout a implementovat systémy pro automatické měření teploty a vlhkosti v laboratoři. Systém bude používat senzory a mikrokontroléry (například
+* Návrh systému pro automatizovanou identifikaci a klasifikaci výrobků
+* Implementace systému
+
+**Štítek technický:

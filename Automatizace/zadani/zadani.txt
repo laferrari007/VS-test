@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Automatizace
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:00:35
+# Zadání úkolů pro předmět: Automatizace
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:11:17
 
-Úkol 1: Designujte jednoduchý RoboRIO a vytvořte diagram bloků pro kontrolu motorů, která umožňuje měnit rychlost motorů pomocí analogového vstupu.
+Úkol 1: Návrh a implementace jednoduchého automatizačního systému pro regulaci teploty v prostorném objektu pomocí PLC (Programmable Logic Controller) a senzorů.
 
-Úkol 2: Zkuste napsat jednoduchý algoritmus pro řízení pohybu robotu pomocí PID regulace. Použijte simulaci nebo reálný robot na potvrzení funkčnosti.
+Úkol 2: Přemapování a optimalizace stávajícího skriptu v jazyce Python pro automatizaci úklidu objektu pomocí robota s využitím knihovny PyRobot.
 
-Úkol 3: Implementujte a testujte algoritmus pro detekci hran pomocí kamerového senzoru v prostředí simulace. Použijte knihovny pro zpracování obrazu (OpenCV).
+Úkol 3: Analytická práce: Porovnání a vyhodnocení funkcí a možností různých PLC systémů (např. Siemens, Allen-Bradley) s ohledem na jejich integraci s jinými technologiemi (např. IoT, cloudové služby).
 
-Úkol 4: Navrhněte a implementujte systémy pro automatické měření teploty a vlhkosti v laboratoři. Použijte senzory a mikrokontroléry (například Arduino).
+Úkol 4: Implementace a testování automatické montáže součástek na výtvarném stroji pomocí robota s využitím jazyka Python a knihovny PyVCP.
 
-Úkol 5: Zkuste implementovat algoritmus pro optimalizaci trasy robotu s využitím A* algoritmu. Použijte simulaci nebo reálný robot pro potvrzení funkčnosti.
+Úkol 5: Návrh a implementace systému pro automatizovanou identifikaci a klasifikaci výrobků na výrobní lince pomocí počítačové vizuální analýzy a strojového učení.
 
-Úkol 6: Designujte a implementujte systém pro automatické vyrovnávání úrovně v laboratoři. Použijte senzory a mikrokontroléry (například Arduino).
+Úkol 6: Porovnání a vyhodnocení různých algoritmů pro optimalizaci pohybu robota v prostoru a jejich implementace do automatizačního systému.
 
-Úkol 7: Implementujte a testujte algoritmus pro identifikaci objektů na základě jejich tvaru a velikosti pomocí kamerového senzoru. Použijte knihovny pro zpracování obrazu (OpenCV).
+Úkol 7: Implementace a testování automatického systému pro řízení a optimalizaci energetické spotřeby objektu pomocí IoT senzorů a cloudových služeb.
 
-Úkol 8: Navrhněte a implementujte systém pro automatizaci procesů v laboratoři pomocí PLC (Programmable Logic Controller) nebo podobných zařízení.
+Úkol 8: Návrh a implementace systému pro automatizovanou detekci a odstranění nebezpečných situací v objektu (např. požár, havárie) pomocí počítačové vizuální analýzy a IoT senzorů.
 
-Úkol 9: Zkuste implementovat algoritmus pro řízení pohybu robotu s využitím modelu dynamiky robotu. Použijte simulaci nebo reálný robot pro potvrzení funkčnosti.
+Úkol 9: Analytická práce: Vyhodnocení účinnosti a efektivity různých automatizačních systémů v různých odvětvích průmyslu (např. výroba, logistika) a jejich porovnání s ohledem na energetickou účinnost a ekonomickou náročnost.
 
-Úkol 10: Designujte a implementujte komplexní systém pro automatizaci výroby pomocí robotů a PLC. Zajistěte funkčnost systému a použijte různé senzory a mechanismy pro automatizaci procesů.
+Úkol 10: Návrh a implementace systému pro automatizovanou integraci různých technologií a systémů (např. IoT, cloudové služby, AI) pro vytváření inteligentních objeků a chytrých měst.
