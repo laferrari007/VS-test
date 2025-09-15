@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Fenomenologie
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:59:13
+# Datum: 2025-09-15 23:59:17
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 
