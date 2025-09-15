@@ -1,0 +1,25 @@
+# Zadání úkolů pro předmět: Telekomunikační technika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:35:12
+
+Zde jsou 10 univerzitních úkolů pro předmět "Telekomunikační technika":
+
+Úkol 1: Popište základní principy fungování digitální komunikace a zdůvodněte proč je nutné používání kódování při přenosu digitální informace.
+
+Úkol 2: Seznamte se s typy kabelů, které se používají v telekomunikacích (coaxiální, opticální, twisted pair), a popsalmateř jejich charakteristik a použití.
+
+Úkol 3: Vypočítejte a zdůvodněte, proč je důležitá vzdálenost a úhel dopadu signálu v optické komunikaci.
+
+Úkol 4: Popište a vyhodnoťte principy fungování modulačních technik (ASK, FSK, PSK) a zdůvodněte jejich použití v různých aplikacích.
+
+Úkol 5: Seznamte se s typy chybových kódů (parity, CRC) a popsalmateř jejich použití v telekomunikacích.
+
+Úkol 6: Vypočítejte a zdůvodněte, proč je důležitá charakteristika signálu (amplituda, frekvence, fáze) v modulační technice.
+
+Úkol 7: Popište a vyhodnoťte principy fungování vybraných typů přenosových technik (modifikace signálu, kódování, dekódování) a zdůvodněte jejich použití v různých aplikacích.
+
+Úkol 8: Seznamte se s typy rozptylu signálu (multiplexní rozptyl, rozptyl prostředí, rozptyl časový) a popsalmateř jejich vliv na kvalitu signálu.
+
+Úkol 9: Vypočítejte a zdůvodněte, proč je důležitá charakteristika prostředí (absorpce, difuzní rozptyl, odraz) v telekomunikacích.
+
+Úkol 10: Popište a vyhodnoťte principy fungování vybraných typů komunikačních sítí (přenos dat, hlas, video) a zdůvodněte jejich architekturu a použití v různých aplikacích.
