@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Fyzika pevných látek
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:20:21
+# Datum: 2025-09-15 23:20:22
 
-Úkol 1: Vysvětlit rozdíl mezi kovalentní a iontovou vazbou v pevných látkách a uvést příklady látek, které se na tuto vazbu řadí.
+Úkol 1: Vypočítejte hustotu a objemový zahuštnění uhlíkových nanotrubiček s vnitřním poloměrem 5 nm a vnějším poloměrem 10 nm, pokud jejich hustota je 2,2 g/cm³.
 
-Úkol 2: Popsat mechanismus, který je zodpovědný za tepelnou roztažnost pevných látek, a vysvětlit, jak se to projevuje v reálném světě.
+Úkol 2: Rozhodněte, zda je materiál AlN (aluminium nitrid) feromagnetický nebo paramagnetický na teplotě 300 K.
 
-Úkol 3: Rozlišit mezi amorfními a křemíkovými pevnými látkami a popsat jejich hlavní rozdíly v struktuře a vlastnostech.
+Úkol 3: Vypočítejte energii vzniku nanotrubiček uhlíku na bázi mechanického zlomení uhlíkových vláken s hustotou 2,2 g/cm³ a délkou 1 mm.
 
-Úkol 4: Vysvětlit principy, které řídí elektrické vlastnosti pevných látek, jako je polovodičnost a supravitost, a uvést příklady látek, které tyto vlastnosti vykazují.
+Úkol 4: Popište a vysvětlete mechanismus pevnostních vlastností nanomateriálů v závislosti na jejich velikosti a struktuře.
 
-Úkol 5: Popsat mechanismus, který je zodpovědný za plasticitu pevných látek, a vysvětlit, jak se to projevuje v reálném světě.
+Úkol 5: Vypočítejte tepelnou vodivost uhlíkových nanotrubiček s vnitřním poloměrem 2 nm a vnějším poloměrem 4 nm v roztoku v acetonu.
 
-Úkol 6: Rozlišit mezi feromagnetismem a paramagnetismem a vysvětlit, jak se tyto jevy projevují v pevných látkách.
+Úkol 6: Rozhodněte, zda je materiál ZnO (zinek oxid) feromagnetický nebo paramagnetický na teplotě 200 K.
 
-Úkol 7: Vysvětlit principy, které řídí tepelné vlastnosti pevných látek, jako je tepelná vodivost a tepelná kapacita, a uvést příklady látek, které tyto vlastnosti vykazují.
+Úkol 7: Vypočítejte dynamické pevnostní vlastnosti nanotrubiček uhlíku s vnitřním poloměrem 5 nm a vnějším poloměrem 10 nm v závislosti na jejich délce.
 
-Úkol 8: Popsat mechanismus, který je zodpovědný za proces nukleace v pevných látkách, a vysvětlit, jak se to projevuje v reálném světě.
+Úkol 8: Popište a vysvětlete mechanismy deformace a zlomení nanomateriálů v závislosti na jejich velikosti a struktuře.
 
-Úkol 9: Rozlišit mezi amorfními a křemíkovými pevnými látkami a vysvětlit, jak se jejich struktura a vlastnosti liší v závislosti na teplotě a tlaku.
+Úkol 9: Vypočítejte tepelnou vodivost nanotrubiček uhlíku s vnitřním poloměrem 1 nm a vnějším poloměrem 2 nm v roztoku v metanolu.
 
-Úkol 10: Vysvětlit principy, které řídí procesy superkrystalizace a recrystalizace v pevných látkách, a uvést příklady látek, které tyto procesy vykazují.
+Úkol 10: Vypočítejte dynamické pevnostní vlastnosti kompozitů z nanotrubiček uhlíku a polymerních nanotrubiček v závislosti na jejich velikosti a struktuře.
