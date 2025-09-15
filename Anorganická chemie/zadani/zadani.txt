@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Anorganická chemie
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:08:03
+# Zadání úkolů pro předmět: Anorganická chemie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:21:44
 
-Úkol 1: Základní úkol z předmětu Anorganická chemie - úroveň 1
+Úkol 1: Zjistěte a popište hlavní rozdíly mezi iontovými a kovalentními sloučeninami.
 
-Úkol 2: Základní úkol z předmětu Anorganická chemie - úroveň 2
+Úkol 2: Použijte molekulární modely k popisu struktury molekul chloridu sodného (NaCl) a vody (H2O).
 
-Úkol 3: Základní úkol z předmětu Anorganická chemie - úroveň 3
+Úkol 3: Vysvětlete rozdíl mezi oxidačními čísly a elektronegativitou v rámci periodické tabulky prvků.
 
-Úkol 4: Základní úkol z předmětu Anorganická chemie - úroveň 4
+Úkol 4: Proveďte výpočet molární hmotnosti a hustoty molybdenu (Mo) za předpokladu, že jeho čistá hmotnost je 95,94 g/mol.
 
-Úkol 5: Základní úkol z předmětu Anorganická chemie - úroveň 5
+Úkol 5: Napište rovnice roztavení a taví se při teplotě 962 °C pro hořčík (Ca) a popište jeho vlastnosti ve formě kapaliny.
 
-Úkol 6: Základní úkol z předmětu Anorganická chemie - úroveň 6
+Úkol 6: Vypočítejte teoretickou hustotu olova (Pb) v jeho čisté formě za předpokladu, že jeho molární hmotnost je 207,2 g/mol.
 
-Úkol 7: Základní úkol z předmětu Anorganická chemie - úroveň 7
+Úkol 7: Seznamte se se základními vlastnostmi a aplikacemi titanu, zejména jeho použití v kosmických technologiích.
 
-Úkol 8: Základní úkol z předmětu Anorganická chemie - úroveň 8
+Úkol 8: Použijte zákon Raoultova k popisu vývoje vzájemné rozpustnosti v roztoku chloridu sodného (NaCl) a vodou (H2O) v závislosti na koncentraci chloridu sodného.
 
-Úkol 9: Základní úkol z předmětu Anorganická chemie - úroveň 9
+Úkol 9: Vypočítejte molovou hmotnost a molovou hmotnostní zastoupení jednotlivých složek v roztoku obsahujícím chlorid vápenatý (CaCl2) a chlorid sodný (NaCl) ve stejném poměru 1:1.
 
-Úkol 10: Základní úkol z předmětu Anorganická chemie - úroveň 10
+Úkol 10: Popište mechanismus syntézy chloridu kobaltitého (CoCl2) z chloridu kobaltitého (CoO) a chloridu vápenatého (CaCl2) a zmiňte jeho hlavní technické aplikace.
