@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Fyzika pevných látek
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:06:51
+# Zadání úkolů pro předmět: Fyzika pevných látek
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:20:21
 
-Úkol 1: Rozložte jednoduchý spektrum elektronů v atomu vodíku podle pravidel Pauliho exkluzivity a určete počet možných stavů.
+Úkol 1: Vysvětlit rozdíl mezi kovalentní a iontovou vazbou v pevných látkách a uvést příklady látek, které se na tuto vazbu řadí.
 
-Úkol 2: Představte si jednoduchou křižovatku v systému s jedním elektronem a určete pravděpodobnost přechodu elektronu ze stavu n = 2 na n = 1.
+Úkol 2: Popsat mechanismus, který je zodpovědný za tepelnou roztažnost pevných látek, a vysvětlit, jak se to projevuje v reálném světě.
 
-Úkol 3: Rozložte teplotní závislost specifickej tepelné kapacity materiálu s jednoduchým spektrum elektronů (n = 1, 2, 3) podle modelu Drudeho.
+Úkol 3: Rozlišit mezi amorfními a křemíkovými pevnými látkami a popsat jejich hlavní rozdíly v struktuře a vlastnostech.
 
-Úkol 4: Porovnejte efektivní tepelnou vodivost materiálu v závislosti na teplotě a přítomnosti impurek, které způsobují rozptyl elektronů do vyšších stavů.
+Úkol 4: Vysvětlit principy, které řídí elektrické vlastnosti pevných látek, jako je polovodičnost a supravitost, a uvést příklady látek, které tyto vlastnosti vykazují.
 
-Úkol 5: Představte si jednoduchý systém se dvěma elektrony a určete pravděpodobnost přechodu jednoho elektronu ze stavu n = 2 na n = 1, pokud druhý elektron je v stavu n = 1.
+Úkol 5: Popsat mechanismus, který je zodpovědný za plasticitu pevných látek, a vysvětlit, jak se to projevuje v reálném světě.
 
-Úkol 6: Rozložte tepelnou vodivost materiálu v závislosti na přítomnosti impurek a jejich energetické hladině, která způsobuje rozptyl elektronů do vyšších stavů.
+Úkol 6: Rozlišit mezi feromagnetismem a paramagnetismem a vysvětlit, jak se tyto jevy projevují v pevných látkách.
 
-Úkol 7: Porovnejte teplotní závislost elektrickým odporu materiálu s jednoduchým spektrum elektronů (n = 1, 2, 3) a materiálu s komplikovanějším spektrum elektronů (n = 1, 2, 3, 4).
+Úkol 7: Vysvětlit principy, které řídí tepelné vlastnosti pevných látek, jako je tepelná vodivost a tepelná kapacita, a uvést příklady látek, které tyto vlastnosti vykazují.
 
-Úkol 8: Představte si jednoduchý systém se třemi elektrony a určete počet možných stavů, které jsou splněny podle pravidel Pauliho exkluzivity.
+Úkol 8: Popsat mechanismus, který je zodpovědný za proces nukleace v pevných látkách, a vysvětlit, jak se to projevuje v reálném světě.
 
-Úkol 9: Rozložte efektivní tepelnou kapacitu materiálu v závislosti na přítomnosti impurek a jejich energetické hladině, která způsobuje rozptyl elektronů do vyšších stavů.
+Úkol 9: Rozlišit mezi amorfními a křemíkovými pevnými látkami a vysvětlit, jak se jejich struktura a vlastnosti liší v závislosti na teplotě a tlaku.
 
-Úkol 10: Porovnejte teplotní závislost elektrickým odporu materiálu s jednoduchým spektrum elektronů (n = 1, 2, 3) a materiálu s přítomností spinového rozptylu, který vzniká kvůli přítomnosti magnetických impurek.
+Úkol 10: Vysvětlit principy, které řídí procesy superkrystalizace a recrystalizace v pevných látkách, a uvést příklady látek, které tyto procesy vykazují.
