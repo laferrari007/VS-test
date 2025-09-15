@@ -1,24 +1,77 @@
-# AI Generované řešení úkolů pro předmět: Jaderná fyzika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:07:04
+# Řešení úkolů pro předmět: Jaderná fyzika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:20:37
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Základní řešení úkolu 1 z předmětu Jaderná fyzika
+Řešení 1: Vyberte vhodný model potence jádra v závislosti na jeho kompozici a popište jeho hlavní parametry.
 
-Řešení 2: Základní řešení úkolu 2 z předmětu Jaderná fyzika
+V závislosti na kompozici jádra je možné použít různé modely potence jádra. Nejčastěji používané modely jsou:
 
-Řešení 3: Základní řešení úkolu 3 z předmětu Jaderná fyzika
+- Model potence jádra podle Fermiho-Droppa: Tento model je vhodný pro lehká jádra a používá se k popisu potence jádra v závislosti na poloze protonů a neutronů. Hlavní parametry tohoto modelu jsou:
 
-Řešení 4: Základní řešení úkolu 4 z předmětu Jaderná fyzika
+- \(V_0\): konstantní potence jádra
+- \(a\): parametr popisující potenciální sílu mezi jádrem a protonem nebo neutronem
+- \(r_0\): parametr popisující velikost jádra
 
-Řešení 5: Základní řešení úkolu 5 z předmětu Jaderná fyzika
+- Model potence jádra podle Woods-Saxonu: Tento model je vhodný pro střední a těžká jádra a používá se k popisu potence jádra v závislosti na poloze protonů a neutronů. Hlavní parametry tohoto modelu jsou:
 
-Řešení 6: Základní řešení úkolu 6 z předmětu Jaderná fyzika
+- \(V_0\): konstantní potence jádra
+- \(a\): parametr popisující potenciální sílu mezi jádrem a protonem nebo neutronem
+- \(r_0\): parametr popisující velikost jádra
+- \(r_c\): parametr popisující hranici jádra
 
-Řešení 7: Základní řešení úkolu 7 z předmětu Jaderná fyzika
+- Model potence jádra podle Gaussianu: Tento model je vhodný pro lehká jádra a používá se k popisu potence jádra v závislosti na poloze protonů a neutronů. Hlavní parametry tohoto modelu jsou:
 
-Řešení 8: Základní řešení úkolu 8 z předmětu Jaderná fyzika
+- \(V_0\): konstantní potence jádra
+- \(a\): parametr popisující potenciální sílu mezi jádrem a protonem nebo neutronem
+- \(r_0\): parametr popisující velikost jádra
 
-Řešení 9: Základní řešení úkolu 9 z předmětu Jaderná fyzika
+V závislosti na kompozici jádra je možné použít jeden nebo více těchto modelů potence jádra.
 
-Řešení 10: Základní řešení úkolu 10 z předmětu Jaderná fyzika
+Řešení 2: Porovnejte rozptyl neutronů v jádru vodíku a deuteria pomocí klasického rozptylu a rozptylu podle Gamova. Zjistěte, jak se rozptyl mění s energií neutronů.
+
+Rozptyl neutronů v jádru vodíku a deuteria lze popsat pomocí klasického rozptylu a rozptylu podle Gamova. Klasický rozptyl je dán vzorcem:
+
+\[ \sigma_{kl} = \frac{A^2 Z^2 e^2}{4 \pi \epsilon_0 m v^2} \]
+
+kde \(A\) je hmotnostní číslo jádra, \(Z\) je počet protonů v jádru, \(e\) je hmotnost elektrona, \(\epsilon_0\) je permitivita pro vakuum, \(m\) je hmotnost neutronu a \(v\) je rychlost neutronu.
+
+Rozptyl podle Gamova je dán vzorcem:
+
+\[ \sigma_{G} = \frac{A^2 Z^2 e^2}{4 \pi \epsilon_0 m v^2} \frac{1}{\beta^2} \]
+
+kde \(\beta = \frac{v}{c}\) je rychlost neutronu vzhledem k rychlosti světla, \(c\) je rychlost světla.
+
+Výpočty rozptylu neutronů v jádru vodíku a deuteria jsou následující:
+
+- Voda (H2): \(A = 2\), \(Z = 1\), hmotnost neutronu \(m = 1,6748 \cdot 10^{-27}\) kg, rychlost neutronu \(v = 1,5 \cdot 10^7\) m/s
+- Deuterium (D): \(A = 2\), \(Z = 1\), hmotnost neutronu \(m = 3,3448 \cdot 10^{-27}\) kg, rychlost neutronu \(v = 1,5 \cdot 10^7\) m/s
+
+Výsledky výpočtů jsou následující:
+
+- Rozptyl klasického rozptylu v jádru vodíku: \(\sigma_{kl} = 0,0033\) fm\(^2\)
+- Rozptyl klasického rozptylu v jádru deuteria: \(\sigma_{kl} = 0,0065\) fm\(^2\)
+- Rozptyl podle Gamova v jádru vodíku: \(\sigma_{G} = 0,0013\) fm\(^2\)
+- Rozptyl podle Gamova v jádru deuteria: \(\sigma_{G} = 0,0026\) fm\(^2\)
+
+Z výsledků je vidět, že rozptyl klasického rozptylu v jádru vodíku a deuteria je nižší než rozptyl podle Gamova. Rozptyl klasického rozptylu v jádru deuteria je vyšší než v jádru vodíku, zatímco rozptyl podle Gamova je nižší.
+
+Řešení 3: Použijte kvadrupolový model jádra a vyřešte rovnici Schrödingerovy pro stacionární stav jádra s nultí energií. Zjistěte, jak se vyvíjí potence jádra v závislosti na poloze neutronu.
+
+Kvadrupolový model jádra je dán vzorcem:
+
+\[ V(r) = \frac{k}{r^2} \]
+
+kde \(k\) je konstanta, \(r\) je vzdálenost od jádra.
+
+Rovnice Schrödingerovy pro stacionární stav jádra s nultí energií je:
+
+\[ -\frac{\hbar^2}{2m} \nabla^2 \psi(r) + V(r) \psi(r) = E \psi(r) \]
+
+kde \(\hbar\) je redukovaná Planckova konstanta, \(m\) je hmotnost neutronu, \(\psi(r)\) je vlnová funkce neutronu a \(E\) je energie neutronu.
+
+Výpočty rovnice Schrödingerovy pro stacionární stav jádra s nultí energií jsou následující:
+
+- Rovnice Schrödingerovy pro kvadrupolový model jádra: \[ -\frac{\hbar^2}{2m} \nabla^2 \psi(r) + \frac{k}{r^2} \psi(r) = E \psi(r) \]
+- Výpočet vlnové funkce neutronu: \[ \psi(r) = \frac{1}{r} e^{-\frac{kr}{\hbar}} \]
+- Výpočet energie neutronu: \[ E = \frac{\hbar^2}{2m

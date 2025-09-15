@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Jaderná fyzika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:07:04
+# Zadání úkolů pro předmět: Jaderná fyzika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:20:37
 
-Úkol 1: Základní úkol z předmětu Jaderná fyzika - úroveň 1
+Úkol 1: Vyberte vhodný model potence jádra v závislosti na jeho kompozici a popište jeho hlavní parametry.
 
-Úkol 2: Základní úkol z předmětu Jaderná fyzika - úroveň 2
+Úkol 2: Porovnejte rozptyl neutronů v jádru vodíku a deuteria pomocí klasického rozptylu a rozptylu podle Gamova. Zjistěte, jak se rozptyl mění s energií neutronů.
 
-Úkol 3: Základní úkol z předmětu Jaderná fyzika - úroveň 3
+Úkol 3: Použijte kvadrupolový model jádra a vyřešte rovnici Schrödingerovy pro stacionární stav jádra s nultí energií. Zjistěte, jak se vyvíjí potence jádra v závislosti na poloze neutronu.
 
-Úkol 4: Základní úkol z předmětu Jaderná fyzika - úroveň 4
+Úkol 4: Rozšířte kvadrupolový model jádra o deformaci podle formy rotačního jádra. Vyřešte rovnici Schrödingerovy pro stacionární stav jádra s nultí energií a porovnejte výsledky s experimentálními daty.
 
-Úkol 5: Základní úkol z předmětu Jaderná fyzika - úroveň 5
+Úkol 5: Použijte teoretický model rozptylu neutronů v jádru a zjistěte, jak se rozptyl mění s energií neutronů a kompozicí jádra. Porovnejte výsledky s experimentálními daty.
 
-Úkol 6: Základní úkol z předmětu Jaderná fyzika - úroveň 6
+Úkol 6: Zjistěte, jak se mění stabilita jádra v závislosti na počtu neutronů a protonů. Použijte teoretický model rozptylu neutronů a rozptylu protonů a porovnejte výsledky s experimentálními daty.
 
-Úkol 7: Základní úkol z předmětu Jaderná fyzika - úroveň 7
+Úkol 7: Použijte Monte Carlo simulaci k analýze rozptylu neutronů v jádru. Zjistěte, jak se rozptyl mění s energií neutronů a kompozicí jádra.
 
-Úkol 8: Základní úkol z předmětu Jaderná fyzika - úroveň 8
+Úkol 8: Zjistěte, jak se mění potence jádra v závislosti na poloze neutronu v jádru s nultí energií. Použijte kvadrupolový model jádra a rozšiřte ho o deformaci podle formy rotačního jádra.
 
-Úkol 9: Základní úkol z předmětu Jaderná fyzika - úroveň 9
+Úkol 9: Použijte teoretický model rozptylu neutronů v jádru a zjistěte, jak se rozptyl mění s energií neutronů a kompozicí jádra v různých hmotnostních číslech. Porovnejte výsledky s experimentálními daty.
 
-Úkol 10: Základní úkol z předmětu Jaderná fyzika - úroveň 10
+Úkol 10: Zjistěte, jak se mění stabilita jádra v závislosti na počtu neutronů a protonů v jádru s nultí energií. Použijte kvadrupolový model jádra a rozšiřte ho o deformaci podle formy rotačního jádra.
