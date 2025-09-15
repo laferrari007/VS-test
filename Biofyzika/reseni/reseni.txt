@@ -1,6 +1,6 @@
 # Řešení úkolů pro předmět: Biofyzika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:21:27
+# Datum: 2025-09-15 23:21:28
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
 Řešení 1: 

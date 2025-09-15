@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Biofyzika
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:21:27
+# Datum: 2025-09-15 23:21:28
 
-Úkol 1: Popište základní principy a charakteristiky difuze v biologických systémech.
+Úkol 1: Vyjmenujte a vysvětlete základní pojmy v biofyzice, jako jsou například biologický systém, mechanika, termodynamika a elektromagnetismus v souvislosti s živými organismy.
 
-Úkol 2: Porovnejte a vyjasněte rozdíly mezi pasivním a aktivním transportem látek přes buněčnou membránu.
+Úkol 2: Vysvětlete rozdíl mezi difuzí a osmózou a udělejte schéma, jak se vyskytuje obojí v lidském těle.
 
-Úkol 3: Popište mechanismus a význam proteinů transportéru v buněčném metabolismu.
+Úkol 3: Vyjděte na teorii molekulární mechaniky a vysvětlete, jak je možné modelovat chování molekul v biologických systémech.
 
-Úkol 4: Vysvětlejte roli mechanochemických procesů v řízení dynamiky buněčné membrány.
+Úkol 4: Porovnejte a srovnávejte modely Brownovy ruchu a Langevinova ruchu a vysvětlejte, kdy je kdy vhodné použít jeden nebo druhý.
 
-Úkol 5: Diskutujte o významu a mechanismech buněčné signalizace, zejména v souvislosti s receptorovými systémama.
+Úkol 5: Popište principy a mechanismy, které jsou zodpovědné za přenos signálu v nervovém systému a udělejte schéma, jak to funguje.
 
-Úkol 6: Vysvětlejte principy a aplikaci magnetické rezonance v biologii a medicíně (například MRI).
+Úkol 6: Odhalte a vysvětlete zákonitosti, které regulují transportní procesy v biologických membránách, jako je třeba difuze, osmóza a aktivní transport.
 
-Úkol 7: Porovnejte a vyjasněte rozdíly mezi lineární a nelineární dynamikou v biologických systémech.
+Úkol 7: Vypracujte projekt, který modeluje dynamiku rozmnožování populace v přirozeném prostředí na základě biologických zákonitostí a parametrů.
 
-Úkol 8: Popište principy a mechanismy mikromechaniky biologických systémů (například mechanika buněčné stěny).
+Úkol 8: Vysvěltejte a vysvětlete roli, kterou hraje biologická membrána při regulaci koncentrace iontů a vodou v buňkách a vysvětlejte, jak to ovlivňuje fyziologické procesy.
 
-Úkol 9: Vysvětlejte roli a mechanismus membránových potenciálů v regulaci buněčné aktivity.
+Úkol 9: Popište a vysvětlete mechanismy, které jsou zodpovědné za generaci a udržování elektrických signálů v srdce za normálních i patologických podmínek.
 
-Úkol 10: Vytvořte teoretický model a simulujte dynamiku šíření nánosvětelého záření v biologických tkáních (například fotodynamika).
+Úkol 10: Vypracujte a srovnávejte různé matematické modely, které popisují dynamiku a rozvoj rakovinných buněk, a udělejte závěry o jejich použitelnosti a aplikacích.
