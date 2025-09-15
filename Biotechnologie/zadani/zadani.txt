@@ -1,0 +1,23 @@
+# Zadání úkolů pro předmět: Biotechnologie
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:27:08
+
+Úkol 1: Popište principy biotechnologické výroby enzymů a udělejte přehled jejich aplikací v průmyslu.
+
+Úkol 2: Porovnejte biotechnologické metody výroby chlorečnanu sodného (NaClO) s klasickými chemickými metodami. Vyjmenujte výhody a nevýhody každé metody.
+
+Úkol 3: Popište proces výroby biopaliv z biomasy pomocí mikroorganismů. Uveďte hlavní kroky a faktory ovlivňující efektivitu procesu.
+
+Úkol 4: Vyšetřete vlastnosti a vlastnosti kmenů Escherichia coli (E. coli) rekombinantně modifikovaných pro výrobu lidské růstové hormony (hGH). Popište metody jejich vyšetření a identifikace.
+
+Úkol 5: Porovnejte biotechnologické metody výroby antibiotik s klasickými farmakologickými metodami. Uveďte výhody a nevýhody každé metody.
+
+Úkol 6: Popište mechanismus rekombinační DNA (DNA rekombinace) a její roli v biotechnologii. Uveďte příklady jejích aplikací v oblasti genetického inženýrství.
+
+Úkol 7: Vyšetřete účinnost a bezpečnost biologicky aktivních látek (BAL) založených na rostlinných látkách v boji proti rakovině. Popište metody jejich vyšetření a evaluace.
+
+Úkol 8: Uveďte hlavní kroky procesu výroby bioplastické hmoty z mikroorganismů a popište její vlastnosti a aplikace.
+
+Úkol 9: Porovnejte biotechnologické metody výroby biokapalin s klasickými chemickými metodami. Uveďte výhody a nevýhody každé metody.
+
+Úkol 10: Popište principy a aplikace genomiky v biotechnologii, včetně identifikace chromozomálních loků a genů spojených s určitými chorobami a vlastnostmi organismů.
