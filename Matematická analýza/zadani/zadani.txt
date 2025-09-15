@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Matematická analýza
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:03:41
+# Zadání úkolů pro předmět: Matematická analýza
+# Vygenerováno: Fallback
+# Datum: 2025-09-15 23:16:29
 
-Úkol 1: Základní úkol z předmětu Matematická analýza - úroveň 1
+Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 2: Základní úkol z předmětu Matematická analýza - úroveň 2
+Úkol 2: Analyzujte problém souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 3: Základní úkol z předmětu Matematická analýza - úroveň 3
+Úkol 3: Porovnejte různé přístupy souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 4: Základní úkol z předmětu Matematická analýza - úroveň 4
+Úkol 4: Aplikujte teorii na praxi souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 5: Základní úkol z předmětu Matematická analýza - úroveň 5
+Úkol 5: Kriticky zhodnoťte souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 6: Základní úkol z předmětu Matematická analýza - úroveň 6
+Úkol 6: Navrhněte řešení souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 7: Základní úkol z předmětu Matematická analýza - úroveň 7
+Úkol 7: Diskutujte výhody a nevýhody souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 8: Základní úkol z předmětu Matematická analýza - úroveň 8
+Úkol 8: Vytvořte přehled tématu souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 9: Základní úkol z předmětu Matematická analýza - úroveň 9
+Úkol 9: Interpretujte data souvisejí s tématem z předmětu Matematická analýza
 
-Úkol 10: Základní úkol z předmětu Matematická analýza - úroveň 10
+Úkol 10: Formulujte hypotézu souvisejí s tématem z předmětu Matematická analýza
