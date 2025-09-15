@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Fyzikální chemie
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:22:13
+# Datum: 2025-09-15 23:22:14
 
 Úkol 1: Vypočítejte rychlost tělesa souvisejí s tématem z předmětu Fyzikální chemie
 
