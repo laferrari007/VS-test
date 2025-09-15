@@ -1,23 +1,23 @@
 # Zadání úkolů pro předmět: Účetnictví
 # Vygenerováno: AI
-# Datum: 2025-09-15 23:41:10
+# Datum: 2025-09-15 23:41:11
 
-Úkol 1: Popište hlavní rozdíly mezi účetní knihou a účetním dokladem.
+Úkol 1: Zpracujte příklad účetního účtu pro malé obchodně-rodinnou firmu "Obchod s potravinami" s obratem 500 000 Kč. Uveďte hlavní účetní aktiva, pasiva a vlastní kapitál.
 
-Úkol 2: Seznamte se s principy účetního výkaznictví a vysvětlete jejich význam pro podnikání.
+Úkol 2: Vyjmenujte a popište hlavní rozdíly mezi účetním systémem a finančním systémem.
 
-Úkol 3: Využijte účetní standardní zásady (IAS, IFRS) a popište, jak se vypořádávají rozdíly v hodnotě aktiva mezi počátečním a koncovým stavem.
+Úkol 3: Převést následující transakci do účetních záznamů: Nákup zboží za 50 000 Kč (bez DPH) a prodej zboží za 75 000 Kč (bez DPH).
 
-Úkol 4: Vyberte si podnik a popište jeho účetní politiku pro rozpoznávání a uznávání tržeb.
+Úkol 4: Zpracujte účetní rozvrh pro první čtvrtletí roku, ve kterém jsou hlavní položky: příjmy 150 000 Kč, výdaje 70 000 Kč a zisk 80 000 Kč.
 
-Úkol 5: Rozdělte aktiva podniku na hmotná a nepojmová aktiv a vysvětlete, jak se jejich hodnoty vypočítávají v účetnictví.
+Úkol 5: Vyjmenujte a vysvětlete základní účetní postupy pro účetní jednotky s malým nebo středním rozpočtem.
 
-Úkol 6: Vypořádejte si příklad účetní transakce a vysvětlete, jak se promítne do účetní knihy a účetního výkazu.
+Úkol 6: Zpracujte účetní zápisy pro prodej akcie v hodnotě 20 000 Kč za 25 000 Kč, přičemž cena akcie byla určena na základě průměrné ceny prodejní a koupi akcií za poslední rok.
 
-Úkol 7: Seznamte se s principy účetního výkazu a popište, jak se vypočítávají a interpretují hlavní ukazatele podniku.
+Úkol 7: Uveďte a vysvětlíte účetní principy, které stanovují účetní pravidla pro účetnictví.
 
-Úkol 8: Využijte účetní standardní zásady (IAS, IFRS) a popište, jak se vypořádávají rozdíly v hodnotě závazků mezi počátečním a koncovým stavem.
+Úkol 8: Zpracujte účetní rozpočtování pro rok, které zahrnuje následující položky: příjmy 1 000 000 Kč, výdaje 750 000 Kč, zisk 250 000 Kč a investice 150 000 Kč.
 
-Úkol 9: Vyberte si podnik a popište jeho účetní politiku pro rozpoznávání a uznávání nákladů.
+Úkol 9: Vyjmenujte a vysvětlete metody rozpoznání příjmů a výdajů v účetnictví, včetně jejich výhod a nevýhod.
 
-Úkol 10: Vypořádejte si případné znehodnocení dlouhodobého aktiva a vysvětlete, jak se promítne do účetní knihy a účetního výkazu.
+Úkol 10: Zpracujte účetní závěrečný účet pro rok, který zahrnuje následující položky: aktiv 3 000 000 Kč, pasiv 2 000 000 Kč, vlastní kapitál 1 000 000 Kč a zisk 500 000 Kč.
