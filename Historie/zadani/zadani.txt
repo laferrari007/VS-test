@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Historie
 # Vygenerováno: Fallback
-# Datum: 2025-09-16 00:00:21
+# Datum: 2025-09-16 00:00:22
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Historie
 
