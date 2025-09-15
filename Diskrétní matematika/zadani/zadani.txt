@@ -1,23 +1,25 @@
-# AI Generované zadání úkolů pro předmět: Diskrétní matematika
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:04:57
+# Zadání úkolů pro předmět: Diskrétní matematika
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:18:03
 
-Úkol 1: Urči, zda graf sestávající z hran mezi body (0,0), (1,0), (1,1), (0,1) tvoří jednoduchý cyklus.
+Zde jsou 10 univerzitních úkolů pro předmět "Diskrétní matematika":
 
-Úkol 2: Proveď, že pokud má graf kružnici alespoň 3 bodů, tak může být jednoduchý cyklus.
+Úkol 1: Proveďte, že pokud má graf G maximální počet vrcholů v jedné hladině 1, pak má G minimální číslo chromatičnosti alespoň 2.
 
-Úkol 3: Napiš algoritmus, který pro daný graf najde nejkratší cestu mezi dvěma body a který se používá především u grafů s velkým počtem hran.
+Úkol 2: Zkuste ukázat, že pro libovolný polograf G a libovolný celek k platí, že počet vrcholů v G je větší než nebo roven k^2.
 
-Úkol 4: Proveď, že pokud má graf kružnici alespoň 4 bodů, tak může být Eulerovo kružnice a najdi ji.
+Úkol 3: Rozhodněte, zda je graf G k-regularní, pokud má G přesně k hran na každé dva navzájem související vrcholy.
 
-Úkol 5: Napiš algoritmus, který najde Eulerovo kružnici v grafu a který se používá především u grafů s velkým počtem hran.
+Úkol 4: Proveďte, že pokud má graf G průměr větší než 2, pak má G minimální číslo chromatičnosti alespoň 3.
 
-Úkol 6: Proveď, že pokud má graf kružnici alespoň 3 bodů a není jednoduchý cyklus, tak nemůže být Eulerovo kružnice.
+Úkol 5: Zkuste ukázat, že pro libovolný polograf G a libovolný celek k platí, že číslo chromatičnosti G je menší nebo roven k.
 
-Úkol 7: Napiš algoritmus, který pro daný graf najde všechny Eulerovy kružnice a který se používá především u grafů s velkým počtem hran.
+Úkol 6: Rozhodněte, zda je graf G k-chromatičtější, pokud má G minimální číslo chromatičnosti alespoň k.
 
-Úkol 8: Proveď, že pokud má graf kružnici alespoň 5 bodů a není jednoduchý cyklus, tak nemůže být Eulerovo kružnice.
+Úkol 7: Proveďte, že pokud má graf G minimální číslo chromatičnosti alespoň 3, pak má G průměr větší než 2.
 
-Úkol 9: Napiš algoritmus, který najde nejkratší cestu mezi dvěma body v grafu a který se používá především u grafů s velkým počtem hran, kde jsou některé hraně orientované.
+Úkol 8: Zkuste ukázat, že pro libovolný graf G a libovolný celek k platí, že počet vrcholů v G je větší než nebo roven k^3.
 
-Úkol 10: Proveď, že pokud má graf kružnici alespoň 6 bodů a není jednoduchý cyklus, tak nemůže být Eulerovo kružnice a najdi všechny ostatní kružnice v grafu.
+Úkol 9: Rozhodněte, zda je graf G k-regularní, pokud má G přesně k hran na každé dva navzájem související vrcholy a minimální číslo chromatičnosti alespoň 2.
+
+Úkol 10: Proveďte, že pokud má graf G minimální číslo chromatičnosti alespoň 4, pak má G průměr větší než 3.
