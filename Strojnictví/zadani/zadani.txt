@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Strojnictví
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:59:50
+# Zadání úkolů pro předmět: Strojnictví
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:09:49
 
-Úkol 1: Základní úkol z předmětu Strojnictví - úroveň 1
+Úkol 1: Navrhněte jednoduchý algoritmus pro řízení pohybu robotického vozidla v uzavřené oblasti. Použijte principy lineární algebry a geometrie.
 
-Úkol 2: Základní úkol z předmětu Strojnictví - úroveň 2
+Úkol 2: Analyzujte a porovnejte výkon dvou různých motorů s využitím softwaru MATLAB. Zjistěte, který motor je vhodnější pro použití v aplikacích s vysokou náročností.
 
-Úkol 3: Základní úkol z předmětu Strojnictví - úroveň 3
+Úkol 3: Navrhněte elektronický obvod pro řízení teploty v laboratoři. Použijte principy elektroniky a teplotního měření.
 
-Úkol 4: Základní úkol z předmětu Strojnictví - úroveň 4
+Úkol 4: Použijte jazyk C++ a knihovnu OpenCV k vyhodnocení obrazu z kamerového systému a implementujte algoritmus pro automatické rozpoznání předmětů.
 
-Úkol 5: Základní úkol z předmětu Strojnictví - úroveň 5
+Úkol 5: Navrhněte a implementujte kontrolní algoritmus pro dynamický systém s více vstupními a výstupními proměnnými. Použijte principy lineární algebry a dynamiky.
 
-Úkol 6: Základní úkol z předmětu Strojnictví - úroveň 6
+Úkol 6: Analyzujte a vyhodnocujte výkon robotického systému s využitím softwaru Simulink. Zjistěte, jak se mění výkon systému při změnách parametrů.
 
-Úkol 7: Základní úkol z předmětu Strojnictví - úroveň 7
+Úkol 7: Navrhněte a implementujte algoritmus pro řízení pohybu robotického ramena s využitím principů kinematiky a dynamiky.
 
-Úkol 8: Základní úkol z předmětu Strojnictví - úroveň 8
+Úkol 8: Použijte jazyk Python a knihovnu Pandas k analýze a zpracování velkých dat z měření teploty v průmyslovém prostředí.
 
-Úkol 9: Základní úkol z předmětu Strojnictví - úroveň 9
+Úkol 9: Navrhněte a implementujte kontrolní algoritmus pro systém s nepředvídatelnými parametry. Použijte principy fuzzy logiky a robustní kontroly.
 
-Úkol 10: Základní úkol z předmětu Strojnictví - úroveň 10
+Úkol 10: Navrhněte a implementujte komplexní systém pro řízení pohybu a teploty v laboratoři. Použijte principy mechatroniky a integrovaného designu.
