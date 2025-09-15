@@ -1,23 +1,23 @@
-# AI Generované zadání úkolů pro předmět: Italský jazyk
-# Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 21:57:40
+# Zadání úkolů pro předmět: Italský jazyk
+# Vygenerováno: AI
+# Datum: 2025-09-15 23:02:07
 
-Úkol 1: Přeložte do italštiny větu: "Jsem z Prahy a rád si procházejím parkem." 
+Úkol 1: Přeložte do italštiny větou: "Žijeme ve velkém městě."
 
-Úkol 2: Seznamte se s přídavnými jmény v italštině a použijte je k popsání osobnosti svého oblíbeného italského spisovatele.
+Úkol 2: Seznamte se s italskými přídavnými příponami -ativo a -ivo. Například: "studioso" (aktivní) a "studioso" (přídativní). Seznamte se s alespoň 5 slovy, které se liší pouze příponou.
 
-Úkol 3: Seznamte se s typy italských přísloví (adverbia) a použijte je k popisu vašich denních aktivit.
+Úkol 3: Přeložte do italštiny text: "V pondělí se budu setkávat s přáteli ve městě. Budeme jíst v restauraci a poté půjdeme do kina."
 
-Úkol 4: Přeložte do italštiny krátký text o vašem oblíbeném městě v Česku.
+Úkol 4: Seznamte se s italskými čísly od 1 do 10 a přeložte je do češtiny. Seznamte se také s čísly 11-20 a přeložte je.
 
-Úkol 5: Seznamte se s italskými slovesnými tvary a použijte je k popisu vašich plánů na víkend.
+Úkol 5: Přeložte do italštiny rozhovor: "A: Jak se jmenujete? B: Jmenuji se Marco. A: kde žijete? B: Žiju v Římě."
 
-Úkol 6: Přeložte do italštiny krátkou básničku o přírodě.
+Úkol 6: Seznamte se s italskými přídavnými slovesy, které se používají k popisu činnosti ve faktuálním či budoucím čase. Seznamte se s alespoň 5 slovy.
 
-Úkol 7: Seznamte se s italskými číslovkami a použijte je k popisu vašich oblíbených italských jídla.
+Úkol 7: Přeložte do italštiny text: "Můj otec je učitel. Má rád své studenty. Můj otec se často setkává s rodiči studentů."
 
-Úkol 8: Přeložte do italštiny krátký rozhovor o vašich zájmech.
+Úkol 8: Seznamte se s italskými slovesy ve faktuálním čase, které se používají k popisu činnosti. Seznamte se s alespoň 5 slovesy.
 
-Úkol 9: Seznamte se s italskými příslovci (proverbi) a použijte je k popisu vašeho pohledu na život.
+Úkol 9: Přeložte do italštiny text: "Můj učitel je skvělý. Má rád naše třídu. Můj učitel nás často vyzývá k diskuzi o různých tématy."
 
-Úkol 10: Přeložte do italštiny krátký text o italské kultuře a použijte italské slovní zásoby k vyprávění o svých zkušenostech s italskou kulturou.
+Úkol 10: Seznamte se s italskými větami se slovesem "essere" (být) ve faktuálním čase. Seznamte se s alespoň 5 větami, které popisují různé aspekty lidského života.
