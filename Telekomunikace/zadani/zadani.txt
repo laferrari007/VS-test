@@ -1,6 +1,6 @@
 # Zadání úkolů pro předmět: Telekomunikace
 # Vygenerováno: Fallback
-# Datum: 2025-09-15 23:15:19
+# Datum: 2025-09-15 23:15:21
 
 Úkol 1: Vysvětlete základní koncept souvisejí s tématem z předmětu Telekomunikace
 
