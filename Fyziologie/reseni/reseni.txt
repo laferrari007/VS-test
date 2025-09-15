@@ -3,56 +3,64 @@
 # Datum: 2025-09-15 23:26:18
 # POZOR: Řešení odpovídají konkrétním úkolům ze zadání!
 
-Řešení 1: Vyberte 3 typy buněčných membrán a popište jejich strukturu a funkce.
+Řešení 1: Popiš funkci nervového systému ve správném fungování pohybového systému.
 
-Buněčné membrány jsou nejvnitřnější vrstva buněčného plazmy, která odděluje buněčnou tekutinu od vnějšího prostředí. Existují tři hlavní typy buněčných membrán: plazmatická membrána, mitochondriální membrána a buněčná membrane Golgiho aparátu.
+Nervový systém je klíčovou součástí pohybového systému a hraje zásadní roli v jeho správném fungování. Funkce nervového systému v pohybovém systému zahrnují:
 
-- **Plazmatická membrána**: Je to nejvnitřnější vrstva buněčného plazmy, která odděluje buněčnou tekutinu od vnějšího prostředí. Je tvořena dvojitou vrstvou fosfolipidů s vloženým proteinem. Plazmatická membrána reguluje pohyb iontů a vodních molekul do a z buněk a umožňuje buněčné komunikaci s okolním prostředím.
+1. **Sběr a zpracování informací**: Nervový systém sbírá informace o pohybu z různých zdrojů, jako jsou senzory v pohylovém aparátu, a zpracovává je tak, aby se mohly použít k řízení pohybu.
+2. **Rozsahnutí pohybů**: Nervový systém generuje impulzy, které ovládají svaly a umožňují pohyby. Tyto impulzy jsou zpracovány v mozkové kůře a jsou poté přeneseny do pohylového aparátu prostřednictvím nervů.
+3. **Regulace pohybu**: Nervový systém reguluje pohyby tím, že upravuje sílu a rychlost pohybů. To zajišťuje, že pohyby jsou dostatečně silné a rychlé, aby byly účinné, ale také dostatečně kontrolovány, aby se vyhnuly poškození.
+4. **Snažná kontrola**: Nervový systém umožňuje snažnou kontrolu pohybů, což znamená, že pohyb je ovládán vědomím a lze jej upravovat podle potřeby.
 
-- **Mitochondriální membrána**: Je to vnější membrána mitochondrií, která odděluje mitochondriální tekutinu od vnějšího prostředí. Je tvořena dvojitou vrstvou fosfolipidů s vloženým proteinem. Mitochondriální membrána je zodpovědná za regulaci pohybu iontů a vodních molekul do a z mitochondrií a také pro přenos elektronů v mitochondriích.
+Všechny tyto funkce jsou zajišťovány prostřednictvím nervových impulzů, které jsou přenášeny mezi nervovými buňkami (neuronami) a mezi neuronami a svaly. Nervový systém hraje tak zásadní roli v pohybovém systému a jeho správném fungování.
 
-- **Buněčná membrána Golgiho aparátu**: Je to vnější membrána Golgiho aparátu, který je zodpovědný za vstřebávání a transport buněčných látek. Je tvořena dvojitou vrstvou fosfolipidů s vloženým proteinem. Buněčná membrána Golgiho aparátu umožňuje buněčné komunikaci s okolním prostředím a také reguluje pohyb buněčných látek do a z Golgiho aparátu.
+Řešení 2: Porovnej rozdíly mezi autononomním a vegetativním nervovým systémem a uveď příklady jejich působení.
 
-Funkce buněčných membrán zahrnují:
+Autonomní nervový systém (ANS) a vegetativní nervový systém (VNS) jsou dvě složky autonomního nervového systému, které se liší ve svém působení a roli v těle.
 
-- Regulaci pohybu iontů a vodních molekul do a z buněk
-- Přenos buněčné komunikace s okolním prostředím
-- Regulaci buněčných látek do a z buněk
-- Regulaci pohybu buněčných látek do a z Golgiho aparátu
+**Autonomní nervový systém (ANS)**:
 
-Řešení 2: Popište mechanismy odbourávání aminokyselin v játrech a jejich spojení s metabolismem cukrů.
+* ANS je součástí autonomního nervového systému a zahrnuje dva oddělení: sympatické a parasympatické.
+* ANS ovládá automatické procesy v těle, jako jsou srdeční frekvence, dýchání, trávení a krevní tlak.
+* ANS reaguje na změny v prostředí, jako jsou stres, strach nebo hladina cukru v krvi.
+* Příklady působení ANS:
+ + Zvyšuje srdeční frekvenci a krevní tlak v případě stresu.
+ + Zvyšuje dýchání v případě fyzické námahy.
+ + Zvyšuje trávení v případě hladiny cukru v krvi.
 
-Odbourávání aminokyselin v játrech je proces, při kterém se aminokyseliny zásobují do játry a jsou zde odbourávány na glukózu a jiné energie produkty. Existují dva hlavní mechanismy odbourávání aminokyselin v játrech: glukoneogeneze a glykolýza.
+**Vegetativní nervový systém (VNS)**:
 
-- **Glukoneogeneze**: Je to proces, při kterém se aminokyseliny zásobují do játry a jsou zde odbourávány na glukózu. Glukoneogeneze je zodpovědná za regulaci krevního cukru a také umožňuje játrům, aby se vyrovnávaly s dlouhodobým nedostatkem cukrů.
+* VNS je součástí autonomního nervového systému a zahrnuje tři oddělení: vegetativní, sympatické a parasympatické.
+* VNS ovládá automatické procesy v těle, jako jsou trávení, dýchání a srdeční frekvence.
+* VNS reaguje na změny v prostředí, jako jsou stres, strach nebo hladina cukru v krvi.
+* Příklady působení VNS:
+ + Zvyšuje trávení v případě hladiny cukru v krvi.
+ + Zvyšuje dýchání v případě fyzické námahy.
+ + Zvyšuje srdeční frekvenci v případě stresu.
 
-- **Glykolýza**: Je to proces, při kterém se glukóza odbourává na energie produkty, jako jsou ATP a NADH. Glykolýza je zodpovědná za regulaci krevního cukru a také umožňuje játrům, aby se vyrovnávaly s dlouhodobým přebytkem cukrů.
+Rozdíly mezi ANS a VNS:
 
-Mechanismy odbourávání aminokyselin v játrech jsou spojeny s metabolismem cukrů v následujícím způsobem:
+* ANS je tvořen dvěma odděleními: sympatickým a parasympatickým, zatímco VNS je tvořen třemi odděleními: vegetativním, sympatickým a parasympatickým.
+* ANS ovládá automatické procesy v těle, zatímco VNS ovládá procesy, které jsou spojené s vegetativními funkcemi.
+* ANS reaguje na změny v prostředí, zatímco VNS reaguje na změny v prostředí, které jsou spojené s vegetativními funkcemi.
 
-- Aminokyseliny se zásobují do játry a jsou zde odbourávány na glukózu.
-- Glukóza je pak odbourávána na energie produkty, jako jsou ATP a NADH.
-- Energie produkty jsou pak používány k pokrytí energetických potřeb těla.
+Řešení 3: Vytvořte přehled regulace tělesné teploty a identifikujte nejdůležitější orgány a procesy, které v ní hrají klíčovou roli.
 
-Řešení 3: Porovnejte rozdíl mezi iontovými kanály a pumpami v buněčných membránách a udělejte příklad pro každé.
+Regulace tělesné teploty je proces, který udržuje teplotu těla v normální úrovni. Najdete-li níže přehled regulace tělesné teploty a nejdůležitější orgány a procesy, které v ní hrají klíčovou roli.
 
-Iontové kanály a pumpa v buněčných membránách jsou dvě hlavní typy mechanismů, které regulují pohyb iontů do a z buněk.
+**Regulace tělesné teploty**
 
-- **Iontové kanály**: Jsou to proteinové kanály, které umožňují volný pohyb iontů do a z buněk. Iontové kanály jsou zodpovědné za regulaci koncentrace iontů v buněčném prostředí a také mají klíčovou roli v regulaci buněčné excitability.
+1. **Vědomost**: Vědomost je prvním krokem regulace tělesné teploty. Vědomost o teplotě těla je posuzována mozkem a je poté předána nervovým buňkám.
+2. **Nervové buňky**: Nervové buňky přenášejí informace o teplotě těla na další orgány a procesy.
+3. **Hladina cukru v krvi**: Hladina cukru v krvi hraje zásadní roli v regulaci tělesné teploty. Když hladina cukru v krvi klesá, tělo reaguje zvýšením teploty těla.
+4. **Srdeční frekvence**: Srdeční frekvence hraje zásadní roli v regulaci tělesné teploty. Když srdeční frekvence klesá, tělo reaguje zvýšením teploty těla.
+5. **Dýchání**: Dýchání hraje zásadní roli v regulaci tělesné teploty. Když dýchání klesá, tělo reaguje zvýšením teploty těla.
+6. **Potění**: Potění hraje zásadní roli v regulaci tělesné teploty. Když potění klesá, tělo reaguje zvýšením teploty těla.
+7. **Krevní tlak**: Krevní tlak hraje zásadní roli v regulaci tělesné teploty. Když krevní tlak klesá, tělo reaguje zvýšením teploty těla.
 
-- **Pumpa**: Je to mechanismus, který používá energii k přenosu iontů proti směru koncentračního gradientu. Pumpy jsou zodpovědné za regulaci koncentrace iontů v buněčném prostředí a také mají klíčovou roli v regulaci buněčné excitability.
+**Nejdůležitější orgány a procesy**
 
-Příklady:
-
-- **Iontový kanál**: Na příkladu sodíkových kanálů (Na+) v nervových buňkách, které umožňují volný pohyb sodíkových iontů do a z buněk a mají klíčovou roli v regulaci nervového impulzu.
-- **Pumpa**: Na příkladu sodíkových pump (Na+/K+-ATPázy) v nervových buňkách, které používají energii k přenosu sodíkových iontů proti směru koncentračního gradientu a mají klíčovou roli v regulaci nervového impulzu.
-
-Řešení 4: Vyberte 2 typy nervových impulzů (například akciósíťový a gradační potenciál) a popište jejich charakteristiky a mechanismy vzniku.
-
-Existují dva hlavní typy nervových impulzů: akciósíťový a gradační potenciál.
-
-- **Akciósíťový potenciál**: Je to rychlý, krátkodobý elektrický impulz, který se vyvíjí v nervové buňce. Akciósíťový potenciál je způsoben změnou elektrického potenciálu nervové buňky a je zodpovědný za přenos informace v nervovém systému.
-
-- **Gradační potenciál**: Je to pomalý, dlouhodobý elektrický impulz, který se vyvíjí v nervové buňce. Gradační potenciál je způsoben změnou elektrického potenciálu nervové buňky a je zodpovědný za dlouhodobou změnu elektrického potenciálu nervové buňky.
-
-Mechanismy vzniku nervových impulzů jsou založeny na změně
+1. **Mozek**: Mozkem je nejdůležitější orgán regulace tělesné teploty. Mozkem je posuzována teplota těla a jsou předány informace na další orgány a procesy.
+2. **Nervové buňky**: Nervové buňky přenášejí informace o teplotě těla na další orgány a procesy.
+3. **Hladina cukru v krvi**: Hladina cukru v krvi hraje zásadní roli v regulaci tělesné teploty.
+4. **Srdeční frekvence**: Srdeční frekvence

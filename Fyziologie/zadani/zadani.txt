@@ -2,22 +2,22 @@
 # Vygenerováno: AI
 # Datum: 2025-09-15 23:26:18
 
-Úkol 1: Vyberte 3 typy buněčných membrán a popište jejich strukturu a funkce.
+Úkol 1: Popiš funkci nervového systému ve správném fungování pohybového systému.
 
-Úkol 2: Popište mechanismy odbourávání aminokyselin v játrech a jejich spojení s metabolismem cukrů.
+Úkol 2: Porovnej rozdíly mezi autononomním a vegetativním nervovým systémem a uveď příklady jejich působení.
 
-Úkol 3: Porovnejte rozdíl mezi iontovými kanály a pumpami v buněčných membránách a udělejte příklad pro každé.
+Úkol 3: Vytvořte přehled regulace tělesné teploty a identifikujte nejdůležitější orgány a procesy, které v ní hrají klíčovou roli.
 
-Úkol 4: Vyberte 2 typy nervových impulzů (například akciósíťový a gradační potenciál) a popište jejich charakteristiky a mechanismy vzniku.
+Úkol 4: Vysvětle, jak funguje proces homeostázy a uveďte příklady, kdy se uplatňuje.
 
-Úkol 5: Obraťte se na procesy nervového přenose a popište rozdíl mezi reflexy a vzorcem chování.
+Úkol 5: Popiš rozdíl mezi sympatickým a parasympatickým oddělením autonomního nervového systému a uveďte příklady jejich působení.
 
-Úkol 6: Popište mechanismy regulace koncentrace iontů v mozkomíšním moku a jejich spojení s homeostázou.
+Úkol 6: Vytvořte diagram, který znázorňuje cestu vstřebávání potravy v žaludku a její následné zpracování ve střevě.
 
-Úkol 7: Vyberte 2 typy receptorů (například G-protein spřažené receptory a iontové kanály) a popište jejich strukturu a funkci.
+Úkol 7: Uveďte a vysvětle mechanismy regulace krevního tlaku a identifikujte nejdůležitější orgány a procesy, které v ní hrají klíčovou roli.
 
-Úkol 8: Porovnejte rozdíl mezi autonomním a vegetativním nervovým systémem v oblasti regulace vnitřní teploty.
+Úkol 8: Porovnej a srovnaj rozdíl mezi kardiovaskulárním a respiračním systémem a uveďte příklady jejich působení.
 
-Úkol 9: Vyberte 2 typy metabolických procesů (například glykolýza a glukoneogeneze) v játrech a popište jejich spojení s regulací krevního cukru.
+Úkol 9: Vypracujte přehled fungování endokrinního systému a uveďte příklady nejdůležitějších hormonů a jejich účinků.
 
-Úkol 10: Popište mechanismy regulace krevního tlaku v reakci na fyzickou aktivitu a udělejte příklad pro různé systémy regulace.
+Úkol 10: Vysvělte, jak funguje proces adaptace organismu na změnu prostředí a uveďte příklady, kdy se uplatňuje v praxi.
