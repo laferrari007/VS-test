@@ -1,25 +1,23 @@
 # AI Generované zadání úkolů pro předmět: Geografie
 # Vytvořeno pomocí Groq API
-# Datum: 2025-09-15 22:46:58
+# Datum: 2025-09-15 22:56:54
 
-Zde jsou 10 univerzitních úkoly pro předmět "Geografie":
+Úkol 1: Vyberte jeden ze světových veličin (například teplota, vlhkost, tlak atd.) a popište, jak se tento parametr mění v závislosti na zeměpisné šířce.
 
-Úkol 1: Vytvořte krátkou mapovou legendu pro mapu ČR, která bude zahrnovat alespoň 5 typů přírodních zdrojů a 3 druhy zemědělské produkce.
+Úkol 2: Popište rozložení hlavních světových řek podle jejich délky, ústí a významu pro lidskou činnost.
 
-Úkol 2: Porovnejte charakteristické rysy geomorfologické mapy Německa a Rakouska. Vysvětlujte, jak se tyto rysy odrážejí v geologickém a klimatickém podkladu obou zemí.
+Úkol 3: Porovnejte geografické rysy dvou současných mezinárodních konfliktů (například válka v Sýrii a válka v Afghánistánu) a vysvětlějte, proč se tyto konflikty podobají nebo liší.
 
-Úkol 3: Analyzujte vliv lidských aktivit na erozi a degradaci půdy v oblasti Hornoslezského průmyslového regionu (HORÁR). Jaké jsou příčiny této degradace a jaké jsou možné řešení?
+Úkol 4: Vyberte jeden z typů přírodních hazardů (například zemětřesení, sopečné erupce, povodně) a popište, jak se tento hazard projevuje v různých geografických oblastech světa.
 
-Úkol 4: Vytvořte geografický portál o výskytu a rozšíření chladných a teplých frontálních oblastí v Evropě. Vysvětlujte, jak se tyto oblasti odrážejí v klimatických podmínkách a zemědělské produkci.
+Úkol 5: Analizujte vztah mezi hustotou lidského osídlení a dostupností zdrojů (například vody, půdy, energie) v různých regionech světa.
 
-Úkol 5: Studujte případnou lokalizaci a typy městských aglomerací v ČR. Analyzujte vazby mezi typem aglomerace a zemědělskou výrobou a spotřebou v její oblasti.
+Úkol 6: Vyberte jeden z měst (například New York, Tokio, Londýn) a popište, jak se jeho geografická poloha a přírodní prostředí odrážejí v jeho urbanistickém a ekonomickém rozvoji.
 
-Úkol 6: Porovnejte charakteristické rysy demografických trendů v ČR a Velké Británii za posledních 50 let. Vysvětlujte, jak se tyto trendy odrážejí v strukturách obyvatelstva a ekonomických systémech obou zemí.
+Úkol 7: Porovnejte geografické rysy dvou různých typů měst (například pruhová města, aglomerační města) a vysvětlějte, proč se tyto typy měst podobají nebo liší.
 
-Úkol 7: Vytvořte model rozvoje území se zaměřením na strategie ochrany přírodního bohatství v CHKO Šumava. Analyzujte, jaká by měla být spolupráce mezi úřady, obyvateli a místní samosprávou v této oblasti.
+Úkol 8: Vyberte jeden z globálních procesů (například změna klimatu, urbanizace) a popište, jak se tento proces projevuje v různých regionech světa a jaké jsou jeho důsledky pro lidské společnosti.
 
-Úkol 8: Analyzujte faktory vedoucí k rozvoji a znečištění vodních zdrojů v ČR. Vysvětlujte, jak se tyto faktory odrážejí v kvalitě vod v řekách a jezerech.
+Úkol 9: Analyzujte vztah mezi geografickým umístěním a kulturními tradicemi v různých regionech světa. Vysvětlete, jak se geografický kontext odráží v kulturních zvyklostech a hodnotách různých národů.
 
-Úkol 9: Studujte případovou studii o vlivu změny klimatu na zemědělskou produkci v ČR. Analyzujte, které druhy plodin jsou nejvíce zasaženy a jaké jsou možné řešení pro zvýšení odolnosti zemědělských komodit proti změně klimatu.
-
-Úkol 10: Vytvořte komplexní analýzu dopadu globální změny klimatu na ekosystémové služby v Evropě. Vysvětlujte, jak se tyto služby odrážejí v ekologických, ekonomických a sociálních aspektech života evropských zemí.
+Úkol 10: Vyberte jeden z globálních problému (například změna klimatu, zranitelnost přírodních ekosystémů) a popište, jak se tento problém projevuje v různých regionech světa a jaké jsou možné řešení, která by mohly pomoci zmírnit jeho důsledky.
