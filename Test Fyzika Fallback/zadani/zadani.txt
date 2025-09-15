@@ -1,0 +1,9 @@
+# Zadání úkolů pro předmět: Test Fyzika Fallback
+# Vygenerováno: AI
+# Datum: 2025-09-15 22:59:46
+
+Úkol 1: 
+Popište a určete druh experimentu pro měření tlaku v kapalině. Uveďte také alespoň dvě možnosti pro měření tlaku v kapalině a zmíníte důležité faktory, které ovlivňují přesnost měření.
+
+Úkol 2: 
+Rozhodněte, zda je možný přechod mezi fázemi vodního páru a kapaliny za konstantních podmínek teploty a objemu, a zdůvodněte své stanovisko. Pro své argumenty použijte principy statistické mechaniky a rovnováhy termodynamické.
